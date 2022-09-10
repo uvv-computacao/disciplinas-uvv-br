@@ -12,12 +12,14 @@ baseurl: "" # subpath do site (se houver), por exemplo: /blog
 
 url: "https://disciplinas.uvv.br" # URL padrão do site
 
+lang: "pt-br"
+
 twitter_username: jekyllrb
 
 github_username:  jekyll
 
 # Configurações para o build:
-theme: minima
+theme: "just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-sitemap

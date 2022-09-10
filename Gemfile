@@ -3,8 +3,9 @@ source "https://rubygems.org"
 # Versão do Jekyll a ser executada:
 gem "jekyll"
 
-# Tema a ser utilizado:
+# Temas disponíveis para serem utilizados:
 gem "minima"
+gem "just-the-docs"
 
 # Plugins a serem ativados:
 group :jekyll_plugins do
