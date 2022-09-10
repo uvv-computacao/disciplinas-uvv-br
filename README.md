@@ -7,7 +7,7 @@ de:
 
 * Criar "sub-sites" específicos de cada disciplina/professor;
 * Divulgar recursos e materiais para os alunos;
-* Preparar trabalhos integrados entre diversas disciplinas;
+* Preparar trabalhos integrados entre diversas disciplinas; e
 * [No futuro] Fazer o link da disciplina com o ambiente virtual
   de aprendizagem da disciplina.
 
