@@ -1,2 +1,14 @@
-# disciplinas-uvv-br
-Repositório para o site https://disciplinas.uvv.br
+# Sobre este repositório:
+
+Repositório para o site [https://disciplinas.uvv.br](https://disciplinas.uvv.br),
+que pretende ser o ponto de convergência entre todas as disciplinas, professores,
+alunos e demais colaboradores da Universidade Vila Velha (UVV), com o objetivo
+de:
+
+* Criar "sub-sites" específicos de cada disciplina/professor;
+* Divulgar recursos e materiais para os alunos;
+* [No futuro] Fazer o link da disciplina com o ambiente virtual
+  de aprendizagem da disciplina
+
+Para maiores informações, entrar em contato com o professor
+[mailto:abrantesasf@uvv.br](abrantesasf@uvv.br).
