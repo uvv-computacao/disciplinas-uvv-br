@@ -11,4 +11,4 @@ de:
   de aprendizagem da disciplina
 
 Para maiores informações, entrar em contato com o professor
-[mailto:abrantesasf@uvv.br](abrantesasf@uvv.br).
+[abrantesasf@uvv.br](mailto:abrantesasf@uvv.br).
