@@ -35,3 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Usa a gem webrick para poder usar o servidor local
 # durante o desenvolvimento:
 gem "webrick", "~> 1.7"
+
+# Usar o CodeRay syntax highlighter com o Kramdown:
+gem "kramdown-syntax-coderay", "~> 1.0"
+

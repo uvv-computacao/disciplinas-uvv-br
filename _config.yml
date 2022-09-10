@@ -40,6 +40,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+kramdown:
+  input: Kramdown
+  syntax_highlighter: coderay
+
 # O que excluir do build (se diretório, usar a / final):
 exclude:
   - README.md
