@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
 # Versão do Jekyll a ser executada:
-gem "jekyll"
+gem "jekyll", "~> 4.2.2"
 
 # Temas disponíveis para serem utilizados:
-gem "minima"
-gem "just-the-docs"
+#gem "minima", "~> 2.5"
+gem "just-the-docs", "0.4.0.rc1"
 
 # Plugins a serem ativados:
 group :jekyll_plugins do

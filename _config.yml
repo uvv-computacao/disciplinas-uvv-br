@@ -32,7 +32,42 @@ github_username: "uvv-computacao"
 ##
 
 # Tema padrão a ser utilizado:
-theme: "just-the-docs"
+theme: just-the-docs
+
+# Títulos e cores dos callouts:
+callouts:
+  note:
+    title: Nota
+    color: grey-lt
+    opacity: 0.4
+  admonition:
+    title: Aviso
+    color: grey-lt
+    opacity: 0.9
+  hint:
+    title: Sugestão
+    color: grey-dk
+  tip:
+    title: Dica
+    color: grey-dk
+  important:
+    title: Importante
+    color: green
+  attention:
+    title: Atenção
+    color: green
+  warning:
+    title: Advertência
+    color: blue
+  caution:
+    title: Cuidado
+    color: yellow
+  danger:
+    title: Perigo
+    color: red
+  error:
+    title: Erro
+    color: purple
 
 # Plugins a serem utilizados:
 plugins:
@@ -40,6 +75,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Engine de processamento:
 kramdown:
   input: Kramdown
   syntax_highlighter: coderay
@@ -49,3 +85,4 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
