@@ -1,25 +1,40 @@
-# Configurações globais do site:
+##
+## Configurações globais do site:
+## 
 
+# Título do site:
 title: Disciplinas UVV
 
+# E-mail do responsável:
 email: abrantesasf@uvv.br
 
-description: >- # ignora newlines (até o "baseurl:"):
+# Descrição (">-" ignora os newlines):
+description: >-
   Informações sobre as disciplinas e recursos para alunos e professores
-  da Universidade Vila Velha (UVV).
+  da Universidade Vila Velha (UVV)
 
-baseurl: "" # subpath do site (se houver), por exemplo: /blog
-
+# URL padrão do site
 url: "https://disciplinas.uvv.br" # URL padrão do site
 
+# O site começa em um subpath da URL, por exemplo, /blog?
+baseurl: ""
+
+# Linguagem padrão para o conteúdo do site:
 lang: "pt-br"
 
-twitter_username: jekyllrb
+twitter_username: "uvv-computacao"
 
-github_username:  jekyll
+github_username: "uvv-computacao"
 
-# Configurações para o build:
+
+##
+## Configurações para o build:
+##
+
+# Tema padrão a ser utilizado:
 theme: "just-the-docs"
+
+# Plugins a serem utilizados:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
