@@ -22,8 +22,11 @@ baseurl: ""
 # Linguagem padrão para o conteúdo do site:
 lang: "pt-br"
 
-twitter_username: "uvv-computacao"
+# Google Analytics
+ga_tracking: "G-TTQEXCQ9S6"
 
+# Redes sociais:
+twitter_username: "uvv-computacao"
 github_username: "uvv-computacao"
 
 
