@@ -14,6 +14,6 @@ has_children: true;
 
 ---
 
-## CS10 Calendar
+## Calendário
 
 {% include_relative calendar.md %}
