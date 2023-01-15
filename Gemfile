@@ -5,7 +5,7 @@ gem "jekyll", "~> 4.2.2"
 
 # Temas disponíveis para serem utilizados:
 #gem "minima", "~> 2.5"
-gem "just-the-docs", "0.4.0.rc3"
+gem "just-the-docs", "0.4.0.rc4"
 
 # Plugins a serem ativados:
 group :jekyll_plugins do
@@ -22,8 +22,8 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Outra gabiarra para aumentar a performance se
-# estivermos usando Windows:
+# "Performance-booster" para monitorar diretórios
+# ao usar Windows:
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Mantém a gem `http_parser.rb` na versão `v0.6.x`
@@ -38,4 +38,3 @@ gem "webrick", "~> 1.7"
 
 # Usar o CodeRay syntax highlighter com o Kramdown:
 gem "kramdown-syntax-coderay", "~> 1.0"
-

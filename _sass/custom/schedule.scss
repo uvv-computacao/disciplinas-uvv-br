@@ -81,7 +81,7 @@
     border-left: $border $border-color;
     flex: 1 0 0;
     margin: 0;
-    min-width: 130px;
+    min-width: 120px;
 
     &:first-of-type {
       border-left: 0;
@@ -124,17 +124,17 @@
       @extend .fs-2;
     }
 
-    &.lecture {
-      background-color: #de8c8c;
+    &.aula {
+      background-color: $red-000;
     }
 
 
-    &.lab-ben {
+    &.estudo {
       background-color: $purple-000;
     }
 
-    &.lab-brendan {
-      background-color: $purple-000;
+    &.monitoria {
+      background-color: $green-000;
     }
 
     &.lab-vaibhav {

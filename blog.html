@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blog do Disciplinas UVV
+nav_exclude: false
+nav_order: 2
+has_children: false
+has_toc: false
+---
+<h1>Últimos posts do Blog:</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2 style="display: inline"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3  style="display: inline">&mdash; {{ post.date | date: "%d-%m-%Y %R" }}, {{ post.author }}.</h3>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

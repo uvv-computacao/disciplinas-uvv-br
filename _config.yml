@@ -11,7 +11,7 @@ email: abrantesasf@uvv.br
 # Descrição (">-" ignora os newlines):
 description: >-
   Informações sobre as disciplinas e recursos para alunos e professores
-  da Universidade Vila Velha (UVV)
+  da Universidade Vila Velha (UVV).
 
 # URL padrão do site
 url: "https://disciplinas.uvv.br" # URL padrão do site
@@ -31,11 +31,29 @@ github_username: "uvv-computacao"
 
 
 ##
-## Configurações para o build:
+## Configurações para o tema:
 ##
 
-# Tema padrão a ser utilizado:
+# Tema padrão:
 theme: just-the-docs
+color_scheme: light
+
+# Configurações de busca:
+search_enabled: true
+search.heading_level: 3
+
+# Links permanentes:
+permalink: pretty
+
+# Links na barra superior direita:
+heading_anchors: true
+aux_links:
+  UVV:
+    - 'https://uvv.br'
+  Aluno:
+    - 'https://aluno.uvv.br'
+  Professor:
+    - 'https://professor.uvv.br'
 
 # Títulos e cores dos callouts:
 callouts:
@@ -72,6 +90,61 @@ callouts:
     title: Erro
     color: purple
 
+
+##
+## Coleções para os dados do site
+##
+
+# Coleções disponíveis:
+collections:
+  pessoal:
+  modulos:
+  horarios:
+  avisos:
+    output: true
+  posts:
+    search_exclude: false
+
+# Layout padrão para cada coleção:
+defaults:
+  - scope:
+      path: ''
+      type: pessoal
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/pessoal/'
+      width: 300
+  - scope:
+      path: ''
+      type: modulos
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: horarios
+    values:
+      layout: schedule
+  - scope:
+      #path: ''
+      type: avisos
+    values:
+      layout: announcement
+
+
+##
+## Configurações para o build:
+##
+
+# Compressão de HTML:
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
 # Plugins a serem utilizados:
 plugins:
   - jekyll-feed
@@ -85,7 +158,7 @@ kramdown:
 
 # O que excluir do build (se diretório, usar a / final):
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
-
+  - LICENSE
+  - _config.yml
