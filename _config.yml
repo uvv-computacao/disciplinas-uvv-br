@@ -162,3 +162,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - _config.yml
+  - README.md

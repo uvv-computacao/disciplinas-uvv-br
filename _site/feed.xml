@@ -1,41 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2023-01-15T17:03:52-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Disciplinas UVV</title><subtitle>Informações sobre as disciplinas e recursos para alunos e professores da Universidade Vila Velha (UVV).</subtitle><entry><title type="html">Goiabas vermelhas</title><link href="http://localhost:4000/2023/01/15/goiabas/" rel="alternate" type="text/html" title="Goiabas vermelhas" /><published>2023-01-15T16:53:00-03:00</published><updated>2023-01-15T16:53:00-03:00</updated><id>http://localhost:4000/2023/01/15/goiabas</id><content type="html" xml:base="http://localhost:4000/2023/01/15/goiabas/"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper
-placerat facilisis. Praesent molestie eu ante eget feugiat. Aliquam varius
-egestas quam, vel sagittis lectus eleifend at. Nunc vel neque volutpat,
-dictum enim eu, euismod mi. Sed venenatis arcu neque, nec tristique magna
-porta ut. Quisque in varius tortor. Aenean ut metus lacinia, vehicula nibh ut,
-luctus massa. Fusce vulputate lacus vel ex mattis tempor.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2023-01-15T18:02:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Disciplinas UVV</title><subtitle>Informações sobre as disciplinas e recursos para alunos e professores da Universidade Vila Velha (UVV).</subtitle><entry><title type="html">Versão beta do Disciplinas UVV</title><link href="http://localhost:4000/2023/01/15/beta-disciplinas/" rel="alternate" type="text/html" title="Versão beta do Disciplinas UVV" /><published>2023-01-15T17:44:00-03:00</published><updated>2023-01-15T17:44:00-03:00</updated><id>http://localhost:4000/2023/01/15/beta-disciplinas</id><content type="html" xml:base="http://localhost:4000/2023/01/15/beta-disciplinas/"><![CDATA[<p>É com muita satisfação que informo à comunidade UVV que liberamos
+hoje, 15/01/2023, a nova versão beta do site <a href="https://disciplinas.uvv.br">Disciplinas UVV</a>!</p>
 
-<p>Vivamus sit amet lacus dui. Vestibulum ac ipsum eu lorem pulvinar maximus. Donec
-tincidunt libero lorem, in dictum dui accumsan quis. Aliquam ornare tellus in
-felis vestibulum placerat. Etiam quis aliquam tellus, sit amet facilisis justo.
-Vestibulum nec nisi in nisi congue ullamcorper. Pellentesque vel egestas nulla.
-Quisque rhoncus lorem sed arcu tristique laoreet. Quisque id faucibus eros, quis
-tempor nulla. Nam ut tortor quis felis luctus cursus ac vel lacus. Cras finibus
-neque sed metus hendrerit lobortis. In fringilla massa faucibus, scelerisque est
-eu, fringilla turpis.</p>
+<p>Esta versão foi desenvolvida no contexto do
+<a href="/2022/12/15/trabalho-academico-voluntario/">Trabalho Acadêmico Voluntário</a>
+pelos alunos Lucas Carrijo Ferrari e Victor Corrêa Gomes, sob a orientação do professor
+Abrantes Araújo Silva Filho.</p>
 
-<p>Nam aliquam urna sapien. Quisque vitae tempor eros. Ut laoreet, tortor sit amet
-feugiat iaculis, nisi odio feugiat magna, sed fermentum enim elit nec mi.
-Quisque vitae dolor nibh. Vivamus non aliquet eros. Nulla tempor pharetra nisl,
-vel fermentum mi convallis eget. Curabitur rutrum cursus odio, finibus dapibus
-tortor molestie ac.</p>]]></content><author><name>Abrantes Araújo Silva Filho</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper placerat facilisis. Praesent molestie eu ante eget feugiat. Aliquam varius egestas quam, vel sagittis lectus eleifend at. Nunc vel neque volutpat, dictum enim eu, euismod mi. Sed venenatis arcu neque, nec tristique magna porta ut. Quisque in varius tortor. Aenean ut metus lacinia, vehicula nibh ut, luctus massa. Fusce vulputate lacus vel ex mattis tempor.]]></summary></entry><entry><title type="html">Bananas amarelas</title><link href="http://localhost:4000/2023/01/15/bananas/" rel="alternate" type="text/html" title="Bananas amarelas" /><published>2023-01-15T16:39:00-03:00</published><updated>2023-01-15T16:39:00-03:00</updated><id>http://localhost:4000/2023/01/15/bananas</id><content type="html" xml:base="http://localhost:4000/2023/01/15/bananas/"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper
-placerat facilisis. Praesent molestie eu ante eget feugiat. Aliquam varius
-egestas quam, vel sagittis lectus eleifend at. Nunc vel neque volutpat,
-dictum enim eu, euismod mi. Sed venenatis arcu neque, nec tristique magna
-porta ut. Quisque in varius tortor. Aenean ut metus lacinia, vehicula nibh ut,
-luctus massa. Fusce vulputate lacus vel ex mattis tempor.</p>
+<p>Apesar de ainda estar em versão beta o Disciplinas UVV já demonstra as principais
+funcionalidades que estarão disponíveis para professores e alunos da UVV: blog de
+notícias acadêmicas, sites específicos para as disciplinas com recursos, calendário
+de aulas, conteúdo e material para os alunos.</p>
 
-<p>Vivamus sit amet lacus dui. Vestibulum ac ipsum eu lorem pulvinar maximus. Donec
-tincidunt libero lorem, in dictum dui accumsan quis. Aliquam ornare tellus in
-felis vestibulum placerat. Etiam quis aliquam tellus, sit amet facilisis justo.
-Vestibulum nec nisi in nisi congue ullamcorper. Pellentesque vel egestas nulla.
-Quisque rhoncus lorem sed arcu tristique laoreet. Quisque id faucibus eros, quis
-tempor nulla. Nam ut tortor quis felis luctus cursus ac vel lacus. Cras finibus
-neque sed metus hendrerit lobortis. In fringilla massa faucibus, scelerisque est
-eu, fringilla turpis.</p>
+<p>No momento o Disciplinas UVV conta com duas disciplinas piloto: <strong>Bancos de
+Dados I</strong> e o <strong>Projeto Integrado</strong>.</p>
 
-<p>Nam aliquam urna sapien. Quisque vitae tempor eros. Ut laoreet, tortor sit amet
-feugiat iaculis, nisi odio feugiat magna, sed fermentum enim elit nec mi.
-Quisque vitae dolor nibh. Vivamus non aliquet eros. Nulla tempor pharetra nisl,
-vel fermentum mi convallis eget. Curabitur rutrum cursus odio, finibus dapibus
-tortor molestie ac.</p>]]></content><author><name>Abrantes Araújo Silva Filho</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper placerat facilisis. Praesent molestie eu ante eget feugiat. Aliquam varius egestas quam, vel sagittis lectus eleifend at. Nunc vel neque volutpat, dictum enim eu, euismod mi. Sed venenatis arcu neque, nec tristique magna porta ut. Quisque in varius tortor. Aenean ut metus lacinia, vehicula nibh ut, luctus massa. Fusce vulputate lacus vel ex mattis tempor.]]></summary></entry></feed>
+<p>Para maiores informações, por favor entre em contato com o
+<a href="mailto:abrantesasf@uvv.br">professor Abrantes</a>.</p>]]></content><author><name>Abrantes Araújo Silva Filho</name></author><summary type="html"><![CDATA[É com muita satisfação que informo à comunidade UVV que liberamos hoje, 15/01/2023, a nova versão beta do site Disciplinas UVV!]]></summary></entry><entry><title type="html">Trabalho acadêmico voluntário</title><link href="http://localhost:4000/2022/12/15/trabalho-academico-voluntario/" rel="alternate" type="text/html" title="Trabalho acadêmico voluntário" /><published>2022-12-15T16:00:00-03:00</published><updated>2022-12-15T16:00:00-03:00</updated><id>http://localhost:4000/2022/12/15/trabalho-academico-voluntario</id><content type="html" xml:base="http://localhost:4000/2022/12/15/trabalho-academico-voluntario/"><![CDATA[<p>Atenção você, aluno da UVV! Agora no período de férias de verão (sim, de
+férias!), será realizado o projeto <strong>Trabalho Acadêmico Voluntário</strong> do
+professor Abrantes Araújo Silva Filho. É uma ótima oportunidade para você
+aprender ainda mais e, ainda, contribuir para desenvolver ferramentas
+para a UVV e seus próprios colegas estudantes!</p>
+
+<p>Projetos disponíveis:</p>
+
+<ul>
+  <li><strong>Autograder</strong>: estudo, avaliação, implementação e teste de <em>autograders</em>
+para as disciplinas de ciência da computação;</li>
+  <li><strong>Disciplinas UVV</strong>: planejamento, criação de conteúdo e implementação do
+site piloto das disciplinas de computação no servidor
+<a href="https://disciplinas.uvv.br">disciplinas.uvv.br</a>;</li>
+  <li><strong>Banco de Questões</strong>: planejamento e implementação do banco de dados para
+armazenar questões de provas (múltipla escolha e discursivas) no formato
+LaTeX (para renderização em diferentes outputs), com digitação das questões
+do Poscomp e Enade;</li>
+  <li><strong>Parser SQL</strong>: estudo, avaliação e propgramação de um <em>parser</em> SQL para a
+correção automatizada de <em>queries</em> SQL (a ser integrado no autograder);</li>
+  <li><strong>Open EdX</strong>: planejamento, preparação de material e implementação de
+disciplina piloto no Open EdX (provavelmente será a disciplina de “Bancos
+de Dados I” ou a de “Linguagens de Programação”), envolvendo tarefas de
+atualização de máquinas virtuais, gravação de vídeos, preparação de
+exercícios, PSETs e outras atividades;</li>
+  <li><strong>Cluster HPC</strong>: reestruturação do cluster de alta performance no
+laboratório de hardware.</li>
+</ul>
+
+<p><strong>Requisitos necessários</strong>: compromisso, responsabilidade e tempo. Não
+se candidate se você não puder assumir compromissos.</p>
+
+<p><strong>Remuneração</strong>: a melhor possível, CONHECIMENTO, já que o trabalho é
+voluntário.</p>
+
+<p><strong>Quer participar</strong>? envie um e-mail para o prof. Abrantes
+(<a href="mailto:abrantesasf@uvv.br">abrantesasf@uvv.br</a>) com o assunto
+<strong>Trabalho Acadêmico Voluntário</strong>.</p>]]></content><author><name>Abrantes Araújo Silva Filho</name></author><summary type="html"><![CDATA[Atenção você, aluno da UVV! Agora no período de férias de verão (sim, de férias!), será realizado o projeto Trabalho Acadêmico Voluntário do professor Abrantes Araújo Silva Filho. É uma ótima oportunidade para você aprender ainda mais e, ainda, contribuir para desenvolver ferramentas para a UVV e seus próprios colegas estudantes!]]></summary></entry></feed>
