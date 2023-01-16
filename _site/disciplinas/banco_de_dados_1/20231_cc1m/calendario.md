@@ -788,7 +788,7 @@
 
     <!-- 19ª SEMANA -->
     <tr>
-      <td rowspan=5>18</td> <!-- Número da semana-->
+      <td rowspan=5>19</td> <!-- Número da semana-->
       <th>Seg<br />05/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
