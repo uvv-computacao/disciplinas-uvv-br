@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 nav_exclude: false
 parent: Bancos de Dados 1
-nav_order: 05
+nav_order: 1
 has_children: false
 ---
 
