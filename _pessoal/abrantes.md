@@ -1,7 +1,7 @@
 ---
 name: Abrantes Araújo Silva Filho
 role: Professor
-disciplinas: 20231-bd1
+disciplinas: 20231-bd1 20231-proj-int
 email: abrantesasf@uvv.br
 website: https://www.computacaoraiz.com.br
 photo: abrantes.jpg
