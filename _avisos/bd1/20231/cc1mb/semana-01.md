@@ -12,7 +12,8 @@ disciplina é "**Design e Desenvolvimento de Bancos de Dados I**" mas, para
 abreviar, simplificamos para "Bancos de Dados 1" ou até mesmo "BD1". As
 principais atividades nesta semana são:
 
-1. **LEIA** o *syllabus* da disciplina, online ou em PDF. É extremamente
+1. **LEIA** o *syllabus* da disciplina, [online](/disciplinas/banco_de_dados_1/syllabus/){:target="_blank"}
+   ou em [PDF](/assets/disciplinas/bd1/syllabus_2023_1.pdf){:target="_blank"}. É extremamente
    importante que você leia e compreenda tudo que está nesse documento,
    principalmente as seções que tratam sobre notas, integridade acadêmica
    e regras da disciplina.
