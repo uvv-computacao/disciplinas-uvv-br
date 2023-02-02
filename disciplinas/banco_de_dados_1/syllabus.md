@@ -10,6 +10,8 @@ has_children: false
 # Syllabus
 {:.no_toc}
 
+[(clique aqui para a versão PDF deste documento)](/assets/disciplinas/bd1/syllabus_2023_1.pdf)
+
 Além do material oficial que está disponível no Portal do Aluno da UVV
 (Universidade de Vila Velha), este documento contém mais detalhes sobre
 a dinâmica da disciplina **Design e Desenvolvimento de Bancos de
