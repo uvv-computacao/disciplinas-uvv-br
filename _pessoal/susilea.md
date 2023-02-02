@@ -7,14 +7,11 @@ website: https://uvv.br/ensino-presencial/graduacao/ciencia-da-computacao/
 photo: susilea.jpg
 ---
 
-Mestre em Informática pela UFES, com experiência na área de Ciência da
-Computação e ênfase em Engenharia de Software. Atua em comandos de equipe,
-testes de sistemas, gestão de projetos e análise de sistemas. Atualmente é
-coordenadora do curso de Ciência da Computação, da UVV. Lorem ipsum dolor
-sit amet, consectetur adipiscing elit. Curabitur ornare neque a consequat
-laoreet. Etiam in augue eget tellus elementum suscipit. Fusce facilisis
-pellentesque ligula at dictum. Morbi mi sapien, facilisis pulvinar ultricies
-ultrices, sodales vitae risus. Ut vestibulum sem sed tortor vestibulum,
-quis faucibus turpis rhoncus. Nunc ut tristique lectus. Donec condimentum
-tortor non vehicula rutrum. Etiam eu hendrerit quam. Interdum et malesuada
-fames ac ante ipsum primis in faucibus.
+Formada em Sistemas de Informação, mestre em Informática pela UFES (área
+de banco de dados e redes de computadores), com experiência na área de
+Ciência da Computação e ênfase em Engenharia de Software e, agora, aluna
+de doutorado da FGV. Tenho mais de 30 anos de experiência na área de TI.
+Já atuei como programadora, analista de sistemas, comandos de equipe,
+testes de sistemas e gestão de projetos. Atualmente sou coordenadora
+do curso de Ciência da Computação, da UVV e atuo bastante na área de
+UX, Engenharia de Software e Gestão de Projetos.

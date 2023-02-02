@@ -18,7 +18,7 @@ e atividades estarão indicados aqui, incluindo o prazo e o método de entrega.
 **Leituras da 1ª Semana**{: .label .label-reading }
 
 - **Leituras obrigatórias:**
-  - *Syllabus* da disciplina. Faça a leitura [online](/disciplinas/banco_de_dados_1/syllabus/){:target="_blank"} ou em PDF;
+  - *Syllabus* da disciplina. Faça a leitura [online](/disciplinas/banco_de_dados_1/syllabus/){:target="_blank"} ou em [PDF](/assets/disciplinas/bd1/syllabus_2023_1.pdf). Melhor ainda: IMPRIMA, LEIA e GUARDE o *syllabus*, para consultas durante o semestre;
   - [*Como estudar? Dicas ao estudante iniciante*](https://www.abrantes.pro.br/2020/08/09/como-estudar-dicas-ao-estudante-iniciante/){:target="_blank"};
   - [*O problema é o tamanho do lápis*](https://www.abrantes.pro.br/2020/06/13/o-problema-e-o-tamanho-do-lapis/){:target="_blank"}; e
   - [*Você gasta sua borracha?*](https://www.abrantes.pro.br/2020/10/24/voce-gasta-sua-borracha/){:target="_blank"}

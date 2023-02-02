@@ -7,13 +7,22 @@ website: https://www.computacaoraiz.com.br
 photo: abrantes.jpg
 ---
 
-Estou muito feliz por ministrar este curso novamente, agora em 2023/1! No ano
-passado eu trouxe diversas inovações para os alunos como, por exemplo, uma
-**máquina virtual** com todo o ambiente configurado e o uso de **Problem Sets**
-(PSET) para desafiar ao máximo os estudantes. Neste ano, além de uma máquina
-virtual atualizada e com mais recursos, utilizaremos um ambiente virtual de
-aprendizagem específico para o curso (disponível em
-[https://cursos.computacaoraiz.com.br](https://cursos.computacaoraiz.com.br/)),
-com vídeos, exercícios e tarefas online! Eu adoro ensinar sobre bancos de
-dados e espero que você aproveite muito e aprenda o máximo possível.
+Olá pessoal, professor Abrantes aqui! Sou professor da área de tecnologia e
+computação aqui na UVV e absolutamente apaixonado por ensinar. Tenho uma
+formação um pouco incomum para a área: minha primeira graduação foi em
+Medicina (sim, sou médico, mas não atuo mais diretamente na prática clínica)
+com mestrado em Epidemiologia, minha segunda graduação foi em Ciência da
+Computação e, agora, estou cursando (meio que aos trancos e barrancos) uma
+graduação em matemática. Me esforço ao máximo (e além!) para ensinar e
+fazer com que os alunos **realmente aprendam** e, por isso mesmo, sou
+**muito exigente**. Se você é meu aluno, prepare-se: você vai estudar muito
+mais do que está acostumado, mas o resultado será recompensador. Eu espero
+que você, como estudante, tenha a seguinte inequação como inspiração e meta:
 
+$$ B > \frac{1}{n} \sum_{i=1}^n x_i $$
+
+(*be greater than average* &mdash; *seja maior do que a média*)
+{: .text-center }
+
+![seja maior do que a média](/assets/images/pessoal/be_greater_800x495.png)
+{: .text-center }

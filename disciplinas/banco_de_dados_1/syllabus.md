@@ -13,11 +13,13 @@ has_children: false
 Além do material oficial que está disponível no Portal do Aluno da UVV
 (Universidade de Vila Velha), este documento contém mais detalhes sobre
 a dinâmica da disciplina **Design e Desenvolvimento de Bancos de
-Dados I**, para todas as deste semestre (2023/1). Leia-o com atenção e procure o
-professor para esclarecer qualquer dúvida. Note que este *syllabus* não é um
+Dados I** para todas as turmas deste semestre (2023/1). Leia-o com atenção e procure o
+professor para esclarecer qualquer dúvida. Note que este *syllabus*[^1] não é um
 documento "oficial": é um material extra, preparado pelo professor da disciplina
 para proporcionar informações adicionais importantes para os alunos. A ementa
-oficial da disciplina está [disponivel para download](/assets/disciplinas/bd1/ementa_2022_2.pdf).
+oficial da disciplina está [disponivel para download](/assets/disciplinas/bd1/ementa_2023_1.pdf).
+
+[^1]: Ementa, plano de ensino, programa de estudos.
 
 ## Sumário
 {: .no_toc .text-delta }
@@ -32,8 +34,9 @@ oficial da disciplina está [disponivel para download](/assets/disciplinas/bd1/e
 Olá, seja muito bem-vindo!
 
 Esta é a disciplina **Design e Desenvolvimento de Bancos de Dados I**, para os
-cursos de Ciência da Computação e Sistemas de Informação da Universidade de Vila
-Velha (UVV).
+cursos de [Ciência da Computação](https://uvv.br/ensino-presencial/graduacao/ciencia-da-computacao/)
+e [Sistemas de Informação](https://uvv.br/ensino-presencial/graduacao/sistemas-de-informacao/)
+da Universidade de Vila Velha (UVV).
 
 Esta disciplina é uma introdução aos conceitos fundamentais necessários para
 projetar, usar e implementar sistemas de bancos de dados e aplicações de bancos
@@ -43,8 +46,11 @@ relacionadas.
 
 Nesta disciplina você terá o primeiro contato com os **bancos de dados** e também
 com os **sistemas de gerenciamento de bancos de dados** *open-source* (tais como o
-MySQL, MariaDB e o PostgreSQL) e comerciais (tais como o Oracle Database e
-o Microsoft SQL Server).
+[MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.org/) e o
+[PostgreSQL](https://www.postgresql.org/)) e comerciais[^2] (tais como o [Oracle Database]() e
+o [Microsoft SQL Server]()).
+
+[^2]: No caso dos sistemas comerciais, utilizaremos a versão gratuita desses bancos de dados, o Oracle Database Express Edition e o Microsoft SQL Server Express.
 
 Você aprenderá a projetar e implementar um banco de dados através de técnicas
 de modelagem conceitual, lógica e física, de tal forma que o banco de dados seja
@@ -54,13 +60,15 @@ Query Language*), álgebra relacional, técnicas de normalização, bancos de da
 objeto, XML, modelo de dados entidade-relacionamento e muito mais!
 
 Além disso esta disciplina também contribuirá para que você desenvolva suas
-habilidades de **pensamento computacional** quando você estiver aprendendo a
+habilidades de **pensamento computacional**[^3] quando você estiver aprendendo a
 modelar bancos de dados: 1) você precisará **decompor** um problema complexo em
 problemas menores, mais gerenciáveis; 2) você precisará usar técnicas de
 **abstração** para se focar nas partes essenciais dos problemas, ignorando detalhes
 irrelevantes; 3) você começará a usar técnicas de **reconhecimento de padrões**
 para pensar em como resolver problemas; e 4) você começará a entender sobre
 **algoritmos** e linguagens.
+
+[^3]: Para uma discussão inicial sobre pensamento computacional, leia a série de artigos disponíveis no site da *British Broadcasting Corporation* (BBC) em [https://www.bbc.co.uk/bitesize/topics/z7tp34j](https://www.bbc.co.uk/bitesize/topics/z7tp34j) (os artigos estão em inglês).
 
 Em resumo, esta disciplina é sua porta de entrada para o fantástico mundo dos
 bancos de dados.
@@ -70,9 +78,9 @@ mas o resultado, se você se dedicar conforme descrito neste plano de ensino,
 será recompensador!
 
 ## Pré-requisitos
-- **Obrigatórios**:
+- **Obrigatórios**[^4]:
   - **Matemática**: familiaridade e conforto com, pelo menos, a matemática
-    do ensino médio (aritmética, álgebra, funções). Caso sua base matemática
+    do ensino médio (aritmética, álgebra, funções e conjuntos'). Caso sua base matemática
     seja fraca, veja o texto [Preparação para graduação em áreas exatas:
     matemática além do básico](https://www.abrantes.pro.br/2020/05/20/preparacao-para-graduacao-em-areas-exatas-matematica-alem-do-basico/), com dicas para estudar novamente a matemática, do jeito certo;
   - **Computador**: você deve ter um computador com acesso a internet
@@ -81,14 +89,20 @@ será recompensador!
     computador recente, com arquitetura Intel x86 de 64 bits, com Linux, Windows
     ou Mac, com 8 GiB de memória RAM e bastante espaço em disco). Verifique a
     Seção [Laboratório de computação e computador pessoal](#laboratrio-de-computao-e-computador-pessoal)
-    para maiores detalhes.
-- **Desejáveis**:
-  - **Inglês**: a maioria dos livros e leituras obrigatórias da disciplina estarão em
-    português mas, excepcionalmente, algumas leituras opcionais em inglês
-    serão ser indicadas;
+    para maiores detalhes; e
+  - **Inglês**: livros e leituras obrigatórias da
+    disciplina estarão em português mas haverá também bastante conteúdo
+    em inglês (principalmente leitura). Na área da computação é
+    absolutamente fundamental o domínio de inglês (se você não sabe
+    inglês COMECE JÁ a estudar).
+- **Desejáveis**[^5]:
   - **SQL**: algum curso introdutório em SQL;
   - **Programação**: algum curso introdutório de programação, em qualquer
     linguagem.
+
+[^4]: São conhecimentos prévios e/ou recursos que você, obrigatoriamente, deve ter para que possa acompanhar adequadamente a disciplina e aprender o conteúdo. Caso você não possua algum dos pré-requisitos obrigatórios poderá ter dificuldade para acompanhar as aulas ou realizar todas as atividades propostas pelo professor (nesse caso converse **imediatamente** com o professor para explicar a situação e tentar encontrar uma solução).
+
+[^5]: São conhecimentos prévios e/ou recursos não obrigatórias mas que, se você tiver, podem facilitar seu estudo (você já terá uma base a partir da qual irá desenvolver novas habilidades). Se você não tiver nenhum dos requisitos desejáveis, não se preocupe: você conseguirá acompanhar a disciplina.
 
 ## Objetivos do curso e resultados esperados
 
@@ -118,7 +132,7 @@ será recompensador!
   de dados hierárquicos da XML;
 - Aprender as técnicas básicas de programação SQL (SQL embutida, SQL dinâmica
   e SQLJ); e
-- tilizar bancos de dados na web através de um exemplo com PHP.
+- Utilizar bancos de dados na web através de um exemplo com PHP.
 
 ### Habilidades a serem adquiridas
 - Projetar e modelar bancos de dados (modelos conceitual, lógico e físico);
@@ -143,8 +157,8 @@ pela sua turma. Algumas informações importantes:
 - Sou graduado em **medicina** pela [UFES](https://ufes.br/) (1999), mestre em
   **epidemiologia e métodos quantitativos em saúde** pela [FIOCRUZ](https://portal.fiocruz.br/) (2002)
   e graduado em **ciência da computação** pela [FAESA](https://www.faesa.br/) (2021).
-  Atualmente sou estudante do bacharelado em matemática, na modalidade de
-  ensino a distância (EAD).
+  Atualmente sou estudante do bacharelado em **matemática** da [Uninter](https://www.uninter.com/),
+  na modalidade de ensino a distância (EAD).
 - [www.linkedin.com/in/abrantes-filho](https://www.linkedin.com/in/abrantes-filho/)
 - [github.com/abrantesasf](https://github.com/abrantesasf) e também [github.com/computacaoraiz](https://github.com/computacaoraiz)
 - [www.abrantes.pro.br](https://www.abrantes.pro.br/) e também [www.computacaoraiz.com.br](https://www.computacaoraiz.com.br)
@@ -152,7 +166,9 @@ pela sua turma. Algumas informações importantes:
 - [www.youtube.com/computacaoraiz](https://www.youtube.com/computacaoraiz)
 - [cursos.computacaoraiz.com.br](https://cursos.computacaoraiz.com.br)
 - (27) 9-9991-4393, para entrar em contato via [Signal](https://signal.org/) ou
-  [Telegram](https://telegram.org/). ATENÇÃO: **eu NÃO USO** WhatsApp!
+  [Telegram](https://telegram.org/)[^6].
+
+[^6]: Eu não uso o WhatsApp por motivos de privacidade. Se quiser me mandar uma mensagem, você terá que usar o Signal ou o Telegram.
 
 ### Monitores, assistentes e tutores
 Oficialmente ainda não está confirmada a participação de nenhum monitor,
@@ -175,8 +191,8 @@ esclarecimento de dúvidas, auxílio em exercícios e tarefas e muito mais.
 
 Cada turma também utilizará a plataforma **Cursos do Computação Raiz**,
 no endereço [https://cursos.computacaoraiz.com.br](https://cursos.computacaoraiz.com.br).
-Os alunos serão automaticamente matriculados no curso *CR6.180A: Introdução
-ao Projeto e Sistemas de Bancos de Dados* e deverão assistir aos vídeos,
+Os alunos serão matriculados no curso **CR6.180A: Introdução
+ao Projeto e Sistemas de Bancos de Dados** e deverão assistir aos vídeos,
 realizar as provas, as atividades, os PSETs (mais sobre isso em breve) e
 tudo o mais que estiver agendado. ATENÇÃO: o curso CR6.180A faz parte da
 nota para sua aprovação nesta disciplina!
@@ -217,22 +233,22 @@ que você consiga realizar todas as tarefas em seu próprio computador:
 - **Som**: necessário para fazer as aulas do curso CR6.180A;
 - **Microfone**: não é obrigatório, mas pode ser utilizado caso ocorram
   aulas online síncronas;
-- **Câmera**: não é obrigatória, mas pode ser utilizada caso ocorram
-  aulas online síncronas.
+- **Câmera**: não é obrigatória, mas uma *webcam* pode ser utilizada caso alguma
+  aula extra seja feita de forma online.
 
-Se você tiver um notebook pode utilizá-lo durante as aluas de laboratório, ao invés
-dos computadores da UVV. A vantagem de usar seu próprio notebook é que você terá
+Se você tiver um *notebook* pode utilizá-lo durante as aulas de laboratório, ao invés
+dos computadores da UVV. A vantagem de usar seu próprio *notebook* é que você terá
 o mesmo ambiente, tanto na UVV quanto em casa, e poderá seguir os exercícios e
 tarefas de modo contínuo.
 
 ### Grau de dificuldade e esforço estimado
 Tenha sempre em mente que esta disciplina é extensa e precisa de **dedicação**,
-**estudo e leitura diária** para que você consiga aprender tudo o que é necessário.
+**estudo** e **leitura diária** para que você consiga aprender tudo o que é necessário.
 Em especial atente-se para o seguinte:
 
 - **Nível**: esta disciplina é de nível introdutório a intermediário;
 - **Língua**: as aulas, livros e materiais da disciplina são em **português**
-  mas alguns materiais extras (leituras, e vídeos) estão em inglês. Os
+  mas alguns materiais (leituras e vídeos) estão em inglês. Os
   softwares utilizados estão, em sua maioria, em inglês (alguns oferecem
   tradução para português);
 - **Esforço total**: 10-15 horas de estudo por semana, **além da carga horária das
@@ -246,7 +262,7 @@ Em especial atente-se para o seguinte:
   com que a leitura não seja tão hercúlea assim. Mantenha as leituras em dia,
   conforme o cronograma. Acumular leituras é “fatal” para o aprendizado; e
 - **Trabalhos e atividades**: a maior parte do esforço nessa matéria é representada
-  pelos trabalhos, PSETs e atividades práticas que você realizará semanalmente.
+  pelos trabalhos, *PSETs* e atividades práticas que você realizará semanalmente.
 
 Você já percebeu que esta disciplina precisa de um grau de **dedicação de tempo
 e esforço** consideráveis. Mesmo assim, se você estiver gastando mais tempo do que
@@ -254,11 +270,13 @@ esforço total indicado acima, pode ser um sinal de que você precisa de ajuda p
 entender melhor o material. Entre imediatamente em contato com o professor, não
 deixe acumular dúvidas.
 
-Eu espero que você, como estudante universitário , esteja buscando aprender o
+Eu espero que você, como estudante universitário[^7], esteja buscando aprender o
 máximo possível e fazendo todo esforço para se dedicar nas atividades propostas e
 aprender por conta própria de acordo com as orientações do professor. Lembre-se:
 a única maneira de aprender é estudar! Leia os textos indicados abaixo para saber o
 que faz a diferença no momento de estudar:
+
+[^7]: O estudo em nível universitário é **muito diferente** do estudo em nível de ensino médio. Na universidade você terá que ler muito e aprender muita coisa por conta própria. Não espere que o professor vá passar todo o conteúdo mastigado e resumido para você decorar para a prova, essa vida acabou!
 
 - [Como estudar? Dicas ao estudante iniciante](https://www.abrantes.pro.br/2020/08/09/como-estudar-dicas-ao-estudante-iniciante/)
 - [O problema é o tamanho do lápis](https://www.abrantes.pro.br/2020/06/13/o-problema-e-o-tamanho-do-lapis/)
@@ -271,8 +289,8 @@ entre aluno e estudante, e para saber a necessidade de brio para estudar:
 
 - [Aluno ou estudante?](https://www.youtube.com/watch?v=SOQedoCAoLI) Do professor
   Pierluigi Piazzi; e
-- [Você tem brio?](https://youtu.be/qwgfEfGZP1s) Do professor Clovis de Barros
-  Filho (desconsidere os palavrões)
+- [Você tem brio?](https://www.youtube.com/watch?v=UVtgFN3K6kE) Do professor Clovis de Barros
+  Filho (desconsidere os palavrões, assista até o final!)
 
 Para saber como **vencer a procrastinação e manter o estudo em dia**, assista
 ao seguinte vídeo (ative as legendas em português se necessário):
@@ -282,7 +300,7 @@ ao seguinte vídeo (ative as legendas em português se necessário):
 ### Ambientes virtuais de aprendizagem
 
 - [CR6.180A: Introdução ao Projeto e Sistemas de Bancos de Dados](https://cursos.computacaoraiz.com.br/):
-  este curso do Computação Raiz fará parte integral desta disciplina, de forma
+  este curso do Computação Raiz é parte integral desta disciplina, de forma
   OBRIGATÓRIA (provas e atividades para nota e aprovação serão realizadas no
   CR6.180A). Este curso contém vídeos, exercícios, fóruns de discussão e outros
   recursos para o aprendizado. Os alunos serão matriculadas pelo professor
@@ -308,7 +326,7 @@ com a coordenação do curso.
     Pearson, 2018.
   - Observação: se você não conseguir encontrar a 7ª edição do ELMASRI, pode
     substituir por edições anteriores sem problemas (a biblioteca da UVV conta
-    com exemplares da 4ª e 6ª edições). Você **não precisa comprar** o livro,
+    com exemplares da 4ª e 6ª edições). Você **não precisa comprar**[^8] o livro,
     utilize os exemplares disponíveis na biblioteca.
 - **Outros livros recomendados**: para os alunos que quiserem se aprofundar e
   complementar a leitura do livro texto de referência, os seguintes livros podem
@@ -367,6 +385,10 @@ com a coordenação do curso.
     Jersey: Prentice Hall, 2000.
   - SCIORE, E. **Understanding Oracle APEX 20 Application Development**.
     3rd edition. Massachusetts: Apress, 2020.
+  - KYTE, T. **Expert Oracle Database Architecture**. 2nd edition.
+    Healdsburg: Apress, 2010.
+  - O'Hearn, S. **OCA Oracle Database SQL**. 1st edition. New York:
+    Oracle Press, 2017.
 - **Softwares**: para facilitar a preparação do ambiente e evitar o pesadelo
   inicial de administração de sistemas até que todos os alunos estejam com os
   softwares instalados e configurados, esta disciplina utilizará uma máquina
@@ -379,8 +401,12 @@ com a coordenação do curso.
   almaço A4 com pauta.
 - **Pato de borracha**: é importante você ter um pato de borracha (daqueles
   amarelinhos para bebês mesmo) para praticar uma técnica chamada de [Rubber
-  Duck Debugging](https://rubberduckdebugging.com/) (acredite, funciona!).
+  Duck Debugging](https://rubberduckdebugging.com/)[^9] (acredite, funciona!).
 - **Outros**: se necessário, serão detalhados pelo professor.
+
+[^8]: Eu recomendo a aquisição do livro para quem for trabalhar, no futuro, com bancos de dados. Esse livro é uma ótima fonte de conhecimento e referência.
+
+[^9]: Ver também: [https://cs50.noticeable.news/posts/rubber-duck-debugging-in-cs-50-ide](https://cs50.noticeable.news/posts/rubber-duck-debugging-in-cs-50-ide).
 
 ## Dinâmica da disciplina:
 
@@ -435,20 +461,20 @@ Este curso funcionará da seguinte maneira:
 
 ### Leituras, trabalhos e atividades
 As atividades semanais de leitura, estudo, trabalhos e atividades rápidas serão a
-base de seu aprendizado. Não espere aprender tudo o que você precisa saber sobre
+**base de seu aprendizado**. Não espere aprender tudo o que você precisa saber sobre
 bancos de dados apenas assistindo aulas com o professor: isso não funciona! As
 aulas têm o objetivo de explicar a matéria mas o aprendizado real só ocorre se você
 estudar de modo ativo.
 
-A disciplina foi planejada para que você estude um capítulo do livro texto de
+A disciplina foi planejada para que você estude, aproximadamente, um capítulo do livro texto de
 referência por semana, guiado pelas aulas com o professor e pelas tarefas e exercícios.
 Pode ser difícil nos primeiros dias, até que você se acostume com o ritmo de leitura
 e estudo necessário, mas depois tudo ficará mais fácil (e você verá os resultados
 rapidamente!).
 
-Você deve entregar ao professor as respostas dos trabalhos, atividades e exercí-
-cios, bem como os resultados obtidos nas atividades práticas. Cada atividade/exer-
-cício especificará como essa entrega deverá ser feita e a data limite para a entrega.
+Você deve entregar ao professor as respostas dos trabalhos, atividades e exercícios,
+bem como os resultados obtidos nas atividades práticas. Cada atividade/exercício
+especificará como essa entrega deverá ser feita e a data limite para a entrega.
 
 ### Aulas
 Tente ler o capítulo indicado para a semana **antes das aulas** daquela semana. Seu
@@ -463,8 +489,8 @@ durante toda a semana ou um pequeno período de tempo.
 
 Ao contrário dos das atividades rápidas e trabalhos semanais, que são relativamente
 fáceis e diretos (pois têm o objetivo de auxiliá-lo no estudo do conteúdo de
-uma semana), os PSets são projetados para forçá-lo a pensar profundamente no que
-você aprendeu durante a semana; para conseguir responder às questões dos PSets
+uma semana), os PSETs são projetados para forçá-lo a pensar profundamente no que
+você aprendeu durante a semana; para conseguir responder às questões dos PSETs
 você precisará ter desenvolvido uma compreensão profunda da matéria, muito além
 do nível de simples “decoreba”.
 
@@ -486,13 +512,13 @@ Technology (MIT) acham do uso de PSets em suas disciplinas:
 - [The Process of Psetting](https://mitadmissions.org/blogs/entry/the-process-of-psetting/)
   (“O Processo dos Psets”)
 
-O grau de dificuldade de cada PSet não atingirá o grau exigido dos alunos do
+O grau de dificuldade de cada PSET não atingirá o grau exigido dos alunos do
 MIT (ainda!), mas mesmo assim serão muito mais difíceis do que você pode estar
 acostumado (mas afinal... você quer aprender a usar corretamente um sistema de
 bancos de dados, não é?).
 
-A resolução dos PSets é **fundamental para seu aprendizado**. Trabalhe diariamente em
-cada PSet: é melhor fazer várias pequenas partes todos os dias do que
+A resolução dos PSETs é **fundamental para seu aprendizado**. Trabalhe diariamente em
+cada PSET: é melhor fazer várias pequenas partes todos os dias do que
 tentar fazer tudo de uma vez, de última hora.
 
 Devido ao grau de dificuldade, recomenda-se **trabalhar em pequenos grupos**
@@ -514,36 +540,23 @@ o [Jitsi](https://jitsi.org/), o [Google Meet](https://meet.google.com/) ou o
 Cada PSET terá instruções específicas que indicam como as respostas devem ser
 enviadas ao professor e a data limite de entrega.
 
-### Monitoria, tutoria e laboratório
+### Monitoria e tutoria
 
-Conceitos utilizados neste documento:
-
-- **Monitoria**: uma seção de estudo em grupo (até 20 alunos), sob a orientação
-  de um monitor, com a duração de 1–2 horas. As monitorias expandem o material
-  estudado e introduzem material suplementar não diretamente abordado nas aulas
-  ou nas atividades da semana. Além disso elas são uma chance que você têm de
-  estudar e praticar sob orientação do monitor, sanar dúvidas a respeito do
-  conteúdo, praticar atividades que reforçam o aprendizado e explorar variações
-  dos assuntos discutidos. O monitor pode fazer perguntas sobre a matéria e levar
-  listas de exercícios para serem resolvidas individualmente ou em grupo.
-- **Tutoria**: uma seção de estudo em pequenos grupos (até 3 alunos), sob a
-  orientação de um tutor ou do próprio professor da disciplina, com duração de
-  1–2 horas. As tutorias são uma chance de obter ajuda individual, orientações
-  sobre as atividades e os PSETs, e ter o seu progresso de aprendizado
-  verificado (e corrigido, se necessário).
-
-Estão previstas aulas de monitoria para os alunos deste curso mas, neste momento,
+Estão previstas aulas de monitoria[^10] para os alunos deste curso mas, neste momento,
 o monitor está em processo de seleção. Assim que o monitor for conhecido, maiores
 informações serão dadas.
 
-Durante o semestre o professor realizar algumas poucas seções de tutoria. Essas
-datas serão divulgadas previamente para o agendamento dos alunos (cada tutoria
-terá no máximo até 3 alunos).
+[^10]: **Monitoria**: uma seção de estudo em grupo (até 20 alunos), sob a orientação de um monitor, com a duração de 1-2 horas. As monitorias expandem o material estudado e introduzem material suplementar não diretamente abordado nas aulas ou nas atividades da semana. Além disso elas são uma chance que você têm de estudar e praticar sob orientação do monitor, sanar dúvidas a respeito do conteúdo, praticar atividades que reforçam o aprendizado e explorar variações dos assuntos discutidos. O monitor pode fazer perguntas sobre a matéria e levar listas de exercícios para serem resolvidas individualmente ou em grupo.
+
+Durante o semestre o professor realizará algumas poucas seções de tutoria[^11]. Essas
+datas serão divulgadas previamente para o agendamento dos alunos.
+
+[^11]: **Tutoria**: uma seção individual para esclarecimento de dúvidas diretamente com o professor, com duração de 15--20 minutos. As tutorias são uma chance de obter ajuda individual, orientações sobre as atividades e os PSETs, e ter o seu progresso de aprendizado verificado (e corrigido, se necessário).
 
 ## Avaliação da aprendizagem
 
 ### Provas
-Você fará de duas provas presenciais durante o semestre, conforme o calendário
+Você fará duas provas presenciais durante o semestre, conforme o calendário
 oficial da UVV (o cronograma da disciplina indica as datas e o conteúdo de cada
 prova). As provas terão diversos tipos de questões, tais como: discursivas,
 objetivas, verdadeiro ou falso, interpretação de esquemas e diagramas etc.
@@ -565,8 +578,8 @@ Você realizará de 5 a 10 PSETs na disciplina, dependendo do tempo e do andamen
 da turma, e os PSETs corresponderão a 45% de sua nota final na disciplina.
 
 Note que os PSets, ao contrário das provas, não são atividades obrigatórias, ou
-seja, se você não entregar algum PSET você ficará com nota 0 (zero) nesse PSET es-
-pecífico, mas não será reprovado por causa disso.
+seja, se você não entregar algum PSET você ficará com nota 0 (zero) nesse PSET 
+específico, mas não será reprovado por causa disso.
 
 Apesar dos PSETs não serem obrigatórios eles são fundamentais para o apren-
 dizado do conteúdo nesta disciplina, conforme já explicado na Seção [Problem SETs](#problem-sets-psets), e essa
@@ -697,7 +710,9 @@ disciplina, o trabalho em grupo é fortemente recomendado e estimulado, desde qu
 algumas regras sejam seguidas.
 
 Seguiremos integralmente a política sobre trabalho colaborativo adotada na
-disciplina “[MIT 6.001: Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/resources/collab_work/)” que, em tradução livre, é a seguinte:
+disciplina “[MIT 6.001: Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)” que, em tradução livre, é a seguinte[^12]:
+
+[^12]: O documento original está [disponível na internet](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/resources/collab_work/).
 
 > A maioria das pessoas aprende com mais eficácia quando estuda
 > em pequenos grupos e coopera de várias outras maneiras no dever de
@@ -767,11 +782,12 @@ caminho para a solução que pode ser discutido com seus colegas.
 
 ### Cláusula de arrependimento
 Esta disciplina oferecerá uma cláusula de arrependimento conforme praticada no
-curso [Harvard CS50](https://cs.harvard.edu/malan/publications/Teaching_Academic_Honesty_in_CS50.pdf):
-se você cometer algum ato que viole as políticas de integridade acadêmica aqui
-estabelecidas mas, em até 72 horas, se arrepender e comunicar o fato ao professor,
-poderá ter a nota reduzida ou zerada nesse trabalho/PSET específico, mas o caso
-não será levado à coordenação.
+curso *Harvard CS50*[^13]: se você cometer algum ato que viole as políticas de
+integridade acadêmica aqui estabelecidas mas, em até 72 horas, se arrepender e
+comunicar o fato ao professor, poderá ter a nota reduzida ou zerada nesse
+trabalho/PSET específico, mas o caso não será levado à coordenação.
+
+[^13]: Ver [Teaching Academic Honesty in CS50](https://cs.harvard.edu/malan/publications/Teaching_Academic_Honesty_in_CS50.pdf), de David Malan, Brian Yu e Doug Lloyd.
 
 ## Perguntas freqüentes
 
