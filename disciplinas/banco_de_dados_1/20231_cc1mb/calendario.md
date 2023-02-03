@@ -40,8 +40,10 @@
     </tr>
     <tr>
       <th>Qui<br />02/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td>Aula inaugural<br />
+          1º teste surpresa: <a href="/assets/disciplinas/bd1/2023_1/ts01_cc1mb.pdf">perguntas</a> e respostas</td> <!-- Aula -->
+      <td>Syllabus: <a href="/disciplinas/banco_de_dados_1/syllabus/">online</a> ou
+                    <a href="/assets/disciplinas/bd1/2023_1/syllabus_2023_1.pdf">PDF</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
@@ -49,7 +51,7 @@
     <tr>
       <th>Sex<br />03/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><a href="/disciplinas/banco_de_dados_1/leituras/#l1sem">1ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->

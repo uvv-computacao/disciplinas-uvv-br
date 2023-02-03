@@ -15,7 +15,8 @@ obrigatórias e opcionais para o estudo do conteúdo, de todas as turmas.
 Se existirem exercícios e atividades referentes às leituras, esses exercícios
 e atividades estarão indicados aqui, incluindo o prazo e o método de entrega.
 
-**Leituras da 1ª Semana**{: .label .label-reading }
+**Leituras da 1ª Semana**<a id="l1sem"></a>
+{: .label .label-reading }
 
 - **Leituras obrigatórias:**
   - *Syllabus* da disciplina. Faça a leitura [online](/disciplinas/banco_de_dados_1/syllabus/){:target="_blank"} ou em [PDF](/assets/disciplinas/bd1/syllabus_2023_1.pdf). Melhor ainda: IMPRIMA, LEIA e GUARDE o *syllabus*, para consultas durante o semestre;
