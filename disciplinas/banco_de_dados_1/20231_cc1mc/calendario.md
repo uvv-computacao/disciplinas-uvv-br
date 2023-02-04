@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <th>Qui<br />02/02</th> <!-- Dia e Data -->
-      <td>Aula inaugural<br />
+      <td><b>Aula inaugural</b><br />
           1º teste surpresa: <a href="/assets/disciplinas/bd1/2023_1/ts01_cc1mc.pdf">perguntas</a> e respostas</td> <!-- Aula -->
       <td>Syllabus: <a href="/disciplinas/banco_de_dados_1/syllabus/">online</a> ou
                     <a href="/assets/disciplinas/bd1/2023_1/syllabus_2023_1.pdf">PDF</a></td> <!-- Leituras -->
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <th>Sex<br />03/02</th> <!-- Dia e Data -->
-      <td>Como estudar?</td> <!-- Aula -->
+      <td><b>Como estudar?</b></td> <!-- Aula -->
       <td><a href="/disciplinas/banco_de_dados_1/leituras/#l1sem">1ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->
@@ -85,15 +85,18 @@
     </tr>
     <tr>
       <th>Qui<br />09/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Introdução aos sistemas de bancos de dados, parte 1:</b><br />
+          introdução, aplicações, conceitos e usuários</td> <!-- Aula -->
+      <td><a href="/disciplinas/banco_de_dados_1/leituras/#l2sem">2ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>Vídeos e exercícios da seção<br />
+          <a href="https://cursos.computacaoraiz.com.br">Introdução aos sistemas de bancos de dados</a></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />10/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>Introdução aos sistemas de bancos de dados, parte 2:</b><br />
+          projetos, problemas, vantagens, histórico</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->

@@ -61,10 +61,12 @@
     <tr>
       <td rowspan=5>2</td> <!-- Número da semana-->
       <th>Seg<br />06/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Introdução aos sistemas de bancos de dados, parte 1:</b><br />
+          introdução, aplicações, conceitos e usuários</td> <!-- Aula -->
+      <td><a href="/disciplinas/banco_de_dados_1/leituras/#l2sem">2ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>Vídeos e exercícios da seção<br />
+          <a href="https://cursos.computacaoraiz.com.br">Introdução aos sistemas de bancos de dados</a></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -85,7 +87,8 @@
     </tr>
     <tr>
       <th>Qui<br />09/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>Introdução aos sistemas de bancos de dados, parte 2:</b><br />
+          projetos, problemas, vantagens, histórico</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->
