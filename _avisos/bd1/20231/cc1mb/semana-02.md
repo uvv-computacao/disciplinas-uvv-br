@@ -35,6 +35,8 @@ desvantagens e um breve histórico. Para aprender o conteúdo dessa semana:
    [leituras e vídeos opcionais da 2ª semana](/disciplinas/banco_de_dados_1/leituras/#l2sem).
 1. Verifique no calendário previsto (abaixo) as datas e conteúdo das aulas,
    bem como as datas sugeridas para as leituras e atividades obrigatórias.
+1. Assine a lista de discussão por e-mail da disciplina. Verifique as instruções
+   no artigo [Lista de discussão para alunos de Bancos de Dados 1](/2023/02/06/lista-bd)
 
 A coordenação de curso ainda está ajustando os alunos nas
 turmas e, portanto, podem ocorrer alterações, junções ou desmembramento

@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://disciplinas.uvv.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://disciplinas.uvv.br/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2023-02-04T03:00:37-03:00</updated><id>https://disciplinas.uvv.br/feed.xml</id><title type="html">Disciplinas UVV</title><subtitle>Informações sobre as disciplinas e recursos para alunos e professores da Universidade Vila Velha (UVV).</subtitle><entry><title type="html">Syllabus de Bancos de Dados 1 já está online</title><link href="https://disciplinas.uvv.br/2023/01/16/syllabus-bd1/" rel="alternate" type="text/html" title="Syllabus de Bancos de Dados 1 já está online" /><published>2023-01-16T18:20:00-03:00</published><updated>2023-01-16T18:20:00-03:00</updated><id>https://disciplinas.uvv.br/2023/01/16/syllabus-bd1</id><content type="html" xml:base="https://disciplinas.uvv.br/2023/01/16/syllabus-bd1/"><![CDATA[<p>O <em>Syllabus</em> da disciplina “Bancos de Dados 1”, para as turmas CC1M, CC1Mb, CC1Mc,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://disciplinas.uvv.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://disciplinas.uvv.br/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2023-02-06T18:24:10-03:00</updated><id>https://disciplinas.uvv.br/feed.xml</id><title type="html">Disciplinas UVV</title><subtitle>Informações sobre as disciplinas e recursos para alunos e professores da Universidade Vila Velha (UVV).</subtitle><entry><title type="html">Lista de discussão para os alunos de Bancos de Dados 1</title><link href="https://disciplinas.uvv.br/2023/02/06/lista-bd/" rel="alternate" type="text/html" title="Lista de discussão para os alunos de Bancos de Dados 1" /><published>2023-02-06T17:50:00-03:00</published><updated>2023-02-06T17:50:00-03:00</updated><id>https://disciplinas.uvv.br/2023/02/06/lista-bd</id><content type="html" xml:base="https://disciplinas.uvv.br/2023/02/06/lista-bd/"><![CDATA[<p>Os alunos matriculados na disciplina “Bancos de Dados 1” (turmas CC1M, CC1Mb,
+CC1Mc, CC1N e SI1N) devem assinar a lista de discussão por email da disciplina.
+Essa lista de discussão é uma ferramenta complementar disponibilizada pelo
+professor para proporcionar mais um método de <strong>comunicação</strong>, <strong>discussão</strong>,
+<strong>troca de idéias e experiências</strong> e, de certo modo, <strong>suporte</strong> para eventuais
+problemas com a máquina virtual.</p>
+
+<p>Para assinar a lista de discussão você deve acessar o site
+<a href="https://listas.computacaoraiz.com.br">https://listas.computacaoraiz.com.br</a>.
+Nessa página você verá uma tabela com as listas de discussão disponíveis:</p>
+
+<p><img src="/assets/images/posts/bd1/lista1_bd.png" alt="Listas de discussão" /></p>
+
+<p>Clique na lista <strong>UVV-BD</strong>, destacada com um retângulo vermelho na figura
+acima e, na página da lista, preencha seu e-mail e seu nome:</p>
+
+<p><img src="/assets/images/posts/bd1/lista2_bd.png" alt="Assinatura da lista" /></p>
+
+<p>Ao clicar no botão “<em>Subscribe</em>” você está assinando a lista de discussão
+<strong>UVV-BD</strong>. Nesse momento você receberá um e-mail de confirmação que se
+parece com isso (informações sensíveis estão mascaradas no print abaixo):</p>
+
+<p><img src="/assets/images/posts/bd1/lista3_bd.png" alt="Email de confirmação" /></p>
+
+<p>Você confirmar a assinatura da lista, basta responder ao e-mail de
+confirmação. <strong>Não é necessário escrever nada</strong> no e-mail, basta clicar
+em “responder” o e-mail de confirmação e enviar. Nesse momento o
+servidor gerenciador de listas de discussão verificará que seu e-mail
+está correto e colocará a solicitação de participação na lista para
+aprovação pelo moderador (o professor da disciplina).</p>
+
+<p>Quando o professor aprovar sua participação na lista, você recebrá
+e seguinte e-mail de aprovação:</p>
+
+<p><img src="/assets/images/posts/bd1/lista4_bd.png" alt="Email de aprovação" /></p>
+
+<p>Depois de receber seu e-mail de aprovação, você está apto a enviar e
+receber mensagens da lista de discussão da disciplina de Bancos de Dados 1.
+Para enviar uma mensagem para a lista, basta enviar um e-mail para o
+endereço “uvv-bd@listas.computacaoraiz.com.br”. Tem uma dúvida que gostaria de
+discutir com os colegas? Envie uma dúvida para a lista! Seus colegas (de
+todas as turmas) poderão ajudar a resolver! Recebeu um e-mail com uma
+dúvida de alguma colega e você sabe a resposta? Simplesmente responda
+ao e-mail da lista e ajude seu colega.</p>
+
+<p>Listas de discussão são ferramentas importantes no mundo <em>open source</em>.
+Para saber mais:</p>
+
+<ul>
+  <li><a href="https://www.gnu.org/software/mailman/">GNU Mailman</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/GNU_Mailman">Wikipedia: GNU Mailman</a></li>
+</ul>]]></content><author><name>Abrantes Araújo Silva Filho</name></author><summary type="html"><![CDATA[Os alunos matriculados na disciplina “Bancos de Dados 1” (turmas CC1M, CC1Mb, CC1Mc, CC1N e SI1N) devem assinar a lista de discussão por email da disciplina. Essa lista de discussão é uma ferramenta complementar disponibilizada pelo professor para proporcionar mais um método de comunicação, discussão, troca de idéias e experiências e, de certo modo, suporte para eventuais problemas com a máquina virtual.]]></summary></entry><entry><title type="html">Syllabus de Bancos de Dados 1 já está online</title><link href="https://disciplinas.uvv.br/2023/01/16/syllabus-bd1/" rel="alternate" type="text/html" title="Syllabus de Bancos de Dados 1 já está online" /><published>2023-01-16T18:20:00-03:00</published><updated>2023-01-16T18:20:00-03:00</updated><id>https://disciplinas.uvv.br/2023/01/16/syllabus-bd1</id><content type="html" xml:base="https://disciplinas.uvv.br/2023/01/16/syllabus-bd1/"><![CDATA[<p>O <em>Syllabus</em> da disciplina “Bancos de Dados 1”, para as turmas CC1M, CC1Mb, CC1Mc,
 CC1N e SI1N já está online! Se você está matriculado nesta disciplina, leia o <em>syllabus</em>
 agora!</p>
 
