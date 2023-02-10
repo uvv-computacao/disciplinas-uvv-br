@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://disciplinas.uvv.br/avisos/arqcomp1/20231/cc3n/semana-01/</loc>
+<lastmod>2023-02-01T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/avisos/bd1/20231/cc1m/semana-01/</loc>
 <lastmod>2023-02-01T00:00:00-03:00</lastmod>
 </url>
@@ -23,6 +27,10 @@
 <url>
 <loc>https://disciplinas.uvv.br/avisos/lp/20231/cc3m/semana-01/</loc>
 <lastmod>2023-02-01T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/avisos/arqcomp1/20231/cc3n/semana-02/</loc>
+<lastmod>2023-02-04T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/avisos/bd1/20231/cc1m/semana-02/</loc>
@@ -65,6 +73,9 @@
 <lastmod>2023-02-06T17:50:00-03:00</lastmod>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/20231_cc3n/avisos/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/20231_cc1n/avisos/</loc>
 </url>
 <url>
@@ -86,6 +97,9 @@
 <loc>https://disciplinas.uvv.br/blog/</loc>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/20231_cc3n/horario/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/20231_cc1n/horario/</loc>
 </url>
 <url>
@@ -102,6 +116,12 @@
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/liguagens_de_programacao/20231_cc3m/horario/</loc>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/20231_cc3n/</loc>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/</loc>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/20231_cc1n/</loc>
@@ -137,10 +157,16 @@
 <loc>https://disciplinas.uvv.br/</loc>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/leituras/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/leituras/</loc>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/liguagens_de_programacao/leituras/</loc>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/pessoal/</loc>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/pessoal/</loc>
@@ -150,6 +176,9 @@
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/liguagens_de_programacao/pessoal/</loc>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/recursos/</loc>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/recursos/</loc>
