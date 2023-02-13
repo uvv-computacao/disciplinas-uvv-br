@@ -5,8 +5,7 @@
       <th>Data</th>
       <th>Aula</th>
       <th>Leitura</th>
-      <th>Lab</th>
-      <th>CR6.180A</th>
+      <th>CS50</th>
       <th>Tarefa</th>
     </tr>
   </thead>
@@ -18,40 +17,35 @@
       <th>Seg<br />30/01</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />31/01</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />01/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />02/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />03/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Quinzena sem aula</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -59,42 +53,41 @@
     <tr>
       <td rowspan=5>2</td> <!-- Número da semana-->
       <th>Seg<br />06/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula inaugural<br />
+          1º teste surpresa: <a href="/assets/disciplinas/lingprog/20231/ts01_cc3m.pdf">perguntas</a> e
+                             respostas</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />07/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />08/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />09/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />10/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>Pensamento computacional, algoritmos, blocos de construção básicos
+          dos programas, abstração, Sctrach.</td> <!-- Aula -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Começar Week 0 do CS50</a></td> <!-- Leituras -->
+      <td><a href="https://cs50.harvard.edu/x/2023/psets/0/">Iniciar PSET 0</a><br />
+          (entrega em 24/02)</td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -102,42 +95,39 @@
     <tr>
       <td rowspan=5>3</td> <!-- Número da semana-->
       <th>Seg<br />13/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>Introdução ao estudo das linguagens de programação<br />
+          <a href="/assets/disciplinas/lingprog/20231/aula01.pdf">Notas de aula</a></td> <!-- Aula -->
+      <td>Capítulo 1 do Sebesta</td> <!-- Leituras -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />14/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />15/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />16/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />17/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>(quinzena sem aula)</td> <!-- Aula -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Continuar Week 0 do CS50</a></td> <!-- Leituras -->
+      <td><a href="https://cs50.harvard.edu/x/2023/psets/0/">Continuar PSET 0</a><br />
+          (entrega em 24/02)</td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -147,40 +137,36 @@
       <th>Seg<br />20/02</th> <!-- Dia e Data -->
       <td>Feriado Carnaval</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />21/02</th> <!-- Dia e Data -->
       <td>Feriado Carnaval</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />22/02</th> <!-- Dia e Data -->
       <td>Feriado Carnaval</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />23/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />24/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Começar Week 1 do CS50</a></td> <!-- Leituras -->
+      <td>Entregar PSET 0<br />
+          <a href="https://cs50.harvard.edu/x/2023/labs/1/">Fazer Lab 1</a> e <a href="https://cs50.harvard.edu/x/2023/psets/1/">Iniciar PSET 1</a></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -190,40 +176,35 @@
       <th>Seg<br />27/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />28/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />01/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />02/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />03/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -233,40 +214,35 @@
       <th>Seg<br />06/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />07/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />08/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />09/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />10/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -276,40 +252,35 @@
       <th>Seg<br />13/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />14/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />15/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />16/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />17/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -319,40 +290,35 @@
       <th>Seg<br />20/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />21/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />22/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />23/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />24/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -362,40 +328,35 @@
       <th>Seg<br />27/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />28/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />29/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />30/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />31/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -405,40 +366,35 @@
       <th>Seg<br />03/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />04/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />05/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />06/04</th> <!-- Dia e Data -->
       <td>Feriado Semana Santa</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />07/04</th> <!-- Dia e Data -->
       <td>Feriado Semana Santa</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -448,40 +404,35 @@
       <th>Seg<br />10/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />11/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />12/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />13/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />14/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -491,40 +442,35 @@
       <th>Seg<br />17/04</th> <!-- Dia e Data -->
       <td>Feriado Nossa Senhora da Penha</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />18/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />19/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />20/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />21/04</th> <!-- Dia e Data -->
       <td>Feriado Tiradentes</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -534,40 +480,35 @@
       <th>Seg<br />24/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />25/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />26/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />27/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />28/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -577,40 +518,35 @@
       <th>Seg<br />01/05</th> <!-- Dia e Data -->
       <td>Feriado Dia do Trabalho</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />02/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />03/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />04/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />05/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -620,40 +556,35 @@
       <th>Seg<br />08/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />09/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />10/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />11/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />12/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -663,40 +594,35 @@
       <th>Seg<br />15/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />16/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />17/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />18/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />19/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -706,40 +632,35 @@
       <th>Seg<br />22/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />23/05</th> <!-- Dia e Data -->
       <td>Feriado Colonização Solo ES</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />24/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />25/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />26/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -749,40 +670,35 @@
       <th>Seg<br />29/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />30/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />31/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />01/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />02/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -792,40 +708,35 @@
       <th>Seg<br />05/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />06/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />07/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />08/06</th> <!-- Dia e Data -->
       <td>Feriado Corpus Christi</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />09/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -835,40 +746,35 @@
       <th>Seg<br />12/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />13/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />14/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />15/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />16/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -878,40 +784,35 @@
       <th>Seg<br />19/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />20/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />21/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />22/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />23/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -921,40 +822,35 @@
       <th>Seg<br />26/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />27/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qua<br />28/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />29/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />30/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
   </tbody>
