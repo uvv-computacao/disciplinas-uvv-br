@@ -1,6 +1,6 @@
 ---
 title: Avisos da 2ª Semana
-semana: 1
+semana: 2
 disciplina: bd1
 semestre: 20231
 turma: cc1m

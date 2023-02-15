@@ -15,6 +15,25 @@ obrigatórias e opcionais para o estudo do conteúdo, de todas as turmas.
 Se existirem exercícios e atividades referentes às leituras, esses exercícios
 e atividades estarão indicados aqui, incluindo o prazo e o método de entrega.
 
+**Leituras da 3ª Semana**<a id="l3sem"></a>
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Elmasri, Capítulo 1: Introdução aos bancos de dados. Se você já terminou
+    a leitura deste capítulo, faça uma revisão do conteúdo.
+- **Vídeos e exercícios obrigatórios:**
+  - [CR6.180A](https://cursos.computacaoraiz.com.br/): veja os vídeos,
+    estude e faça os exercícios das subseções "O que vamos aprender?" e
+    "Introdução", da seção "Sistemas de bancos de dados". **ATENÇÃO COM
+    O PRAZO DE ENTREGA das atividades.**
+- **Leituras opcionais:**
+  - [What Is a Database?](https://www.oracle.com/database/what-is-database/)
+    este artigo foi publicado pela Oracle e apresenta algumas definições bem
+    simples sore alguns dos principais termos utilizados na área.
+  - [Oracle Academy](https://academy.oracle.com): Acesse o curso *Database
+    Foundations do Aluno* e estude a "Seção 0: Recursos do Curso", e a
+    "Seção 1: Introdução" (somente seções 1.1 e 1.2).
+
 **Leituras da 2ª Semana**<a id="l2sem"></a>
 {: .label .label-reading }
 

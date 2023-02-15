@@ -131,15 +131,17 @@
     </tr>
     <tr>
       <th>Qui<br />16/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Inscrição e uso do CR6.180A</b></td> <!-- Aula -->
+      <td><a href="/disciplinas/banco_de_dados_1/leituras/#l3sem">3ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>Sistemas de bancos de dados<br />
+          O que vamos aprender; Introdução</td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />17/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>Projetos de bancos de dados</b><br />
+          <b>Independência de dados</b></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->
