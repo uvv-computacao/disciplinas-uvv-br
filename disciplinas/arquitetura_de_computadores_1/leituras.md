@@ -28,6 +28,9 @@ Livro de referência da disciplina:
   * Capítulo 1 do livro de referência, seções:
     * 1.3: Below Your Program
 * **Leituras opcionais:**
+  * [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): este
+    arquivo é o PDF do "Anexo C" do livro *Digital Design and Computer
+    Architecture* (também [disponível online](https://booksite.elsevier.com/9780128000564/index.php))
   * [Linux/Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/)
   * [Linux Commands Cheat Sheet](https://www.pcwdld.com/linux-commands-cheat-sheet)
   * [C Programming Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
