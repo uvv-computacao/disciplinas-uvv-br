@@ -15,7 +15,35 @@ obrigatórias e opcionais para o estudo do conteúdo, de todas as turmas.
 Se existirem exercícios e atividades referentes às leituras, esses exercícios
 e atividades estarão indicados aqui, incluindo o prazo e o método de entrega.
 
+Livro de referência da disciplina:
+
+* PATTERSON, D. A.; HENNESSY, J. L. <b>Computer Organization
+  and Design: RISC-V Edition. The Hardware Software Inteface.</b> Cambridge:
+  Morgan Kaufmann, 2021.
+
+**Leituras da 3ª Semana**<a id="l3sem"></a>
+{: .label .label-reading }
+
+* **Leituras obrigatórias:**
+  * Capítulo 1 do livro de referência, seções:
+    * 1.3: Below Your Program
+* **Leituras opcionais:**
+  * [Linux/Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+  * [Linux Commands Cheat Sheet](https://www.pcwdld.com/linux-commands-cheat-sheet)
+  * [C Programming Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
+  * [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
+
+**Leituras da 2ª Semana**<a id="l2sem"></a>
+{: .label .label-reading }
+
+* **Leituras obrigatórias:**
+  * [Syllabus](/assets/disciplinas/arqcomp1/syllabus_2023_1.pdf) da disciplina
+  * Capítulo 1 do livro de referência, seções:
+    * Preface
+    * 1.1: Introduction
+    * 1.2: Seven Great Ideas in Computer Architecture
+
 **Leituras da 1ª Semana**<a id="l1sem"></a>
 {: .label .label-reading }
 
-(em construção)
+Sem leituras programadas.

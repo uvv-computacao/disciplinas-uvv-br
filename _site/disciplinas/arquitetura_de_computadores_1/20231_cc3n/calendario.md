@@ -6,7 +6,6 @@
       <th>Aula</th>
       <th>Leitura</th>
       <th>Lab</th>
-      <th>CR6.180A</th>
       <th>Tarefa</th>
     </tr>
   </thead>
@@ -19,7 +18,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -27,7 +25,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -35,15 +32,15 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />02/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Aula inaugural</b><br />
+          <b>1ª teste surpresa:</b> <a href="/assets/disciplinas/arqcomp1/2023_1/ts01_cc3n.pdf" target="_blank">perguntas</a>
+          e respostas</td> <!-- Aula -->
+      <td>(sem leitura programada)</td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -51,7 +48,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -59,10 +55,10 @@
     <tr>
       <td rowspan=5>2</td> <!-- Número da semana-->
       <th>Seg<br />06/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b><a href="/assets/disciplinas/arqcomp1/syllabus_2023_1.pdf" target="_blank">Syllabus</a>
+          e informações administrativas</b></td> <!-- Aula -->
+      <td><a href="/disciplinas/arquitetura_de_computadores_1/leituras/#l2sem">2º semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -70,7 +66,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -78,15 +73,15 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />09/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>Introdução e grandes idéias (seções 1.1 e 1.2)</b><br />
+          (<a href="/assets/disciplinas/arqcomp1/2023_1/cap01_aula01.pdf" target="_blank">notas
+          de aula</a>)</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -94,7 +89,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -102,10 +96,11 @@
     <tr>
       <td rowspan=5>3</td> <!-- Número da semana-->
       <th>Seg<br />13/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Abaixo de seu programa (seção 1.3)</b><br />
+          (<a href="/assets/disciplinas/arqcomp1/2023_1/cap01_aula01.pdf" target="_blank">notas
+          de aula</a>)</td> <!-- Aula -->
+      <td><a href="/disciplinas/arquitetura_de_computadores_1/leituras/#l3sem">3º semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -113,7 +108,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -121,15 +115,14 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />16/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td><b>Mini-introdução ao Linux</b> (<a href="/assets/disciplinas/arqcomp1/2023_1/basico_linux.pdf">notas de aula)</a><br />
+          <b>Mini-introdução à programação C</b> (<a href="/assets/disciplinas/arqcomp1/2023_1/basico_c.pdf">notas de aula)</a></td> <!-- Aula -->
+      <td>Sugestão: estude as leituras opcionais.</td> <!-- Leituras -->
+      <td><a href="/assets/disciplinas/arqcomp1/2023_1/lab_01.pdf">Início do Lab-1</a></td> <!-- Lab -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -137,7 +130,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -148,7 +140,6 @@
       <td>Feriado Carnaval</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -156,7 +147,6 @@
       <td>Feriado Carnaval</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -164,15 +154,13 @@
       <td>Feriado Carnaval</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Qui<br />23/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
+      <td>Entrega do Lab-1</td> <!-- Lab -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -180,7 +168,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -191,7 +178,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -199,7 +185,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -207,7 +192,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -215,7 +199,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -223,7 +206,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -234,7 +216,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -242,7 +223,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -250,7 +230,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -258,7 +237,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -266,7 +244,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -277,7 +254,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -285,7 +261,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -293,7 +268,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -301,7 +275,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -309,7 +282,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -320,7 +292,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -328,7 +299,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -336,7 +306,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -344,7 +313,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -352,7 +320,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -363,7 +330,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -371,7 +337,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -379,7 +344,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -387,7 +351,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -395,7 +358,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -406,7 +368,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -414,7 +375,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -422,7 +382,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -430,7 +389,6 @@
       <td>Feriado Semana Santa</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -438,7 +396,6 @@
       <td>Feriado Semana Santa</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -449,7 +406,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -457,7 +413,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -465,7 +420,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -473,7 +427,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -481,7 +434,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -492,7 +444,6 @@
       <td>Feriado Nossa Senhora da Penha</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -500,7 +451,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -508,7 +458,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -516,7 +465,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -524,7 +472,6 @@
       <td>Feriado Tiradentes</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -535,7 +482,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -543,7 +489,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -551,7 +496,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -559,7 +503,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -567,7 +510,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -578,7 +520,6 @@
       <td>Feriado Dia do Trabalho</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -586,7 +527,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -594,7 +534,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -602,7 +541,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -610,7 +548,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -621,7 +558,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -629,7 +565,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -637,7 +572,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -645,7 +579,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -653,7 +586,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -664,7 +596,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -672,7 +603,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -680,7 +610,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -688,7 +617,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -696,7 +624,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -707,7 +634,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -715,7 +641,6 @@
       <td>Feriado Colonização Solo ES</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -723,7 +648,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -731,7 +655,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -739,7 +662,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -750,7 +672,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -758,7 +679,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -766,7 +686,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -774,7 +693,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -782,7 +700,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -793,7 +710,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -801,7 +717,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -809,7 +724,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -817,7 +731,6 @@
       <td>Feriado Corpus Christi</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -825,7 +738,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -836,7 +748,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -844,7 +755,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -852,7 +762,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -860,7 +769,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -868,7 +776,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -879,7 +786,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -887,7 +793,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -895,7 +800,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -903,7 +807,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -911,7 +814,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
 
@@ -922,7 +824,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -930,7 +831,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -938,7 +838,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -946,7 +845,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -954,7 +852,6 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
       <td></td> <!-- Tarefas -->
     </tr>
   </tbody>
