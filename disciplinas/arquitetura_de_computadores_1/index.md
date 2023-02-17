@@ -2,7 +2,7 @@
 layout: page
 title: Arquit. de Computadores 1
 nav_exclude: false
-nav_order: 3
+nav_order: 50
 has_children: true
 has_toc: false
 ---
