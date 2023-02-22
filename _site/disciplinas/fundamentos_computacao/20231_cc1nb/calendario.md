@@ -6,7 +6,7 @@
       <th>Aula</th>
       <th>Leitura</th>
       <th>Lab</th>
-      <th>CR6.180A</th>
+      <th>CS50x</th>
       <th>Tarefa</th>
     </tr>
   </thead>
@@ -134,7 +134,7 @@
     </tr>
     <tr>
       <th>Sex<br />17/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>Aula inaugural e apresentação da disciplina</b></td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- CR6.180A -->
@@ -177,11 +177,14 @@
     </tr>
     <tr>
       <th>Sex<br />24/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Pensamento computacional</b><br />
+          (<a href="/assets/disciplinas/fundcomp/2023_1/pensamento_computacional.pdf">Notas
+          de aula</a>)</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/leituras/#l4sem">Leituras da
+          4ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
-      <td></td> <!-- Tarefas -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Week 0</a></td> <!-- CR6.180A -->
+      <td>Início do <a href="https://cs50.harvard.edu/x/2023/psets/0/">PSET-0</a></td> <!-- Tarefas -->
     </tr>
 
     <!-- 5ª SEMANA -->
@@ -220,11 +223,14 @@
     </tr>
     <tr>
       <th>Sex<br />03/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
-      <td></td> <!-- Tarefas -->
+      <td><b>Programação em C</b><br />
+          (Notas de aula)</td> <!-- Aula -->
+      <td>Leituras da 5ª semana</td> <!-- Leituras -->
+      <td><a href="https://cs50.harvard.edu/x/2023/labs/1/">Lab 1</a> +
+          <a href="https://cs50.harvard.edu/x/2023/problems/1/">Practice 1</a></td> <!-- Lab -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Week 1</a></td> <!-- CR6.180A -->
+      <td>Entrega do PSET-0.<br />
+          <a href="https://cs50.harvard.edu/x/2023/psets/1/">Início do PSET-1</a>.</td> <!-- Tarefas -->
     </tr>
 
     <!-- 6ª SEMANA -->
