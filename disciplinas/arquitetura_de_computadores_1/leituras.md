@@ -28,6 +28,7 @@ Livro de referência da disciplina:
   * Capítulo 1 do livro de referência, seções:
     * 1.4: Under the Covers
     * 1.5: Technologies for Building Processors and Memory
+    * 1.6: Performance
 
 **Leituras da 4ª Semana**<a id="l4sem"></a>
 {: .label .label-reading }
