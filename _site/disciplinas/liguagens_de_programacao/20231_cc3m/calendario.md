@@ -85,10 +85,10 @@
       <th>Sex<br />10/02</th> <!-- Dia e Data -->
       <td>Pensamento computacional, algoritmos, blocos de construção básicos
           dos programas, abstração, Sctrach.</td> <!-- Aula -->
-      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Começar Week 0 do CS50</a></td> <!-- Leituras -->
+      <td></td> <!-- Leituras -->
       <td><a href="https://cs50.harvard.edu/x/2023/psets/0/">Iniciar PSET 0</a><br />
           (entrega em 24/02)</td> <!-- CS50 -->
-      <td></td> <!-- Tarefas -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Começar Week 0 do CS50</a></td> <!-- Tarefas -->
     </tr>
 
     <!-- 3ª SEMANA -->
@@ -125,10 +125,10 @@
     <tr>
       <th>Sex<br />17/02</th> <!-- Dia e Data -->
       <td>(quinzena sem aula)</td> <!-- Aula -->
-      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Continuar Week 0 do CS50</a></td> <!-- Leituras -->
+      <td></td> <!-- Leituras -->
       <td><a href="https://cs50.harvard.edu/x/2023/psets/0/">Continuar PSET 0</a><br />
           (entrega em 24/02)</td> <!-- CS50 -->
-      <td></td> <!-- Tarefas -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Continuar Week 0 do CS50</a></td> <!-- Tarefas -->
     </tr>
 
     <!-- 4ª SEMANA -->
@@ -157,27 +157,28 @@
     <tr>
       <th>Qui<br />23/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><a href="/disciplinas/liguagens_de_programacao/leituras/#l4sem">Leituras da 4ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Sex<br />24/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Começar Week 1 do CS50</a></td> <!-- Leituras -->
+      <td>Apresentação dos projetos do PSET-0 (sorteio de 10 alunos)</td> <!-- Aula -->
+      <td></td> <!-- Leituras -->
       <td>Entregar PSET 0<br />
           <a href="https://cs50.harvard.edu/x/2023/labs/1/">Fazer Lab 1</a> e <a href="https://cs50.harvard.edu/x/2023/psets/1/">Iniciar PSET 1</a></td> <!-- CS50 -->
-      <td></td> <!-- Tarefas -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Começar Week 1 do CS50</a></td> <!-- Tarefas -->
     </tr>
 
     <!-- 5ª SEMANA -->
     <tr>
       <td rowspan=5>5</td> <!-- Número da semana-->
       <th>Seg<br />27/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- CS50 -->
-      <td></td> <!-- Tarefas -->
+      <td>Teste surpresa sobre o conteúdo do Capítulo 1 do livro.</td> <!-- Aula -->
+      <td><a href="/disciplinas/liguagens_de_programacao/leituras/#l5sem">Leituras da 5ª semana.</a></td> <!-- Leituras -->
+      <td><a href="https://cs50.harvard.edu/x/2023/psets/1/">Continuar PSET 1</a><br />
+          (entrega em 10/02)</td> <!-- CS50 -->3
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Continuar Week 1 do CS50</a></td> <!-- Tarefas -->
     </tr>
     <tr>
       <th>Ter<br />28/02</th> <!-- Dia e Data -->
@@ -202,7 +203,7 @@
     </tr>
     <tr>
       <th>Sex<br />03/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>(quinzena sem aula)</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
       <td></td> <!-- CS50 -->
       <td></td> <!-- Tarefas -->
