@@ -21,6 +21,26 @@ Livro de referência da disciplina:
   and Design: RISC-V Edition. The Hardware Software Inteface.</b> Cambridge:
   Morgan Kaufmann, 2021.
 
+**Leituras da 5ª Semana**<a id="l5sem"></a>
+{: .label .label-reading }
+
+* **Leituras obrigatórias:**
+  * Capítulo 1 do livro de referência, seções:
+    * 1.4: Under the Covers
+    * 1.5: Technologies for Building Processors and Memory
+
+**Leituras da 4ª Semana**<a id="l4sem"></a>
+{: .label .label-reading }
+
+* **Leituras opcionais:**
+  * [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): este
+    arquivo é o PDF do "Anexo C" do livro *Digital Design and Computer
+    Architecture* (também [disponível online](https://booksite.elsevier.com/9780128000564/index.php))
+  * [Linux/Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+  * [Linux Commands Cheat Sheet](https://www.pcwdld.com/linux-commands-cheat-sheet)
+  * [C Programming Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
+  * [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
+
 **Leituras da 3ª Semana**<a id="l3sem"></a>
 {: .label .label-reading }
 

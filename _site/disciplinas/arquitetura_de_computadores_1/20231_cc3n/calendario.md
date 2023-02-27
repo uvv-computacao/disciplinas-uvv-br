@@ -122,7 +122,7 @@
       <td><b>Mini-introdução ao Linux</b> (<a href="/assets/disciplinas/arqcomp1/2023_1/basico_linux.pdf">notas de aula)</a><br />
           <b>Mini-introdução à programação C</b> (<a href="/assets/disciplinas/arqcomp1/2023_1/basico_c.pdf">notas de aula)</a></td> <!-- Aula -->
       <td>Sugestão: estude as leituras opcionais.</td> <!-- Leituras -->
-      <td><a href="/assets/disciplinas/arqcomp1/2023_1/lab_01.pdf">Início do Lab-1</a></td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -158,9 +158,10 @@
     </tr>
     <tr>
       <th>Qui<br />23/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td>Entrega do Lab-1</td> <!-- Lab -->
+      <td><b>Compilação C. Conjunto de Instruções: a interface entre o hardware e
+      software.</b></td> <!-- Aula -->
+      <td><a href="/disciplinas/arquitetura_de_computadores_1/leituras/#l4sem">Leituras da 4ª semana</a></td> <!-- Leituras -->
+      <td><a href="/assets/disciplinas/arqcomp1/2023_1/lab_01.pdf">Lab-1</a></td> <!-- Lab -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
@@ -175,8 +176,12 @@
     <tr>
       <td rowspan=5>5</td> <!-- Número da semana-->
       <th>Seg<br />27/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
+      <td><b>Componentes clássicos do computador</b>.<br />
+          <b>Tecnologia para construir processadores e memórias</b>.
+          (<a href="/assets/disciplinas/arqcomp1/2023_1/cap01_aula02.pdf">notas de aula</a>)</td> <!-- Aula -->
+      <td><a
+      href="/disciplinas/arquitetura_de_computadores_1/leituras/#l5sem">Leituras
+      da 5ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Tarefas -->
     </tr>
@@ -196,9 +201,10 @@
     </tr>
     <tr>
       <th>Qui<br />02/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>Performance dos computadores</b>
+          (<a href="/assets/disciplinas/arqcomp1/2023_1/cap01_aula03.pdf">notas de aula</a>).</td> <!-- Aula -->
       <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
+      <td><a href="/assets/disciplinas/arqcomp1/2023_1/lab_02.pdf">Lab-2</a></td> <!-- Lab -->
       <td></td> <!-- Tarefas -->
     </tr>
     <tr>
