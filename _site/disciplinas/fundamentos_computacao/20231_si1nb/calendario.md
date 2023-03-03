@@ -184,7 +184,7 @@
           4ª semana</a></td> <!-- Leituras -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Week 0</a></td> <!-- CR6.180A -->
-      <td>Início do <a href="https://cs50.harvard.edu/x/2023/psets/0/">PSET-0</a></td> <!-- Tarefas -->
+      <td></td> <!-- Tarefas -->
     </tr>
 
     <!-- 5ª SEMANA -->
@@ -223,14 +223,14 @@
     </tr>
     <tr>
       <th>Sex<br />03/03</th> <!-- Dia e Data -->
-      <td><b>Programação em C</b><br />
-          (Notas de aula)</td> <!-- Aula -->
-      <td>Leituras da 5ª semana</td> <!-- Leituras -->
-      <td><a href="https://cs50.harvard.edu/x/2023/labs/1/">Lab 1</a> +
-          <a href="https://cs50.harvard.edu/x/2023/problems/1/">Practice 1</a></td> <!-- Lab -->
-      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Week 1</a></td> <!-- CR6.180A -->
-      <td>Entrega do PSET-0.<br />
-          <a href="https://cs50.harvard.edu/x/2023/psets/1/">Início do PSET-1</a>.</td> <!-- Tarefas -->
+      <td><b>Pensamento computacional: continuação</b><br />
+          (<a href="/assets/disciplinas/fundcomp/2023_1/pensamento_computacional.pdf">Notas
+          de aula</a>)</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/leituras/#l5sem">Leituras da
+          5ª semana</a></td> <!-- Leituras -->
+      <td></td> <!-- Lab -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/0/">Week 0</a></td> <!-- CR6.180A -->
+      <td><a href="https://cs50.harvard.edu/x/2023/psets/0/">Iniciar PSET-0</a></td> <!-- Tarefas -->
     </tr>
 
     <!-- 6ª SEMANA -->
@@ -269,11 +269,14 @@
     </tr>
     <tr>
       <th>Sex<br />10/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Leituras -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.180A -->
-      <td></td> <!-- Tarefas -->
+      <td><b>Programação em C</b><br />
+          (Notas de aula)</td> <!-- Aula -->
+      <td>Leituras da 6ª semana</td> <!-- Leituras -->
+      <td><a href="https://cs50.harvard.edu/x/2023/labs/1/">Lab 1</a> +
+          <a href="https://cs50.harvard.edu/x/2023/problems/1/">Practice 1</a></td> <!-- Lab -->
+      <td><a href="https://cs50.harvard.edu/x/2023/weeks/1/">Week 1</a></td> <!-- CR6.180A -->
+      <td>Entrega do PSET-0.<br />
+          <a href="https://cs50.harvard.edu/x/2023/psets/1/">Início do PSET-1</a>.</td> <!-- Tarefas -->
     </tr>
 
     <!-- 7ª SEMANA -->

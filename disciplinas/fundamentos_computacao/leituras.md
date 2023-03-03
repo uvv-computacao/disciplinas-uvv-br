@@ -9,6 +9,26 @@ has_children: false
 
 # Leituras obrigatórias e opcionais
 
+**Leituras da 5ª Semana**<a id="l5sem"></a>
+{: .label .label-reading }
+
+* **Leituras obrigatórias:**
+  * [Scratch: Getting
+    Started](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+  * [Scratch Tutorials](https://scratch.mit.edu/projects/editor/?tutorial=all)
+  * [Scratch Coding Cards](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf)
+  * [Primeiros passos com o Scratch](https://drive.google.com/file/d/1rBdLZ_KnZTJj4d0dps2TSnrPprjHjd7i/view)
+* **Vídeos obrigatórios:**
+  * [Scratch!](https://fast.wistia.net/embed/iframe/joal01i8b1)
+  * [Scratch Programming](https://www.youtube.com/watch?v=PmGQr8Rxf_Q) - aumente
+    o som! :^)
+* **Leituras opcionais:**
+  * [ScratchEd](https://scratched.gse.harvard.edu/)
+* **Vídeos opcionais:**
+  * [Scratch para iniciantes](https://www.youtube.com/watch?v=OIDoKeEOXeo)
+  * [Intro to Scratch](https://www.youtube.com/watch?v=ywG6lv9mFLI)
+  * [Como fazer uma animação no Scratch](https://www.youtube.com/watch?v=siZXmwYMy1k)
+
 **Leituras da 4ª Semana**<a id="l4sem"></a>
 {: .label .label-reading }
 
