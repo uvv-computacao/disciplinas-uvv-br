@@ -5,7 +5,7 @@ gem "jekyll", "~> 4.2.2"
 
 # Temas disponíveis para serem utilizados:
 #gem "minima", "~> 2.5"
-gem "just-the-docs", "0.4.0.rc4"
+gem "just-the-docs", "0.5.3"
 
 # Plugins a serem ativados:
 group :jekyll_plugins do
