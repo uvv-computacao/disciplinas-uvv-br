@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://disciplinas.uvv.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://disciplinas.uvv.br/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2023-12-19T02:22:59-03:00</updated><id>https://disciplinas.uvv.br/feed.xml</id><title type="html">Disciplinas UVV</title><subtitle>Informações sobre as disciplinas e recursos para alunos e professores da Universidade Vila Velha (UVV).</subtitle><entry><title type="html">Lista de discussão para os alunos de Bancos de Dados 1</title><link href="https://disciplinas.uvv.br/2023/02/06/lista-bd/" rel="alternate" type="text/html" title="Lista de discussão para os alunos de Bancos de Dados 1" /><published>2023-02-06T17:50:00-03:00</published><updated>2023-02-06T17:50:00-03:00</updated><id>https://disciplinas.uvv.br/2023/02/06/lista-bd</id><content type="html" xml:base="https://disciplinas.uvv.br/2023/02/06/lista-bd/"><![CDATA[<p>Os alunos matriculados na disciplina “Bancos de Dados 1” (turmas CC1M, CC1Mb,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://disciplinas.uvv.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://disciplinas.uvv.br/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2023-12-19T14:32:46-03:00</updated><id>https://disciplinas.uvv.br/feed.xml</id><title type="html">Disciplinas UVV</title><subtitle>Informações sobre as disciplinas e recursos para alunos e professores da Universidade Vila Velha (UVV).</subtitle><entry><title type="html">Pesquisas UVV já está disponível</title><link href="https://disciplinas.uvv.br/2023/12/19/limesurvey/" rel="alternate" type="text/html" title="Pesquisas UVV já está disponível" /><published>2023-12-19T13:30:00-03:00</published><updated>2023-12-19T13:30:00-03:00</updated><id>https://disciplinas.uvv.br/2023/12/19/limesurvey</id><content type="html" xml:base="https://disciplinas.uvv.br/2023/12/19/limesurvey/"><![CDATA[<p>Já está disponível, para toda comunidade UVV, o <strong>LimeSurvey</strong>, uma
+ferramenta <em>open source</em> para a realização de pesquisas/enquetes
+online.</p>
+
+<p>Essa ferramenta está disponível no endereço
+<a href="https://disciplinas.uvv.br/pesquisas/">disciplinas.uvv.br/pesquisas</a>
+e poderá ser utilizado por professores, funcionários e alunos da UVV,
+em situações onde a coleta de opiniões é necessária e pode ser
+realizada de forma online.</p>
+
+<p>Para saber mais sobre o LimeSurvey, visite:</p>
+
+<ul>
+  <li><a href="https://www.limesurvey.org/">LimeSurvey</a></li>
+</ul>]]></content><author><name>Abrantes Araújo Silva Filho</name></author><summary type="html"><![CDATA[Já está disponível, para toda comunidade UVV, o LimeSurvey, uma ferramenta open source para a realização de pesquisas/enquetes online.]]></summary></entry><entry><title type="html">Lista de discussão para os alunos de Bancos de Dados 1</title><link href="https://disciplinas.uvv.br/2023/02/06/lista-bd/" rel="alternate" type="text/html" title="Lista de discussão para os alunos de Bancos de Dados 1" /><published>2023-02-06T17:50:00-03:00</published><updated>2023-02-06T17:50:00-03:00</updated><id>https://disciplinas.uvv.br/2023/02/06/lista-bd</id><content type="html" xml:base="https://disciplinas.uvv.br/2023/02/06/lista-bd/"><![CDATA[<p>Os alunos matriculados na disciplina “Bancos de Dados 1” (turmas CC1M, CC1Mb,
 CC1Mc, CC1N e SI1N) devem assinar a lista de discussão por email da disciplina.
 Essa lista de discussão é uma ferramenta complementar disponibilizada pelo
 professor para proporcionar mais um método de <strong>comunicação</strong>, <strong>discussão</strong>,

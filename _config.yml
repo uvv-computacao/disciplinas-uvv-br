@@ -54,6 +54,8 @@ aux_links:
     - 'https://aluno.uvv.br'
   Professor:
     - 'https://professor.uvv.br'
+  Pesquisas:
+    - 'https://disciplinas.uvv.br/pesquisas'
 
 # Títulos e cores dos callouts:
 callouts:
