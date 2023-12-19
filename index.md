@@ -6,69 +6,72 @@ nav_order: 1
 permalink: /
 ---
 
-# Bem-vindo ao "**Disciplinas UVV**"!
+# **Disciplinas UVV**
 {: .fs-9 }
 
-Informações sobre as disciplinas e recursos para os alunos
-e professores da [Universidade Vila Velha (UVV)](https://uvv.br).
+Informações e recursos para as disciplinas da [Universidade Vila Velha
+(UVV)](https://uvv.br).
 {: .fs-6 .fw-300 }
 
 ---
 
-## Informações importantes
+## Bem-vindo!
 
-### Estamos em construção!
+A UVV é conhecida no mundo acadêmico como a **Melhor Universidade Privada do
+Brasil**, um título anual que considera diversos indicadores do Ministério da
+Educação (MEC) e do Instituto Nacional de Estudos e Pesquisas Educacionais
+Anísio Teixeira (Inep). No início de 2023 conquistamos o título de melhor
+universidade privada pelo [sexto ano
+consecutivo](https://tinyurl.com/uvvmelhorbrasil)! Sim, você fez a escolha certa
+para seu futuro.
 
-Este site está em fase inicial de construção e muita coisa
-ainda precisa ser configurada, corrigida e testada antes da
-entrada em produção (e divulgação geral). Solicitamos a
-compreensão e paciência de todos durante essa fase inicial.
-Obrigado!
+## O que você encontrará aqui?
 
-### Qual o objetivo?
+Este site pretende ser um centralizador de informações e recursos para as
+disciplinas da UVV, de forma a complementar o Portal do Aluno e fornecer uma
+visão mais integrada de cada disciplina, tanto para os alunos quanto para os
+professores.
 
-Nesta primeira fase o Disciplinas UVV abrigará o **Projeto Integrado**
-entre as disciplinas:
+Como ainda estamos em fase inicial de desenvolvimento, poucos professores e
+disciplinas estarão disponíveis e, mesmo assim, nem tudo pode estar funcionando
+100% neste primeiro momento. **Contamos com a compreensão e paciência de todos**
+até que todos os ajustes e otimizações sejam concluídos.
 
-* Experiência e Interface com o Usuário, [Profa. Susiléa](mailto:sabreu@uvv.br);
-* Design e Desenvolvimento de Bancos de Dados, [Prof. Abrantes](mailto:abrantesasf@uvv.br); e
-* Construção de Software para Web [Prof. Otávio](mailto:otavio.santos@uvv.br).
+{: .important }
+> No momento apenas algumas disciplinas selecionadas da área da computação
+> (Ciência da Computação; Sistemas de Informação) poderão utilizar este
+> site. Por favor, tenha paciência até que sua disciplina possa ser adicionada,
+> no futuro.
+>
+> {: .opaque }
+> <div markdown="block">
+> {: .note }
+> Essa decisão foi tomada porque como ainda estamos implementando e testando
+> tudo, podem ocorrer falhas e situações inesperadas e não queremos que tais
+> problemas ocorram com professores que não sejam da área da computação (que
+> conseguem resolver problemas técnicos diretamente).
+> </div>
 
-Em uma segunda fase e caminhando de modo mais ou menos paralelo ao Projeto
-Integrado, será feito um piloto para a criação de **sites específicos para
-disciplinas selecionadas da área de computação da UVV**, com o objetivo de
-divulgar informações e recursos para alunos e professores, bem como mostrar
-à comunidade acadêmica nacional o compromisso e a qualidade dos cursos da UVV.
-Por que essa seleção inicial nada "justa" de alguns cursos da computação?
-Porque ainda estamos implementando e testando e, com certeza, muitos erros
-estão sendo (e serão) cometidos até que tudo esteja pronto e, portanto, não
-teremos condições de prestar suporte para outros professores que queiram
-utilizar este site no momento.
+## Como usar este site?
 
-A idéia de criar sites específicos para as disciplinas não é, de forma
-alguma, para substituir o Portal do Aluno e/ou o Portal do Professor mas,
-sim, para complementar essas ferramentas já em uso pela UVV.
-{: .admonition }
+Verifique, na barra lateral esquerda, se o nome de sua disciplina está
+listado. Se estiver, basta clicar em sua disciplina e navegar pelas informações
+e recursos que o seu professor disponibilizou. Você pode encontrar materiais de
+referências, listas de leituras, cronogramas de estudo, notas de aula,
+enfim... tudo o que o seu professor julgar necessário para que você aprenda
+efetivamente o conteúdo.
 
-Em uma terceira fase, em médio prazo, pretendemos disponibilizar ferramentas
-automatizadas de interesse para os professores e alunos da computação, tais
-como *autograders*, verificação de plágio em códigos, portais para liberação
-de conteúdo (usando ferramentas MOOC consagradas), testes e provas online
-(com correção automática), confecção automática de certificados de conclusão
-de cursos e muitas outras funcionalidades! Obviamente essas funcionalidades
-também serão implementadas e testadas somente para alguns cursos selecionados
-da área da computação pelos motivos já expostos anteriormente.
+{: .danger }
+> Lembre-se sempre de que este site é um **complemento** ao Portal do Aluno. As
+> informações oficiais da disciplina estarão lá e você deve consultar o portal
+> periodicamente. Utilize este site para ter uma visão integrada e simplificada
+> de sua disciplina, e para orientar seus estudos. Em caso de dúvidas entre em
+> contato com o professor ou os monitores de sua disciplina.
 
-Em longo prazo, quando as ferramentas estiverem testadas e com alto nível de
-maturação, o Disciplinas UVV poderá ser utilizado por todas as áreas e
-cursos da universidade.
+Visite também o blog: ele ainda não é atualizado com freqüência, mas pode ter
+alguma dica ou notícia interessante.
 
-### Gostei, onde consigo mais informações?
-
-No momento este projeto está sendo desenvolvido pelo Prof. Abrantes Araújo
-Silva Filho, sob supervisão da Profa. Susiléa Abreu S. Lima (coordenadora dos
-cursos de computação na UVV). Para saber mais detalhes ou saber como ajudar,
-por favor envie um e-mail para [abrantesasf@uvv.br](mailto:abrantesasf@uvv.br).
+Bons estudos!
 
 ---
 
