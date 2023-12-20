@@ -40,13 +40,19 @@ color_scheme: light
 
 # Configurações de busca:
 search_enabled: true
-search.heading_level: 3
+search:
+  heading_level: 3
+  previews: 5
+  preview_words_before: 5
+  preview_words_after: 7
 
 # Links permanentes:
 permalink: pretty
 
-# Links na barra superior direita:
+# Habilita links de âncoras de títulos?
 heading_anchors: true
+
+# Links na barra superior direita:
 aux_links:
   UVV:
     - 'https://uvv.br'
@@ -56,6 +62,24 @@ aux_links:
     - 'https://professor.uvv.br'
   Pesquisas:
     - 'https://disciplinas.uvv.br/pesquisas'
+  Autolab:
+    - 'https://autolab.computacaoraiz.com.br'
+aux_links_new_tab: true
+
+# Links externos adicionais na barra lateral de navegação
+nav_external_links:
+  - title: Autolab
+    url: https://autolab.computacaoraiz.com.br
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: "Portal do Aluno"
+    url: https://aluno.uvv.br/
+    hide_icon: false
+    opens_in_new_tab: true
+
+# Configurações para o rodapé:
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d %H:%M:%S %z"
 
 # Títulos e cores dos callouts:
 callouts:

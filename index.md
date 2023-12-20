@@ -4,6 +4,7 @@ title:  Home
 nav_exclude: false
 nav_order: 1
 permalink: /
+last_modified_date: 2023-12-19 16:00 -0300
 ---
 
 # **Disciplinas UVV**
@@ -72,9 +73,3 @@ Visite também o blog: ele ainda não é atualizado com freqüência, mas pode t
 alguma dica ou notícia interessante.
 
 Bons estudos!
-
----
-
-Última atualização: {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
-
-
