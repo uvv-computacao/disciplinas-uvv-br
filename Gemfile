@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Versão do Jekyll a ser executada:
-gem "jekyll", "~> 4.2.2"
+gem "jekyll", "~> 4.3.2"
 
 # Temas disponíveis para serem utilizados:
 #gem "minima", "~> 2.5"
