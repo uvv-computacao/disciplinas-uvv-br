@@ -1,0 +1,14 @@
+digraph {
+    cr6100b [label="Computação Raiz\nCR6.100B", style="bold"];
+    cs50 [label="Harvard\nCS50", style="bold"];
+    bjc [label="Berkeley\nBJC"];
+    cs10 [label="Berkeley\nCS10"];
+    mit6001 [label="MIT\n6.001/6.0001"];
+    fundcomp [label="UVV\nFundamentos da Computação"];
+
+    cs50    -> cr6100b [style="bold"];
+    cs10    -> cr6100b [style="dashed"];
+    bjc     -> cr6100b [style="dashed"];
+    mit6001 -> cr6100b [style="dashed"];
+    cr6100b -> fundcomp;
+}
