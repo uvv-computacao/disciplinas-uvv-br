@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linguagens de Programação
-nav_exclude: false
+nav_exclude: true
 nav_order: 200
 has_children: true
 has_toc: false

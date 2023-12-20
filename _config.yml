@@ -76,6 +76,10 @@ nav_external_links:
     url: https://aluno.uvv.br/
     hide_icon: false
     opens_in_new_tab: true
+  - title: Pesquisas
+    url: https://disciplinas.uvv.br/pesquisas/
+    hide_icon: true
+    opens_in_new_tab: true
 
 # Configurações para o rodapé:
 last_edit_timestamp: true

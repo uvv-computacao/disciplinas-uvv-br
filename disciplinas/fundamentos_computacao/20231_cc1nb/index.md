@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2023/1 - Turma CC1Nb
-nav_exclude: false
+nav_exclude: true
 nav_order: 20
 parent: Fundamentos da Computação
 has_children: true

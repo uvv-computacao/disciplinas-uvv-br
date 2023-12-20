@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bancos de Dados 1
-nav_exclude: false
+nav_exclude: true
 nav_order: 100
 has_children: true
 has_toc: false
