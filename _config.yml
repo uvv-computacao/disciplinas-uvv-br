@@ -116,6 +116,9 @@ callouts:
   danger:
     title: Perigo
     color: red
+  cuidado:
+    title: Cuidado
+    color: red
   error:
     title: Erro
     color: purple

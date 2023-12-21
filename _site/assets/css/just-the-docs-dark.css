@@ -8150,6 +8150,71 @@ blockquote.danger-title > p:last-child {
   margin-bottom: 0;
 }
 
+p.cuidado, blockquote.cuidado {
+  background: rgba(221, 46, 46, 0.2);
+  border-left: 4px solid #f77e7e;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  padding: 0.8rem;
+}
+p.cuidado::before, blockquote.cuidado::before {
+  color: #f77e7e;
+  content: "Cuidado";
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  padding-bottom: 0.125rem;
+}
+p.cuidado > .cuidado-title, blockquote.cuidado > .cuidado-title {
+  color: #f77e7e;
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  padding-bottom: 0.125rem;
+}
+
+p.cuidado-title, blockquote.cuidado-title {
+  background: rgba(221, 46, 46, 0.2);
+  border-left: 4px solid #f77e7e;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  padding: 0.8rem;
+}
+p.cuidado-title > p:first-child, blockquote.cuidado-title > p:first-child {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #f77e7e;
+  display: block;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  padding-bottom: 0.125rem;
+}
+
+blockquote.cuidado {
+  margin-left: 0;
+  margin-right: 0;
+}
+blockquote.cuidado > p:first-child {
+  margin-top: 0;
+}
+blockquote.cuidado > p:last-child {
+  margin-bottom: 0;
+}
+
+blockquote.cuidado-title {
+  margin-left: 0;
+  margin-right: 0;
+}
+blockquote.cuidado-title > p:nth-child(2) {
+  margin-top: 0;
+}
+blockquote.cuidado-title > p:last-child {
+  margin-bottom: 0;
+}
+
 p.error, blockquote.error {
   background: rgba(56, 24, 133, 0.2);
   border-left: 4px solid #7253ed;

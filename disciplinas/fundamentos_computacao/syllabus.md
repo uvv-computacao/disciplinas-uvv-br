@@ -100,42 +100,168 @@ e 20h online) e está dividida em **aulas**, **monitorias**, **tutorias**,
 **diários de aprendizagem**, **exercícios**, **laboratórios** e **PSETs** (estes
 três últimos realizados no Autolab).
 
-* **AULAS**: cada turma terá 1 (uma) aula presencial por semana, com 1:40h de
-  duração, conforme o calendário da UVV (consulte a seção específica de sua
-  turma para ver os dias/horários de sua turma). A presença nas aulas é
-  obrigatória e terá peso na nota da disciplina.
+### 3.1. Aulas
+Cada turma terá 1 (uma) aula presencial por semana, com 1:40h de duração,
+conforme o calendário da UVV (consulte a seção específica de sua turma para
+ver os dias/horários de sua turma). A presença nas aulas é obrigatória e terá
+peso na nota da disciplina. 
   
-  {: .attention }
-  Conforme normas da UVV você pode acumular até 10 horas de faltas, o que
-  corresponde a perder 5 dias de aula. Caso você ultrapasse as 10 horas (ou 5
-  dias) de faltas você será automaticamente reprovado na disciplina, sem
-  possibilidade de recurso. O professor tem liberdade de escolher a política de
-  tomada de presença que melhor lhe convier (por exemplo: fazer uma única
-  chamada durante a aula, fazer uma chamada no início e outra no final, utilizar
-  listas em papel ou o sistema online).
+{: .attention }
+Conforme normas da UVV você pode acumular até 10 horas de faltas, o que
+corresponde a perder 5 dias de aula. Caso você ultrapasse as 10 horas (ou 5
+dias) de faltas você será automaticamente reprovado na disciplina, sem
+possibilidade de recurso. O professor tem liberdade de escolher a política de
+tomada de presença que melhor lhe convier (por exemplo: fazer uma única
+chamada durante a aula, fazer uma chamada no início e outra no final, utilizar
+listas em papel ou o sistema online).
+
+### 3.2. Monitorias
+Cada turma terá, além das horas de aula normais, até 6 horas de monitoria por
+semana, com um aluno monitor (um aluno que já passou pela disciplina e agora
+ajuda aos que estão começando). As monitorias são realizadas no período
+vespertino, conforme calendário específico de cada turma. A presença em, pelo
+menos, 2 horas semanais de monitoria é obrigatória e terá peso na nota da
+disciplina. Os monitores farão o seguinte:
+
+* Aulas de revisão do conteúdo da aula
+* Aulas com conteúdos extras importantes
+* Ajudarão nos **exercícios**, **laboratórios** e **PSETs** no Autolab
+* Estarão à disposição para esclarecimento de dúvidas
+* Receberão e farão a conferência dos **diários de aprendizagem**
+* Avaliarão os códigos que vocês enviarem no Autolab, quanto à correção,
+  design e estilo
+* Utilizarão ferramentas de inteligência artificial para a detecção de cola ou
+  plágio nas atividades do Autolab
+* Fornecerão feedback nas atividades do Autolab
   
-* **MONITORIAS**: cada turma terá, além das horas de aula normais, até 6 horas
-  de monitoria por semana, com um aluno monitor (um aluno que já passou pela
-  disciplina e agora ajuda aos que estão começando). As monitorias são
-  realizadas no período vespertino, conforme calendário específico de cada
-  turma. A presença em, pelo menos, 2 horas semanais de monitoria é obrigatória
-  e terá peso na nota da disciplina. Os monitores farão o seguinte:
-  * Aulas de revisão do conteúdo da aula
-  * Aulas com conteúdos extras importantes
-  * Ajudarão nos **exercícios**, **laboratórios** e **PSETs** no Autolab
-  * Estarão à disposição para esclarecimento de dúvidas
-  * Receberão e farão a conferência dos **diários de aprendizagem**
-  * Avaliarão os códigos que vocês enviarem no Autolab, quanto à correção,
-    design e estilo
-  * Utilizarão ferramentas de inteligência artificial para a detecção de cola ou
-    plágio nas atividades do Autolab
-  * Fornecerão feedback nas atividades do Autolab
+{: .attention }
+A **participação nas monitorias é essencial** para seu aprendizado! Apesar de
+introdutória esta não é uma disciplina fácil e você terá que dedicar um tempo
+considerável de estudo e realização de atividades. Você terá muitas dúvidas
+que devem ser sanadas com os monitores. Como a participação nas monitorias é
+fundamental para seu aprendizado, é obrigatório que você participe de, pelo
+menos, 2 horas de monitoria por semana (você pode participais de mais horas
+e/ou dias de monitoria, se houver vaga). Você não será reprovado se faltar às
+monitorias, mas perderá pontuação na nota da disciplina.
+
+### 3.3. Tutorias
+Além de poder participar das monitorias, juntamente com seus colegas, você pode
+marcar tutorias com o professor. As tutorias são pequenas reuniões (presenciais
+ou online) que você faz, de modo individual ou em pequenos grupos, com o
+professor, para esclarecimento de dúvidas ou busca de ajuda. A participação nas
+tutorias é opcional.
+
+{: .attention }
+As tutorias têm duração de 20 minutos e devem ser agendadas previamente. O
+calendário e a forma de agendamento serão divulgadas no momento oportuno.
+
+### 3.4. Diários de aprendizagem
+São exercícios discursivos sobre o conteúdo da matéria. Praticamente em todas as
+semanas você receberá um arquivo PDF com as questões discursivas referentes ao
+conteúdo da semana. Esse arquivo deve ser **impresso e respondido de forma
+manuscrita**, e entregue para seu monitor nas datas especificadas. Os diários
+também têm peso na nota da disciplina.
+    
+{: .attention }
+Os **diários de aprendizagem** são uma ferramenta poderosa de estudo e
+auto-avaliação. Eles serão vistoriados pelos monitores e/ou professor, mas
+não serão corrigidos. Todas as dúvidas e dificuldades nos exercícios dos
+diários devem ser discutidas com os monitores nos dias de monitoria. Verifique
+no calendário de sua turma as datas de entrega dos diários, para não perder
+pontos por atraso.
+
+### 3.5. Atividades no Autolab
+Durante todo o curso você fará diversas atividades de programação para a
+resolução de problemas nos mais variados campos do conhecimento humano. Apesar
+de você programar as soluções para os problemas, o foco não é em aprender uma ou
+outro linguagem de programação mas, sim, aprender computação. Essas atividades
+no Autolab são divididas em três grupos:
+
+* **Exercícios**: são tarefas básicas e relativamente fáceis de programação,
+  geralmente para ajudar a fixar um conceito ou uma técnica;
+* **Laboratórios (labs)**: são tarefas mais complexas de programação, que
+  envolverão mais raciocínio e compreensão mais profunda da matéria; e
+* **PSETs**: são problemas extremamente difíceis que desafiarão toda sua
+  capacidade de resolução e pensamento computacional. Prepare-se para gastar
+  várias horas por semana na resolução dos PSETs.
   
-  {: .attention }
-  A **participação nas monitorias é essencial** para seu aprendizado! Apesar de
-  introdutória esta não é uma disciplina fácil e você terá que dedicar um tempo
-  considerável de estudo e realização de atividades. Você terá muitas dúvidas
-  que devem ser sanadas com os monitores.
+{: .attention }
+Todas as atividades no Autolab **são obrigatórias** e valerão um peso
+considerável da nota da disciplina. Além disso a entrega de cada atividade é
+rigorosamente controlada: entregas em atrasos podem ter a pontuação
+severamente prejudicada e/ou zerada. Verifique no calendário de sua turma as
+datas de entrega de cada atividade no Autolab.
+
+{: .cuidado }
+> Todas as atividades de programação enviadas para o Autolab são analisadas para
+> a detecção de plágio e/ou cola e/ou cópia de código da Internet. A verificação
+> é feita através de dois sistemas altamente sofisticados:
+>
+> * [MOSS: Measure of Software Similarity](http://moss.stanford.edu/), da
+>   Universidade de Stanford; e
+> * [COMPARE50: Similarity in Code](https://tinyurl.com/compare50), da
+>   Universidade de Harvard.
+>
+> Esses sistemas são extremamente sofisticados e detectam plágio e/ou cópia de
+> código mesmo que você tente disfarçar ou modificar o programa (trocar nomes de
+> variáveis, mudar a indentação, reescrever comentários, etc.). Por favor, **não
+> tente a sorte**: você não vencerá os softwares, receberá nota 0 (zero) na
+> atividade e poderá ser encaminhado para a coordenação para as sanções
+> disciplinares previstas nas regras da UVV.
+
+## 4. O que esperamos de você?
+Nós esperamos que você:
+
+* Esteja presente em todas as aulas (prestando atenção e participando ativamente
+  das discussões);
+* Esteja presente em, pelo menos, 2 horas semanais de monitoria (grosso modo uma
+  tarde por semana). Você pode até participar de mais horas de monitoria, se
+  sentir necessidade e houver disponibilidade de vaga);
+* Faça e entregue todos os diários de aprendizagem para análise do monitor e/ou
+  professor;
+* Faça todos os exercícios e laboratórios no Autolab;
+* Faça todos os PSETs (no momento temos 6 no cronograma); e
+* Siga todas as normas de integridade acadêmica da disciplina.
+
+## 5. Objetivos de aprendizagem
+Ao final desta disciplina você deverá ser capaz de:
+
+* Entender o que é computação, ciência da computação e programação;
+* Entender os componentes do pensamento computacional, aplicando-os na resolução
+  de diversos problemas importantes;
+* Entender como a estrutura de um computador (processador e memória) influenciam
+  nos programas que você criar para resolver problemas;
+* Pensar mais metodicamente;
+* Representar e processar informação;
+* Se comunicar de forma sucinta e precisa;
+* Resolver problemas de modo correto e eficaz;
+* Utilizar técnicas de gerenciamento de complexidade ao resolver problemas;
+* Decompor um problema complexo em partes menores e achar a solução para essas
+  partes;
+* Operar com conforme em múltiplos níveis de abstração;
+* Programar proceduralmente;
+* Separar os detalhes de projeto (design) dos detalhes de implementação;
+* Inferir, a partir dos princípios, como os sistemas funcionam;
+* Avaliar a corretude, design e estilo do código de um programa;
+* Entender o básico sobre complexidade de algoritmos, e reconhecer alguns dos
+  algoritmos clássicos da computação;
+* Entender o básico sobre estruturas de dados, e reconhecer algumas das
+  estruturas de dados clássicas da computação;
+* Aprender por conta própria outras linguagens de programação;
+* Ler documentação técnica e tirar conclusões a partir das especificações;
+* Testar as soluções criadas, encontrando falhas e identificando casos extremos
+  que o programa trata, ou não, com corretude;
+* Descrever precisamente os sinais e sintomas de problemas;
+* Perguntar questões de modo claro;
+* Utilizar o terminal Linux, especificamente uma interface de linha de comando,
+  para interagir com o sistema operacional;
+* Utilizar um ambiente de desenvolvimento integrado; e
+* Sentir-se seguro e confiante na resolução de problemas de modo computacional.
+
+{: .important }
+Em última análise, o curso pretende fornecer uma base sólida para estudos
+adicionais em ciência da computação (e áreas afins) e capacitá-lo a aplicar a
+computação a problemas em outros domínios.
 
 ---
 **Notas:**
