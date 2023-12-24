@@ -8,8 +8,22 @@ has_children: false
 last_modified_date: 2023-12-20 15:24 -0300
 ---
 
-# Syllabus[^1]
+# Syllabus
 {:.no_toc}
+
+[(clique aqui para a versão PDF deste
+documento)](/assets/disciplinas/fundcomp/syllabus_2024_1.pdf)
+
+Além do material oficial que está disponível no Portal do Aluno da UVV
+(Universidade de Vila Velha), este documento contém mais detalhes sobre a
+dinâmica da disciplina **Fundamentos de Tecnologia da Computação** (Fundamentos
+da Computação) para as turmas deste semestre (2024/1). Leia-o com atenção e
+procure o professor para esclarecer qualquer dúvida. O *syllabus*[^1] funcionará
+como a nossa "constituição", ou seja, será a base para todas as regras,
+políticas e funcionamento de nosso curso. Além do *syllabus* a ementa oficial da
+disciplina está [disponível para
+download](/assets/disciplinas/fundcomp/ementa_2024_1.pdf).
+
 [^1]: Ementa, plano detalhado de estudo, programa de estudos.
 
 ## Sumário
@@ -18,22 +32,29 @@ last_modified_date: 2023-12-20 15:24 -0300
 * TOC
 {:toc}
 
-## 1. Professor
-<p>Abrantes Araújo Silva Filho
-<br />
-<a href="mailto:abrantesasf@uvv.br">abrantesasf@uvv.br</a></p>
+## 1. Visão geral da disciplina
+Olá, seja muito bem-vindo!
 
-## 2. Descrição
 Esta é a disciplina **Fundamentos de Tecnologia da Computação** (Fundamentos da
-Computação) da Universidade Vila Velha (UVV), voltada para alunos iniciantes nos
-cursos da área de computação (Ciência da Computação, Sistemas de Informação,
-Análise e Desenvolvimento de Sistemas, Engenharia da Computação e, na verdade,
-qualquer pessoa interessada, com ou sem experiência anterior em computação e/ou
-programação). Não se preocupe se você não tiver nenhuma experiência prévia na
-área: estatísticas globais mostram que $$2/3$$ dos estudantes em disciplinas
-introdutórias como esta não tinham nenhuma experiência prévia na área.
+Computação), para os cursos de [Ciência da
+Computação](https://uvv.br/ensino-presencial/graduacao/ciencia-da-computacao/) e
+[Sistemas de
+Informação](https://uvv.br/ensino-presencial/graduacao/sistemas-de-informacao/)
+da Universidade de Vila Velha (UVV).
 
-Esta disciplina é uma adaptação da "[CR6.100B: Introdução à Ciência da
+Esta disciplina está voltada para alunos iniciantes nos cursos da área de
+computação (Ciência da Computação, Sistemas de Informação, Análise e
+Desenvolvimento de Sistemas, Engenharia da Computação) mas, na verdade, qualquer
+pessoa interessada, de qualquer outra área ou curso, com ou sem experiência
+anterior em computação e/ou programação, tem condições de fazer a disciplina e
+aprender.
+
+Não se preocupe se você não tiver nenhuma experiência prévia na
+área: estatísticas globais (Universidades de Harvard e Yale) mostram que $$2/3$$
+dos estudantes em disciplinas introdutórias como esta não tinham nenhuma
+experiência prévia na área.
+
+O conteúdo da disciplina é uma adaptação da "[CR6.100B: Introdução à Ciência da
 Computação](https://www.computacaoraiz.com.br/cr6100b/)", do Computação Raiz,
 que, por sua vez, é uma tradução e adaptação da disciplina "[CS50: Introduction
 to Computer Science](https://cs50.harvard.edu/x/2023/)", da Universidade de
@@ -47,12 +68,12 @@ da Califórnia em Berkeley; [6.001](http://tinyurl.com/sicpocw) e
 Este curso ensina você a **resolver problemas**, com e sem código, com ênfase em
 correção, design e estilo. Os tópicos incluem pensamento computacional,
 abstração, algoritmos, estruturas de dados e ciência da computação de forma mais
-ampla. Teremos PSETs (conjuntos de problemas desafiadores)[^2] inspirados nas
-artes, humanidades, ciências sociais e ciências.
+ampla. Teremos **PSETs**[^2] (conjuntos de problemas desafiadores) inspirados
+nas artes, humanidades, ciências sociais e ciências.
 
 [^2]: PSET: é uma abreviatura para _Problem Set_, Conjunto de Problemas. Os
     PSETs são problemas altamente difíceis, que forçarão seu estudo e capacidade
-    de resolução de problemas.
+    de resolução ao máximo.
 
 Mais do que ensinar você a programar em uma determinada linguagem, este curso
 ensina os **fundamentos da computação** e os **fundamentos da programação**, de
@@ -77,7 +98,11 @@ comprometimento dos alunos, talvez seja possível ainda:
 * Juntar todo o aprendizado em um grane projeto final a ser exibido para toda a
   UVV!
 
-### 2.1. Diferenças entre a CR6.100B e a Fundamentos da Computação
+Prepare-se, pois esta disciplina é muito **extensa**, **árdua** e **difícil**,
+mas o resultado, se você se dedicar conforme descrito neste plano de ensino,
+será recompensador!
+
+### 1.1. Diferenças entre a CR6.100B e a Fundamentos da Computação
 A única diferença entre a CR6.100B e a Fundamentos da Computação é em relação ao
 tempo/quantidade de conteúdo. Como a CR6.100B é uma disciplina online, tem um
 cronograma mais "lento", no ritmo do próprio aluno; já a Fundamentos da
@@ -92,6 +117,249 @@ que da disciplina em si: se os alunos forem comprometidos, participarem de todas
 as atividades e estudarem com afinco, mais conteúdos podem ser vistos. O núcleo
 central do conteúdo (dos fundamentos até estruturas de dados) é sempre estudado,
 mas os conteúdos adicionais dependem do ritmo dos alunos.
+
+
+## 2. Pré-requisitos
+- **OBRIGATÓRIOS**[^3]:
+  - **Matemática**: familiaridade e conforto com, pelo menos, a matemática
+    do ensino médio (aritmética, álgebra, funções e conjuntos). Caso sua base
+    matemática seja fraca, veja o texto [Preparação para graduação em áreas
+    exatas: matemática além do
+    básico](https://www.abrantes.pro.br/2020/05/20/preparacao-para-graduacao-em-areas-exatas-matematica-alem-do-basico/),
+    com dicas para estudar novamente a matemática, do jeito certo.
+- **RECOMENDADOS**[^4]:
+  - **Computador**: você deve ter um computador com acesso a internet (câmera,
+    microfone e caixas de som são recomendados) e com capacidade suficiente para
+    instalar e executar os softwares que serão utilizados (um computador
+    recente, com arquitetura Intel x86 de 64 bits, com Linux, Windows ou Mac,
+    com 8 GiB de memória RAM e bastante espaço em disco). Verifique a Seção
+    [Laboratório de computação e computador
+    pessoal](#laboratrio-de-computao-e-computador-pessoal) para maiores
+    detalhes. Caso você não tenha um computador e/ou notebook, poderá utilizar
+    os laboratórios de informática da UVV, no período vespertino, para estudar e
+    realizar as atividades da disciplina; e
+  - **Inglês**: os livros e leituras obrigatórias ou opcionais da disciplina
+    estarão em português mas haverá também bastante conteúdo em inglês
+    (principalmente leitura de documentação técnica). Na área da computação é
+    absolutamente fundamental o domínio de inglês (se você não sabe inglês
+    COMECE JÁ a estudar).
+- **NÃO OBRIGATÓRIOS**[^5]:
+  - **Programação**: algum curso introdutório de programação, em qualquer
+    linguagem.
+
+[^3]: São conhecimentos prévios e/ou recursos que você, obrigatoriamente, deve
+    ter para que possa acompanhar adequadamente a disciplina e aprender o
+    conteúdo. Caso você não possua algum dos pré-requisitos obrigatórios poderá
+    ter dificuldade para acompanhar as aulas ou realizar todas as atividades
+    propostas pelo professor (nesse caso converse **imediatamente** com o
+    professor para explicar a situação e tentar encontrar uma solução).
+
+[^4]: São conhecimentos e/ou recursos que facilitarão muito o seu estudo. Caso
+    você não possua os requisitos recomendados, sugere-se que você faça um plano
+    para obtê-los com o tempo.
+
+[^5]: São conhecimentos prévios e/ou recursos não obrigatórias mas que, se você
+    tiver, podem facilitar seu estudo (você já terá uma base a partir da qual
+    irá desenvolver novas habilidades). Se você não tiver nenhum dos requisitos
+    não obrigatórios, não se preocupe: você conseguirá acompanhar a disciplina.
+
+## 3. Objetivos de aprendizagem
+Ao final desta disciplina você deverá ser capaz de:
+
+* Entender o que é computação, ciência da computação e programação;
+* Entender os componentes do pensamento computacional, aplicando-os na resolução
+  de diversos problemas importantes;
+* Entender como a estrutura de um computador (processador e memória) influenciam
+  nos programas que você criar para resolver problemas;
+* Pensar mais metodicamente;
+* Representar e processar informação;
+* Se comunicar de forma sucinta e precisa;
+* Resolver problemas de modo correto e eficaz;
+* Utilizar técnicas de gerenciamento de complexidade ao resolver problemas;
+* Decompor um problema complexo em partes menores e achar a solução para essas
+  partes;
+* Operar com conforme em múltiplos níveis de abstração;
+* Programar proceduralmente;
+* Separar os detalhes de projeto (design) dos detalhes de implementação;
+* Inferir, a partir dos princípios, como os sistemas funcionam;
+* Avaliar a corretude, design e estilo do código de um programa;
+* Entender o básico sobre complexidade de algoritmos, e reconhecer alguns dos
+  algoritmos clássicos da computação;
+* Entender o básico sobre estruturas de dados, e reconhecer algumas das
+  estruturas de dados clássicas da computação;
+* Aprender por conta própria outras linguagens de programação;
+* Ler documentação técnica e tirar conclusões a partir das especificações;
+* Testar as soluções criadas, encontrando falhas e identificando casos extremos
+  que o programa trata, ou não, com corretude;
+* Descrever precisamente os sinais e sintomas de problemas;
+* Perguntar questões de modo claro;
+* Utilizar o terminal Linux, especificamente uma interface de linha de comando,
+  para interagir com o sistema operacional;
+* Utilizar um ambiente de desenvolvimento integrado; e
+* Sentir-se seguro e confiante na resolução de problemas de modo computacional.
+
+{: .important }
+Em última análise, o curso pretende fornecer uma base sólida para estudos
+adicionais em ciência da computação (e áreas afins) e capacitá-lo a aplicar a
+computação a problemas em outros domínios.
+
+
+## 4. Estrutura e recursos da disciplina
+
+### 4.1. Professor
+Olá, meu nome é Abrantes Araújo Silva Filho e serei o professor responsável pela
+sua turma. Algumas informações sobre mim:
+
+- Sou graduado em **medicina** pela [UFES](https://ufes.br/) (1999), mestre em
+  **epidemiologia e métodos quantitativos em saúde** pela
+  [FIOCRUZ](https://portal.fiocruz.br/) (2002) e graduado em **ciência da
+  computação** pela [FAESA](https://www.faesa.br/) (2021). Atualmente sou
+  estudante do bacharelado em **matemática** da
+  [Uninter](https://www.uninter.com/), na modalidade de ensino a distância
+  (EAD).
+- Meus principais sites:
+  - [www.linkedin.com/in/abrantes-filho](https://www.linkedin.com/in/abrantes-filho/)
+  - [github.com/abrantesasf](https://github.com/abrantesasf) e também
+    [github.com/computacaoraiz](https://github.com/computacaoraiz)
+  - [www.abrantes.pro.br](https://www.abrantes.pro.br/) e também
+    [www.computacaoraiz.com.br](https://www.computacaoraiz.com.br)
+  - [www.youtube.com/computacaoraiz](https://www.youtube.com/computacaoraiz)
+  - [cursos.computacaoraiz.com.br](https://cursos.computacaoraiz.com.br)
+- Informações de contato:
+  - [abrantesasf@uvv.br](mailto:abrantesasf@uvv.br)
+  - (27) 9-9991-4393, para entrar em contato via
+    [Signal](https://signal.org/)[^6] (eu não uso WhatsApp).
+
+[^6]: Eu não uso o WhatsApp por motivos de privacidade. Se quiser me mandar uma
+    mensagem, você terá que usar o Signal.
+
+### 4.2. Monitores
+Esta disciplina conta com diversos monitores para auxiliar o estudo e orientar
+os alunos. Conheça os monitores na página sobre o
+[Pessoal](/disciplinas/fundamentos_computacao/pessoal/) da disciplina.
+
+Os monitores, em conjunto, proporcionarão 10 horas semanais de orientação, das
+quais você tem que participar obrigatoriamente em 2 horas. Essas horas
+obrigatórias de monitoria serão realizadas em um dia fixo específico da semana,
+durante o período vespertino. Você deverá escolher o dia da semana de sua
+preferência ao responder o questionário inicial da disciplina.
+
+{: .note }
+Os monitores são alunos que já fizeram (e foram aprovados) na disciplina, e
+estão voluntariamente dedicando tempo e esforço para ajudar os novos alunos. Por
+favor, entenda que os monitores, por mais capacitados que estejam, podem não
+saber alguns aspectos mais avançados da matéria. Contamos com sua compreensão:
+os monitores são alunos, assim como vocês.
+
+O papel dos monitores é variado e inclui, entre outros:
+
+- Dar aulas de revisão do conteúdo visto com o professor;
+- Dar aulas com conteúdo extra importante;
+- Ajudar nos exercícios, laboratórios e PSETs a serem realizados no Autolab (mas
+  sem dar as respostas!);
+- Receber, conferir e vistar os diários de aprendizagem;
+- Avaliar os códigos dos programas que vocês enviarão no Autolab, quanto à
+  correção, estilo e design;
+- Fornecer *feedback* nas atividades do Autolab; e
+- Utilizar ferramentas de detecção de cola ou plágio nas atividades do Autolab.
+
+{: .important }
+A participação semanal em 1 tarde de monitoria é obrigatória (2 horas de
+monitoria) e contará pontos para a nota final da disciplina mas, mais importante
+do que os pontos, é a aprendizagem que você terá: a participação na monitoria é
+**essencial** para seu aprendizado. Não menospreze a monitoria!
+
+### 4.3. Laboratório de computação e computador pessoal
+A estrutura de laboratórios de computação da UVV é excelente, possuindo máquinas
+com hardware e software padronizados que facilitam a realização das atividades.
+Além disso o benefício mais importante de trabalhar no laboratório é obter ajuda
+direta do professor, dos assistentes, e de seus próprios colegas de turma.
+
+Entretanto, por limitações de tempo, você precisará realizar tarefas em seu
+próprio computador pessoal. Veja aqui as configurações mínimas necessárias para
+que você consiga realizar todas as tarefas em seu próprio computador:
+
+- **Processador**: deve ter arquitetura INTEL x86, de 64 bits. Outras
+  arquiteturas, como a ARM (MacBook Air M1, por exemplo), podem não funcionar
+  em todos os casos (entre em contato com os monitores ou o professor em caso de
+  dúvidas). Qualquer computador relativamente recente com processador Intel ou
+  AMD já está adequado;
+- **Memória**: no mínimo 8 GiB de memória RAM (16 GiB é recomendável);
+- **Disco rígido**: se você optar pelas ferramentas online, qualquer quantidade
+  de espaço em disco já está adequada; se você optar pela máquina virtual da
+  disciplina, deve ter pelo menos 50 GiB de espaço livre em disco (70 GiB
+  durante a instalação da máquina virtual do curso);
+- **Sistema operacional**: Linux, Windows ou Mac (Linux é altamente
+  recomendado!);
+- **Monitor**: no mínimo um monitor HD (Full HD é recomendável). Seu monitor
+  deve ser grande o suficiente para que você possa trabalhar com conforto.
+  Se você tiver dois monitores poderá realizar as tarefas em um monitor e
+  usar o outro para ler o conteúdo ou consultar a documentação técnica;
+- **Internet**: você deve ter uma conexão razoavelmente rápida para fazer o
+  download da máquina virtual. Além disso você precisará de uma conexão à
+  Internet para acessar e realizar as atividades no Autolab;
+- **Som**: não é obrigatório, exceto se algumas aulas extras online forem
+  realizadas;
+- **Microfone**: não é obrigatório, exceto se algumas aulas extras online forem
+  realizadas; e
+- **Câmera**: não é obrigatória, mas uma *webcam* pode ser utilizada caso alguma
+  aula extra seja feita de forma online.
+
+### 4.4. Grau de dificuldade e esforço estimado
+Tenha sempre em mente que esta disciplina é extensa e precisa de **dedicação**,
+**estudo** e **atividades diárias** para que você consiga aprender tudo o que é
+necessário. Em especial atente-se para o seguinte:
+
+- **Nível**: esta disciplina é de nível introdutório a intermediário;
+- **Língua**: as aulas, livros e materiais da disciplina são em **português**,
+  mas alguns materiais (leituras e vídeos) estão em inglês. Os softwares
+  utilizados estão, em sua maioria, em inglês (alguns oferecem   tradução para
+  português);
+- **Esforço total**: 10-15 horas de estudo por semana, **além da carga horária
+  das aulas presenciais**, dependendo de seu conhecimento e habilidades prévias.
+  Prepare-se para dedicar, em média, 1-2 horas diárias para leitura e realização
+  das atividades programadas;
+- **Leitura**: parte do esforço nessa disciplina é voltado para atividades de
+  leitura. Prepare-se para ler bastante conteúdo online e, também, bastante
+  documentação técnica em inglês; e
+- **Trabalhos e atividades**: a maior parte do esforço nessa matéria é
+  representada pelas atividades de diários de aprendizagem e trabalhos no
+  Autolab (em especial, os **PSETs** são atividades que consumirão bastante
+  tempo de dedicação).
+
+Você já percebeu que esta disciplina precisa de um grau de **dedicação de tempo
+e esforço** consideráveis. Mesmo assim, se você estiver gastando mais tempo do
+que esforço total indicado acima, pode ser um sinal de que você precisa de ajuda
+para entender melhor o material. Entre imediatamente em contato com o professor,
+não deixe acumular dúvidas.
+
+Eu espero que você, como estudante universitário[^7], esteja buscando aprender o
+máximo possível e fazendo todo esforço para se dedicar nas atividades propostas e
+aprender por conta própria de acordo com as orientações do professor. Lembre-se:
+a única maneira de aprender é estudar! Leia os textos indicados abaixo para saber o
+que faz a diferença no momento de estudar:
+
+[^7]: O estudo em nível universitário é **muito diferente** do estudo em nível de ensino médio. Na universidade você terá que ler muito e aprender muita coisa por conta própria. Não espere que o professor vá passar todo o conteúdo mastigado e resumido para você decorar para a prova, essa vida acabou!
+
+- [Como estudar? Dicas ao estudante iniciante](https://www.abrantes.pro.br/2020/08/09/como-estudar-dicas-ao-estudante-iniciante/)
+- [O problema é o tamanho do lápis](https://www.abrantes.pro.br/2020/06/13/o-problema-e-o-tamanho-do-lapis/)
+- [Você gasta sua borracha?](https://www.abrantes.pro.br/2020/10/24/voce-gasta-sua-borracha/)
+
+Eu também espero que você seja um **estudante** e não um **aluno**. E que você
+tenha **brio**, seja **bravo**, **persistente** e **resiliente** para encarar
+o desafio! Assista os pequenos vídeos indicados a seguir para saber a diferença
+entre aluno e estudante, e para saber a necessidade de brio para estudar:
+
+- [Aluno ou estudante?](https://www.youtube.com/watch?v=SOQedoCAoLI) Do
+  professor Pierluigi Piazzi; e
+- [Você tem brio?](https://www.youtube.com/watch?v=TRPBY_lxJfE) Do professor
+  Clovis de Barros Filho (desconsidere os palavrões, assista até o final!)
+
+Para saber como **vencer a procrastinação e manter o estudo em dia**, assista
+ao seguinte vídeo (ative as legendas em português se necessário):
+
+- [Why we procrastinate?](https://www.youtube.com/watch?v=WD440CY2Vs0) de Vik
+  Nithy.
 
 
 ## 3. Dinâmica da disciplina
@@ -223,45 +491,7 @@ Nós esperamos que você:
 * Faça todos os PSETs (no momento temos 6 no cronograma); e
 * Siga todas as normas de integridade acadêmica da disciplina.
 
-## 5. Objetivos de aprendizagem
-Ao final desta disciplina você deverá ser capaz de:
 
-* Entender o que é computação, ciência da computação e programação;
-* Entender os componentes do pensamento computacional, aplicando-os na resolução
-  de diversos problemas importantes;
-* Entender como a estrutura de um computador (processador e memória) influenciam
-  nos programas que você criar para resolver problemas;
-* Pensar mais metodicamente;
-* Representar e processar informação;
-* Se comunicar de forma sucinta e precisa;
-* Resolver problemas de modo correto e eficaz;
-* Utilizar técnicas de gerenciamento de complexidade ao resolver problemas;
-* Decompor um problema complexo em partes menores e achar a solução para essas
-  partes;
-* Operar com conforme em múltiplos níveis de abstração;
-* Programar proceduralmente;
-* Separar os detalhes de projeto (design) dos detalhes de implementação;
-* Inferir, a partir dos princípios, como os sistemas funcionam;
-* Avaliar a corretude, design e estilo do código de um programa;
-* Entender o básico sobre complexidade de algoritmos, e reconhecer alguns dos
-  algoritmos clássicos da computação;
-* Entender o básico sobre estruturas de dados, e reconhecer algumas das
-  estruturas de dados clássicas da computação;
-* Aprender por conta própria outras linguagens de programação;
-* Ler documentação técnica e tirar conclusões a partir das especificações;
-* Testar as soluções criadas, encontrando falhas e identificando casos extremos
-  que o programa trata, ou não, com corretude;
-* Descrever precisamente os sinais e sintomas de problemas;
-* Perguntar questões de modo claro;
-* Utilizar o terminal Linux, especificamente uma interface de linha de comando,
-  para interagir com o sistema operacional;
-* Utilizar um ambiente de desenvolvimento integrado; e
-* Sentir-se seguro e confiante na resolução de problemas de modo computacional.
-
-{: .important }
-Em última análise, o curso pretende fornecer uma base sólida para estudos
-adicionais em ciência da computação (e áreas afins) e capacitá-lo a aplicar a
-computação a problemas em outros domínios.
 
 ---
 **Notas:**
