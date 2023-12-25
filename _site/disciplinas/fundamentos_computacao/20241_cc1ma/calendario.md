@@ -32,10 +32,13 @@
     </tr>
     <tr>
       <th>Qua<br />07/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Unidade -1: Apresentação</td> <!-- Aula -->
+      <td>Syllabus, disciplinas
+          <br />
+          <a href="http://tinyurl.com/cr6100bhome">CR6.100B: Home</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
+      <td>Diário -1: apresentação</td> <!-- Liberação -->
       <td></td> <!-- Entrega -->
     </tr>
     <tr>
@@ -83,11 +86,12 @@
     </tr>
     <tr>
       <th>Qui<br />15/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Reposição<br />
+          Unidade 0: introdução</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu0">CR6.100B: Unidade 0</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td>Diário 0: introdução</td> <!-- Liberação -->
+      <td>Diário -1: apresentação</td> <!-- Entrega -->
     </tr>
     <tr>
       <th>Sex<br />16/02</th> <!-- Dia e Data -->
@@ -118,11 +122,11 @@
     </tr>
     <tr>
       <th>Qua<br />21/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Unidade 1: computação</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu1">CR6.100B: Unidade 1</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td>Diário 1: computação</td> <!-- Liberação -->
+      <td>Diário 0: introdução</td> <!-- Entrega -->
     </tr>
     <tr>
       <th>Qui<br />22/02</th> <!-- Dia e Data -->
@@ -161,8 +165,9 @@
     </tr>
     <tr>
       <th>Qua<br />28/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula<br />
+          Unidade 1: computação</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu1">CR6.100B: Unidade 1</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
       <td></td> <!-- Entrega -->
@@ -204,8 +209,9 @@
     </tr>
     <tr>
       <th>Qua<br />06/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula<br />
+          Unidade 2: Programação</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu2">CR6.100B: Unidade 2</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
       <td></td> <!-- Entrega -->
@@ -247,8 +253,9 @@
     </tr>
     <tr>
       <th>Qua<br />13/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula<br />
+          Unidade 2: Programação</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu2">CR6.100B: Unidade 2</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
       <td></td> <!-- Entrega -->
@@ -290,8 +297,9 @@
     </tr>
     <tr>
       <th>Qua<br />20/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula<br />
+          Unidade 3: C</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu3">CR6.100B: Unidade 3</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
       <td></td> <!-- Entrega -->
@@ -333,8 +341,9 @@
     </tr>
     <tr>
       <th>Qua<br />27/03</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula<br />
+          Unidade 3: C</td> <!-- Aula -->
+      <td><a href="http://tinyurl.com/cr6100bu3">CR6.100B: Unidade 3</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
       <td></td> <!-- Entrega -->
@@ -376,7 +385,8 @@
     </tr>
     <tr>
       <th>Qua<br />03/04</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Avaliação bimestral AV1:<br />
+          Unidades -1, 0, 1, 2, 3</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -419,7 +429,8 @@
     </tr>
     <tr>
       <th>Qua<br />10/04</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 4: Arrays</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -462,7 +473,8 @@
     </tr>
     <tr>
       <th>Qua<br />17/04</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 4: Arrays</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -505,7 +517,8 @@
     </tr>
     <tr>
       <th>Qua<br />24/04</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 5: Algoritmos</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -540,7 +553,8 @@
     </tr>
     <tr>
       <th>Ter<br />30/04</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Antecipação de Aula<br />
+          Unidade 5: Algoritmos</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -591,7 +605,8 @@
     </tr>
     <tr>
       <th>Qua<br />08/05</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 6: Memória</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -634,7 +649,8 @@
     </tr>
     <tr>
       <th>Qua<br />15/05</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 6: Memória</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -677,7 +693,8 @@
     </tr>
     <tr>
       <th>Qua<br />22/05</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 7: Estruturas de dados</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -720,7 +737,8 @@
     </tr>
     <tr>
       <th>Qua<br />29/05</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Unidade 7: Estruturas de dados</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -763,7 +781,8 @@
     </tr>
     <tr>
       <th>Qua<br />05/06</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Tópicos especiais</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -806,7 +825,8 @@
     </tr>
     <tr>
       <th>Qua<br />12/06</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Aula<br />
+          Tópicos especiais</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -849,7 +869,10 @@
     </tr>
     <tr>
       <th>Qua<br />19/06</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Avaliação bimestral AV2:<br />
+          Unidades 4, 5, 6, 7 e tópicos especiais<br />
+          <br />
+          Avaliação de 2ª chamada (agendar)</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->
@@ -892,7 +915,8 @@
     </tr>
     <tr>
       <th>Qua<br />26/06</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Avaliação Final de Recuperação<br />
+          Todo o conteúdo do semestre</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Liberação -->

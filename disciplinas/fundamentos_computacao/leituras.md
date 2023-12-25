@@ -5,10 +5,21 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 5
 has_children: false
+last_modified_date: 2023-12-24 23:44 -0300
 ---
 
 # Leituras obrigatórias e opcionais
 
+**Leituras da 1ª Semana**<a id="l1sem"></a>
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Home da disciplina](/disciplinas/fundamentos_computacao/)
+  - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
+  - [Pessoal](/disciplinas/fundamentos_computacao/pessoal/)
+  - [CR6.100B: Home](http://tinyurl.com/cr6100bhome)
+
+<!--
 **Leituras da 5ª Semana**<a id="l5sem"></a>
 {: .label .label-reading }
 
@@ -63,11 +74,8 @@ has_children: false
 
 (sem leituras, curso não iniciado)
 
+-->
 
-**Leituras da 1ª Semana**<a id="l1sem"></a>
-{: .label .label-reading }
-
-(sem leituras, curso não iniciado)
 
 
 ## Notas de rodapé
