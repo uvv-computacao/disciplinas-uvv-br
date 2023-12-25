@@ -122,6 +122,8 @@ callouts:
   error:
     title: Erro
     color: purple
+  vermelho:
+    color: red
 
 
 ##
