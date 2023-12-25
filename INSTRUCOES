@@ -1,8 +1,9 @@
 Instruções e lembretes úteis
 ============================
 
-Instalar novos pré-requisitos:
+Instalar/atualizar novos pré-requisitos:
   bundle install
+  bundle update
 
 
 Rodar o Jekyll localmente:

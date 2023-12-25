@@ -6,8 +6,8 @@
       <th>Aula</th>
       <th>Estudo</th>
       <th>Autolab</th>
-      <th>Liberação</th>
-      <th>Entrega</th>
+      <th><i>Hand out</i></th>
+      <th><i>Hand in</i></th>
     </tr>
   </thead>
   <tbody class="js-scheduleContent">
@@ -18,44 +18,43 @@
       <th>Seg<br />05/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- CR6.100B -->
-      <td></td> <!-- Tarefas -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />06/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />07/02</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade -1: Apresentação</td> <!-- Aula -->
-      <td>Syllabus, disciplinas
-          <br />
-          <a href="http://tinyurl.com/cr6100bhome">CR6.100B: Home</a></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re1sem">1ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário -1: apresentação</td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td>Diário -1: apresentação</td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />08/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />09/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 2ª SEMANA -->
@@ -65,41 +64,42 @@
       <td>Feriado de Carnaval</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />13/02</th> <!-- Dia e Data -->
       <td>Feriado de Carnaval</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />14/02</th> <!-- Dia e Data -->
       <td>Feriado de Carnaval</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />15/02</th> <!-- Dia e Data -->
       <td>Reposição<br />
           Unidade 0: introdução</td> <!-- Aula -->
-      <td><a href="http://tinyurl.com/cr6100bu0">CR6.100B: Unidade 0</a></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re2sem">2ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário 0: introdução</td> <!-- Liberação -->
-      <td>Diário -1: apresentação</td> <!-- Entrega -->
+      <td>Diário 0: introdução</td> <!-- Hand out -->
+      <td>Diário -1: apresentação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />16/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 3ª SEMANA -->
@@ -109,40 +109,41 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />20/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />21/02</th> <!-- Dia e Data -->
       <td>Unidade 1: computação</td> <!-- Aula -->
-      <td><a href="http://tinyurl.com/cr6100bu1">CR6.100B: Unidade 1</a></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re3sem">3ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário 1: computação</td> <!-- Liberação -->
-      <td>Diário 0: introdução</td> <!-- Entrega -->
+      <td>Diário 1: computação</td> <!-- Hand out -->
+      <td>Diário 0: introdução</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />22/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />23/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 4ª SEMANA -->
@@ -152,16 +153,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />27/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />28/02</th> <!-- Dia e Data -->
@@ -169,24 +170,24 @@
           Unidade 1: computação</td> <!-- Aula -->
       <td><a href="http://tinyurl.com/cr6100bu1">CR6.100B: Unidade 1</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />29/02</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />01/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 5ª SEMANA -->
@@ -196,16 +197,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />05/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />06/03</th> <!-- Dia e Data -->
@@ -213,24 +214,24 @@
           Unidade 2: Programação</td> <!-- Aula -->
       <td><a href="http://tinyurl.com/cr6100bu2">CR6.100B: Unidade 2</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td>Diário 2: programação</td> <!-- Hand out -->
+      <td>Diário 1: computação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />07/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />08/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 6ª SEMANA -->
@@ -240,16 +241,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />12/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />13/03</th> <!-- Dia e Data -->
@@ -257,24 +258,24 @@
           Unidade 2: Programação</td> <!-- Aula -->
       <td><a href="http://tinyurl.com/cr6100bu2">CR6.100B: Unidade 2</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />14/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />15/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 7ª SEMANA -->
@@ -284,16 +285,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />19/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />20/03</th> <!-- Dia e Data -->
@@ -301,24 +302,24 @@
           Unidade 3: C</td> <!-- Aula -->
       <td><a href="http://tinyurl.com/cr6100bu3">CR6.100B: Unidade 3</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td>Diário 3: C</td> <!-- Hand out -->
+      <td>Diário 2: programação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />21/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />22/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 8ª SEMANA -->
@@ -328,16 +329,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />26/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />27/03</th> <!-- Dia e Data -->
@@ -345,24 +346,24 @@
           Unidade 3: C</td> <!-- Aula -->
       <td><a href="http://tinyurl.com/cr6100bu3">CR6.100B: Unidade 3</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />28/03</th> <!-- Dia e Data -->
       <td>Feriado Semana Santa</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />29/03</th> <!-- Dia e Data -->
       <td>Feriado Semana Santa</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 9ª SEMANA -->
@@ -372,16 +373,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />02/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />03/04</th> <!-- Dia e Data -->
@@ -389,24 +390,24 @@
           Unidades -1, 0, 1, 2, 3</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td>Diário 3: C</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />04/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />05/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 10ª SEMANA -->
@@ -416,16 +417,16 @@
       <td>Feriado Nossa Senhora da Penha</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />09/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />10/04</th> <!-- Dia e Data -->
@@ -433,24 +434,24 @@
           Unidade 4: Arrays</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />11/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />12/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 11ª SEMANA -->
@@ -460,16 +461,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />16/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />17/04</th> <!-- Dia e Data -->
@@ -477,24 +478,24 @@
           Unidade 4: Arrays</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />18/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />19/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 12ª SEMANA -->
@@ -504,16 +505,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />23/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />24/04</th> <!-- Dia e Data -->
@@ -521,24 +522,24 @@
           Unidade 5: Algoritmos</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />25/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />26/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 13ª SEMANA -->
@@ -548,8 +549,8 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />30/04</th> <!-- Dia e Data -->
@@ -557,32 +558,32 @@
           Unidade 5: Algoritmos</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />01/05</th> <!-- Dia e Data -->
       <td>Feriado Dia do Trabalho</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />02/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />03/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 14ª SEMANA -->
@@ -592,16 +593,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />07/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />08/05</th> <!-- Dia e Data -->
@@ -609,24 +610,24 @@
           Unidade 6: Memória</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />09/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />10/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 15ª SEMANA -->
@@ -636,16 +637,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />14/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />15/05</th> <!-- Dia e Data -->
@@ -653,24 +654,24 @@
           Unidade 6: Memória</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />16/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />17/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 16ª SEMANA -->
@@ -680,16 +681,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />21/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />22/05</th> <!-- Dia e Data -->
@@ -697,24 +698,24 @@
           Unidade 7: Estruturas de dados</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />23/05</th> <!-- Dia e Data -->
       <td>Feriado Colonização Solo Espírito-Santense</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />24/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 17ª SEMANA -->
@@ -724,16 +725,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />28/05</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />29/05</th> <!-- Dia e Data -->
@@ -741,24 +742,24 @@
           Unidade 7: Estruturas de dados</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />30/05</th> <!-- Dia e Data -->
       <td>Feriado Corpus Christi</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />31/05</th> <!-- Dia e Data -->
       <td>Feriado Corpus Christi</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 18ª SEMANA -->
@@ -768,16 +769,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />04/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />05/06</th> <!-- Dia e Data -->
@@ -785,24 +786,24 @@
           Tópicos especiais</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />06/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />07/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 19ª SEMANA -->
@@ -812,16 +813,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />11/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />12/06</th> <!-- Dia e Data -->
@@ -829,24 +830,24 @@
           Tópicos especiais</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />13/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />14/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 20ª SEMANA -->
@@ -856,16 +857,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />18/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />19/06</th> <!-- Dia e Data -->
@@ -875,24 +876,24 @@
           Avaliação de 2ª chamada (agendar)</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />20/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />21/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 21ª SEMANA -->
@@ -902,16 +903,16 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />25/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />26/06</th> <!-- Dia e Data -->
@@ -919,23 +920,23 @@
           Todo o conteúdo do semestre</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />27/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />28/06</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Liberação -->
-      <td></td> <!-- Entrega -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
   </tbody>

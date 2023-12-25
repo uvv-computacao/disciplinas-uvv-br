@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leituras
+title: Roteiro de estudo
 nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 5
@@ -8,16 +8,47 @@ has_children: false
 last_modified_date: 2023-12-24 23:44 -0300
 ---
 
-# Leituras obrigatórias e opcionais
+# Roteiro de estudo
 
-**Leituras da 1ª Semana**<a id="l1sem"></a>
+**Estudo da 1ª Semana**<a id="re1sem"></a>
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
   - [Home da disciplina](/disciplinas/fundamentos_computacao/)
   - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
-  - [Pessoal](/disciplinas/fundamentos_computacao/pessoal/)
   - [CR6.100B: Home](http://tinyurl.com/cr6100bhome)
+  - Blown to Bits: prefácio (pág. vii-viii)
+- **Atividades obrigatórias:**
+  - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
+    obrigatória
+  - Imprima e responda o **Diário de Aprendizagem -1: apresentação**
+  - Cadastro no Autolab
+  - Cadastro no GitHub
+  - Cadastro na Lista de Discussão do CR6.100B
+- **Outras atividades:**
+  - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
+
+---
+
+**Estudo da 2ª Semana**<a id="re2sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 0](http://tinyurl.com/cr6100bu0)
+  - Blown to Bits: capítulo 1, introdução (pág. 1-4)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 0: introdução
+
+---
+
+**Estudo da 3ª Semana**<a id="re3sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 1](http://tinyurl.com/cr6100bu1)
+  - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 1: computação
+
+
 
 <!--
 **Leituras da 5ª Semana**<a id="l5sem"></a>
@@ -76,6 +107,5 @@ last_modified_date: 2023-12-24 23:44 -0300
 
 -->
 
-
-
-## Notas de rodapé
+---
+**Notas:**
