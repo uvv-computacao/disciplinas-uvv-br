@@ -533,7 +533,8 @@
       <th>Qua<br />24/04</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade 5: Algoritmos</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re12sem">12ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 5: Algoritmos</td> <!-- Hand out -->
       <td>Diário 4: Arrays</td> <!-- Hand in -->
@@ -569,7 +570,8 @@
       <th>Ter<br />30/04</th> <!-- Dia e Data -->
       <td>(antecipação) Continuação da Aula:<br />
           Unidade 5: Algoritmos</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re13sem">13ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 4: Arrays)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -621,7 +623,8 @@
       <th>Qua<br />08/05</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade 6: Memória</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re14sem">14ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 6: Memória</td> <!-- Hand out -->
       <td>Diário 5: Algoritmos</td> <!-- Hand in -->
@@ -665,7 +668,8 @@
       <th>Qua<br />15/05</th> <!-- Dia e Data -->
       <td>Continuação da Aula:<br />
           Unidade 6: Memória</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re15sem">15ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 5: Algoritmos)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -709,7 +713,8 @@
       <th>Qua<br />22/05</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade 7: Estruturas de dados</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re16sem">16ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 7: Estruturas de Dados</td> <!-- Hand out -->
       <td>Diário 6: Memória</td> <!-- Hand in -->
@@ -753,7 +758,8 @@
       <th>Qua<br />29/05</th> <!-- Dia e Data -->
       <td>Continuação da Aula:<br />
           Unidade 7: Estruturas de dados</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re17sem">17ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 6: Memória)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -797,7 +803,8 @@
       <th>Qua<br />05/06</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Tópicos especiais</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re18sem">18ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td>Diário 7: Estruturas de Dados</td> <!-- Hand in -->
@@ -841,7 +848,8 @@
       <th>Qua<br />12/06</th> <!-- Dia e Data -->
       <td>Continuação da Aula:<br />
           Tópicos especiais</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re19sem">19ª
+      semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 7: Estruturas de Dados)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->

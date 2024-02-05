@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 nav_exclude: false
 parent: Fundamentos da Computação
-nav_order: 1
+nav_order: 10
 has_children: false
 last_modified_date: 2023-12-20 15:24 -0300
 ---

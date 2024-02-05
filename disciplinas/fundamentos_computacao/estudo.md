@@ -3,7 +3,7 @@ layout: page
 title: Roteiro de estudo
 nav_exclude: false
 parent: Fundamentos da Computação
-nav_order: 5
+nav_order: 20
 has_children: false
 last_modified_date: 2023-12-24 23:44 -0300
 ---
@@ -16,7 +16,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 - **Leituras obrigatórias:**
   - [Home da disciplina](/disciplinas/fundamentos_computacao/)
   - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
-  - [CR6.100B: Home](http://tinyurl.com/cr6100bhome)
+  - [CR6.100B: Home](http://cmprz.me/cr6100bhome)
   - Blown to Bits: prefácio (pág. vii-viii)
 - **Atividades obrigatórias:**
   - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
@@ -33,7 +33,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 2ª Semana**<a id="re2sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 0](http://tinyurl.com/cr6100bu0)
+  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0)
   - Blown to Bits: capítulo 1, introdução (pág. 1-4)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 0: introdução
@@ -43,7 +43,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 3ª Semana**<a id="re3sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 1](http://tinyurl.com/cr6100bu1)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1)
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 1: computação
@@ -53,7 +53,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 4ª Semana**<a id="re4sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 1](http://tinyurl.com/cr6100bu1)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 1 e Koan 2 (pág. 8-12)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 1: computação
@@ -63,7 +63,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 5ª Semana**<a id="re5sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 2](http://tinyurl.com/cr6100bu2)
+  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 3 e Koan 4 (pág. 12-14)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 2: programação
@@ -73,7 +73,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 6ª Semana**<a id="re6sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 2](http://tinyurl.com/cr6100bu2)
+  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 5 (pág. 14-16)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 2: programação
@@ -83,7 +83,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 7ª Semana**<a id="re7sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 3](http://tinyurl.com/cr6100bu3)
+  - [CR6.100B: Unidade 3](http://cmprz.me/cr6100bu3)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 6 e Koan 7 (pág. 16-20)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 2: C
@@ -93,7 +93,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 8ª Semana**<a id="re8sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 3](http://tinyurl.com/cr6100bu3)
+  - [CR6.100B: Unidade 3](http://cmprz.me/cr6100bu3)
   - Blown to Bits: capítulo 1, seção 1.3 (pág. 20-23)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 2: C
@@ -138,7 +138,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 10ª Semana**<a id="re10sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 4](http://tinyurl.com/cr6100bu4)
+  - [CR6.100B: Unidade 4](http://cmprz.me/cr6100bu4)
   - Blown to Bits: (a definir)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 4: Arrays
@@ -148,10 +148,90 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 11ª Semana**<a id="re11sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 4](http://tinyurl.com/cr6100bu4)
+  - [CR6.100B: Unidade 4](http://cmprz.me/cr6100bu4)
   - Blown to Bits: (a definir)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 4: Arrays
+
+---
+
+**Estudo da 12ª Semana**<a id="re12sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 5](http://cmprz.me/cr6100bu5)
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 5: Algoritmos
+
+---
+
+**Estudo da 13ª Semana**<a id="re13sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 5](http://cmprz.me/cr6100bu5)
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 5: Algoritmos
+
+---
+
+**Estudo da 14ª Semana**<a id="re14sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 6](http://cmprz.me/cr6100bu6)
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 6: Memória
+
+---
+
+**Estudo da 15ª Semana**<a id="re15sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 6](http://cmprz.me/cr6100bu6)
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 6: Memória
+
+---
+
+**Estudo da 16ª Semana**<a id="re16sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 7](http://cmprz.me/cr6100bu7)
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 7: Estruturas de dados
+
+---
+
+**Estudo da 17ª Semana**<a id="re17sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 7](http://cmprz.me/cr6100bu7)
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - Diário de Aprendizagem 7: Estruturas de dados
+
+---
+
+**Estudo da 18ª Semana**<a id="re18sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Tópicos especiais
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - (a definir)
+
+---
+
+**Estudo da 19ª Semana**<a id="re19sem"></a>
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Tópicos especiais
+  - Blown to Bits: (a definir)
+- **Atividades obrigatórias:**
+  - (a definir)
 
 ---
 

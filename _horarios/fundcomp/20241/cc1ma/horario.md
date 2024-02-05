@@ -38,13 +38,37 @@ timeline:
   - '23:00'
 schedule:
   - name: Segunda
+    events:
+      - name: Monitoria
+        start: 01:00 PM
+        end: 04:00 PM
+        location: (conforme escolha do aluno; local a definir)
   - name: Terça
+    events:
+      - name: Monitoria
+        start: 01:00 PM
+        end: 04:00 PM
+        location: (conforme escolha do aluno; local a definir)
   - name: Quarta
     events:
       - name: Aula
         start: 09:15 AM
         end: 10:55 AM
         location: (local a definir)
+      - name: Laboratório
+        start: 01:00 PM
+        end: 04:00 PM
+        location: (local a definir)
   - name: Quinta
+    events:
+      - name: Laboratório
+        start: 01:00 PM
+        end: 04:00 PM
+        location: (local a definir)
   - name: Sexta
+    events:
+      - name: Laboratório
+        start: 01:00 PM
+        end: 04:00 PM
+        location: (local a definir)
 ---

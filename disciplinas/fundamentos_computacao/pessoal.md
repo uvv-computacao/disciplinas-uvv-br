@@ -3,7 +3,7 @@ layout: page
 title: Pessoal
 nav_exclude: false
 parent: Fundamentos da Computação
-nav_order: 10
+nav_order: 40
 has_children: false
 ---
 
@@ -11,7 +11,7 @@ has_children: false
 
 {% assign professores = site.pessoal 
    | where: "role", "Professor"
-   | where_exp:"item", "item.disciplinas contains '20231-fc'" %}
+   | where_exp:"item", "item.disciplinas contains '20241-fc'" %}
 <div class="role">
 {% for professor in professores %}
 {{ professor }}
@@ -21,7 +21,7 @@ has_children: false
 
 {% assign monitores = site.pessoal
    | where: "role", "Monitor"
-   | where_exp:"item", "item.disciplinas contains '20231-fc'" %}
+   | where_exp:"item", "item.disciplinas contains '20241-fc'" %}
 {% assign numero_monitores = monitores | size %}
 {% if numero_monitores != 0 %}
 ## Monitores
