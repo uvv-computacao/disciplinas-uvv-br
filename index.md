@@ -23,7 +23,7 @@ Brasil**, um título anual que considera diversos indicadores do Ministério da
 Educação (MEC) e do Instituto Nacional de Estudos e Pesquisas Educacionais
 Anísio Teixeira (Inep). No início de 2023 conquistamos o título de melhor
 universidade privada pelo [sétimo ano
-consecutivo](https://tinyurl.com/uvvmelhorbrasil)! Sim, você fez a escolha certa
+consecutivo](https://cmprz.me/uvvmelhorbrasil)! Sim, você fez a escolha certa
 para seu futuro.
 
 ## O que você encontrará aqui?

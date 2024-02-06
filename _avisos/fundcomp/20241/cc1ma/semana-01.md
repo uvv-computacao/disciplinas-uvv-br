@@ -15,7 +15,7 @@ de seus estudos, siga as seguintes instruções:
 1. **LEIA** o *syllabus* da disciplina,
    [online](/disciplinas/fundamentos_computacao/syllabus/){:target="\_blank"} ou
    em
-   [PDF](/assets/disciplinas/fundcomp/syllabus_2024_1.pdf){:target="\_blank"}.
+   [PDF](/assets/disciplinas/fundcomp/2024_1/syllabus_2024_1.pdf){:target="\_blank"}.
    É extremamente importante que você leia e compreenda tudo que está nesse
    documento, principalmente as seções que tratam sobre notas, integridade
    acadêmica  e regras da disciplina. É **extremamente importante** que você
@@ -24,8 +24,8 @@ de seus estudos, siga as seguintes instruções:
    todas as páginas, verifique o horário, o cronograma proposto, as leituras
    semanais, as datas de entrega dos exercícios e tudo que estiver disponivel.
 1. **CADASTRE-SE** no Autolab, uma ferramenta online de análise e correção
-   dos softwares que vocês programarem. Verifique as [instruções de cadastro
-   e acesso ao Autolab](/disciplinas/fundamentos_computacao/autolab/).
+   dos softwares que vocês programarem. O professor explicará como deverá ser
+   feito esse cadastro.
    atenção às instruções que serão fornecidas pelo professor.
 1. **VERIFIQUE** no calendário o detalhamento de todas as tarefas que você
    deve cumprir e fique atento aos prazos.
