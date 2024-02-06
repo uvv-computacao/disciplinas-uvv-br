@@ -17,11 +17,14 @@ last_modified_date: 2023-12-24 23:44 -0300
   - [Home da disciplina](/disciplinas/fundamentos_computacao/)
   - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
   - [CR6.100B: Home](http://cmprz.me/cr6100bhome)
-  - Blown to Bits: prefácio (pág. vii-viii)
+  - Blown to Bits: prefácio (pág. vii-viii) (a numeração refere-se à versão
+    traduzida em Português que está na página de recursos)
 - **Atividades obrigatórias:**
   - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
     obrigatória
-  - Imprima e responda o **Diário de Aprendizagem -1: apresentação**
+  - Imprima e responda o **[Diário de Aprendizagem -1:
+    apresentação](/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf)**
+    (verifique a data de entrega no calendário de sua turma)
   - Cadastro no Autolab
   - Cadastro no GitHub
   - Cadastro na Lista de Discussão do CR6.100B

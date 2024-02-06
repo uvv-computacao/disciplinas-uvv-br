@@ -45,7 +45,8 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re1sem">1ª
       semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário -1: Apresentação</td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf">Diário -1:
+    Apresentação</a></td> <!-- Hand out --> 
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
