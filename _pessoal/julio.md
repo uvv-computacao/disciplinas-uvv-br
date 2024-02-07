@@ -3,7 +3,7 @@ name: Júlio César
 role: Monitor
 disciplinas: 20241-fc
 email: ksjulio524@gmail.com
-website: (em breve)
+website: https://github.com/Julioccs0
 photo: julio.jpg
 ---
 
