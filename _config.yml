@@ -133,7 +133,7 @@ callouts:
 # Coleções disponíveis:
 collections:
   pessoal:
-  modulos:
+  monitorias:
   horarios:
   avisos:
     output: true
@@ -152,7 +152,7 @@ defaults:
       width: 300
   - scope:
       path: ''
-      type: modulos
+      type: monitorias
     values:
       layout: module
   - scope:
