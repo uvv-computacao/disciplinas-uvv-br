@@ -21,7 +21,7 @@ last_modified_date: 2023-12-24 23:44 -0300
     traduzida em Português que está na página de recursos)
 - **Atividades obrigatórias:**
   - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
-    obrigatória
+    opcional (vale até 2 pontos extras na nota!)
   - Imprima e responda o **[Diário de Aprendizagem -1:
     apresentação](/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf)**
     (verifique a data de entrega no calendário de sua turma)

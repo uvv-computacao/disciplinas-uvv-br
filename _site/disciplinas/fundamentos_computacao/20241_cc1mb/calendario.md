@@ -227,7 +227,8 @@
           Unidade 2: Programação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re5sem">5ª
       semana</a></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
+      <td><b>Iníco:</b><br />
+          <a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET-0</a></td> <!-- Autolab -->
       <td>Diário 2: Programação</td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
@@ -307,7 +308,8 @@
       <th>Qua<br />20/03</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
+      <td><b>Fim:</b><br />
+          PSET-0</td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -317,7 +319,8 @@
           Unidade 3: C</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re7sem">7ª
       semana</a></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
+      <td><b>Início:</b><br />
+          <a href="/disciplinas/fundamentos_computacao/autolab/#autolab3">Exercícios, PSET-1</a></td> <!-- Autolab -->
       <td>Diário 3: C</td> <!-- Hand out -->
       <td>Diário 2: Programação</td> <!-- Hand in -->
     </tr>
@@ -354,7 +357,8 @@
           Unidade 3: C</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re8sem">8ª
       semana</a></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
+      <td><b>Fim:</b><br />
+          Exercícios</td> <!-- Autolab -->
       <td>(devolução do Diário 2: Programação)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -397,7 +401,8 @@
       <th>Qua<br />03/04</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
+      <td><b>Fim:</b><br />
+          PSET-1</td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
