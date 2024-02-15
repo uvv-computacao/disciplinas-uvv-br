@@ -86,6 +86,14 @@
     </tr>
     <tr>
       <th>Qui<br />15/02</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Sex<br />16/02</th> <!-- Dia e Data -->
       <td>Aula de Reposição:<br />
           Unidade 0: introdução</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re2sem">2ª
@@ -93,14 +101,6 @@
       <td></td> <!-- Autolab -->
       <td>Diário 0: Introdução</td> <!-- Hand out -->
       <td>Diário -1: Apresentação</td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Sex<br />16/02</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 3ª SEMANA -->
