@@ -23,7 +23,7 @@ last_modified_date: 2023-12-24 23:44 -0300
   - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
     opcional (vale até 2 pontos extras na nota!)
   - Imprima e responda o **[Diário de Aprendizagem -1:
-    apresentação](/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf)**
+    Apresentação](/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf)**
     (verifique a data de entrega no calendário de sua turma)
   - Cadastro no Autolab
   - Cadastro no GitHub
@@ -39,7 +39,9 @@ last_modified_date: 2023-12-24 23:44 -0300
   - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0)
   - Blown to Bits: capítulo 1, introdução (pág. 1-4)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 0: introdução
+  - Imprima e responda o **[Diário de Aprendizagem 0:
+    Introdução](/assets/disciplinas/fundcomp/2024_1/diario_0.pdf)**
+    (verifique a data de entrega no calendário de sua turma)
 
 ---
 

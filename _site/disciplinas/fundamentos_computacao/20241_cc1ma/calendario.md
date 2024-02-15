@@ -99,7 +99,8 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re2sem">2ª
       semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário 0: Introdução</td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2024_1/diario_0.pdf">Diário 0:
+      Introdução</a></td> <!-- Hand out -->
       <td>Diário -1: Apresentação</td> <!-- Hand in -->
     </tr>
 
