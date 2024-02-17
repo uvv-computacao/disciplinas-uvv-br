@@ -111,7 +111,7 @@
       <td>Aula:
           <br />Unidade 1: computação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re3sem">3ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 1: Computação</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -156,7 +156,7 @@
       <td>Continuação da Aula:<br />
           Unidade 1: computação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re4sem">4ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td>Diário -1: Apresentação<br />
@@ -202,12 +202,12 @@
       <td>Aula:<br />
           Unidade 2: Programação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re5sem">5ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td><b>Início:</b><br />
           <a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET-0</a></td> <!-- Autolab -->
       <td>Diário 2: Programação<br />
-          Diário -1: Apresentação<br />
-          Diário 0: Introdução</td> <!-- Hand out -->
+          (devolução do Diário -1: Apresentação)<br />
+          (devolução do Diário 0: Introdução)</td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
@@ -251,7 +251,7 @@
       <td>Continuação da Aula:<br />
           Unidade 2: Programação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re6sem">6ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 1: Computação)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -263,7 +263,6 @@
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
-
     </tr>
     <tr>
       <th>Qua<br />13/03</th> <!-- Dia e Data -->
@@ -297,11 +296,13 @@
             <td>Aula:<br />
           Unidade 3: C</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re7sem">7ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td><b>Fim:</b><br />
           PSET-0<br />
           <b>Início:</b><br />
-          <a href="/disciplinas/fundamentos_computacao/autolab/#autolab3">Exercícios, PSET-1</a></td> <!-- Autolab -->
+          <a
+          href="/disciplinas/fundamentos_computacao/autolab/#autolab3">Exercícios,
+          PSET-1</a></td> <!-- Autolab --> 
       <td>Diário 3: C</td> <!-- Hand out -->
       <td>Diário 2: Programação</td> <!-- Hand in -->
     </tr>
@@ -312,7 +313,6 @@
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
-
     </tr>
     <tr>
       <th>Qua<br />20/03</th> <!-- Dia e Data -->
@@ -346,7 +346,7 @@
       <td>Continuação da Aula:<br />
           Unidade 3: C</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re8sem">8ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td><b>Fim:</b><br />
           Exercícios</td> <!-- Autolab -->
       <td>(devolução do Diário 2: Programação)</td> <!-- Hand out -->
@@ -392,7 +392,7 @@
       <td>Avaliação bimestral AV1:<br />
           Unidades -1, 0, 1, 2, 3</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re9sem">9ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td><b>Fim:</b><br />
           PSET-1</td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -446,7 +446,7 @@
       <td>Aula de reposição:<br />
           Unidade 4: Arrays</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re10sem">10ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 4: Arrays
           <br />
@@ -485,11 +485,10 @@
       <td>Continuação da Aula:<br />
           Unidade 4: Arrays</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re11sem">11ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
-
     </tr>
     <tr>
       <th>Ter<br />16/04</th> <!-- Dia e Data -->
@@ -531,7 +530,7 @@
       <td>Aula:<br />
           Unidade 5: Algoritmos</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re12sem">12ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 5: Algoritmos</td> <!-- Hand out -->
       <td>Diário 4: Arrays</td> <!-- Hand in -->
@@ -576,11 +575,10 @@
       <td>Continuação da Aula:<br />
           Unidade 5: Algoritmos</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re13sem">13ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 4: Arrays)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
-
     </tr>
     <tr>
       <th>Ter<br />30/04</th> <!-- Dia e Data -->
@@ -622,7 +620,7 @@
       <td>Aula:<br />
           Unidade 6: Memória</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re14sem">14ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 6: Memória</td> <!-- Hand out -->
       <td>Diário 5: Algoritmos</td> <!-- Hand in -->
@@ -667,7 +665,7 @@
       <td>Continuação da Aula:<br />
           Unidade 6: Memória</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re15sem">15ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 5: Algoritmos)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -712,7 +710,7 @@
       <td>Aula:<br />
           Unidade 7: Estruturas de dados</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re16sem">16ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Diário 7: Estruturas de Dados</td> <!-- Hand out -->
       <td>Diário 6: Memória</td> <!-- Hand in -->
@@ -757,7 +755,7 @@
       <td>Continuação da Aula:<br />
           Unidade 7: Estruturas de dados</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re17sem">17ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 6: Memória)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -802,7 +800,7 @@
       <td>Aula:<br />
           Tópicos especiais</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re18sem">18ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td>Diário 7: Estruturas de Dados</td> <!-- Hand in -->
@@ -847,7 +845,7 @@
       <td>Continuação da Aula:<br />
           Tópicos especiais</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re19sem">19ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>(devolução do Diário 7: Estruturas de Dados)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -894,7 +892,7 @@
           <br />
           Avaliação de 2ª chamada (agendar)</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re20sem">20ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
