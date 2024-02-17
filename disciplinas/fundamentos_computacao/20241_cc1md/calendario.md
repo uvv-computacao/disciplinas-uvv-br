@@ -16,13 +16,13 @@
     <tr>
       <td rowspan=5>1</td> <!-- Número da semana-->
       <th>Seg<br />05/02</th> <!-- Dia e Data -->
-      <td>Aula:<br />
+      <td>Estudo individual:<br />
           Unidade -1: Apresentação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re1sem">1ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td><a href="/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf">Diário -1:
-    Apresentação</a></td> <!-- Hand out -->
+          Apresentação</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -94,14 +94,14 @@
     </tr>
     <tr>
       <th>Sex<br />16/02</th> <!-- Dia e Data -->
-      <td>Aula de Reposição:<br />
+      <td>Estudo individual:<br />
           Unidade 0: introdução</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re2sem">2ª
-      semana</a></td> <!-- Estudo -->
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td><a href="/assets/disciplinas/fundcomp/2024_1/diario_0.pdf">Diário 0:
-      Introdução</a></td> <!-- Hand out -->
-      <td>Diário -1: Apresentação</td> <!-- Hand in -->
+          Introdução</a></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
 
     <!-- 3ª SEMANA -->
@@ -113,10 +113,8 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re3sem">3ª
       semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário 1: Computação
-          <br />
-          (devolução do Diário -1: Apresentação)</td> <!-- Hand out -->
-      <td>Diário 0: introdução</td> <!-- Hand in -->
+      <td>Diário 1: Computação</td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />20/02</th> <!-- Dia e Data -->
@@ -160,8 +158,9 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re4sem">4ª
       semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>(devolução do Diário 0: Introdução)</td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td></td> <!-- Hand out -->
+      <td>Diário -1: Apresentação<br />
+          Diário 0: Introdução</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />27/02</th> <!-- Dia e Data -->
@@ -206,7 +205,9 @@
       semana</a></td> <!-- Estudo -->
       <td><b>Início:</b><br />
           <a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET-0</a></td> <!-- Autolab -->
-      <td>Diário 2: Programação</td> <!-- Hand out -->
+      <td>Diário 2: Programação<br />
+          Diário -1: Apresentação<br />
+          Diário 0: Introdução</td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
