@@ -48,7 +48,10 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 3ª Semana**<a id="re3sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
+    - Parte 0: visão geral da unidade
+    - Parte 1: O que é ciência da computação
+    - Parte 2: Representação de dados (incluindo os 5 anexos)
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 1: computação
