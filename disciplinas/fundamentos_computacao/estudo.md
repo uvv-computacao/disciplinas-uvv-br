@@ -54,7 +54,8 @@ last_modified_date: 2023-12-24 23:44 -0300
     - Parte 2: Representação de dados (incluindo os 5 anexos)
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 1: computação
+  - **[Diário de Aprendizagem 1: computação (primeira parte do
+      diário)](/assets/disciplinas/fundcomp/2024_1/diario_1a.pdf)**
 
 ---
 
