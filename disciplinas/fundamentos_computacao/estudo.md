@@ -52,6 +52,16 @@ last_modified_date: 2023-12-24 23:44 -0300
     - Parte 0: visão geral da unidade
     - Parte 1: O que é ciência da computação
     - Parte 2: Representação de dados (incluindo os 5 anexos)
+  - Assistir os seguintes vídeos (várias vezes!):
+    - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+    - [Parte 1: O que é ciência da
+      computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+    - [Parte 2, Anexo 1: Conversão entre bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+    - [Parte 2, Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
+    - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+    - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
   - **[Diário de Aprendizagem 1: computação (primeira parte do
@@ -62,10 +72,18 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 4ª Semana**<a id="re4sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar o seguinte:
+    - Parte 3: Algoritmos
+    - Parte 4: Pensamento computacional
+    - Parte 5: Abstração
+  - Assistir os seguintes vídeos (várias vezes!):
+    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+    - [Parte 4: Pensamento computacional](#)
+    - [Parte 5: Abstração](#)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 1 e Koan 2 (pág. 8-12)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 1: computação
+  - Diário de Aprendizagem 1: computação (segunda parte do
+    diário)
 
 ---
 
