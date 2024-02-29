@@ -78,8 +78,8 @@ last_modified_date: 2023-12-24 23:44 -0300
     - Parte 5: Abstração
   - Assistir os seguintes vídeos (várias vezes!):
     - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
-    - [Parte 4: Pensamento computacional](#)
-    - [Parte 5: Abstração](#)
+    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 1 e Koan 2 (pág. 8-12)
 - **Atividades obrigatórias:**
   - Diário de Aprendizagem 1: computação (segunda parte do
