@@ -93,7 +93,9 @@ last_modified_date: 2023-12-24 23:44 -0300
   - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 3 e Koan 4 (pág. 12-14)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 2: programação
+  - Diário de Aprendizagem 1: Fundamentos da Computação (Parte 2)
+  - Diário de Aprendizagem 2: Fundamentos da Programação
+  - [Atividades no Autolab: PSET 0: Scratch](../autolab/#autolab2)
 
 ---
 

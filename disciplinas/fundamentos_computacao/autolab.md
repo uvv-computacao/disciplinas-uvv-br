@@ -36,7 +36,12 @@ last_modified_date: 2024-02-09 00:12 -0300
 **Unidade 2: Programação**<a id="autolab2"></a>
 {: .label .label-reading }
 
-- (em breve)
+- Nesta unidade você utilizará o **Scratch** e o **Snap_!_** para aprender os
+  fundamentos da programação.
+- Você também fará o **PSET 0: Scratch**, sua primeira grande tarefa de
+  programação.
+- Acesse a página da [Atividades do Autolab para a Unidade 2](unidade2/) para
+  maiores informações.
 
 ---
 
