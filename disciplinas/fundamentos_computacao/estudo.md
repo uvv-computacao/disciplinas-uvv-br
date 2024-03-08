@@ -64,7 +64,7 @@ last_modified_date: 2023-12-24 23:44 -0300
     - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
-  - **[Diário de Aprendizagem 1: computação (primeira parte do
+  - **[Diário de Aprendizagem 1: Fundamentos da Computação (primeira parte do
       diário)](/assets/disciplinas/fundcomp/2024_1/diario_1a.pdf)**
 
 ---
@@ -82,8 +82,8 @@ last_modified_date: 2023-12-24 23:44 -0300
     - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 1 e Koan 2 (pág. 8-12)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 1: computação (segunda parte do
-    diário)
+  - Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
+    diário): transferido para a semana 5.
 
 ---
 
@@ -93,9 +93,11 @@ last_modified_date: 2023-12-24 23:44 -0300
   - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 3 e Koan 4 (pág. 12-14)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 1: Fundamentos da Computação (Parte 2)
+  - [**Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
+    diário)**](/assets/disciplinas/fundcomp/2024_1/diario_1a.pdf)
   - Diário de Aprendizagem 2: Fundamentos da Programação
-  - [Atividades no Autolab: PSET 0: Scratch](../autolab/#autolab2)
+- **Atividades no Autolab (obrigatórias):**
+  - [PSET 0: Scratch](../autolab/#autolab2)
 
 ---
 
