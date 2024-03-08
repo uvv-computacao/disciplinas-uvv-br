@@ -94,7 +94,7 @@ last_modified_date: 2023-12-24 23:44 -0300
   - Blown to Bits: capítulo 1, seção 1.2, Koan 3 e Koan 4 (pág. 12-14)
 - **Atividades obrigatórias:**
   - [**Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
-    diário)**](/assets/disciplinas/fundcomp/2024_1/diario_1a.pdf)
+    diário)**](/assets/disciplinas/fundcomp/2024_1/diario_1b.pdf)
   - Diário de Aprendizagem 2: Fundamentos da Programação
 - **Atividades no Autolab (obrigatórias):**
   - [PSET 0: Scratch](../autolab/#autolab2)
