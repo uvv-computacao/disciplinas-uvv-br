@@ -222,7 +222,7 @@
       semana</a></td> <!-- Estudo -->
       <td><b>Início:</b><br />
           <a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET-0</a></td> <!-- Autolab -->
-      <td>Diário 2: Programação</td> <!-- Hand out -->
+      <td></td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
@@ -267,7 +267,8 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re6sem">6ª
       semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>(devolução do Diário 1: Computação)</td> <!-- Hand out -->
+      <td>Diário 2: Programação<br />
+          (devolução do Diário 1: Computação)</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>

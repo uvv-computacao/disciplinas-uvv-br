@@ -90,7 +90,9 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 5ª Semana**<a id="re5sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2)
+  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
+    - [Parte 1: fundamentos da
+      programação Scratch](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-1-fundamentos-da-programação)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 3 e Koan 4 (pág. 12-14)
 - **Atividades obrigatórias:**
   - [**Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
@@ -104,9 +106,11 @@ last_modified_date: 2023-12-24 23:44 -0300
 **Estudo da 6ª Semana**<a id="re6sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2)
+  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
+    - Parte 2: fundamentos da programação Snap! (será liberado em breve)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 5 (pág. 14-16)
 - **Atividades obrigatórias:**
+  - Diário de Aprendizagem 1: computação (segunda parte)
   - Diário de Aprendizagem 2: programação
 
 ---

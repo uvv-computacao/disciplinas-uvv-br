@@ -230,7 +230,7 @@
       semana</a></td> <!-- Estudo -->
       <td><b>Iníco:</b><br />
           <a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET-0</a></td> <!-- Autolab -->
-      <td>Diário 2: Programação</td> <!-- Hand out -->
+      <td></td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
@@ -265,7 +265,7 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td>Diário 2: Programação</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
