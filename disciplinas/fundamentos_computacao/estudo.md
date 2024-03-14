@@ -97,7 +97,7 @@ last_modified_date: 2023-12-24 23:44 -0300
 - **Atividades obrigatórias:**
   - [**Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
     diário)**](/assets/disciplinas/fundcomp/2024_1/diario_1b.pdf)
-  - Diário de Aprendizagem 2: Fundamentos da Programação
+  - [**Diário de Aprendizagem 2: Fundamentos da Programação**](/assets/disciplinas/fundcomp/2024_1/diario_2.pdf)
 - **Atividades no Autolab (obrigatórias):**
   - [PSET 0: Scratch](../autolab/#autolab2)
 
