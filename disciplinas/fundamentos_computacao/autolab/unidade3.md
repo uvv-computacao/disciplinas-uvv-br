@@ -41,4 +41,29 @@ Você deverá solucionar e enviar os seguintes laboratórios de programação:
 0. "[Índice de Massa Corpórea (IMC)](/assets/disciplinas/fundcomp/2024_1/imc-handout.rar)"
 
 ## PSET-1: C
-(em breve)
+
+{: .caution }
+> A colaboração em PSETs não é permitida, exceto nas situações excepcionais
+> detalhadas no *Syllabus* da disciplina. Por favor, siga todas as normas de
+> [integridade
+> acadêmica](/disciplinas/fundamentos_computacao/syllabus/#integridade-acadmica)
+> da disciplina para evitar problemas.
+>
+> A equipe realiza auditorias aleatórias dos envios ao Autolab e, além disso,
+> todos os envios são verificados através de ferramentas de detecção de cola,
+> plágio e outras situações inadequadas.
+
+Neste PSET você deve enviar **dois programas**, conforme as escolhas abaixo:
+
+* **Primeiro programa**: envie a solução para **um** dos problemas abaixo:
+  * "[Mario Less](/assets/disciplinas/fundcomp/2024_1/mario_less-handout.rar)",
+    se você está se sentindo menos confortável; ou
+  * "[Mario More](/assets/disciplinas/fundcomp/2024_1/mario_more-handout.rar)",
+    se você está se sentindo mais confortável.
+* **Segundo programa**: envia a solução para **um** dos problemas abaixo:
+  * "[Cash](/assets/disciplinas/fundcomp/2024_1/cash-handout.rar)", se você está
+    se sentindo menos confortável; ou
+  * "[Credit](/assets/disciplinas/fundcomp/2024_1/credit-handout.rar)", se você
+    está se sentindo mais confortável.
+
+No Autolab você deverá enviar a solução de acordo com sua escolha.

@@ -52,6 +52,7 @@ last_modified_date: 2024-02-09 00:12 -0300
   clássica, a Linguagem C. Você treinará e desenvolverá sua capacidade de
   resolução de problemas e pensamento computacional através de:
   - Exercícios
+  - Labs (exercícios mais difíceis de programação)
   - PSET-1: C
 - Acesse a página das [Atividades do Autolab para a Unidade 3](unidade3/) para
   maiores informações.
