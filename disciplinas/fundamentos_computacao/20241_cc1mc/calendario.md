@@ -306,7 +306,7 @@
       semana</a></td> <!-- Estudo -->
       <td><b>Início:</b><br />
           <a href="/disciplinas/fundamentos_computacao/autolab/#autolab3">Exercícios, PSET-1</a></td> <!-- Autolab -->
-      <td>Diário 3: C</td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2024_1/diario_3.pdf">Diário 3: C</a></td> <!-- Hand out -->
       <td>Diário 2: Programação</td> <!-- Hand in -->
     </tr>
     <tr>

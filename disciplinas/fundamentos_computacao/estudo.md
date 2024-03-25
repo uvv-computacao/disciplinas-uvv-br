@@ -121,7 +121,7 @@ last_modified_date: 2024-03-19 02:21 -0300
   - [CR6.100B: Unidade 3](http://cmprz.me/cr6100bu3)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 6 e Koan 7 (pág. 16-20)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 3: C
+  - [**Diário de Aprendizagem 3: C**](/assets/disciplinas/fundcomp/2024_1/diario_3.pdf)
 - **Atividades no Autolab (obrigatórias):**
   - Exercícios
   - PSET-1
@@ -134,7 +134,7 @@ last_modified_date: 2024-03-19 02:21 -0300
   - [CR6.100B: Unidade 3](http://cmprz.me/cr6100bu3)
   - Blown to Bits: capítulo 1, seção 1.3 (pág. 20-23)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 2: C
+  - [**Diário de Aprendizagem 3: C**](/assets/disciplinas/fundcomp/2024_1/diario_3.pdf)
 
 ---
 
