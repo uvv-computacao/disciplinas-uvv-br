@@ -1890,803 +1890,796 @@
     "relUrl": "/disciplinas/fundamentos_computacao/monitoria/#abril"
   },"270": {
     "doc": "Monitoria e Laboratórios",
-    "title": "Maio",
-    "content": "01/05 (qua) Laboratório Unidade 3: C Monitor: ??? PSET-1. 02/05 (qui) Laboratório Unidade 3: C Monitor: ??? PSET-1. 03/05 (sex) Laboratório Unidade 3: C Monitor: ??? PSET-1. Semana 14 . 06/05 (seg) Monitoria Unidade 1: computação Monitor: ??? Algoritmos, tempo de execução, complexidade, heurísticas. Pensamento computacional, decomposição, reconhecimento de padrões, abstração e projetos de algoritmos. Detalhes e importância da abstração. 07/05 (ter) Monitoria Unidade 1: computação Monitor: ??? Algoritmos, tempo de execução, complexidade, heurísticas. Pensamento computacional, decomposição, reconhecimento de padrões, abstração e projetos de algoritmos. Detalhes e importância da abstração. 08/05 (qua) Laboratório Unidade 2: programação Monitor: ??? Snap! e Scratch. Variáveis. Estruturas de controle e estruturas de repetição. Operadores e expressões. Expressões booleanas. Bugs. PSET-0. 09/05 (qui) Laboratório Unidade 2: programação Monitor: ??? Snap! e Scratch. Variáveis. Estruturas de controle e estruturas de repetição. Operadores e expressões. Expressões booleanas. Bugs. PSET-0. 10/05 (sex) Laboratório Unidade 2: programação Monitor: ??? Snap! e Scratch. Variáveis. Estruturas de controle e estruturas de repetição. Operadores e expressões. Expressões booleanas. Bugs. PSET-0. Semana 15: . 13/05 (seg) Monitoria Unidade 2: programação Monitor: ??? Fluxograma, pseudocódigo. Variáveis. Estruturas de controle e estruturas de repetição. Operadores e expressões. Expressões booleanas. 14/05 (ter) Monitoria Unidade 2: programação Monitor: ??? Fluxograma, pseudocódigo. Variáveis. Estruturas de controle e estruturas de repetição. Operadores e expressões. Expressões booleanas. 15/05 (qua) Laboratório Unidade 2: programação Monitor: ??? Snap! e Scratch. Abstração. Funções, parâmetros, argumentos, valor de retorno e efeito colateral. Eventos. Threads. 16/05 (qui) Laboratório Unidade 2: programação Monitor: ??? Snap! e Scratch. Abstração. Funções, parâmetros, argumentos, valor de retorno e efeito colateral. Eventos. Threads. 17/05 (sex) Laboratório Unidade 2: programação Monitor: ??? Snap! e Scratch. Abstração. Funções, parâmetros, argumentos, valor de retorno e efeito colateral. Eventos. Threads. Semana 16: . 20/05 (seg) Monitoria Unidade 2: programação Monitor: ??? Abstração. Funções, parâmetros, argumentos, valor de retorno e efeito colateral. Eventos. Threads. 21/05 (ter) Monitoria Unidade 2: programação Monitor: ??? Abstração. Funções, parâmetros, argumentos, valor de retorno e efeito colateral. Eventos. Threads. 22/05 (qua) Laboratório Unidade 3: C Monitor: ??? C. Código fonte e de máquina. Compilação. Corretude, design e estilo. Seqüências de escape. Header files. Bibliotecas. Páginas de Manual. Tipos e variáveis. Condicionais, loops e expressẽos booleanas. Linux. Graphical User Interface (GUI) e Command-Line Interface (CLI). Constantes. Comentários. Operadores e expressões. Overflow em inteiros e imprecisão em ponto flutuante. Exercícios e PSET-1. 23/05 (qui) Laboratório Unidade 3: C Monitor: ??? C. Código fonte e de máquina. Compilação. Corretude, design e estilo. Seqüências de escape. Header files. Bibliotecas. Páginas de Manual. Tipos e variáveis. Condicionais, loops e expressẽos booleanas. Linux. Graphical User Interface (GUI) e Command-Line Interface (CLI). Constantes. Comentários. Operadores e expressões. Overflow em inteiros e imprecisão em ponto flutuante. Exercícios e PSET-1. 24/05 (sex) Laboratório Unidade 3: C Monitor: ??? C. Código fonte e de máquina. Compilação. Corretude, design e estilo. Seqüências de escape. Header files. Bibliotecas. Páginas de Manual. Tipos e variáveis. Condicionais, loops e expressẽos booleanas. Linux. Graphical User Interface (GUI) e Command-Line Interface (CLI). Constantes. Comentários. Operadores e expressões. Overflow em inteiros e imprecisão em ponto flutuante. Exercícios e PSET-1. Semana 17: . 27/05 (seg) Monitoria Unidade 3: C Monitor: ??? C. Código fonte e de máquina. Compilação. Corretude, design e estilo. Seqüências de escape. Header files. Bibliotecas. Páginas de Manual. Tipos e variáveis. Condicionais, loops e expressẽos booleanas. Linux. Graphical User Interface (GUI) e Command-Line Interface (CLI). Constantes. Comentários. Operadores e expressões. Overflow em inteiros e imprecisão em ponto flutuante. Exercícios e PSET-1. 28/05 (ter) Monitoria Unidade 3: C Monitor: ??? C. Código fonte e de máquina. Compilação. Corretude, design e estilo. Seqüências de escape. Header files. Bibliotecas. Páginas de Manual. Tipos e variáveis. Condicionais, loops e expressẽos booleanas. Linux. Graphical User Interface (GUI) e Command-Line Interface (CLI). Constantes. Comentários. Operadores e expressões. Overflow em inteiros e imprecisão em ponto flutuante. Exercícios e PSET-1. 29/05 (qua) Laboratório Unidade 3: C Monitor: ??? PSET-1. 30/05 (qui) Laboratório Unidade 3: C Monitor: ??? PSET-1. 31/05 (sex) Laboratório Unidade 3: C Monitor: ??? PSET-1. ",
-    "url": "/disciplinas/fundamentos_computacao/monitoria/#maio",
-    
-    "relUrl": "/disciplinas/fundamentos_computacao/monitoria/#maio"
-  },"271": {
-    "doc": "Monitoria e Laboratórios",
     "title": "Monitoria e Laboratórios",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/monitoria/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/monitoria/"
-  },"272": {
+  },"271": {
     "doc": "Pessoal",
     "title": "Professores",
     "content": " ",
     "url": "/disciplinas/linguagens_de_programacao/pessoal/#professores",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/pessoal/#professores"
-  },"273": {
+  },"272": {
     "doc": "Pessoal",
     "title": "Abrantes Araújo Silva Filho",
     "content": "abrantesasf@uvv.br . Olá pessoal, professor Abrantes aqui! Sou professor da área de tecnologia e computação aqui na UVV e absolutamente apaixonado por ensinar. Tenho uma formação um pouco incomum para a área: minha primeira graduação foi em Medicina (sim, sou médico, mas não atuo mais diretamente na prática clínica) com mestrado em Epidemiologia, minha segunda graduação foi em Ciência da Computação e, agora, estou cursando (meio que aos trancos e barrancos) uma graduação em matemática. Me esforço ao máximo (e além!) para ensinar e fazer com que os alunos realmente aprendam e, por isso mesmo, sou muito exigente. Se você é meu aluno, prepare-se: você vai estudar muito mais do que está acostumado, mas o resultado será recompensador. Eu espero que você, como estudante, tenha a seguinte inequação como inspiração e meta: . \\[B &gt; \\frac{1}{n} \\sum_{i=1}^n x_i\\] (be greater than average — seja maior do que a média) . ",
     "url": "/disciplinas/linguagens_de_programacao/pessoal/",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/pessoal/"
-  },"274": {
+  },"273": {
     "doc": "Pessoal",
     "title": "Pessoal",
     "content": " ",
     "url": "/disciplinas/linguagens_de_programacao/pessoal/",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/pessoal/"
-  },"275": {
+  },"274": {
     "doc": "Pessoal",
     "title": "Professores",
     "content": " ",
     "url": "/disciplinas/arquitetura_de_computadores_1/pessoal/#professores",
     
     "relUrl": "/disciplinas/arquitetura_de_computadores_1/pessoal/#professores"
-  },"276": {
+  },"275": {
     "doc": "Pessoal",
     "title": "Abrantes Araújo Silva Filho",
     "content": "abrantesasf@uvv.br . Olá pessoal, professor Abrantes aqui! Sou professor da área de tecnologia e computação aqui na UVV e absolutamente apaixonado por ensinar. Tenho uma formação um pouco incomum para a área: minha primeira graduação foi em Medicina (sim, sou médico, mas não atuo mais diretamente na prática clínica) com mestrado em Epidemiologia, minha segunda graduação foi em Ciência da Computação e, agora, estou cursando (meio que aos trancos e barrancos) uma graduação em matemática. Me esforço ao máximo (e além!) para ensinar e fazer com que os alunos realmente aprendam e, por isso mesmo, sou muito exigente. Se você é meu aluno, prepare-se: você vai estudar muito mais do que está acostumado, mas o resultado será recompensador. Eu espero que você, como estudante, tenha a seguinte inequação como inspiração e meta: . \\[B &gt; \\frac{1}{n} \\sum_{i=1}^n x_i\\] (be greater than average — seja maior do que a média) . ",
     "url": "/disciplinas/arquitetura_de_computadores_1/pessoal/",
     
     "relUrl": "/disciplinas/arquitetura_de_computadores_1/pessoal/"
-  },"277": {
+  },"276": {
     "doc": "Pessoal",
     "title": "Pessoal",
     "content": " ",
     "url": "/disciplinas/arquitetura_de_computadores_1/pessoal/",
     
     "relUrl": "/disciplinas/arquitetura_de_computadores_1/pessoal/"
-  },"278": {
+  },"277": {
     "doc": "Pessoal",
     "title": "Professores",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/pessoal/#professores",
     
     "relUrl": "/disciplinas/banco_de_dados_1/pessoal/#professores"
-  },"279": {
+  },"278": {
     "doc": "Pessoal",
     "title": "Abrantes Araújo Silva Filho",
     "content": "abrantesasf@uvv.br . Olá pessoal, professor Abrantes aqui! Sou professor da área de tecnologia e computação aqui na UVV e absolutamente apaixonado por ensinar. Tenho uma formação um pouco incomum para a área: minha primeira graduação foi em Medicina (sim, sou médico, mas não atuo mais diretamente na prática clínica) com mestrado em Epidemiologia, minha segunda graduação foi em Ciência da Computação e, agora, estou cursando (meio que aos trancos e barrancos) uma graduação em matemática. Me esforço ao máximo (e além!) para ensinar e fazer com que os alunos realmente aprendam e, por isso mesmo, sou muito exigente. Se você é meu aluno, prepare-se: você vai estudar muito mais do que está acostumado, mas o resultado será recompensador. Eu espero que você, como estudante, tenha a seguinte inequação como inspiração e meta: . \\[B &gt; \\frac{1}{n} \\sum_{i=1}^n x_i\\] (be greater than average — seja maior do que a média) . ",
     "url": "/disciplinas/banco_de_dados_1/pessoal/",
     
     "relUrl": "/disciplinas/banco_de_dados_1/pessoal/"
-  },"280": {
+  },"279": {
     "doc": "Pessoal",
     "title": "Monitores",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/pessoal/#monitores",
     
     "relUrl": "/disciplinas/banco_de_dados_1/pessoal/#monitores"
-  },"281": {
+  },"280": {
     "doc": "Pessoal",
     "title": "Suellen Miranda Amorim",
     "content": "suellen.org@gmail.com . Olá gente, sou estudante de Ciência da Computação e monitora de Banco de Dados (e de Probabilidade e Estatística Básica). Um pouco sobre mim: eu sempre estou fazendo alguma coisa, um projeto, um trabalho ou na atlética. Estou aqui para ajudar vocês, tirar dúvidas e ajudar! Quem quiser participar das monitorias, é só me procurar! Outros meios de contato: 9-8847-9887 (WhatsApp, Telegram e Signal) e Suh#4186 (Discord). Ah!, não se esqueça que as monitorias são realizadas no período vespertino. ",
     "url": "/disciplinas/banco_de_dados_1/pessoal/",
     
     "relUrl": "/disciplinas/banco_de_dados_1/pessoal/"
-  },"282": {
+  },"281": {
     "doc": "Pessoal",
     "title": "Pessoal",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/pessoal/",
     
     "relUrl": "/disciplinas/banco_de_dados_1/pessoal/"
-  },"283": {
+  },"282": {
     "doc": "Pessoal",
     "title": "Professores",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/#professores",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/#professores"
-  },"284": {
+  },"283": {
     "doc": "Pessoal",
     "title": "Abrantes Araújo Silva Filho",
     "content": "abrantesasf@uvv.br . Olá pessoal, professor Abrantes aqui! Sou professor da área de tecnologia e computação aqui na UVV e absolutamente apaixonado por ensinar. Tenho uma formação um pouco incomum para a área: minha primeira graduação foi em Medicina (sim, sou médico, mas não atuo mais diretamente na prática clínica) com mestrado em Epidemiologia, minha segunda graduação foi em Ciência da Computação e, agora, estou cursando (meio que aos trancos e barrancos) uma graduação em matemática. Me esforço ao máximo (e além!) para ensinar e fazer com que os alunos realmente aprendam e, por isso mesmo, sou muito exigente. Se você é meu aluno, prepare-se: você vai estudar muito mais do que está acostumado, mas o resultado será recompensador. Eu espero que você, como estudante, tenha a seguinte inequação como inspiração e meta: . \\[B &gt; \\frac{1}{n} \\sum_{i=1}^n x_i\\] (be greater than average — seja maior do que a média) . ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/"
-  },"285": {
+  },"284": {
     "doc": "Pessoal",
     "title": "Monitores",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/#monitores",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/#monitores"
-  },"286": {
+  },"285": {
     "doc": "Pessoal",
     "title": "Júlio César",
     "content": "ksjulio524@gmail.com . Olá a todos, meu nome é Julio, estudante de Ciências da Computação e serei um dos monitores de vocês esse ano. Sou uma pessoa animada e bem sociável, então não se sintam envergonhados em vir falar comigo :). Qualquer dúvida que tiverem e precisarem de algum help com a matéria, meu número é: (27) 9-9833-3655. Sempre que vocês precisarem, é só me mandar uma mensagem e tentarei responder sempre que possível. Vocês também podem entrar em contato comigo através de meu e-mail: ksjulio524@gmail.com. ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/"
-  },"287": {
+  },"286": {
     "doc": "Pessoal",
     "title": "Rhayssa dos Santos Rosa da Silva",
     "content": "rhayssasantos787@gmail.com . Olá pessoal, me chamo Rhayssa, sou estudante de Ciência da Computação e atualmente estou no segundo período. Serei um dos monitores da disciplina de Fundamentos da Computação, e espero poder ajudar no aprendizado de vocês da melhor forma possível. Se tiverem alguma dúvida sobre a monitoria ou a matéria, fiquem a vontade para me perguntar pessoalmente ou via WhatsApp: (73) 9-9931-9196. Vocês também podem entrar em contato comigo através de meu e-mail: rhayssasantos787@gmail.com. ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/"
-  },"288": {
+  },"287": {
     "doc": "Pessoal",
     "title": "Robert Lopes Terra",
     "content": "contatorobertlopes@gmail.com . Olá a todos, meu nome é Robert, estudante de Ciência da Computação e serei um dos monitores de vocês esse semestre. Qualquer dúvida que tiverem ou se precisarem de ajuda com a matéria, estarei à disposição durante as monitorias e os laboratórios de programação. Não deixem de participar das monitorias e laboratórios, é muito importante para vocês. Vocês também podem entrar em contato comigo através de meu e-mail: contatorobertlopes@gmail.com. ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/"
-  },"289": {
+  },"288": {
     "doc": "Pessoal",
     "title": "Pessoal",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/pessoal/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/pessoal/"
-  },"290": {
+  },"289": {
     "doc": "Pessoal",
     "title": "Professores",
     "content": " ",
     "url": "/disciplinas/projeto_integrado/pessoal/#professores",
     
     "relUrl": "/disciplinas/projeto_integrado/pessoal/#professores"
-  },"291": {
+  },"290": {
     "doc": "Pessoal",
     "title": "Susiléa Abreu dos Santos",
     "content": "sabreu@uvv.br . Formada em Sistemas de Informação, mestre em Informática pela UFES (área de banco de dados e redes de computadores), com experiência na área de Ciência da Computação e ênfase em Engenharia de Software e, agora, aluna de doutorado da FGV. Tenho mais de 30 anos de experiência na área de TI. Já atuei como programadora, analista de sistemas, comandos de equipe, testes de sistemas e gestão de projetos. Atualmente sou coordenadora do curso de Ciência da Computação, da UVV e atuo bastante na área de UX, Engenharia de Software e Gestão de Projetos. ",
     "url": "/disciplinas/projeto_integrado/pessoal/",
     
     "relUrl": "/disciplinas/projeto_integrado/pessoal/"
-  },"292": {
+  },"291": {
     "doc": "Pessoal",
     "title": "Abrantes Araújo Silva Filho",
     "content": "abrantesasf@uvv.br . Olá pessoal, professor Abrantes aqui! Sou professor da área de tecnologia e computação aqui na UVV e absolutamente apaixonado por ensinar. Tenho uma formação um pouco incomum para a área: minha primeira graduação foi em Medicina (sim, sou médico, mas não atuo mais diretamente na prática clínica) com mestrado em Epidemiologia, minha segunda graduação foi em Ciência da Computação e, agora, estou cursando (meio que aos trancos e barrancos) uma graduação em matemática. Me esforço ao máximo (e além!) para ensinar e fazer com que os alunos realmente aprendam e, por isso mesmo, sou muito exigente. Se você é meu aluno, prepare-se: você vai estudar muito mais do que está acostumado, mas o resultado será recompensador. Eu espero que você, como estudante, tenha a seguinte inequação como inspiração e meta: . \\[B &gt; \\frac{1}{n} \\sum_{i=1}^n x_i\\] (be greater than average — seja maior do que a média) . ",
     "url": "/disciplinas/projeto_integrado/pessoal/",
     
     "relUrl": "/disciplinas/projeto_integrado/pessoal/"
-  },"293": {
+  },"292": {
     "doc": "Pessoal",
     "title": "Pessoal",
     "content": " ",
     "url": "/disciplinas/projeto_integrado/pessoal/",
     
     "relUrl": "/disciplinas/projeto_integrado/pessoal/"
-  },"294": {
+  },"293": {
     "doc": "Recursos",
     "title": "Recursos diversos",
     "content": " ",
     "url": "/disciplinas/linguagens_de_programacao/recursos/#recursos-diversos",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/recursos/#recursos-diversos"
-  },"295": {
+  },"294": {
     "doc": "Recursos",
     "title": "Criação de sua pasta para a entrega dos PSETs",
     "content": ". | Acesse o diretório online CS50, e crie uma pasta para você (atenção: é necessário fazer o login com alguma conta do Google para poder criar pastas e fazer o upload de arquivos). | A pasta que você criar SEGUIR EXATAMENTE o seguinte formato de nome: xxxxxxxxx_seu_nome_completo, onde os “xxxxxxxxx” correspondem ao seu número de matrícula. Por exemplo: 202312345_abrantes_araujo_silva_filho. Essa será sua pasta pessoal para a entrega dos PSETs. | Dentro de sua pasta de entrega, crie um diretório para cada PSET, começando com o pset-0 e indo até o pset-10. Não mude o nome dessas pastas, coloque apenas pset-x, onde “x” é o número do PSET. | . ",
     "url": "/disciplinas/linguagens_de_programacao/recursos/#criao-de-sua-pasta-para-a-entrega-dos-psets",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/recursos/#criao-de-sua-pasta-para-a-entrega-dos-psets"
-  },"296": {
+  },"295": {
     "doc": "Recursos",
     "title": "0. Entrega do PSET-0 (prazo: 03/03/2023)",
     "content": ". | Acesse a página https://cs50.me/cs50x, que é o Gradebook para sua nota no curso CS50. Salve essa página em PDF, comprovando que você submeteu o PSET-0 para Harvard, que foi avaliado e que conseguiu a aprovação na Week 0. Faça o upload desse arquivo PDF para sua pasta pset-0. | Faça o upload de seu projeto Scratch (o arquivo .sb3) para sua pasta de entrega pset-0. | Não perca o prazo! Após o dia 03/03/2023 sua nota será penalizada. | . ",
     "url": "/disciplinas/linguagens_de_programacao/recursos/#entrega-do-pset-0-prazo-03032023",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/recursos/#entrega-do-pset-0-prazo-03032023"
-  },"297": {
+  },"296": {
     "doc": "Recursos",
     "title": "1. Entrega do PSET-1 (prazo: 10/03/2023)",
     "content": ". | Acesse a página https://cs50.me/cs50x, que é o Gradebook para sua nota no curso CS50. Salve essa página em PDF, comprovando que você submeteu o PSET-1 para Harvard, que foi avaliado e que conseguiu a aprovação na Week 1. Faça o upload desse arquivo PDF para sua pasta pset-1. | Faça o upload dos seguintes arquivos fonte em c para sua pasta pset-1: . | Lab 1: Population | Hello | Mario (more) | Credit | . | Não perca o prazo! Após o dia 10/03/2023 sua nota será penalizada. | . ",
     "url": "/disciplinas/linguagens_de_programacao/recursos/#entrega-do-pset-1-prazo-10032023",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/recursos/#entrega-do-pset-1-prazo-10032023"
-  },"298": {
+  },"297": {
     "doc": "Recursos",
     "title": "Recursos",
     "content": " ",
     "url": "/disciplinas/linguagens_de_programacao/recursos/",
     
     "relUrl": "/disciplinas/linguagens_de_programacao/recursos/"
-  },"299": {
+  },"298": {
     "doc": "Recursos",
     "title": "Recursos diversos",
     "content": "(em construção) . ",
     "url": "/disciplinas/arquitetura_de_computadores_1/recursos/#recursos-diversos",
     
     "relUrl": "/disciplinas/arquitetura_de_computadores_1/recursos/#recursos-diversos"
-  },"300": {
+  },"299": {
     "doc": "Recursos",
     "title": "Recursos",
     "content": " ",
     "url": "/disciplinas/arquitetura_de_computadores_1/recursos/",
     
     "relUrl": "/disciplinas/arquitetura_de_computadores_1/recursos/"
-  },"301": {
+  },"300": {
     "doc": "Recursos",
     "title": "Recursos diversos",
     "content": "Nas seções abaixo você encontrará vários recursos para ajudá-lo a compreender o conteúdo da disciplina ao longo do semestre. ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#recursos-diversos",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#recursos-diversos"
-  },"302": {
+  },"301": {
     "doc": "Recursos",
     "title": "Sumário",
     "content": ". | Máquina virtual | Cursos online e ambientes virtuais de aprendizagem | SQL: Structured Query Language | Documentação dos sistemas de gerenciamento de bancos de dados | Configuração adequada para computadores de alunos de computação | . ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#sumrio",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#sumrio"
-  },"303": {
+  },"302": {
     "doc": "Recursos",
     "title": "Máquina virtual",
     "content": ". | Máquina virtual DBSERVER 2, do Computação Raiz: esta máquina virtual contém todos os sistemas de gerenciamento de bancos de dados e demais softwares que serão utilizados no curso. | . ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#mquina-virtual",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#mquina-virtual"
-  },"304": {
+  },"303": {
     "doc": "Recursos",
     "title": "Cursos online e ambientes virtuais de aprendizagem",
     "content": ". | CR6.180A: Introdução ao Projeto e Sistemas de Bancos de Dados: este curso do Computação Raiz fará parte integral desta disciplina, de forma OBRIGATÓRIA (provas e atividades para nota e aprovação serão realizadas no CR6.180A). Este curso contém vídeos, exercícios, fóruns de discussão e outros recursos para o aprendizado. Os alunos serão matriculadas pelo professor neste curso. | Oracle Academy: este curso Oracle também fará parte integral desta disciplina, de forma OPCIONAL. Os alunos serão matriculados pelo professor neste curso como um complemento opcional aos alunos interessados. | . ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#cursos-online-e-ambientes-virtuais-de-aprendizagem",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#cursos-online-e-ambientes-virtuais-de-aprendizagem"
-  },"305": {
+  },"304": {
     "doc": "Recursos",
     "title": "SQL: Structured Query Language",
     "content": ". | SQL for Web Nerds: um tutorial antigo mas muito bom escrito pelo Philip Greenspun, um ex-professor do MIT pioneiro na criação de comunidades online e sites baseados em bancos de dados. | SQL Tutorial: tutorial SQL da W3Schools, com a possibilidade de estudar e testar os comandos diretamente no browser. | . ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#sql-structured-query-language",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#sql-structured-query-language"
-  },"306": {
+  },"305": {
     "doc": "Recursos",
     "title": "Documentação dos sistemas de gerenciamento de bancos de dados",
     "content": ". | Documentação do PostgreSQL | Documentação do Oracle | Documentação do MariaDB | Documentação do SQL Server | Documentação do MongoDB | . ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#documentao-dos-sistemas-de-gerenciamento-de-bancos-de-dados",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#documentao-dos-sistemas-de-gerenciamento-de-bancos-de-dados"
-  },"307": {
+  },"306": {
     "doc": "Recursos",
     "title": "Configuração adequada para computadores de alunos de computação",
     "content": "Uma dúvida freqüente dos alunos de computação (Ciência da Computação, Sistemas de Informação, etc.) é qual a “melhor” configuração para a aquisição de um computador para estudo e trabalho durante a graduação. Cada aluno tem uma necessidade diferente e, assim, é difícil dar uma resposta 100% exata, mas aqui vão algumas dicas: . | Notebook ou Desktop? A primeira decisão que você precisa tomar é se vai investir em um notebook ou em um desktop. Você precisa carregar o computador com você e está disposto a pagar um pouco mais do que um desktop para uma configuração um pouco menos potente? Então compre um notebook. Se você não precisa carregar o computador com você, tem um orçamento um pouco mais apertado e quer o máximo possível de performance em custo razoável, então compre um desktop. Os desktops tendem a ter uma configuração melhor do que um notebook com o mesmo preço. | Arquitetura Intel ou ARM? Os computares com processadores Intel e AMD são computadores com arquitetura Intel; já os computadores mais novos da Apple (Mac Book Air M1, por exemplo) são arquitetura ARM. Se você não tem certeza ou não tem um motivo específico para escolher computadores ou notebooks da Apple, opte por computadores com arquitetura Intel: são mais baratos e, no momento, ainda têm mais opções de softwares disponíveis. | Processador Intel ou AMD? Puramente questão de escolha individual e de orçamento: os processadores da Intel e AMD, de mesma linha, tendem a ter performance praticamente idêntica (em alguns a Intel é um pouco melhor, em outros a AMD é um pouco melhor). Mas os processaodres da AMD são, em geral, mais baratos. | Modelo do processador: Você não precisa do processador mais “top ultra super mega blaster” para seu computador. Um processador Intel Core i5 da 10ª geração em diante já está ótimo! Um processador AMD Ryzen 5 da série 5000 em diante também já está ótimo! Mas atenção: se possível (se seu orçamento permitir), escolha processadores a partir de 4 cores e 8 threads. | Placa mãe: Depende do processador escolhido. Ao escolher um processador você precisa escolher uma placa mãe compatível. Existem centanas de opções possíveis, você deve escolher um modelo de placa mãe compatível com seu processador e com as funcionalidades que você precisa (número de portas USB, áudio integrado, slots de expansão, etc). | Memória RAM: Aqui não tem muito segredo, no mínimo do mínimo você precisa de 8 GiB de RAM, mas recomendo que você invista em 16 GiB. Opte por memórias DDR4 ou DDR5, com alta freqüência. | Disco rígido: Aqui também não sem segredo. Você precisa comprar um SSD de, pelo menos, 256 GiB. A economia ao comprar um SSD de 128 GiB vai se transformar, em poucas semanas, em arrependimento por não ter espaço em disco suficiente. Se possível, compre um SSD de 480 GiB ou mais! | Placa de rede cabeada: Se você comprar uma placa mãe para um computador desktop, não precisa se preocupar com isso pois as placas já vêm com adaptador de rede integrado. Mas se você comprar um notebook eu sugiro que você escolha um modelo que tenha placa de rede cabeada (para baratear o preço os fabricantes de notebook estão vendendo notebooks apenas com rede Wi-Fi… fuja desses notebooks, Wi-Fi é bom para coisas mais triviais mas, se você precisa transferir grandes quantidades de dados para outro computador ou para um backup em rede, por exemplo, a placa de rede cabeada é absolutamente necessária). | Placa de rede Wi-Fi: Se você comprar um notebook já terá rede Wi-Fi integrada. Se você comprar um desktop não terá um Wi-Fi integrado (exceto se comprar uma placa mãe “top”) mas, em geral, um desktop não precisa de rede Wi-Fi pois a rede cabeada resolve tudo e de forma melhor que o Wi-Fi. | Placa de vídeo: É opcional pois os processadores já têm vídeo integrado. Você só precisa comprar um placa de vídeo em algumas situações especiais, tais como: . | O processador que você comprou não tem suporte para vídeo integrado; | Você quer usar o computador para jogos | Você quer usar o computador para machine learning e precisa do poder de processamento extra fornecido pela placa de vídeo | . | Sistema operacional: Se você está na computação precisa aprender a utilizar dois sistemas operacionais, Linux e Windows. Se você utiliza computadores Mac também precisa aprender o MacOS, mas este é derivado do Unix, assim como o Linux. O sistema operacional vai depender de seu gosto pessoal: . | Se você for gamer e não consegue viver sem jogar (cuidado com a reprovação!), é melhor usar Windows (no mínimo a versão Pro… NÃO COMPRE a versão Home). | Se você não se importa em jogar e não utiliza ferramentas ou softwares gráficos ou de edição de imagem e vídeo mais avançados, é melhor usar Linux (qualquer distribuição recente). O Linux é mais difícil de usar no começo mas, quando ganhar experiência, você será muito mais produtivo utilizando Linux do que utilizando Windows. | Obs.: como você precisa dominar bem os dois sistemas você pode criar um dual boot em seu computador, para usar Windows ou Linux; ou pode utilizar uma máquina virtual para usar os dois sistemas ao mesmo tempo (essa solução da máquina virtual é muito boa!) | . | Outros: Periféricos e demais componentes do hardware (cooler, fonte de alimentação, teclado, mouse, webcam, headset, gabinete, etc.) são um pouco menos importantes e qualquer coisa que você achar agradável já está OK. No mundo das aulas online é interessante ter uma webcam com resolução de 720p ou 1080p, e um conjunto de headset para ouvir e falar. | . Se ainda estiver em dúvida, entre em contato com o professor! . ",
     "url": "/disciplinas/banco_de_dados_1/recursos/#configurao-adequada-para-computadores-de-alunos-de-computao",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/#configurao-adequada-para-computadores-de-alunos-de-computao"
-  },"308": {
+  },"307": {
     "doc": "Recursos",
     "title": "Recursos",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/recursos/",
     
     "relUrl": "/disciplinas/banco_de_dados_1/recursos/"
-  },"309": {
+  },"308": {
     "doc": "Recursos",
     "title": "Recursos diversos",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#recursos-diversos",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#recursos-diversos"
-  },"310": {
+  },"309": {
     "doc": "Recursos",
     "title": "Sumário (em ordem alfabética)",
     "content": ". | Almaço, papel | Calendário acadêmico | Livros | Notas | PSETs | . ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#sumrio-em-ordem-alfabtica",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#sumrio-em-ordem-alfabtica"
-  },"311": {
+  },"310": {
     "doc": "Recursos",
     "title": "Almaço, papel",
     "content": ". | Uso correto do papel almaço | . ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#almao-papel",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#almao-papel"
-  },"312": {
+  },"311": {
     "doc": "Recursos",
     "title": "Calendário acadêmico",
     "content": ". | Calendário acadêmico oficial 2024 | Calendário acadêmico simplificado: 2024/1 | . ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#calendrio-acadmico",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#calendrio-acadmico"
-  },"313": {
+  },"312": {
     "doc": "Recursos",
     "title": "Livros",
     "content": ". | Blown to Bits (original em inglês) | Blown to Bits: pt-BR (tradução do livro que está sendo feita pelo professor e alunos voluntários) | . ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#livros",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#livros"
-  },"314": {
+  },"313": {
     "doc": "Recursos",
     "title": "Notas",
     "content": ". | Critérios de Arredondamento de Notas | . ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#notas",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#notas"
-  },"315": {
+  },"314": {
     "doc": "Recursos",
     "title": "PSETs",
     "content": ". | Harbinger of Doom, Despair, and Knowledge: PSETS (versão em pdf) | A love letter to psets (versão em pdf) | The Process of Psetting (versão em pdf) | . ",
     "url": "/disciplinas/fundamentos_computacao/recursos/#psets",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/#psets"
-  },"316": {
+  },"315": {
     "doc": "Recursos",
     "title": "Recursos",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/recursos/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/recursos/"
-  },"317": {
+  },"316": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": "(clique aqui para a versão PDF deste documento) . Além do material oficial que está disponível no Portal do Aluno da UVV (Universidade de Vila Velha), este documento contém mais detalhes sobre a dinâmica da disciplina Design e Desenvolvimento de Bancos de Dados I para todas as turmas deste semestre (2023/1). Leia-o com atenção e procure o professor para esclarecer qualquer dúvida. Note que este syllabus1 não é um documento “oficial”: é um material extra, preparado pelo professor da disciplina para proporcionar informações adicionais importantes para os alunos. A ementa oficial da disciplina está disponivel para download. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/"
-  },"318": {
+  },"317": {
     "doc": "Syllabus",
     "title": "Sumário",
     "content": ". | Visão geral da disciplina | Pré-requisitos | Objetivos do curso e resultados esperados . | Objetivos de aprendizagem | Habilidades a serem adquiridas | . | Estrutura e informações sobre a disciplina . | Professor | Monitores, assistentes e tutores | Datas e horários das aulas | Laboratório de computação e computador pessoal | Grau de dificuldade e esforço estimado | Ambientes virtuais de aprendizagem | Materiais da disciplina | . | Dinâmica da disciplina: . | Leituras, trabalhos e atividades | Aulas | Problem Sets (PSETs) | Monitoria e tutoria | . | Avaliação da aprendizagem . | Provas | PSETs | Trabalhos e atividades | Testes rápidos, vídeos etc. | Composição final da nota | . | Integridade acadêmica . | Política sobre trabalho colaborativo | Cláusula de arrependimento | . | Perguntas freqüentes | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#sumrio",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#sumrio"
-  },"319": {
+  },"318": {
     "doc": "Syllabus",
     "title": "Visão geral da disciplina",
     "content": "Olá, seja muito bem-vindo! . Esta é a disciplina Design e Desenvolvimento de Bancos de Dados I, para os cursos de Ciência da Computação e Sistemas de Informação da Universidade de Vila Velha (UVV). Esta disciplina é uma introdução aos conceitos fundamentais necessários para projetar, usar e implementar sistemas de bancos de dados e aplicações de bancos de dados, através de uma abordagem profunda e atualizada dos aspectos mais importantes dos sistemas e aplicações de bancos de dados, bem como das tecnologias relacionadas. Nesta disciplina você terá o primeiro contato com os bancos de dados e também com os sistemas de gerenciamento de bancos de dados open-source (tais como o MySQL, MariaDB e o PostgreSQL) e comerciais2 (tais como o Oracle Database e o Microsoft SQL Server). Você aprenderá a projetar e implementar um banco de dados através de técnicas de modelagem conceitual, lógica e física, de tal forma que o banco de dados seja adequado para a tomada de decisões e com boa performance para uso no mundo real. Também estudará o modelo relacional de dados, a linguagem SQL (Structured Query Language), álgebra relacional, técnicas de normalização, bancos de dados de objeto, XML, modelo de dados entidade-relacionamento e muito mais! . Além disso esta disciplina também contribuirá para que você desenvolva suas habilidades de pensamento computacional3 quando você estiver aprendendo a modelar bancos de dados: 1) você precisará decompor um problema complexo em problemas menores, mais gerenciáveis; 2) você precisará usar técnicas de abstração para se focar nas partes essenciais dos problemas, ignorando detalhes irrelevantes; 3) você começará a usar técnicas de reconhecimento de padrões para pensar em como resolver problemas; e 4) você começará a entender sobre algoritmos e linguagens. Em resumo, esta disciplina é sua porta de entrada para o fantástico mundo dos bancos de dados. Prepare-se, pois esta disciplina é muito extensa, árdua e difícil, mas o resultado, se você se dedicar conforme descrito neste plano de ensino, será recompensador! . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#viso-geral-da-disciplina",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#viso-geral-da-disciplina"
-  },"320": {
+  },"319": {
     "doc": "Syllabus",
     "title": "Pré-requisitos",
     "content": ". | Obrigatórios4: . | Matemática: familiaridade e conforto com, pelo menos, a matemática do ensino médio (aritmética, álgebra, funções e conjuntos’). Caso sua base matemática seja fraca, veja o texto Preparação para graduação em áreas exatas: matemática além do básico, com dicas para estudar novamente a matemática, do jeito certo; | Computador: você deve ter um computador com acesso a internet (câmera, microfone e caixas de som são recomendados) e com capacidade suficiente para instalar e executar os softwares que serão utilizados (um computador recente, com arquitetura Intel x86 de 64 bits, com Linux, Windows ou Mac, com 8 GiB de memória RAM e bastante espaço em disco). Verifique a Seção Laboratório de computação e computador pessoal para maiores detalhes; e | Inglês: livros e leituras obrigatórias da disciplina estarão em português mas haverá também bastante conteúdo em inglês (principalmente leitura). Na área da computação é absolutamente fundamental o domínio de inglês (se você não sabe inglês COMECE JÁ a estudar). | . | Desejáveis5: . | SQL: algum curso introdutório em SQL; | Programação: algum curso introdutório de programação, em qualquer linguagem. | . | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#pr-requisitos",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#pr-requisitos"
-  },"321": {
+  },"320": {
     "doc": "Syllabus",
     "title": "Objetivos do curso e resultados esperados",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#objetivos-do-curso-e-resultados-esperados",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#objetivos-do-curso-e-resultados-esperados"
-  },"322": {
+  },"321": {
     "doc": "Syllabus",
     "title": "Objetivos de aprendizagem",
     "content": ". | Aprender noções fundamentais sobre bancos de dados (banco de dados, sistemas de gerenciamento de bancos de dados, características de um sistema de bancos de dados, vantagens e desvantagens); | Aprender o que é modelo de dados, a arquitetura dos bancos de dados, quais as linguagens e interfaces de acesso aos dados, e arquitetura cliente/servidor; | Entender o modelo relacional de dados e suas restrições, bem como as operações de atualização, tansações e tratamento de violações de restrições; | Aprender a usar comandos SQL básicos (select, insert, update, delete); | Aprender a usar queries SQL mais avançadas (joins, triggers, views) e alterações no esquema de um banco de dados; | Entender a relação entre a álgebra e o cálculo relacional com a SQL; | Aprender a modelar um banco de dados utilizando o modelo entidade-relacionamento (ER); | Aprender o modelo entidade-relacionamento estendido (EER) para trabalhar com subclasses, herança, especialização, generalização e conceitos relacionados; | Aprender a mapear um modelo conceitual (ER ou EER) para o modelo relacional; | Entender dependências funcionais e como normalizar um modelo relacional, sabendo usar diversas formas normais; | Aprender sobre regras de inferência, equivalência, cobertura, algoritmos e decomposições relacionais; | Aprender sobre sistemas de gerenciamento de bancos de dados de objeto e objeto-relacional; | Diferenciar dados estruturados de não estruturados, sabendo utilizar modelos de dados hierárquicos da XML; | Aprender as técnicas básicas de programação SQL (SQL embutida, SQL dinâmica e SQLJ); e | Utilizar bancos de dados na web através de um exemplo com PHP. | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#objetivos-de-aprendizagem",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#objetivos-de-aprendizagem"
-  },"323": {
+  },"322": {
     "doc": "Syllabus",
     "title": "Habilidades a serem adquiridas",
     "content": ". | Projetar e modelar bancos de dados (modelos conceitual, lógico e físico); | Implementar bancos de dados em diversos sistemas de gerenciamento de bancos de dados (MySQL, MariaDB, PostgreSQL, Oracle e SQL Server); | Utilizar um sistema Linux para acesso aos bancos de dados, principalmente o uso da linha de comando; | Aprender as interfaces de linha de comando para acesso aos bancos de dados; | Aprender uma ferramenta gráfica para acesso a diversos bancos de dados (uti- lizaremos a DBeaver); | Aprender uma ferramenta web para acesso a um banco de dados (utilizaremos o phpMyAdmin); e | Aprender uma ferramenta gráfica dedicada para acesso a um banco de dados (utilizaremos o pgAdmin). | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#habilidades-a-serem-adquiridas",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#habilidades-a-serem-adquiridas"
-  },"324": {
+  },"323": {
     "doc": "Syllabus",
     "title": "Estrutura e informações sobre a disciplina",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#estrutura-e-informaes-sobre-a-disciplina",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#estrutura-e-informaes-sobre-a-disciplina"
-  },"325": {
+  },"324": {
     "doc": "Syllabus",
     "title": "Professor",
     "content": "Olá, meu nome é Abrantes Araújo Silva Filho e serei o professor responsável pela sua turma. Algumas informações importantes: . | Sou graduado em medicina pela UFES (1999), mestre em epidemiologia e métodos quantitativos em saúde pela FIOCRUZ (2002) e graduado em ciência da computação pela FAESA (2021). Atualmente sou estudante do bacharelado em matemática da Uninter, na modalidade de ensino a distância (EAD). | www.linkedin.com/in/abrantes-filho | github.com/abrantesasf e também github.com/computacaoraiz | www.abrantes.pro.br e também www.computacaoraiz.com.br | abrantesasf@uvv.br | www.youtube.com/computacaoraiz | cursos.computacaoraiz.com.br | (27) 9-9991-4393, para entrar em contato via Signal ou Telegram6. | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#professor",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#professor"
-  },"326": {
+  },"325": {
     "doc": "Syllabus",
     "title": "Monitores, assistentes e tutores",
     "content": "Oficialmente ainda não está confirmada a participação de nenhum monitor, assistente ou tutor. Todas as atividades serão conduzidas diretamente pelo professor, de modo presencial. Extra-oficialmente, alunos mais avançados ou que já tenham experiência prévia podem ser voluntários para atuar como monitores informais da turma, auxiliando os alunos com menor experiência e/ou dificuldade. Para mais informações, consulte a Seção Monitoria, tutoria e laboratório. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#monitores-assistentes-e-tutores",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#monitores-assistentes-e-tutores"
-  },"327": {
+  },"326": {
     "doc": "Syllabus",
     "title": "Datas e horários das aulas",
     "content": "O período 2023/1 se inicia no dia 01/02/2023 e termina no dia 04/07/2023. Oficialmente cada turma tem 2 aulas obrigatórias por semana. Além disso, caso um monitor seja oficialmente selecionado pela UVV, as turmas terão à disposição um monitor durante todas as tardes da semana para discussões, esclarecimento de dúvidas, auxílio em exercícios e tarefas e muito mais. Cada turma também utilizará a plataforma Cursos do Computação Raiz, no endereço https://cursos.computacaoraiz.com.br. Os alunos serão matriculados no curso CR6.180A: Introdução ao Projeto e Sistemas de Bancos de Dados e deverão assistir aos vídeos, realizar as provas, as atividades, os PSETs (mais sobre isso em breve) e tudo o mais que estiver agendado. ATENÇÃO: o curso CR6.180A faz parte da nota para sua aprovação nesta disciplina! . Cada turma deve consultar o site Disciplias UVV e verificar seu horário semanal e o cronograma previsto de aulas e conteúdo para a disciplina. Aulas extras podem ser necessárias para a reposição de aulas canceladas por motivo de força maior. As aulas de reposição são oficiais e devem ser aprovadas por, pelo menos, 75% dos alunos. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#datas-e-horrios-das-aulas",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#datas-e-horrios-das-aulas"
-  },"328": {
+  },"327": {
     "doc": "Syllabus",
     "title": "Laboratório de computação e computador pessoal",
     "content": "A estrutura de laboratórios de computação da UVV é excelente, possuindo máquinas com hardware e software padronizados que facilitam a realização das atividades. Além disso o benefício mais importante de trabalhar no laboratório é obter ajuda direta do professor, dos assistentes, e de seus próprios colegas de turma. Entretanto, por limitações de tempo, você precisará realizar tarefas em seu próprio computador pessoal. Veja aqui as configurações mínimas necessárias para que você consiga realizar todas as tarefas em seu próprio computador: . | Processador: deve ter arquitetura INTEL x86, de 64 bits. Outras arquiteturas, como a ARM (MacBook Air M1, por exemplo), não são suportadas. Qualquer computador relativamente recente com processador Intel ou AMD já está adequado; | Memória: no mínimo 8 GiB de memória RAM (16 GiB é recomendável); | Disco rígido: pelo menos 50 GiB de espaço livre em disco (70 GiB durate a instalação da máquina virtual do curso); | Sistema operacional: Linux, Windos ou Mac; | Monitor: no mínimo um monitor HD (Full HD é recomendável). Seu monitor deve ser grande o suficiente para que você possa trabalhar com conforto. Se você tiver dois monitores poderá realizar as tarefas em um monitor e usar o outro para ler o conteu´do ou consultar a documentação sobre bancos de dados disponível na Internet; | Internet: você deve ter uma conexão razoavelmente rápida para fazer o download da máquina virtual. Além disso você precisa assistir todas as aulas e realizar as tarefas do curso CR6.180A; | Som: necessário para fazer as aulas do curso CR6.180A; | Microfone: não é obrigatório, mas pode ser utilizado caso ocorram aulas online síncronas; | Câmera: não é obrigatória, mas uma webcam pode ser utilizada caso alguma aula extra seja feita de forma online. | . Se você tiver um notebook pode utilizá-lo durante as aulas de laboratório, ao invés dos computadores da UVV. A vantagem de usar seu próprio notebook é que você terá o mesmo ambiente, tanto na UVV quanto em casa, e poderá seguir os exercícios e tarefas de modo contínuo. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#laboratrio-de-computao-e-computador-pessoal",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#laboratrio-de-computao-e-computador-pessoal"
-  },"329": {
+  },"328": {
     "doc": "Syllabus",
     "title": "Grau de dificuldade e esforço estimado",
     "content": "Tenha sempre em mente que esta disciplina é extensa e precisa de dedicação, estudo e leitura diária para que você consiga aprender tudo o que é necessário. Em especial atente-se para o seguinte: . | Nível: esta disciplina é de nível introdutório a intermediário; | Língua: as aulas, livros e materiais da disciplina são em português mas alguns materiais (leituras e vídeos) estão em inglês. Os softwares utilizados estão, em sua maioria, em inglês (alguns oferecem tradução para português); | Esforço total: 10-15 horas de estudo por semana, além da carga horária das aulas presenciais, dependendo de seu conhecimento e habilidades prévias. Prepare-se para dedicar, em média, 1-2 horas diárias para leitura e realização das atividades programadas; | Leitura: parte do esforço nessa disciplina é voltado para atividades de leitura. Prepare-se para ler, em média, 35 páginas por semana (variando de 18 a 52 páginas por semana). Não se assuste com a quantidade pois há muitas ilustrações, exemplos e códigos de programação nos livros utilizados, fazendo com que a leitura não seja tão hercúlea assim. Mantenha as leituras em dia, conforme o cronograma. Acumular leituras é “fatal” para o aprendizado; e | Trabalhos e atividades: a maior parte do esforço nessa matéria é representada pelos trabalhos, PSETs e atividades práticas que você realizará semanalmente. | . Você já percebeu que esta disciplina precisa de um grau de dedicação de tempo e esforço consideráveis. Mesmo assim, se você estiver gastando mais tempo do que esforço total indicado acima, pode ser um sinal de que você precisa de ajuda para entender melhor o material. Entre imediatamente em contato com o professor, não deixe acumular dúvidas. Eu espero que você, como estudante universitário7, esteja buscando aprender o máximo possível e fazendo todo esforço para se dedicar nas atividades propostas e aprender por conta própria de acordo com as orientações do professor. Lembre-se: a única maneira de aprender é estudar! Leia os textos indicados abaixo para saber o que faz a diferença no momento de estudar: . | Como estudar? Dicas ao estudante iniciante | O problema é o tamanho do lápis | Você gasta sua borracha? | . Eu também espero que você seja um estudante e não um aluno. E que você tenha brio, seja bravo, persistente e resiliente para encarar o desafio! Assista os pequenos vídeos indicados a seguir para saber a diferença entre aluno e estudante, e para saber a necessidade de brio para estudar: . | Aluno ou estudante? Do professor Pierluigi Piazzi; e | Você tem brio? Do professor Clovis de Barros Filho (desconsidere os palavrões, assista até o final!) | . Para saber como vencer a procrastinação e manter o estudo em dia, assista ao seguinte vídeo (ative as legendas em português se necessário): . | Why we procrastinate? de Vik Nithy. | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#grau-de-dificuldade-e-esforo-estimado",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#grau-de-dificuldade-e-esforo-estimado"
-  },"330": {
+  },"329": {
     "doc": "Syllabus",
     "title": "Ambientes virtuais de aprendizagem",
     "content": ". | CR6.180A: Introdução ao Projeto e Sistemas de Bancos de Dados: este curso do Computação Raiz é parte integral desta disciplina, de forma OBRIGATÓRIA (provas e atividades para nota e aprovação serão realizadas no CR6.180A). Este curso contém vídeos, exercícios, fóruns de discussão e outros recursos para o aprendizado. Os alunos serão matriculadas pelo professor neste curso. | Oracle Academy: a UVV fez uma parceria com a Oracle para disponibilizar aos alunos a plataforma Oracle Academy, com diversos cursos da própria Oracle referentes ao conteúdo da disciplina. Você receberá um usuário/senha para entrar na Oracle Academy e estudar os conteúdos disponibilizados pelo professor. Este ambiente é OPCIONAL mas altamente recomendado. | Portal do Aluno da UVV: será utilizado para distribuir a documentação oficial da disciplina, postar mensagens aos alunos, indicar leituras, distribuir materiais, distribuir tarefas e atividades e, de modo geral, para fazer toda a comunicação entre o professor e a turma; | . Atenção: se você estiver sem acesso ao Portal do Aluno da UVV, entre em contato com a coordenação do curso. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#ambientes-virtuais-de-aprendizagem",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#ambientes-virtuais-de-aprendizagem"
-  },"331": {
+  },"330": {
     "doc": "Syllabus",
     "title": "Materiais da disciplina",
     "content": ". | Livro texto de referência: utilizaremos como livro texto de referência da disciplina (e de onde serão feitas as leituras obrigatórias) o seguinte livro: . | ELMASRI, R. &amp; NAVATHE, S. B. Sistemas de Banco de Dados. 7ª edição. São Paulo: Pearson, 2018. | Observação: se você não conseguir encontrar a 7ª edição do ELMASRI, pode substituir por edições anteriores sem problemas (a biblioteca da UVV conta com exemplares da 4ª e 6ª edições). Você não precisa comprar8 o livro, utilize os exemplares disponíveis na biblioteca. | . | Outros livros recomendados: para os alunos que quiserem se aprofundar e complementar a leitura do livro texto de referência, os seguintes livros podem ser consultados: . | SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados. 7ª edição. Rio de Janeiro, 2020. | CORONEL, C; MORRIS, S. Database Systems: design, implementation, &amp; management. 13th edition. Boston: Cengage, 2019. | RAMAKRISHNAN, R; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. 3ª edição. São Paulo: McGraw-Hill, 2008. | DATE, C. J. An Introduction to Database Systems. 8th ed. Boston: Pearson, 2004. | HERNANDEZ, M. J. Database Design for Mere Mortals: a hands-on guide to relational dataabse design. 25th edition. Boston: Pearson, 2021. | KYTE, T. Effective Oracle by Design. 1st edition. New York: McGraw-Hill/Osborne, 2003. | VIESCAS, J. L. SQL Queries for Mere Mortals: a hands-on guide to data manipulation in SQL. 4th edition. Boston: Pearson, 2021. | FEUERSTEIN, S. Oracle PL/SQL Programming. 6th edition. Sebastopol: O’Reilly, 2014. | FERNANDES, L. Oracle 9i para desenvolvedores. Oracle Developer 6i. Curso completo. 1ª edição. Rio de Janeiro: Axcel Books, 2002. | HEUSER, C. A. Projeto de Banco de Dados. 6ª edição. Porto Alegre: Bookman, 2009. | MACHADO, F. N. R. Banco de Dados: projeto e implementação. 4ª edição. São Paulo: Érica, 2020. | COUGO, P. Modelagem Conceitual e Projeto de Bancos de Dados. 1ª edição (14ª reimpressão). Rio de Janeiro: Elsevier, 1997. | DATE, C. J. Database Design and Relational Theory: normal forms and all that jazz. 2nd edition. Healdsburg: Apress, 2019. | DATE, C. J. Database In Depth: Relational Theory for Practitioners. 1st ed. Sebastopol: O’Reilly, 2005. | DATE, C. J. Relational Theory for Computer Professionals: what relational databases are really all about. Sebastopol: O’Reilly, 2013. | DATE, C. J. SQL and Relational Theory: how to write accurate SQL Code. 3rd edition. Sebastopol: O’Reilly, 2015. | DATE, C. J.; DARWEN, H. Databases, Types, and the Relational Model: the Third Manifesto. 3rd edition. Massachusetts: Addison Wesley, 2007. | DATE, C. J. The New Relational Database Dictionary: terms, concepts, and examples. 1st edition. Sebastopol: O’Reilly, 2016. | DATE, C. J.; DARWEN, H.; LORENTZOS, N. A. Temporal Data And The Relational Model. 1st edition. San Francisco: Morgan Kaufmann, 2003. | DATE, C. J.; DARWEN, H.; LORENTZOS, N. A. Time And Relational Theory: temporal databases in the relational model and SQL. 1st edition. Waltham: Morgan Kaufmann, 2014. | DATE, C. J. ** The Database Relational Model: a retrospective review and analysis**. Massachusetts: Addison-Wesley, 2001. | KLEPPMANN, M. Designing Data-Intensive Applications: the big ideas behind reliable, scalabre, and maintainable systems. 1st edition. Sebastopol: O’Reilly, 2017. | DATE, C. J. View Updating &amp; Relational Theory: solving the view update problem. 1st edition. Sebastopol: O’Reilly, 2013. | BURLESON, D. K. Oracle 9i UNIX Administration Handbook. 1st edition. Berkeley: Osborne, 2002. | MOTIVALA, B. Oracle Forms: interactive workbook. 1st edition. New Jersey: Prentice Hall, 2000. | SCIORE, E. Understanding Oracle APEX 20 Application Development. 3rd edition. Massachusetts: Apress, 2020. | KYTE, T. Expert Oracle Database Architecture. 2nd edition. Healdsburg: Apress, 2010. | O’Hearn, S. OCA Oracle Database SQL. 1st edition. New York: Oracle Press, 2017. | . | Softwares: para facilitar a preparação do ambiente e evitar o pesadelo inicial de administração de sistemas até que todos os alunos estejam com os softwares instalados e configurados, esta disciplina utilizará uma máquina virtual para o VirtualBox, com todos os softwares, ferramentas, sistemas de bancos de dados e aplicativos instalados. O professor explicará onde obter e como instalar essa máquina virtual. | Material escolar: você precisará de caderno, lápis (de preferência 6B, lapiseiras são incompatíveis com bancos de dados!), borracha e apontador para gazer anotações nas aulas. Também precisará de algumas folhas de papel almaço A4 com pauta. | Pato de borracha: é importante você ter um pato de borracha (daqueles amarelinhos para bebês mesmo) para praticar uma técnica chamada de Rubber Duck Debugging9 (acredite, funciona!). | Outros: se necessário, serão detalhados pelo professor. | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#materiais-da-disciplina",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#materiais-da-disciplina"
-  },"332": {
+  },"331": {
     "doc": "Syllabus",
     "title": "Dinâmica da disciplina:",
     "content": "Este curso funcionará da seguinte maneira: . | Você frequentará dois ambientes de aprendizagem: as aulas presenciais, nas salas e laboratórios da UVV, e as aulas online do curso CR6.180A: Introdução ao Projeto e Sistemas de Bancos de Dados. Tanto as aulas presenciais quanto as aulas online do CR6.180A são obrigatórias. Haverá um terceiro ambiente de aprendizagem, o Oracle Academy, opcional, para os alunos interessados em aprender mais e receber um certificado oficial da Oracle (altamente recomendado!). | As primeiras aulas serão teóricas, para que você tenha uma visão geral de todo o conteúdo da disciplina, de forma relativamente superficial. Depois faremos algumas semanas de aulas práticas, com o uso da máquina virtual, para que você aprenda SQL e como manipular bancos de dados. Essa parte prática consumirá aproximadamente a metade do semestre. Depois voltaremos para as aulas teóricas, aprofundando os conceitos que você estudou e aprendendo conteúdos avançados, incluindo o projeto de bancos de dados, normalização, álgebra relacional e outros assuntos. Durante a segunda metade do semestre as aulas serão teóricas e práticas. | A cada semana você tem leituras obrigatórias para fazer. Essas leituras estão indicadas no calendário da disciplina e na página “Leituras” do portal Disciplinas UVV. | NÃO ATRASE AS LEITURAS, o conteúdo de leitura e estudo é muito grande e, se você atrasar, pode não conseguir recuperar o tempo perdido. | Ao final de cada semana de aula haverá, no ambiente do CR6.180A, questionários e exercícios referentes às leituras. Todas essas atividades fazem parte da nota para sua aprovação. | O ideal é que você realize as leituras obrigatórias ANTES da aula presencial correspondente na semana, para que você possa discutir e sanar suas dúvidas com o professor. | . | Você também terá leituras opcionais a cada semana. Apesar de opcionais, são altamente recomendadas. | Trabalhos e atividades rápidas: teremos alguns trabalhos e/ou atividades semanais de fixação da aprendizagem, para casa, com o objetivo de forçar a leitura e o estudo dos capítulos. É uma ótima oportunidade para você verificar se aprendeu a matéria; | Testes rápidos em sala: teremos alguns testes rápidos em sala, para verificar se você está mantendo a leitura em dia. Esses testes serão realizados de surpresa, em datas aleatórias, sem aviso prévio. Esses testes são curtos, uma ou duas perguntas discursivas, para serem respondidos em 5 a 10 minutos; | Vídeos: além das leituras também estarão listados vídeos obrigatórios ou opcionais para complementar seu aprendizado. O conteúdo dos vídeos obrigatórios fará parte das avalições. 1 Problem Sets (PSETs): você realizará de 5 a 10 Problem Sets nesta disciplina, cada um com uma data específica de entrega. Em geral você terá uma ou duas semanas para responder cada PSET (veja a Seção PSETs para mais informações); | Provas: faremos duas provas presenciais bimestrais, conforme o calendário da UVV. Além dessas provas bimestrais ocorrerão provas e avaliações periódicas no ambiente da CR6.180A. | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#dinmica-da-disciplina",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#dinmica-da-disciplina"
-  },"333": {
+  },"332": {
     "doc": "Syllabus",
     "title": "Leituras, trabalhos e atividades",
     "content": "As atividades semanais de leitura, estudo, trabalhos e atividades rápidas serão a base de seu aprendizado. Não espere aprender tudo o que você precisa saber sobre bancos de dados apenas assistindo aulas com o professor: isso não funciona! As aulas têm o objetivo de explicar a matéria mas o aprendizado real só ocorre se você estudar de modo ativo. A disciplina foi planejada para que você estude, aproximadamente, um capítulo do livro texto de referência por semana, guiado pelas aulas com o professor e pelas tarefas e exercícios. Pode ser difícil nos primeiros dias, até que você se acostume com o ritmo de leitura e estudo necessário, mas depois tudo ficará mais fácil (e você verá os resultados rapidamente!). Você deve entregar ao professor as respostas dos trabalhos, atividades e exercícios, bem como os resultados obtidos nas atividades práticas. Cada atividade/exercício especificará como essa entrega deverá ser feita e a data limite para a entrega. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#leituras-trabalhos-e-atividades",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#leituras-trabalhos-e-atividades"
-  },"334": {
+  },"333": {
     "doc": "Syllabus",
     "title": "Aulas",
     "content": "Tente ler o capítulo indicado para a semana antes das aulas daquela semana. Seu aproveitamento será muito melhor pois já terá aprendido uma base e poderá esclarecer dúvidas com o professor. Lembre-se: seu aproveitamento será muito prejudicado se você apenas se limitar a assistir as aulas e não realizar as leituras semanais. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#aulas",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#aulas"
-  },"335": {
+  },"334": {
     "doc": "Syllabus",
     "title": "Problem Sets (PSETs)",
     "content": "Um Problem Set (PSET) é uma lista com um número relativamente pequeno de questões difíceis, feitas para testar sua compreensão global do conteúdo estudado durante toda a semana ou um pequeno período de tempo. Ao contrário dos das atividades rápidas e trabalhos semanais, que são relativamente fáceis e diretos (pois têm o objetivo de auxiliá-lo no estudo do conteúdo de uma semana), os PSETs são projetados para forçá-lo a pensar profundamente no que você aprendeu durante a semana; para conseguir responder às questões dos PSETs você precisará ter desenvolvido uma compreensão profunda da matéria, muito além do nível de simples “decoreba”. Deixe-me alertá-lo mais uma vez: os PSETs são difíceis, todas as questões são difíceis e algumas são incrivelmente difíceis. Por esse motivo você terá uma ou duas semanas para realizar cada PSET (e não fique chateado se não conseguir responder completamente uma ou mais questões de cada PSET, eles foram feitos para desafiá-lo; mas é importante que, mesmo que você não consiga responder alguma questão, você se esforce e tente ao máximo encontrar a solução). Para ter uma idéia melhor do que esperar de cada PSET, e porque o uso de PSETs é importante, dê uma olhada no que os alunos do Massachusetts Institute of Technology (MIT) acham do uso de PSets em suas disciplinas: . | Harbinger of Doom, Despair, and Knowledge: PSETS (“Arautos da Perdição, Desespero e Conhecimento: PSETS”) | A love letter to psets (“Uma carta de amor aos psets”) | The Process of Psetting (“O Processo dos Psets”) | . O grau de dificuldade de cada PSET não atingirá o grau exigido dos alunos do MIT (ainda!), mas mesmo assim serão muito mais difíceis do que você pode estar acostumado (mas afinal… você quer aprender a usar corretamente um sistema de bancos de dados, não é?). A resolução dos PSETs é fundamental para seu aprendizado. Trabalhe diariamente em cada PSET: é melhor fazer várias pequenas partes todos os dias do que tentar fazer tudo de uma vez, de última hora. Devido ao grau de dificuldade, recomenda-se trabalhar em pequenos grupos na resolução de cada PSET, desde que você siga ao pé da letra todas as regras de integridade acadêmica do curso (Seção Integridade Acadêmica), em especial as políticas sobre trabalho colaborativo (Seção Política sobre trabalho colaborativo). A questão da integridade acadêmica é muito séria e eu levo isso ao pé da letra. Por favor, não tente entregar o trabalho de um colega (no todo ou até mesmo alguma pequena parte) como seu: existem ferramentas online que verificam plágio em questão de segundos e, além disso, eu realmente leio as respostas de todos os PSETs. E pior ainda, você está se enganando… . Para trabalhar presencialmente em pequenos grupos você pode utilizar a biblioteca; se quiser pode marcar grupos online com o uso de ferramentas gratuitas como o Jitsi, o Google Meet ou o Zoom. Cada PSET terá instruções específicas que indicam como as respostas devem ser enviadas ao professor e a data limite de entrega. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#problem-sets-psets",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#problem-sets-psets"
-  },"336": {
+  },"335": {
     "doc": "Syllabus",
     "title": "Monitoria e tutoria",
     "content": "Estão previstas aulas de monitoria10 para os alunos deste curso mas, neste momento, o monitor está em processo de seleção. Assim que o monitor for conhecido, maiores informações serão dadas. Durante o semestre o professor realizará algumas poucas seções de tutoria11. Essas datas serão divulgadas previamente para o agendamento dos alunos. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#monitoria-e-tutoria",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#monitoria-e-tutoria"
-  },"337": {
+  },"336": {
     "doc": "Syllabus",
     "title": "Avaliação da aprendizagem",
     "content": " ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#avaliao-da-aprendizagem",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#avaliao-da-aprendizagem"
-  },"338": {
+  },"337": {
     "doc": "Syllabus",
     "title": "Provas",
     "content": "Você fará duas provas presenciais durante o semestre, conforme o calendário oficial da UVV (o cronograma da disciplina indica as datas e o conteúdo de cada prova). As provas terão diversos tipos de questões, tais como: discursivas, objetivas, verdadeiro ou falso, interpretação de esquemas e diagramas etc. Note que as provas serão realizadas sem consulta e de modo individual. As provas são relativamente extensas mas preparadas para o limite de tempo de uma aula, 01:40h (uma hora e quarenta minutos). É importante que nos dias de prova você não se atrase para que comece a prova no horário marcado. Atenção: depois da primeira pessoa entregar a prova e sair da sala, não será mais permitido a entrada de ninguém. As provas corresponderão a 40% de sua nota final. A participação nas provas é obrigatória, ou seja: mesmo que você obtenha nota de aprovação com as outras atividades, se faltar a uma ou mais provas, ficará reprovado na disciplina. Preste atenção ao cronograma da disciplina para não perder nenhuma prova. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#provas",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#provas"
-  },"339": {
+  },"338": {
     "doc": "Syllabus",
     "title": "PSETs",
     "content": "Você realizará de 5 a 10 PSETs na disciplina, dependendo do tempo e do andamento da turma, e os PSETs corresponderão a 45% de sua nota final na disciplina. Note que os PSets, ao contrário das provas, não são atividades obrigatórias, ou seja, se você não entregar algum PSET você ficará com nota 0 (zero) nesse PSET específico, mas não será reprovado por causa disso. Apesar dos PSETs não serem obrigatórios eles são fundamentais para o apren- dizado do conteúdo nesta disciplina, conforme já explicado na Seção Problem SETs, e essa importância é refletida na proporção que os PSETs têm na nota final. Faça todos os PSets: eles são a base de seu aprendizado! . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#psets",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#psets"
-  },"340": {
+  },"339": {
     "doc": "Syllabus",
     "title": "Trabalhos e atividades",
     "content": "Para auxiliar no aprendizado do conteúdo você fará trabalhos e atividades semanais que corresponderão a 15% de sua nota final. Da mesma maneira que os PSETs, esses trabalhos e atividades semanais não são obrigatórios, mas importantes para você verificar se aprendeu o conteúdo de cada semana. Se você não entregar algum trabalho ou atividade ficará com nota 0 (zero) nessa atividades específica, mas não será reprovado por causa disso. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#trabalhos-e-atividades",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#trabalhos-e-atividades"
-  },"341": {
+  },"340": {
     "doc": "Syllabus",
     "title": "Testes rápidos, vídeos etc.",
     "content": "O professor pode, a seu exclusivo critério, indicar outras atividades na disciplina (vídeos, testes rápidos, etc.) que poderão fazer parte de sua nota final ou fazer parte de “pontos extras” para a complementação de notas. Essas atividades, se indicadas, serão detalhadas no tempo oportuno. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#testes-rpidos-vdeos-etc",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#testes-rpidos-vdeos-etc"
-  },"342": {
+  },"341": {
     "doc": "Syllabus",
     "title": "Composição final da nota",
     "content": "A composição final da nota da disciplina (SUJEITA À ALTERAÇÕES) é a seguinte: . | Provas oficiais: 40% | PSETs: 45% | Trabalhos e atividades: 15% | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#composio-final-da-nota",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#composio-final-da-nota"
-  },"343": {
+  },"342": {
     "doc": "Syllabus",
     "title": "Integridade acadêmica",
     "content": "Uma questão fundamental relacionada ao trabalho que você fará nesta disciplina (e, na verdade, em qualquer ambiente acadêmico) diz respeito a sua integridade acadêmica, ou seja: nós esperamos que suas escolhas sejam íntegras, responsáveis e honestas. As principais violações acadêmicas que os alunos costumam cometer são: plá- gio, colaboração não autorizada, “cola” e entregar o trabalho de um colega (total ou parcialmente) como se fosse seu. Por favor, não quebre as regras de integridade acadêmica: você está se enganando, enganando o professor e enganando a UVV. Para auxiliá-lo a entender melhor o que pode ou o que não pode ser feito, sugiro que você leia o manual Academic Integrity at MIT: A Handbook for Students, que é um dos melhores e mais objetivos textos a respeito do assunto: . | Academic Integrity at MIT: A Handbook for Students | . O site com as regras de integridade acadêmica do MIT traz muitas informações resumidas de forma clara e objetiva para os alunos, e também recomendo que você dê uma olhada: . | Academic Integrity at MIT | . Um outro site importante que você deve conhecer é o site com as regras de integridade acadêmica da disciplina Harvard University: CS50 (a disciplina de in- trodução à ciência da computação de Harvard). O site da disciplina tem uma lista bem clara de coisas que podem e que não podem ocorrer: . | Academic Honesty at Harvard CS50 | . Atenção: esta disciplina seguirá as regras de integridade acadêmica do MIT e de Harvard, conforme explicadas nos links acima. É sua responsabilidade ler, e seguir, essas regras. Em caso de dúvidas quanto a alguma regra, entre em contato com o professor. Alguns exemplos do que pode e do que não pode ser feito, baseados nas regras acima citadas de Harvard e do MIT: . | Atitudes permitidas: . | Conversar com os colegas a respeito das atividades, exercícios e PSETs, desde que você não esteja pedindo a resposta; | Discutir os materiais do curso com os colegas, para compreender melhor o conteúdo da matéria e esclarecer dúvidas; | Ajudar um colega a identificar um erro ou bug em alguma atividade ou exercício, desde que você não faça a correção ou forneça a resposta (o seu colega é que tem que se esforçar, baseado em suas dicas); | Incorporar algumas linhas de código que você encontrou online na sua própria solução, desde que essas linhas não sejam a solução para o problema, e que cite e identifique quais foram as linhas (e coloque um link para os originais); | Estudar as atividades, exercícios e PSETs dos semestres passados como forma de aprendizado extra (e não, as atividades e PSETs deste semestre não serão iguais aos dos semestres passados); | Olhar as respostas e códigos de seus colegas para ajudá-los caso eles estejam tendo dificuldades, desde que você apenas identifique onde estão os erros/bugs e não forneça a solução, apenas dê dicas e orientação de como eles podem ser resolvidos; | Buscar ajuda do professor (incluindo monitores, tutores e alunos mais experientes) para esclarecer a matéria e ajudar na compreensão e resolução das atividades e PSETs, desde que você faça uma pergunta específica e não queira a solução; | Buscar material extra na biblioteca ou na internet para aprender e estudar, desde que esse material extra não seja a solução para as atividades e PSETs; e | Explicar para seu colega como obter a solução de um problema usando frases, diagramas ou pseudocódigo genérico, mas sem mostrar ou fornecer a resposta final. | . | Atitudes proibidas: . | Pedir a solução de um problema para seu colega, ou procurar na internet uma solução pronta; | Pedir para ver a solução de um colega para saber se a sua solução está “batendo”; | Não citar o nome de colegas com os quais você trabalhou em grupo na resolução de alguma atividade ou PSET; | Não citar a fonte e não indicar o link de linhas de código que você encontrou online e utilizou como parte de sua solução; | Dar ou mostrar para os colegas a solução para questões que eles ainda não conseguiram responder (você pode ajudar e tirar dúvidas, mas não pode mostrar a sua solução); | Colar nas provas online (principalmente através da internet), ou seja, durante as provas online não é permitido que os alunos se reúnam de forma online para resolver a prova coletivamente; | Pegar a resposta de um colega (ou até mesmo pequenas partes da resposta) e apresentar como sua; | Pagar para alguém fazer o trabalho em seu lugar; | Postar as questões em fóruns e sites na internet, solicitando que alguém as responda; | Dividir com os colegas as atividades e exercícios de forma que cada um faça uma pequena parte do trabalho e depois compartilhe com o restante (você deve trabalhar em todos os problemas); | Pegar o trabalho de um colega, mudar algumas frases e vírgulas, e entregar como se fosse seu; e | Qualquer outra coisa que sua consciência considere desonesta. | . | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#integridade-acadmica",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#integridade-acadmica"
-  },"344": {
+  },"343": {
     "doc": "Syllabus",
     "title": "Política sobre trabalho colaborativo",
     "content": "Cientistas, programadores, estatísticos, engenheiros e, em geral, todas as pessoas ligadas à área de “STEM” (Science, Technology, Engineering, Math) costumam trabalhar em grupos. As interações sociais são críticas para o resultado de seus estudos e grandes idéias costumam aparecer em discussões com os colegas. Assim, nesta disciplina, o trabalho em grupo é fortemente recomendado e estimulado, desde que algumas regras sejam seguidas. Seguiremos integralmente a política sobre trabalho colaborativo adotada na disciplina “MIT 6.001: Structure and Interpretation of Computer Programs” que, em tradução livre, é a seguinte12: . A maioria das pessoas aprende com mais eficácia quando estuda em pequenos grupos e coopera de várias outras maneiras no dever de casa. Isso pode ser particularmente verdadeiro em tarefas que envolvem programação, onde trabalhar com um parceiro geralmente ajuda a evitar erros e descuidos. Somos totalmente a favor desse tipo de cooperação, desde que todos os participantes se envolvam ativamente em todos os aspectos do trabalho — não apenas dividam a tarefa e cada um fica responsável apenas por uma parte. […] encorajamos você a trabalhar com uma ou duas outras pessoas mas, ao entregar seu projeto, você deve identificar com quem trabalhou. Esperamos, no entanto, que você esteja envolvido em todos os aspectos do projeto, que escreva e comente seu próprio conjunto de código e que escreva seus resultados separadamente. Quando você entrega um material com seu nome, presumimos que você está certificando que este é o seu trabalho e que esteve envolvido em todos os aspectos dele. Não entregue apenas uma cópia de um único arquivo; escreva sua própria versão. Isso significa que você mesmo cria esse arquivo e não apenas anota uma cópia que recebeu de outra pessoa. Sabemos que isso pode soar como replicação de trabalho, mas uma parte importante do aprendizado do material é tornar o processo ativo, especialmente com relação à edição, execução e depuração de software, o que você faz garantindo que criou e consegue explicar sua solução. Aqui está um exemplo de como um bom trabalho de cooperação deve ocorrer: . | Ambos (todos) sentam-se com lápis e papel e planejam juntos como resolverão e testarão as coisas. Você vai com seus colegas para algum local adequado e sentam-se em máquinas adjacentes. Após você resolver um problema, você verifica se seus colegas também conseguiram e se estão todos no mesmo ritmo. Quando um de vocês tem um problema, os outros olham e tentam ajudar. Por exemplo, seu parceiro tem um bug em uma parte e você pode apontar onde está o bug e como corrigi-lo. Em cada parte do problema, você escreve seu próprio código e solução, buscando ajuda dos outros quando tem dificuldades. No trabalho final, cada um de vocês lista os nomes de todos os seus colaboradores. | . Aqui está um exemplo de cooperação inapropriada: . | Você envia ao seu amigo uma cópia do seu trabalho até agora. Ele continua o seu trabalho para concluir o procedimento que você não conseguiu, e corrige um bug ou erro em outra parte. Cada um de vocês envia este código e solução compartilhados. Mesmo que você liste os nomes um do outro como colaboradores, esta é uma colaboração inadequada porque vocês não estiveram envolvidos em todos os aspectos do trabalho — cada um de vocês não escreveu sua própria implementação, mesmo que para um plano comum, e você compartilhou um conjunto comum de código e redação. | . Não listar o nome de um colaborador será considerado trapaça. Da mesma forma, lembre-se de que copiar o trabalho de outra pessoa e apresentá-lo como seu próprio trabalho é uma ofensa acadêmica grave e será tratado como tal. Em geral, recomendamos fortemente que você trabalhe em grupo. É uma maneira muito eficaz de detectar erros conceituais e outros, e de refinar o pensamento e a compreensão […]. Em resumo: colabore com seus colegas, estude em grupo, mas siga as regras de trabalho colaborativo. Uma dica: antes de participar de um grupo de estudo, tente resolver as questões sozinho primeiro; isso lhe dará uma visão geral dos problemas a serem resolvidos, do grau de dificuldade, e proporcionará que você vislumbre um caminho para a solução que pode ser discutido com seus colegas. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#poltica-sobre-trabalho-colaborativo",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#poltica-sobre-trabalho-colaborativo"
-  },"345": {
+  },"344": {
     "doc": "Syllabus",
     "title": "Cláusula de arrependimento",
     "content": "Esta disciplina oferecerá uma cláusula de arrependimento conforme praticada no curso Harvard CS5013: se você cometer algum ato que viole as políticas de integridade acadêmica aqui estabelecidas mas, em até 72 horas, se arrepender e comunicar o fato ao professor, poderá ter a nota reduzida ou zerada nesse trabalho/PSET específico, mas o caso não será levado à coordenação. ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#clusula-de-arrependimento",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#clusula-de-arrependimento"
-  },"346": {
+  },"345": {
     "doc": "Syllabus",
     "title": "Perguntas freqüentes",
     "content": ". | Sou obrigado a fazer as atividades e trabalhos semanais? Depende. Algumas podem ser opcionais e, se esse for o caso, você não é obrigado (embora elas podem contribuir para seu aprendizado). Se as atividades em questão contribuirem para a nota final da disciplina, elas são obrigatórias (se você não fizer, ficará com nota zero nessa atividade). | Sou obrigado a fazer os PSETs? Bem, considerando que os PSETs correspondem, em conjunto, à 45% de sua nota de aprovação, eles são obrigatórios. Se você não entregar um PSET ficará com nota zero nesse PSET. | Sou obrigado a fazer as provas? Sim. Além de corresponderem a 40% de sua nota final, se você falta a uma ou mais provas poderá ficar reprovado. | Onde os avisos sobre a disciplina serão postados? No site Disciplinas UVV e no Portal do Aluno. Visite esses sites com freqüência para ficar atualizado com as últimas notícias. | Por que tenho que seguir as regras de integridade acadêmica do MIT e de Harvard? Em primeiro lugar porque você está na graduação e tem a obrigação de agir com honestidade acadêmica. Em segundo lugar porque as regras do MIT e de Harvard são claras, objetivas e disponíveis livremente na internet para que qualquer pessoa possa utilizar. E, para saber se os alunos estão lendo este documento, a primeira pessoa de cada turma que seguir todas as instruções e links de referências detalhadas aqui e achar e me mander um e-mail com o texto da “primeira lei de abrantes” ganhará uma caixa de bombom. E, por último, eu (seu professor) acredito em integridade acadêmica e acredito que essas regras são importantes. | As normas de integridade acadêmica serão obrigatórias? Sim, serão. Por favor, não tente a sorte copiando o trabalho de seu colega ou, se assim o fizer, utilize a cláusula de arrependimento. Isso evitará maiores problemas e dissabores para todo mundo. | Li o syllabus mas ainda tenho dúvidas! Entre em contato com o professor! | . | Ementa, plano de ensino, programa de estudos. &#8617; . | No caso dos sistemas comerciais, utilizaremos a versão gratuita desses bancos de dados, o Oracle Database Express Edition e o Microsoft SQL Server Express. &#8617; . | Para uma discussão inicial sobre pensamento computacional, leia a série de artigos disponíveis no site da British Broadcasting Corporation (BBC) em https://www.bbc.co.uk/bitesize/topics/z7tp34j (os artigos estão em inglês). &#8617; . | São conhecimentos prévios e/ou recursos que você, obrigatoriamente, deve ter para que possa acompanhar adequadamente a disciplina e aprender o conteúdo. Caso você não possua algum dos pré-requisitos obrigatórios poderá ter dificuldade para acompanhar as aulas ou realizar todas as atividades propostas pelo professor (nesse caso converse imediatamente com o professor para explicar a situação e tentar encontrar uma solução). &#8617; . | São conhecimentos prévios e/ou recursos não obrigatórias mas que, se você tiver, podem facilitar seu estudo (você já terá uma base a partir da qual irá desenvolver novas habilidades). Se você não tiver nenhum dos requisitos desejáveis, não se preocupe: você conseguirá acompanhar a disciplina. &#8617; . | Eu não uso o WhatsApp por motivos de privacidade. Se quiser me mandar uma mensagem, você terá que usar o Signal ou o Telegram. &#8617; . | O estudo em nível universitário é muito diferente do estudo em nível de ensino médio. Na universidade você terá que ler muito e aprender muita coisa por conta própria. Não espere que o professor vá passar todo o conteúdo mastigado e resumido para você decorar para a prova, essa vida acabou! &#8617; . | Eu recomendo a aquisição do livro para quem for trabalhar, no futuro, com bancos de dados. Esse livro é uma ótima fonte de conhecimento e referência. &#8617; . | Ver também: https://cs50.noticeable.news/posts/rubber-duck-debugging-in-cs-50-ide. &#8617; . | Monitoria: uma seção de estudo em grupo (até 20 alunos), sob a orientação de um monitor, com a duração de 1-2 horas. As monitorias expandem o material estudado e introduzem material suplementar não diretamente abordado nas aulas ou nas atividades da semana. Além disso elas são uma chance que você têm de estudar e praticar sob orientação do monitor, sanar dúvidas a respeito do conteúdo, praticar atividades que reforçam o aprendizado e explorar variações dos assuntos discutidos. O monitor pode fazer perguntas sobre a matéria e levar listas de exercícios para serem resolvidas individualmente ou em grupo. &#8617; . | Tutoria: uma seção individual para esclarecimento de dúvidas diretamente com o professor, com duração de 15–20 minutos. As tutorias são uma chance de obter ajuda individual, orientações sobre as atividades e os PSETs, e ter o seu progresso de aprendizado verificado (e corrigido, se necessário). &#8617; . | O documento original está disponível na internet. &#8617; . | Ver Teaching Academic Honesty in CS50, de David Malan, Brian Yu e Doug Lloyd. &#8617; . | . ",
     "url": "/disciplinas/banco_de_dados_1/syllabus/#perguntas-freqentes",
     
     "relUrl": "/disciplinas/banco_de_dados_1/syllabus/#perguntas-freqentes"
-  },"347": {
+  },"346": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": "(clique aqui para a versão PDF deste documento) . Além do material oficial que está disponível no Portal do Aluno da UVV (Universidade de Vila Velha), este documento contém mais detalhes sobre a dinâmica da disciplina Fundamentos de Tecnologia da Computação (Fundamentos da Computação) para as turmas deste semestre (2024/1). Leia-o com atenção e procure o professor para esclarecer qualquer dúvida. O syllabus1 funcionará como a nossa “constituição”, ou seja, será a base para todas as regras, políticas e funcionamento de nosso curso. Além do syllabus a ementa oficial da disciplina está disponível para download. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/"
-  },"348": {
+  },"347": {
     "doc": "Syllabus",
     "title": "Sumário",
     "content": ". | 1. Visão geral: aprenda a projetar e implementar soluções para resolver problemas . | 1.1. O que você aprenderá? | 1.2. Origem desta disciplina | . | 2. Pré-requisitos | 3. Objetivos de aprendizagem | 4. Estrutura e recursos da disciplina . | 4.1. Professor | 4.2. Monitores | 4.3. Laboratório de computação e computador pessoal | 4.4. Grau de dificuldade e esforço estimado | . | 5. Dinâmica da disciplina . | 5.1. Aulas | 5.2. Monitorias | 5.3. Tutorias | 5.4. Diários de aprendizagem | 5.5. Atividades no Autolab | . | 6. O que esperamos de você? | 7. Notas . | 7.1. Peso das atividades nas notas bimestrais | 7.2. Regras de arredondamento de notas | 7.3. Entregas em atraso | . | 8. Integridade acadêmica . | 8.1. Política sobre trabalho cooperativo | 8.2. Cláusula de arrependimento | . | 9. Perguntas freqüentes | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#sumrio",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#sumrio"
-  },"349": {
+  },"348": {
     "doc": "Syllabus",
     "title": "1. Visão geral: aprenda a projetar e implementar soluções para resolver problemas",
     "content": "Olá, seja muito bem-vindo! . Esta é a disciplina Fundamentos de Tecnologia da Computação (Fundamentos da Computação), uma introdução aos desafios intelectuais da computação e da arte da programação, para alunos da área de tecnologia (Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação) ou não (Medicina, Psicologia, Arquitetura, Direito e outros). Na verdade, qualquer pessoa interessada, de qualquer outra área ou curso, com ou sem experiência anterior em computação e/ou programação, tem condições de fazer a disciplina e aprender. Não se preocupe se você não tiver nenhuma experiência prévia na área: estatísticas globais (Universidades de Harvard e Yale) mostram que \\(2/3\\) dos estudantes em disciplinas introdutórias como esta não tinham nenhuma experiência prévia na área. Se você souber utilizar um computador para atividades cotidianas, como mandar um e-mail, escrever um documento ou navegar por sites na Internet, já tem condições para fazer a disciplina. Neste semestre de 2024/1 a disciplina está sendo ofertada para os cursos de Ciência da Computação e Sistemas de Informação da Universidade de Vila Velha (UVV). Se você é de algum outro curso na UVV e gostaria de fazer esta disciplina, entre em contato com o Professor Abrantes Araújo Silva Filho (abrantesasf@uvv.br) para verificar a possibilidade de participação. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#viso-geral-aprenda-a-projetar-e-implementar-solues-para-resolver-problemas",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#viso-geral-aprenda-a-projetar-e-implementar-solues-para-resolver-problemas"
-  },"350": {
+  },"349": {
     "doc": "Syllabus",
     "title": "1.1. O que você aprenderá?",
     "content": "Este curso ensinará como projetar e implementar soluções para resolver problemas, com ou sem programação, com ênfase em corretude, projeto e estilo. Pretendemos que você tenha uma visão geral da computação como está hoje e como será no futuro, e aprenda os conceitos fundamentais da computação (e resolução de problemas!), tais como: . | Pensamento computacional | Abstração | Algoritmos | Estruturas de dados | Bancos de dados | Programação web | Idéias fundamentais da computação | … e muito mais! | . Esta disciplina será fundamental para que você aprenda a pensar criticamente, a pensar mais metodicamente, a pensar mais computacionalmente. Com o tempo você verá que computação não é sobre computadores ou sobre programação, é sobre conhecimento, problemas e sobre como resolver esses problemas de forma metódica, correta, algorítmica. Você trabalhará com diversos Problem Sets (PSETs)2 inspirados pelas áreas artísticas, humanas, ciências sociais e naturais, além das áreas STEM (Science, Technology, Engineering and Mathematics) e, mais do que ensinar você a programar em uma linguagem de programação específica (usaremos várias!), este curso vai ensinar os fundamentos da computação e os fundamentos da programação de forma que você mesmo consiga aprender por conta próprias as linguagens do futuro. Nós começaremos com o Scratch (e/ou com o Snap!), uma linguagem gráfica de programação, através da qual exploraremos os primeiros conceitos fundamentais da computação e da programação, arrastando e soltando peças de quebra-cabeça. Depois iremos para uma linguagem mais tradicional, onipresente, chamada Linguagem C, que foi uma precursora e base para diversas linguagens de programação mais modernas. Utilizando a linguagem C você aprenderá não só sobre variáveis, funções, estruturas de controle, estruturas de repetição e outras coisas mas, também, aprenderá sobre como os computadores funcionam por “baixo do capô”: processador, memória e tudo mais. Você perceberá que a linguagem C, sendo mais antiga, não tem tantas funcionalidades prontas como as linguagens mais modernas, como a Scratch. Faremos então a transição para uma linguagem mais moderna, a Python, uma linguagem de alto nível que você entenderá com muita facilidade devido à base que você construiu com a linguagem C. Ao final do semestre você aprenderá a SQL, para armazenar dados em bancos de dados. Dependendo do cronograma da UVV e, principalmente, do ritmo de estudo e comprometimento dos alunos, talvez seja possível ainda: . | Aprendermos sobre HTML, CSS e JavaScript, através dos quais você pode criar aplicativos web e móveis; e | Juntar todo o aprendizado em um grane projeto final a ser exibido para toda a UVV! | . Prepare-se, pois esta disciplina é muito extensa, árdua e difícil, mas o resultado, se você se dedicar conforme descrito neste plano de ensino, será recompensador! . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#o-que-voc-aprender",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#o-que-voc-aprender"
-  },"351": {
+  },"350": {
     "doc": "Syllabus",
     "title": "1.2. Origem desta disciplina",
     "content": "O conteúdo da disciplina é uma adaptação da “CR6.100B: Introdução à Ciência da Computação”, do Computação Raiz, que, por sua vez, é uma tradução e adaptação da disciplina “CS50: Introduction to Computer Science”, da Universidade de Harvard, acrescida de idéias e conceitos de outras disciplinas (BJC e CS10, da Universidade da Califórnia em Berkeley; 6.001 e 6.0001 do MIT). Para deixar mais claro: . A única diferença entre a CR6.100B e a Fundamentos da Computação é em relação ao tempo/quantidade de conteúdo. Como a CR6.100B é uma disciplina online, tem um cronograma mais “lento”, no ritmo do próprio aluno; já a Fundamentos da Computação deve se adequar ao calendário acadêmico da UVV e, por isso, nem todo o conteúdo da CR6.100B será visto: a Fundamentos da Computação faz uma seleção de conteúdos para os alunos. Dependendo do calendário acadêmico da UVV e, principalmente, do ritmo de estudo e comprometimento dos alunos, a Fundamentos da Computação pode conseguir cumprir uma maior ou menor quantidade de conteúdo de estudo da CR6.100B. Mas isso depende muito mais dos alunos do que da disciplina em si: se os alunos forem comprometidos, participarem de todas as atividades e estudarem com afinco, mais conteúdos podem ser vistos. O núcleo central do conteúdo (dos fundamentos até estruturas de dados) é sempre estudado, mas os conteúdos adicionais dependem do ritmo dos alunos. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#origem-desta-disciplina",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#origem-desta-disciplina"
-  },"352": {
+  },"351": {
     "doc": "Syllabus",
     "title": "2. Pré-requisitos",
     "content": ". | OBRIGATÓRIOS3: . | Matemática: familiaridade e conforto com, pelo menos, a matemática do ensino médio (aritmética, álgebra, funções e conjuntos). Caso sua base matemática seja fraca, veja o texto Preparação para graduação em áreas exatas: matemática além do básico, com dicas para estudar novamente a matemática, do jeito certo. | . | RECOMENDADOS4: . | Computador: você deve ter um computador com acesso a internet (câmera, microfone e caixas de som são recomendados) e com capacidade suficiente para instalar e executar os softwares que serão utilizados (um computador recente, com arquitetura Intel x86 de 64 bits, com Linux, Windows ou Mac, com 8 GiB de memória RAM e bastante espaço em disco). Verifique a Seção Laboratório de computação e computador pessoal para maiores detalhes. Caso você não tenha um computador e/ou notebook, poderá utilizar os laboratórios de informática da UVV, no período vespertino, para estudar e realizar as atividades da disciplina; e | Inglês: os livros e leituras obrigatórias ou opcionais da disciplina estarão em português mas haverá também bastante conteúdo em inglês (principalmente leitura de documentação técnica). Na área da computação é absolutamente fundamental o domínio de inglês (se você não sabe inglês COMECE JÁ a estudar). | . | NÃO OBRIGATÓRIOS5: . | Programação: algum curso introdutório de programação, em qualquer linguagem. | . | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#pr-requisitos",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#pr-requisitos"
-  },"353": {
+  },"352": {
     "doc": "Syllabus",
     "title": "3. Objetivos de aprendizagem",
     "content": "Ao final desta disciplina você deverá ser capaz de: . | Entender o que é computação, ciência da computação e programação; | Entender os componentes do pensamento computacional, aplicando-os na resolução de diversos problemas importantes; | Entender como a estrutura de um computador (processador e memória) influenciam nos programas que você criar para resolver problemas; | Pensar mais metodicamente; | Representar e processar informação; | Se comunicar de forma sucinta e precisa; | Resolver problemas de modo correto e eficaz; | Utilizar técnicas de gerenciamento de complexidade ao resolver problemas; | Decompor um problema complexo em partes menores e achar a solução para essas partes; | Reconhecer padrões entre os problemas; | Operar em múltiplos níveis de abstração; | Programar proceduralmente; | Separar os detalhes de projeto (design) dos detalhes de implementação; | Inferir, a partir dos princípios, como os sistemas funcionam; | Avaliar a corretude, design e estilo do código de um programa; | Entender o básico sobre complexidade de algoritmos, e reconhecer alguns dos algoritmos clássicos da computação; | Entender o básico sobre estruturas de dados, e reconhecer algumas das estruturas de dados clássicas da computação; | Aprender por conta própria outras linguagens de programação; | Ler documentação técnica e tirar conclusões a partir das especificações; | Testar as soluções criadas, encontrando falhas e identificando casos extremos que o programa trata, ou não, com corretude; | Descrever precisamente os sinais e sintomas de problemas; | Perguntar questões de modo claro; | Utilizar o terminal Linux, especificamente uma interface de linha de comando, para interagir com o sistema operacional; | Identificar e quantificar trade-offs entre recursos, particularmente tempo e espaço; | Utilizar um ambiente de desenvolvimento integrado; e | Sentir-se seguro e confiante na resolução de problemas de modo computacional. | . Em última análise, o curso pretende fornecer uma base sólida para estudos adicionais em ciência da computação (e áreas afins) e capacitá-lo a aplicar a computação a problemas em outros domínios. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#objetivos-de-aprendizagem",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#objetivos-de-aprendizagem"
-  },"354": {
+  },"353": {
     "doc": "Syllabus",
     "title": "4. Estrutura e recursos da disciplina",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#estrutura-e-recursos-da-disciplina",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#estrutura-e-recursos-da-disciplina"
-  },"355": {
+  },"354": {
     "doc": "Syllabus",
     "title": "4.1. Professor",
     "content": "Olá, meu nome é Abrantes Araújo Silva Filho e serei o professor responsável pela sua turma. Algumas informações sobre mim: . | Sou graduado em medicina pela UFES (1999), mestre em epidemiologia e métodos quantitativos em saúde pela FIOCRUZ (2002) e graduado em ciência da computação pela FAESA (2021). Atualmente sou estudante do bacharelado em matemática da Uninter, na modalidade de ensino a distância (EAD). | Meus principais sites: . | www.linkedin.com/in/abrantes-filho | github.com/abrantesasf e também github.com/computacaoraiz | www.abrantes.pro.br e também www.computacaoraiz.com.br | www.youtube.com/computacaoraiz | cursos.computacaoraiz.com.br | . | Informações de contato: . | abrantesasf@uvv.br | (27) 9-9991-4393, para entrar em contato via Signal6 (eu não uso WhatsApp). | . | . Eu recebo muitos e-mails e muitas mensagens via Signal por dia e, por isso, é normal que eu não consiga responder prontamente sua mensagem. Dependendo do período acadêmico, um atraso de alguns dias é normal. Se sua mensagem é para tirar dúvidas sobre a disciplina ou a matéria, você pode entrar em contato também com os monitores. Se você precisa realmente falar comigo de modo urgente, o mais fácil é você me procurar na UVV e conversar pessoalmente. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#professor",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#professor"
-  },"356": {
+  },"355": {
     "doc": "Syllabus",
     "title": "4.2. Monitores",
     "content": "Neste semestre a disciplina contará com a participação de três monitores para auxiliar o estudo e orientar os alunos: Júlio, Rhayssa e Robert. Conheça mais sobre os monitores na página do Pessoal da disciplina. Os monitores, em conjunto, proporcionarão 15 horas semanais de orientação, da seguinte forma: . | Monitoria: são atividades de revisão da matéria, esclarecimento de dúvidas e orientação na resolução das tarefas para casa. As monitorias ocorrem durante as segundas e terças, com o mesmo conteúdo, ou seja: você não precisa participar nos dois dias, basta escolher um dia e participar (a escolha do dia de monitoria - segunda ou terça - será feita através do questionário inicial da disciplina). A participação nas monitorias não é obrigatória, mas valerá 2 PONTOS EXTRAS na nota (1 ponto no 1º bimestre e 1 ponto no 2º bimestre). Serão 7 monitorias no 1º bimestre e 10 monitorias no 2º bimestre, e o ponto extra será calculado proporcionalmente à sua participação (lembre-se: você deve participar da monitoria da segunda OU da monitoria da terça). Não subestime esses pontos extras: eles são muito importantes. E não subestime a monitoria: você aprenderá muito com os monitores! . | Laboratório: são atividades de orientação e esclarecimento de dúvidas das tarefas de programação. Os monitores estarão à disposição durante as tardes de quarta, quinta e sexta para ajudá-lo nos exercícios, labs e PSETs. A participação nos laboratório não é obrigatória nem vale ponto para a nota. Se quiser você pode participar de todos os dias de laboratório na semana, até que consiga entregar a tarefa no Autolab. Acredite: quando você estiver trabalhando com os PSETs, você precisará da ajuda dos monitores. Programe-se para participar de um ou vários dias de laboratório durante a semana. | . Os monitores são alunos que já fizeram (e foram aprovados) na disciplina, e estão voluntariamente dedicando tempo e esforço para ajudar os novos alunos. Por favor entenda que os monitores, por mais capacitados que estejam, podem não saber alguns aspectos mais avançados da matéria. Contamos com sua compreensão: os monitores são alunos, assim como vocês. O papel dos monitores é variado e inclui, entre outros: . | Dar aulas de revisão do conteúdo visto com o professor; | Dar aulas com conteúdo extra importante; | Ajudar nos exercícios, laboratórios e PSETs a serem realizados no Autolab (mas sem dar as respostas!); | Receber, conferir e vistar os diários de aprendizagem; | Avaliar os códigos dos programas que vocês enviarão no Autolab, quanto à correção, estilo e design; | Fornecer feedback nas atividades do Autolab; e | Utilizar ferramentas de detecção de cola ou plágio nas atividades do Autolab. | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#monitores",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#monitores"
-  },"357": {
+  },"356": {
     "doc": "Syllabus",
     "title": "4.3. Laboratório de computação e computador pessoal",
     "content": "A estrutura de laboratórios de computação da UVV é excelente, possuindo máquinas com hardware e software padronizados que facilitam a realização das atividades. Além disso o benefício mais importante de trabalhar no laboratório é obter ajuda direta do professor, dos monitores, e de seus próprios colegas de turma. Entretanto, por limitações de tempo, você precisará realizar tarefas em seu próprio computador pessoal. Veja aqui as configurações mínimas necessárias para que você consiga realizar todas as tarefas em seu próprio computador: . | Processador: deve ter arquitetura INTEL x86, de 64 bits. Outras arquiteturas, como a ARM (MacBook Air M1, por exemplo), podem não funcionar em todos os casos (entre em contato com os monitores ou o professor em caso de dúvidas). Qualquer computador relativamente recente com processador Intel ou AMD já está adequado; | Memória: no mínimo 8 GiB de memória RAM (16 GiB é recomendável); | Disco rígido: se você optar pelas ferramentas online, qualquer quantidade de espaço em disco já está adequada; se você optar pela máquina virtual da disciplina, deve ter pelo menos 50 GiB de espaço livre em disco (70 GiB durante a instalação da máquina virtual do curso). Discos SSD são recomendados; | Sistema operacional: Linux, Windows ou Mac (Linux é altamente recomendado!); | Monitor: no mínimo um monitor HD (Full HD é recomendável). Seu monitor deve ser grande o suficiente para que você possa trabalhar com conforto. Se você tiver dois monitores poderá realizar as tarefas em um monitor e usar o outro para ler o conteúdo ou consultar a documentação técnica; | Internet: você deve ter uma conexão razoavelmente rápida para fazer o download da máquina virtual. Além disso você precisará de uma conexão à Internet para acessar e realizar as atividades no Autolab; | Som: não é obrigatório, exceto se algumas aulas extras online forem realizadas; | Microfone: não é obrigatório, exceto se algumas aulas extras online forem realizadas; e | Câmera: não é obrigatória, mas uma webcam pode ser utilizada caso alguma aula extra seja feita de forma online. | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#laboratrio-de-computao-e-computador-pessoal",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#laboratrio-de-computao-e-computador-pessoal"
-  },"358": {
+  },"357": {
     "doc": "Syllabus",
     "title": "4.4. Grau de dificuldade e esforço estimado",
     "content": "Tenha sempre em mente que esta disciplina é extensa e precisa de dedicação, estudo e atividades diárias para que você consiga aprender tudo o que é necessário. Em especial atente-se para o seguinte: . | Nível: esta disciplina é de nível introdutório a intermediário; | Língua: as aulas, livros e materiais da disciplina são em português, mas alguns materiais (leituras e vídeos) estão em inglês. Os softwares utilizados estão, em sua maioria, em inglês (alguns oferecem tradução para português); | Esforço total: 10-15 horas de estudo por semana, além da carga horária das aulas presenciais, dependendo de seu conhecimento e habilidades prévias. Prepare-se para dedicar, em média, 1-2 horas diárias para leitura e realização das atividades programadas; | Leitura: parte do esforço nessa disciplina é voltado para atividades de leitura. Prepare-se para ler bastante conteúdo online e, também, bastante documentação técnica em inglês; e | Trabalhos e atividades: a maior parte do esforço nessa matéria é representada pelas atividades de diários de aprendizagem e trabalhos no Autolab (em especial, os PSETs são atividades que consumirão bastante tempo de dedicação). | . Você já percebeu que esta disciplina precisa de um grau de dedicação de tempo e esforço consideráveis. Mesmo assim, se você estiver gastando mais tempo do que esforço total indicado acima, pode ser um sinal de que você precisa de ajuda para entender melhor o material. Entre imediatamente em contato com o professor, não deixe acumular dúvidas. Eu espero que você, como estudante universitário7, esteja buscando aprender o máximo possível e fazendo todo esforço para se dedicar nas atividades propostas e aprender por conta própria de acordo com as orientações do professor. Lembre-se: a única maneira de aprender é estudar! Leia os textos indicados abaixo para saber o que faz a diferença no momento de estudar: . | Como estudar? Dicas ao estudante iniciante | O problema é o tamanho do lápis | Você gasta sua borracha? | . Eu também espero que você seja um estudante e não um aluno. E que você tenha brio, seja bravo, persistente e resiliente para encarar o desafio! Assista os pequenos vídeos indicados a seguir para saber a diferença entre aluno e estudante, e para saber a necessidade de brio para estudar: . | Aluno ou estudante? Do professor Pierluigi Piazzi; e | Você tem brio? Do professor Clovis de Barros Filho (desconsidere os palavrões, assista até o final!) | . Para saber como vencer a procrastinação e manter o estudo em dia, assista ao seguinte vídeo (ative as legendas em português se necessário): . | Why we procrastinate? de Vik Nithy. | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#grau-de-dificuldade-e-esforo-estimado",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#grau-de-dificuldade-e-esforo-estimado"
-  },"359": {
+  },"358": {
     "doc": "Syllabus",
     "title": "5. Dinâmica da disciplina",
     "content": "Esta disciplina tem carga horária total de 60 horas semestrais (40h presenciais e 20h online) e está dividida em aulas, monitorias, tutorias, diários de aprendizagem, exercícios, laboratórios e PSETs (estes três últimos realizados no Autolab). ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#dinmica-da-disciplina",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#dinmica-da-disciplina"
-  },"360": {
+  },"359": {
     "doc": "Syllabus",
     "title": "5.1. Aulas",
     "content": "Cada turma terá 1 (uma) aula presencial por semana, com 1:40h de duração, conforme o calendário da UVV (consulte a seção específica de sua turma para ver os dias/horários de sua turma). A presença nas aulas é obrigatória e terá peso na nota da disciplina. Conforme normas da UVV você pode acumular até 10 horas de faltas, o que corresponde a perder 5 dias de aula. Caso você ultrapasse as 10 horas (ou 5 dias) de faltas você será automaticamente reprovado na disciplina, sem possibilidade de recurso. O professor tem liberdade de escolher a política de tomada de presença que melhor lhe convier (por exemplo: fazer uma única chamada durante a aula, fazer uma chamada no início e outra no final, utilizar listas em papel ou o sistema online). ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#aulas",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#aulas"
-  },"361": {
+  },"360": {
     "doc": "Syllabus",
     "title": "5.2. Monitorias",
     "content": "Cada turma terá, além das horas de aula normais, até 3 horas semanais de monitoria, que podem ser feitas na segunda ou na terça (você deve escolher o dia de sua monitoria através do questionário inicial da disciplina). As monitorias são realizadas no período vespertino, conforme calendário específico de cada turma. A presença nas monitorias não é obrigatória mas é ALTAMENTE RECOMENDADA porque você pode conseguir até 2 PONTOS EXTRAS na nota do semestre, e você estará REVISANDO O CONTEÚDO E APRENDENDO com os monitores. Os monitores farão o seguinte durante as monitorias: . | Aulas de revisão do conteúdo da aula | Aulas com conteúdos extras importantes | Ajudarão nos exercícios, laboratórios e PSETs no Autolab | Estarão à disposição para esclarecimento de dúvidas | Receberão e farão a conferência dos diários de aprendizagem | Avaliarão os códigos que vocês enviarem no Autolab, quanto à correção, design e estilo | Utilizarão ferramentas de inteligência artificial para a detecção de cola ou plágio nas atividades do Autolab | Fornecerão feedback nas atividades do Autolab | . A participação nas monitorias é essencial para seu aprendizado! Apesar de introdutória esta não é uma disciplina fácil e você terá que dedicar um tempo considerável de estudo e realização de atividades. Você terá muitas dúvidas que devem ser sanadas com os monitores. Como a participação nas monitorias é fundamental para seu aprendizado, faça um esforço para participar de uma monitoria por semana. Você não será reprovado se não comparecer às monitorias, mas perderá os pontos extras e toda a revisão e discussão de conteúdo com os monitores. Um erro comum que os alunos cometem é deixar para participar das monitorias apenas um ou dois dias antes da prova… se esse é seu caso, não perca nem seu tempo: o conteúdo da matéria é muito grande e você não conseguirá aprender em dois dias antes da prova. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#monitorias",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#monitorias"
-  },"362": {
+  },"361": {
     "doc": "Syllabus",
     "title": "5.3. Tutorias",
     "content": "Além de poder participar das monitorias, juntamente com seus colegas, você pode marcar tutorias com o professor. As tutorias são pequenas reuniões (presenciais ou online), de modo individual ou em pequenos grupos, com o professor, para esclarecimento de dúvidas ou busca de ajuda. A participação nas tutorias é opcional. As tutorias têm duração de 20 minutos e devem ser agendadas previamente. O calendário e a forma de agendamento serão divulgadas no momento oportuno. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#tutorias",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#tutorias"
-  },"363": {
+  },"362": {
     "doc": "Syllabus",
     "title": "5.4. Diários de aprendizagem",
     "content": "São exercícios discursivos sobre o conteúdo da matéria. Praticamente em todas as semanas você receberá um arquivo PDF com as questões discursivas referentes ao conteúdo da semana. Esse arquivo deve ser impresso e respondido de forma manuscrita, e entregue para seu monitor nas datas especificadas. Os diários também fazem parte das notas bimestrais da disciplina. Os diários de aprendizagem são uma ferramenta poderosa de estudo e auto-avaliação. Eles serão vistoriados pelos monitores e/ou professor, mas não serão corrigidos. É sua responsabilidade fazer os exercícios do diário e, em caso de dúvidas, buscar ajuda com os monitores. Vamos repetir: todas as dúvidas e dificuldades nos exercícios dos diários de aprendizagem devem ser discutidas com os monitores nos dias de monitoria. Verifique no calendário de sua turma as datas de entrega dos diários, para não perder pontos por atraso. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#dirios-de-aprendizagem",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#dirios-de-aprendizagem"
-  },"364": {
+  },"363": {
     "doc": "Syllabus",
     "title": "5.5. Atividades no Autolab",
     "content": "Durante todo o curso você fará diversas atividades de programação para a resolução de problemas nos mais variados campos do conhecimento humano. Apesar de você programar as soluções para os problemas, o foco não é em aprender uma ou outro linguagem de programação mas, sim, aprender computação. Essas atividades no Autolab são divididas em três grupos: . | Exercícios: são tarefas básicas e relativamente fáceis de programação, geralmente para ajudar a fixar um conceito ou uma técnica; | Laboratórios (labs): são tarefas mais complexas de programação, que envolverão mais raciocínio e compreensão mais profunda da matéria; e | PSETs: são problemas extremamente difíceis que desafiarão toda sua capacidade de resolução e pensamento computacional. Prepare-se para gastar várias horas por semana na resolução dos PSETs. | . Todas as atividades no Autolab são obrigatórias e valerão um peso considerável da nota da disciplina. Além disso a entrega de cada atividade é rigorosamente controlada: entregas em atrasos podem ter a pontuação severamente prejudicada e/ou zerada. Verifique no calendário de sua turma as datas de entrega de cada atividade no Autolab. Todas as atividades de programação enviadas para o Autolab são analisadas para a detecção de plágio e/ou cola e/ou cópia de código da Internet. A verificação é feita através de dois sistemas altamente sofisticados: . | MOSS: Measure of Software Similarity, da Universidade de Stanford; e | COMPARE50: Similarity in Code, da Universidade de Harvard. | . Esses sistemas são extremamente sofisticados e detectam plágio e/ou cópia de código mesmo que você tente disfarçar ou modificar o programa (trocar nomes de variáveis, mudar a indentação, reescrever comentários, etc.). Por favor, não tente a sorte: você não vencerá os softwares, receberá nota 0 (zero) na atividade e poderá ser encaminhado para a coordenação para as sanções disciplinares previstas nas regras da UVV. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#atividades-no-autolab",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#atividades-no-autolab"
-  },"365": {
+  },"364": {
     "doc": "Syllabus",
     "title": "6. O que esperamos de você?",
     "content": "Nós esperamos que você: . | Esteja presente em todas as aulas (prestando atenção e participando ativamente das discussões); | Esteja presente em 1 tarde de monitoria por semana (na segunda ou na terça). A presença não é obrigatória, mas é fundamental para seu aprendizado e vale até 2 pontos extras na nota semestral (1 ponto extra por bimestre); | Faça e entregue todos os diários de aprendizagem para análise do monitor e/ou professor; | Faça todos os exercícios e laboratórios no Autolab; | Faça todos os PSETs (no momento temos 6 no cronograma); e | Siga todas as normas de integridade acadêmica da disciplina. | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#o-que-esperamos-de-voc",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#o-que-esperamos-de-voc"
-  },"366": {
+  },"365": {
     "doc": "Syllabus",
     "title": "7. Notas",
     "content": "As notas serão baseadas em uma escala de 10 pontos (de 0 até 10), e serão calculadas a cada bimestre (ou seja, cada bimestre vale até 10 pontos). Ao final do semestre é calculada a média das notas bimestrais e você será aprovado ou não de acordo com os seguinte critérios: . | \\(\\text{nota semestral} \\ge 7.0\\): você está aprovado; | \\(3.00 \\le \\text{nota semestral} &lt; 7.00\\): você está de recuperação (deverá fazer a prova final de recuperação); e | \\(\\text{nota semestral} &lt; 3.00\\): você está reprovado (não poderá nem fazer a prova de recuperação). | . Caso você vá para prova final de recuperação, sua nota final será calculada como a média entre a nota semestral e a nota da prova de recuperação. Você será aprovado ou não de acordo com os seguinte critérios: . | \\(\\text{média pós-recuperação} \\ge 5.00\\): você está aprovado; e | \\(\\text{média pós-recuperação} &lt; 5.00\\): você está reprovado. | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#notas",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#notas"
-  },"367": {
+  },"366": {
     "doc": "Syllabus",
     "title": "7.1. Peso das atividades nas notas bimestrais",
     "content": "Você fará diversas atividades durante o curso e cada atividade terá um peso diferente na composição da nota bimestral. Os pesos estão discriminados abaixo: . | Atividade | Peso | . | Diarios de Aprendizagem | $$10\\%$$ | . | Prova Bimestral | $$30\\%$$ | . | Autolab | Exercicios | $$5\\%$$ | . | Labs | $$10\\%$$ | . | PSETs | $$45\\%$$ | . Além das notas conforme as atividades acima, cada bimestre terá até 1.0 (um) ponto extra calculado proporcionalmente à participação nas monitorias semanais. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#peso-das-atividades-nas-notas-bimestrais",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#peso-das-atividades-nas-notas-bimestrais"
-  },"368": {
+  },"367": {
     "doc": "Syllabus",
     "title": "7.2. Regras de arredondamento de notas",
     "content": "Todas as notas que forem lançadas no Portal do Aluno já estarão arredondadas de acordo com os Critérios de Arredondamento de Notas. Por favor leia essa documento com atenção! Nenhuma nota será arredonda fora desses critérios. Se sua nota semestral for \\(6.94\\), você IRÁ PARA A PROVA FINAL DE RECUPERAÇÃO. Por favor, leia o documento com os critérios de arredondamento. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#regras-de-arredondamento-de-notas",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#regras-de-arredondamento-de-notas"
-  },"369": {
+  },"368": {
     "doc": "Syllabus",
     "title": "7.3. Entregas em atraso",
     "content": "Verifique no cronograma específico de sua turma as datas de entrega das diversas atividades. Atividades manuscritas devem ser entregues diretamente ao professor e/ou aos monitores, até o limite indicado no cronograma. As atividades no Autolab também possuem datas específicas de entrega, do seguinte modo: . | Data de entrega: é a data oficial de entrega, é o prazo que você deve obedecer; | Data final: corresponde ao prazo máximo, após a data de entrega, no qual o Autolab ainda receberá as atividades. ATENÇÃO: as entregas serão penalizadas em 10% da nota, por dia de atraso! | . Cada aluno também terá 10 dias de crédito para a entrega de atividades em atraso (após a data de entrega e antes da data final), sem que ocorra o desconto de 10% por dia de atraso. Esses dias de crédito devem ser controlados por você. Utilize com sabedoria, mantenha os dias de crédito para situações nas quais você realmente pode precisar (como doenças ou outros problemas sérios). Ao esgotar seus dias de crédito, toda entrega em atraso será penalizada. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#entregas-em-atraso",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#entregas-em-atraso"
-  },"370": {
+  },"369": {
     "doc": "Syllabus",
     "title": "8. Integridade acadêmica",
     "content": "Uma questão fundamental relacionada ao trabalho que você fará nesta disciplina (e, na verdade, em qualquer ambiente acadêmico) diz respeito a sua integridade acadêmica, ou seja: nós esperamos que suas escolhas sejam íntegras, responsáveis e honestas. As principais violações acadêmicas que os alunos costumam cometer são: plágio, colaboração não autorizada, cola e entregar o trabalho de um colega (total ou parcialmente) como se fosse seu. Por favor, não quebre as regras de integridade acadêmica: você está se enganando, enganando o professor e enganando a UVV. Para auxiliá-lo a entender melhor o que pode ou o que não pode ser feito, sugiro que você leia o manual Academic Integrity at MIT: A Handbook for Students, que é um dos melhores e mais objetivos textos a respeito do assunto: . | Academic Integrity at MIT: A Handbook for Students | . O site com as regras de integridade acadêmica do MIT traz muitas informações resumidas de forma clara e objetiva para os alunos, e também recomendo que você dê uma olhada: . | Academic Integrity at MIT | . Um outro site importante que você deve conhecer é o site com as regras de integridade acadêmica da disciplina Harvard University: CS50 (a disciplina de introdução à ciência da computação de Harvard). O site da disciplina tem uma lista bem clara de coisas que podem e que não podem ocorrer: . | Academic Honesty at Harvard CS50 | . Atenção: esta disciplina seguirá as regras de integridade acadêmica do MIT e de Harvard, conforme explicadas nos links acima. É sua responsabilidade ler, e seguir, essas regras. Em caso de dúvidas quanto a alguma regra, entre em contato com o professor. Alguns exemplos do que pode e do que não pode ser feito, baseados nas regras acima citadas de Harvard e do MIT: . | Atitudes permitidas: . | Conversar com os colegas a respeito das atividades, exercícios e PSETs, desde que você não esteja pedindo a resposta; | Discutir os materiais do curso com os colegas, para compreender melhor o conteúdo da matéria e esclarecer dúvidas; | Ajudar um colega a identificar um erro ou bug em alguma atividade ou exercício, desde que você não faça a correção ou forneça a resposta (o seu colega é que tem que se esforçar, baseado em suas dicas); | Incorporar algumas linhas de código que você encontrou online na sua própria solução, desde que essas linhas não sejam a solução para o problema, e que cite e identifique quais foram as linhas (e coloque um link para os originais); | Estudar as atividades, exercícios e PSETs dos semestres passados como forma de aprendizado extra (e não, as atividades e PSETs deste semestre não serão iguais aos dos semestres passados); | Olhar as respostas e códigos de seus colegas para ajudá-los caso eles estejam tendo dificuldades, desde que você apenas identifique onde estão os erros/bugs e não forneça a solução, apenas dê dicas e orientação de como eles podem ser resolvidos; | Buscar ajuda do professor (incluindo monitores, tutores e alunos mais experientes) para esclarecer a matéria e ajudar na compreensão e resolução das atividades e PSETs, desde que você faça uma pergunta específica e não queira a solução; | Buscar material extra na biblioteca ou na internet para aprender e estudar, desde que esse material extra não seja a solução para as atividades e PSETs; e | Explicar para seu colega como obter a solução de um problema usando frases, diagramas ou pseudocódigo genérico, mas sem mostrar ou fornecer a resposta final. | . | Atitudes proibidas: . | Pedir a solução de um problema para seu colega, ou procurar na internet uma solução pronta; | Pedir para ver a solução de um colega para saber se a sua solução está “batendo”; | Não citar o nome de colegas com os quais você trabalhou em grupo na resolução de alguma atividade ou PSET; | Não citar a fonte e não indicar o link de linhas de código que você encontrou online e utilizou como parte de sua solução; | Dar ou mostrar para os colegas a solução para questões que eles ainda não conseguiram responder (você pode ajudar e tirar dúvidas, mas não pode mostrar a sua solução); | Colar nas provas online (principalmente através da internet), ou seja, durante as provas online não é permitido que os alunos se reúnam de forma online para resolver a prova coletivamente; | Pegar a resposta de um colega (ou até mesmo pequenas partes da resposta) e apresentar como sua; | Pagar para alguém fazer o trabalho em seu lugar; | Postar as questões em fóruns e sites na internet, solicitando que alguém as responda; | Dividir com os colegas as atividades e exercícios de forma que cada um faça uma pequena parte do trabalho e depois compartilhe com o restante (você deve trabalhar em todos os problemas); | Pegar o trabalho de um colega, mudar algumas frases e vírgulas, e entregar como se fosse seu; e | Qualquer outra coisa que sua consciência considere desonesta. | . | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#integridade-acadmica",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#integridade-acadmica"
-  },"371": {
+  },"370": {
     "doc": "Syllabus",
     "title": "8.1. Política sobre trabalho cooperativo",
     "content": "Cientistas, programadores, estatísticos, engenheiros e, em geral, todas as pessoas ligadas à área de “STEM” (Science, Technology, Engineering, Math) costumam trabalhar em grupos. As interações sociais são críticas para o resultado de seus estudos e grandes idéias costumam aparecer em discussões com os colegas. Assim, nesta disciplina, o trabalho em grupo é fortemente recomendado e estimulado, desde que algumas regras sejam seguidas. Seguiremos integralmente a política sobre trabalho colaborativo adotada na disciplina “MIT 6.001: Structure and Interpretation of Computer Programs” que, em tradução livre, é a seguinte: . A maioria das pessoas aprende com mais eficácia quando estuda em pequenos grupos e coopera de várias outras maneiras no dever de casa. Isso pode ser particularmente verdadeiro em tarefas que envolvem programação, onde trabalhar com um parceiro geralmente ajuda a evitar erros e descuidos. Somos totalmente a favor desse tipo de cooperação, desde que todos os participantes se envolvam ativamente em todos os aspectos do trabalho — não apenas dividam a tarefa e cada um fica responsável apenas por uma parte. […] encorajamos você a trabalhar com uma ou duas outras pessoas mas, ao entregar seu projeto, você deve identificar com quem trabalhou. Esperamos, no entanto, que você esteja envolvido em todos os aspectos do projeto, que escreva e comente seu próprio conjunto de código e que escreva seus resultados separadamente. Quando você entrega um material com seu nome, presumimos que você está certificando que este é o seu trabalho e que esteve envolvido em todos os aspectos dele. Não entregue apenas uma cópia de um único arquivo; escreva sua própria versão. Isso significa que você mesmo cria esse arquivo e não apenas anota uma cópia que recebeu de outra pessoa. Sabemos que isso pode soar como replicação de trabalho, mas uma parte importante do aprendizado do material é tornar o processo ativo, especialmente com relação à edição, execução e depuração de software, o que você faz garantindo que criou e consegue explicar sua solução. Aqui está um exemplo de como um bom trabalho de cooperação deve ocorrer: . | Ambos (todos) sentam-se com lápis e papel e planejam juntos como resolverão e testarão as coisas. Você vai com seus colegas para algum local adequado e sentam-se em máquinas adjacentes. Após você resolver um problema, você verifica se seus colegas também conseguiram e se estão todos no mesmo ritmo. Quando um de vocês tem um problema, os outros olham e tentam ajudar. Por exemplo, seu parceiro tem um bug em uma parte e você pode apontar onde está o bug e como corrigi-lo. Em cada parte do problema, você escreve seu próprio código e solução, buscando ajuda dos outros quando tem dificuldades. No trabalho final, cada um de vocês lista os nomes de todos os seus colaboradores. | . Aqui está um exemplo de cooperação inapropriada: . | Você envia ao seu amigo uma cópia do seu trabalho até agora. Ele continua o seu trabalho para concluir o procedimento que você não conseguiu, e corrige um bug ou erro em outra parte. Cada um de vocês envia este código e solução compartilhados. Mesmo que você liste os nomes um do outro como colaboradores, esta é uma colaboração inadequada porque vocês não estiveram envolvidos em todos os aspectos do trabalho — cada um de vocês não escreveu sua própria implementação, mesmo que para um plano comum, e você compartilhou um conjunto comum de código e redação. | . Não listar o nome de um colaborador será considerado trapaça. Da mesma forma, lembre-se de que copiar o trabalho de outra pessoa e apresentá-lo como seu próprio trabalho é uma ofensa acadêmica grave e será tratado como tal. Em geral, recomendamos fortemente que você trabalhe em grupo. É uma maneira muito eficaz de detectar erros conceituais e outros, e de refinar o pensamento e a compreensão […]. Em resumo: colabore com seus colegas, estude em grupo, mas siga as regras de trabalho colaborativo. Uma dica: antes de participar de um grupo de estudo, tente resolver as questões sozinho primeiro; isso lhe dará uma visão geral dos problemas a serem resolvidos, do grau de dificuldade, e proporcionará que você vislumbre um caminho para a solução que pode ser discutido com seus colegas. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#poltica-sobre-trabalho-cooperativo",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#poltica-sobre-trabalho-cooperativo"
-  },"372": {
+  },"371": {
     "doc": "Syllabus",
     "title": "8.2. Cláusula de arrependimento",
     "content": "Esta disciplina oferecerá uma cláusula de arrependimento conforme praticada no curso Harvard CS50: . Se você cometer algum ato que viole as políticas de integridade acadêmica aqui estabelecidas mas, em até 72 horas, se arrepender e comunicar o fato ao professor, poderá ter a nota reduzida ou zerada nesse trabalho/PSET específico, mas o caso não será levado à coordenação e, assim, você não sofrerá as sanções disciplinares da UVV (que podem chegar até a expulsão da universidade). Obs.: a cláusula de arrependimento só pode ser utilizada uma única vez. ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#clusula-de-arrependimento",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#clusula-de-arrependimento"
-  },"373": {
+  },"372": {
     "doc": "Syllabus",
     "title": "9. Perguntas freqüentes",
     "content": ". | Por que tenho que seguir as regras de integridade acadêmica do MIT e de Harvard? Em primeiro lugar porque você está na graduação e tem a obrigação de agir com honestidade acadêmica. Em segundo lugar porque as regras do MIT e de Harvard são claras, objetivas e disponíveis livremente na internet para que qualquer pessoa possa utilizar. E, para saber se os alunos estão lendo este documento, a primeira pessoa de cada turma que seguir todas as instruções e links de referências detalhadas aqui e achar e me mander um e-mail com o texto da “primeira lei de abrantes” ganhará uma caixa de bombom. E, por último, eu (seu professor) acredito em integridade acadêmica e acredito que essas regras são importantes. | As normas de integridade acadêmica serão obrigatórias? Sim, serão. Por favor, não tente a sorte copiando o trabalho de seu colega ou, se assim o fizer, utilize a cláusula de arrependimento. Isso evitará maiores problemas e dissabores para todo mundo. | Li o syllabus mas ainda tenho dúvidas! Entre em contato com o professor! | . Notas: . | Ementa, plano detalhado de estudo, programa de estudos. &#8617; . | PSET: é uma abreviatura para Problem Set, Conjunto de Problemas. Os PSETs são problemas altamente difíceis, que forçarão seu estudo e capacidade de resolução ao máximo. &#8617; . | São conhecimentos prévios e/ou recursos que você, obrigatoriamente, deve ter para que possa acompanhar adequadamente a disciplina e aprender o conteúdo. Caso você não possua algum dos pré-requisitos obrigatórios poderá ter dificuldade para acompanhar as aulas ou realizar todas as atividades propostas pelo professor (nesse caso converse imediatamente com o professor para explicar a situação e tentar encontrar uma solução). &#8617; . | São conhecimentos e/ou recursos que facilitarão muito o seu estudo. Caso você não possua os requisitos recomendados, sugere-se que você faça um plano para obtê-los com o tempo. &#8617; . | São conhecimentos prévios e/ou recursos não obrigatórias mas que, se você tiver, podem facilitar seu estudo (você já terá uma base a partir da qual irá desenvolver novas habilidades). Se você não tiver nenhum dos requisitos não obrigatórios, não se preocupe: você conseguirá acompanhar a disciplina. &#8617; . | Eu não uso o WhatsApp por motivos de privacidade. Se quiser me mandar uma mensagem, você terá que usar o Signal. &#8617; . | O estudo em nível universitário é muito diferente do estudo em nível de ensino médio. Na universidade você terá que ler muito e aprender muita coisa por conta própria. Não espere que o professor vá passar todo o conteúdo mastigado e resumido para você decorar para a prova, essa vida acabou! &#8617; . | . ",
     "url": "/disciplinas/fundamentos_computacao/syllabus/#perguntas-freqentes",
     
     "relUrl": "/disciplinas/fundamentos_computacao/syllabus/#perguntas-freqentes"
-  },"374": {
+  },"373": {
     "doc": "Unidade 2",
     "title": "Atividades do Autolab para a Unidade 2",
     "content": "Nesta unidade você só tem uma única tarefa no Autolab: o PSET 0: Scratch. Neste PSET você deverá criar um programa completo, de sua própria escolha, que consiga demonstrar que você realmente aprendeu os ``blocos’’ básicos de construção de programas (operações seqüenciais, operações condicionais e expressões booleanas, operações de repetição e estruturas de dados simples). O arquivo de handout do PSET 0: Scratch está disponível no Autolab e no link abaixo: . | Handout do PSET 0: Scratch (esse arquivo está compactado no formato RAR: você precisará descompactar o arquivo para poder acessar o conteúdo). | . Bons estudos! . ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade2/#atividades-do-autolab-para-a-unidade-2",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade2/#atividades-do-autolab-para-a-unidade-2"
-  },"375": {
+  },"374": {
     "doc": "Unidade 2",
     "title": "Unidade 2",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade2/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade2/"
-  },"376": {
+  },"375": {
     "doc": "Unidade 3",
     "title": "Atividades no Autolab para a Unidade 3",
     "content": "Nesta unidade você deverá realizar diversas tarefas no Autolab, incluindo exercícios, labs e o PSET-1: C. Apesar de não ser obrigatório, é altamente recomendado que você participe das monitorias e dos laboratórios de programação, para esclarecer dúvidas e obter ajuda dos monitores. Preste muita atenção às datas limites para o envio dos exercícios, labs e PSET-1. Essas datas estão discriminadas no Autolab e não serão prorrogadas! Participe dos laboratórios de programação com os monitores e não se esqueça de seguir as normas de integridade acadêmica da disciplina. ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade3/#atividades-no-autolab-para-a-unidade-3",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade3/#atividades-no-autolab-para-a-unidade-3"
-  },"377": {
+  },"376": {
     "doc": "Unidade 3",
     "title": "Exercícios de programação",
     "content": "Você deverá solucionar e enviar os seguintes exercícios de programação: . | “Olá, mundo!” | “Olá, fulano!” | “Tabuada simples” | “Tabuada restrita” | . ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade3/#exerccios-de-programao",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade3/#exerccios-de-programao"
-  },"378": {
+  },"377": {
     "doc": "Unidade 3",
     "title": "Laboratórios de programação",
     "content": "Você deverá solucionar e enviar os seguintes laboratórios de programação: . | “Metade da conta” | “Números primos” | “Índice de Massa Corpórea (IMC)” | . ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade3/#laboratrios-de-programao",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade3/#laboratrios-de-programao"
-  },"379": {
+  },"378": {
     "doc": "Unidade 3",
     "title": "PSET-1: C",
     "content": "A colaboração em PSETs não é permitida, exceto nas situações excepcionais detalhadas no Syllabus da disciplina. Por favor, siga todas as normas de integridade acadêmica da disciplina para evitar problemas. A equipe realiza auditorias aleatórias dos envios ao Autolab e, além disso, todos os envios são verificados através de ferramentas de detecção de cola, plágio e outras situações inadequadas. Neste PSET você deve enviar dois programas, conforme as escolhas abaixo: . | Primeiro programa: envie a solução para um dos problemas abaixo: . | “Mario Less”, se você está se sentindo menos confortável; ou | “Mario More”, se você está se sentindo mais confortável. | . | Segundo programa: envia a solução para um dos problemas abaixo: . | “Cash”, se você está se sentindo menos confortável; ou | “Credit”, se você está se sentindo mais confortável. | . | . No Autolab você deverá enviar a solução de acordo com sua escolha. ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade3/#pset-1-c",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade3/#pset-1-c"
-  },"380": {
+  },"379": {
     "doc": "Unidade 3",
     "title": "Unidade 3",
     "content": " ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade3/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade3/"
-  },"381": {
+  },"380": {
     "doc": "Unidade 4",
     "title": "Unidade 4",
     "content": "(em breve, mesmo!) . ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade4/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade4/"
-  },"382": {
+  },"381": {
     "doc": "Unidade 5",
     "title": "Unidade 5",
     "content": "(em breve, mesmo!) . ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade5/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade5/"
-  },"383": {
+  },"382": {
     "doc": "Unidade 6",
     "title": "Unidade 6",
     "content": "(em breve, mesmo!) . ",
     "url": "/disciplinas/fundamentos_computacao/autolab/unidade6/",
     
     "relUrl": "/disciplinas/fundamentos_computacao/autolab/unidade6/"
-  },"384": {
+  },"383": {
     "doc": "Unidade 7",
     "title": "Unidade 7",
     "content": "(em breve, mesmo!) . ",
