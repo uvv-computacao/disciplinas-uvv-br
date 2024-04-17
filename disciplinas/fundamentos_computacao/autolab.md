@@ -62,7 +62,16 @@ last_modified_date: 2024-02-09 00:12 -0300
 **Unidade 4: Arrays**<a id="autolab4"></a>
 {: .label .label-reading }
 
-- (em breve)
+- Nesta unidade você continuará seu aprendizado de ciência da computação
+  resolvendo diversos problemas interessantes da área de pedagogia (nível de
+  leitura de um texto), segurança (validação de senhas), jogos (palavras
+  cruzadas), criptografia (mensagens através de emojis, cifra de César e
+  cifra de substituição) e outros!
+- O objetivo dessa unidade é que você aprenda a resolver problemas computacionais
+  utilizando ferramentas como arrays, strings, manipulação de caracteres,
+  bibliotecas específicas em C e muito mais!
+- Acesse a página das [Atividades do Autolab para a Unidade 4](unidade4/) para
+  maiores informações.
 
 ---
 
