@@ -200,3 +200,4 @@ exclude:
   - README.md
   - INSTRUCOES
   - modelos
+  - mapa.emmx
