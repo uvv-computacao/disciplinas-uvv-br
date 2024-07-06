@@ -193,6 +193,7 @@ kramdown:
 
 # O que excluir do build (se diretório, usar a / final):
 exclude:
+  - cod/
   - Gemfile
   - Gemfile.lock
   - LICENSE

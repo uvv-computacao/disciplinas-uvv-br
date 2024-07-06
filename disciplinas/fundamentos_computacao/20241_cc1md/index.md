@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2024/1 - Turma CC1Md
-nav_exclude: false
+nav_exclude: true
 nav_order: 80
 parent: Fundamentos da Computação
 has_children: true
