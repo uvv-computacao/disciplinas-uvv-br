@@ -10,7 +10,7 @@ last_modified_date: 2024-07-30 08:30 -0300
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a>
+**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
 {: .label .label-reading }
 - **Vídeos obrigatórios:**
   - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
@@ -18,9 +18,12 @@ last_modified_date: 2024-07-30 08:30 -0300
   - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
   - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras obrigatórias:**
-  - Notas de aula
+  - [Notas de aula do Capítulo 1](/assets/disciplinas/ed1/capitulo01.pdf)
 - **Leituras recomendadas:**
-  - Roberts, cap. 1, integralmente.
+  - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo todo.
+  - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
+  - [UNIX/Linux Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
+  - [Linux Commands Cheat Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
 
 ---
 

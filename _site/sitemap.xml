@@ -372,6 +372,9 @@
 <loc>https://disciplinas.uvv.br/disciplinas/arqcomp2/estudo/</loc>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/arqcomp1/estudo/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/ed1/estudo/</loc>
 </url>
 <url>
@@ -471,6 +474,9 @@
 <loc>https://disciplinas.uvv.br/disciplinas/arqcomp2/</loc>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/arqcomp1/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/arquitetura_de_computadores_1/20231_cc3n/</loc>
 </url>
 <url>
@@ -546,6 +552,9 @@
 <loc>https://disciplinas.uvv.br/disciplinas/linguagens_de_programacao/recursos/</loc>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/ed1/recursos/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/fundamentos_computacao/syllabus/</loc>
 </url>
 <url>
@@ -604,6 +613,10 @@
 <url>
 <loc>https://disciplinas.uvv.br/assets/disciplinas/arqcomp1/c_programming.pdf</loc>
 <lastmod>2023-02-17T07:27:10-03:00</lastmod>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/assets/disciplinas/arqcomp1/capitulo01.pdf</loc>
+<lastmod>2024-07-30T17:16:33-03:00</lastmod>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/assets/disciplinas/arqcomp1/syllabus_2023_1.pdf</loc>
@@ -696,6 +709,10 @@
 <url>
 <loc>https://disciplinas.uvv.br/assets/disciplinas/bd1/system_r.pdf</loc>
 <lastmod>2023-04-26T17:47:33-03:00</lastmod>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/assets/disciplinas/ed1/capitulo01.pdf</loc>
+<lastmod>2024-07-30T17:16:33-03:00</lastmod>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/assets/disciplinas/fundcomp/2023_1/mario_less.pdf</loc>
