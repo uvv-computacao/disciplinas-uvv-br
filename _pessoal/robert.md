@@ -1,7 +1,7 @@
 ---
 name: Robert Lopes Terra
 role: Monitor
-disciplinas: 20241-fc
+disciplinas: 20241-fc 20242-fc
 email: contatorobertlopes@gmail.com
 website: https://github.com/Robert-Lopes
 photo: robert.jpg

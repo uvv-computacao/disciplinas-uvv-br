@@ -33,6 +33,7 @@ last_modified_date: 2024-02-09 00:12 -0300
 >
 > Bons estudos!
 
+<!--
 **Unidade 2: Programação**<a id="autolab2"></a>
 {: .label .label-reading }
 
@@ -94,3 +95,4 @@ last_modified_date: 2024-02-09 00:12 -0300
 
 - (em breve)
 
+-->

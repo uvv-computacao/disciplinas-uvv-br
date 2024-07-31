@@ -21,8 +21,6 @@ has_children: false
 
 ## Calendário acadêmico
 * [Calendário acadêmico oficial 2024](/assets/docs/calendario_oficial_2024.pdf)
-* [Calendário acadêmico simplificado:
-  2024/1](/assets/docs/calendario_simplificado_20241.pdf)
 
 ## Livros
 * [Blown to Bits](/assets/docs/blown_to_bits_2e.pdf) (original em inglês)

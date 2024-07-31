@@ -12,7 +12,7 @@ last_modified_date: 2024-02-06 00:24 -0300
 {:.no_toc}
 
 [(clique aqui para a versão PDF deste
-documento)](/assets/disciplinas/fundcomp/2024_1/syllabus_2024_1.pdf)
+documento)](/assets/disciplinas/fundcomp/2024_2/syllabus_2024_2.pdf)
 
 Além do material oficial que está disponível no Portal do Aluno da UVV
 (Universidade de Vila Velha), este documento contém mais detalhes sobre a
@@ -22,7 +22,7 @@ procure o professor para esclarecer qualquer dúvida. O *syllabus*[^1] funcionar
 como a nossa "constituição", ou seja, será a base para todas as regras,
 políticas e funcionamento de nosso curso. Além do *syllabus* a ementa oficial da
 disciplina está [disponível para
-download](/assets/disciplinas/fundcomp/2024_1/ementa_2024_1.pdf).
+download](/assets/disciplinas/fundcomp/2024_2/ementa_2024_2.pdf).
 
 [^1]: Ementa, plano detalhado de estudo, programa de estudos.
 

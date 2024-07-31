@@ -25,5 +25,6 @@ de seus estudos, siga as seguintes instruções:
    semanais, as datas de entrega dos exercícios e tudo que estiver disponivel.
 1. **VERIFIQUE** no calendário o detalhamento de todas as tarefas que você
    deve cumprir e fique atento aos prazos.
-1. **RESPONDA** o questionário inicial da disciplina.
+1. **RESPONDA** o questionário inicial da disciplina em
+   [https://disciplinas.uvv.br/pesquisas](https://disciplinas.uvv.br/pesquisas/)
 

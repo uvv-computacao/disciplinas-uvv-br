@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-03-19 02:21 -0300
+last_modified_date: 2024-07-31 17:24 -0300
 ---
 
 # Roteiro de estudo
@@ -21,18 +21,16 @@ last_modified_date: 2024-03-19 02:21 -0300
     traduzida em Português que está na página de recursos)
 - **Atividades obrigatórias:**
   - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
-    opcional (vale até 2 pontos extras na nota!)
+    opcional (vale até 1 ponto extras na nota!)
   - Imprima e responda o **[Diário de Aprendizagem -1:
-    Apresentação](/assets/disciplinas/fundcomp/2024_1/diario_-1.pdf)**
+    Apresentação](/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf)**
     (verifique a data de entrega no calendário de sua turma)
-  - Cadastro no Autolab
-  - Cadastro no GitHub
-  - Cadastro na Lista de Discussão do CR6.100B
 - **Outras atividades:**
   - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
 
 ---
 
+<!--
 **Estudo da 2ª Semana**<a id="re2sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
@@ -40,7 +38,7 @@ last_modified_date: 2024-03-19 02:21 -0300
   - Blown to Bits: capítulo 1, introdução (pág. 1-4)
 - **Atividades obrigatórias:**
   - Imprima e responda o **[Diário de Aprendizagem 0:
-    Introdução](/assets/disciplinas/fundcomp/2024_1/diario_0.pdf)**
+    Introdução](/assets/disciplinas/fundcomp/2024_2/diario_0.pdf)**
     (verifique a data de entrega no calendário de sua turma)
 
 ---
@@ -65,7 +63,7 @@ last_modified_date: 2024-03-19 02:21 -0300
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
   - **[Diário de Aprendizagem 1: Fundamentos da Computação (primeira parte do
-      diário)](/assets/disciplinas/fundcomp/2024_1/diario_1a.pdf)**
+      diário)](/assets/disciplinas/fundcomp/2024_2/diario_1a.pdf)**
 
 ---
 
@@ -306,6 +304,8 @@ last_modified_date: 2024-03-19 02:21 -0300
 > para colar na prova, serão **REPROVADOS IMEDIATA E AUTOMATICAMENTE** na
 > disciplina, sem chance de discussão. Evite problemas: **entregue seu celular
 > desligado** no início da prova.
+
+-->
 
 <!--
 **Leituras da 5ª Semana**<a id="l5sem"></a>

@@ -32,10 +32,13 @@
     </tr>
     <tr>
       <th>Qua<br />31/7</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Unidade -1: Apresentação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re1sem">1ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf">Diário -1:
+          Apresentação</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -79,7 +82,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Diário -1: Apresentação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />8/8</th> <!-- Dia e Data -->

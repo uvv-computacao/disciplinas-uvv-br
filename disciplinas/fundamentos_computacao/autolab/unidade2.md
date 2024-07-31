@@ -5,7 +5,7 @@ grand_parent: Fundamentos da Computação
 parent: Atividades no Autolab
 has_children: false
 has_toc: false
-nav_exclude: false
+nav_exclude: true
 nav_order: 20
 last_modified_date: 2024-03-05 19:00 -0300
 ---

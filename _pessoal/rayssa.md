@@ -1,7 +1,7 @@
 ---
 name: Rhayssa dos Santos Rosa da Silva
 role: Monitor
-disciplinas: 20241-fc
+disciplinas: 20241-fc 20242-fc
 email: rhayssasantos787@gmail.com
 website: (em breve)
 photo: rhayssa.png
