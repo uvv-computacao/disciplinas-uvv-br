@@ -10,7 +10,7 @@ last_modified_date: 2024-07-30 08:30 -0300
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a>
+**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
 {: .label .label-reading }
 - **Vídeos obrigatórios:**
   - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
