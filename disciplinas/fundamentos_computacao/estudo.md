@@ -20,8 +20,11 @@ last_modified_date: 2024-07-31 17:24 -0300
   - Blown to Bits: prefácio (pág. vii-viii) (a numeração refere-se à versão
     traduzida em Português que está na página de recursos)
 - **Atividades obrigatórias:**
-  - Responda à pesquisa inicial e escolha a data de sua monitoria vespertina
-    opcional (vale até 1 ponto extras na nota!)
+  - Responda ao [questionário inicial da
+    disciplina](https://disciplinas.uvv.br/pesquisas/), e escolha a data de sua
+    monitoria vespertina opcional (a opção de monitoria no sábado pela manhã
+    depende da quantidade de alunos interessados; não se esqueça de que a
+    monitoria vale até 1 ponto extra na nota, 0,5 por bimestre)
   - Imprima e responda o **[Diário de Aprendizagem -1:
     Apresentação](/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf)**
     (verifique a data de entrega no calendário de sua turma)
@@ -30,17 +33,20 @@ last_modified_date: 2024-07-31 17:24 -0300
 
 ---
 
-<!--
 **Estudo da 2ª Semana**<a id="re2sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0)
+  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0) (não se esqueça de fazer o
+    download do PDF dos slides do vídeo dessa unidade)
   - Blown to Bits: capítulo 1, introdução (pág. 1-4)
+- **Vídeos obrigatórios:**
+  - [CR6.100B, vídeo da Unidade 0](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Atividades obrigatórias:**
   - Imprima e responda o **[Diário de Aprendizagem 0:
     Introdução](/assets/disciplinas/fundcomp/2024_2/diario_0.pdf)**
     (verifique a data de entrega no calendário de sua turma)
 
+<!--
 ---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a>
@@ -362,7 +368,7 @@ last_modified_date: 2024-07-31 17:24 -0300
 
 (sem leituras, curso não iniciado)
 
--->
-
 ---
 **Notas:**
+
+-->
