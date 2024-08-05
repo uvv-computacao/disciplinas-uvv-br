@@ -375,6 +375,9 @@
 <loc>https://disciplinas.uvv.br/disciplinas/arqcomp1/estudo/</loc>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/disciplinas/linguagens_de_programacao/estudo/</loc>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/disciplinas/ed1/estudo/</loc>
 </url>
 <url>
@@ -519,9 +522,6 @@
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/leituras/</loc>
 </url>
 <url>
-<loc>https://disciplinas.uvv.br/disciplinas/linguagens_de_programacao/leituras/</loc>
-</url>
-<url>
 <loc>https://disciplinas.uvv.br/disciplinas/fundamentos_computacao/monitoria/</loc>
 </url>
 <url>
@@ -537,9 +537,6 @@
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/pessoal/</loc>
 </url>
 <url>
-<loc>https://disciplinas.uvv.br/disciplinas/linguagens_de_programacao/pessoal/</loc>
-</url>
-<url>
 <loc>https://disciplinas.uvv.br/disciplinas/fundamentos_computacao/recursos/</loc>
 </url>
 <url>
@@ -547,9 +544,6 @@
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/banco_de_dados_1/recursos/</loc>
-</url>
-<url>
-<loc>https://disciplinas.uvv.br/disciplinas/linguagens_de_programacao/recursos/</loc>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/disciplinas/ed1/recursos/</loc>
@@ -801,6 +795,14 @@
 <url>
 <loc>https://disciplinas.uvv.br/assets/disciplinas/lingprog/20231/ts01_cc3m.pdf</loc>
 <lastmod>2023-02-17T07:27:10-03:00</lastmod>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/assets/disciplinas/lingprog/20242/capitulo01.pdf</loc>
+<lastmod>2022-08-05T05:24:02-03:00</lastmod>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/assets/disciplinas/lingprog/20242/exercicio01.pdf</loc>
+<lastmod>2024-08-05T17:37:20-03:00</lastmod>
 </url>
 <url>
 <loc>https://disciplinas.uvv.br/assets/docs/academic_honesty_in_cs50.pdf</loc>

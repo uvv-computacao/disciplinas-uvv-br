@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2023/1 - Turma CC3M
-nav_exclude: false
+nav_exclude: true
 nav_order: 20
 parent: Linguagens de Programação
 has_children: true
