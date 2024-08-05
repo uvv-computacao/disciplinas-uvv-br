@@ -32,8 +32,25 @@ last_modified_date: 2024-07-30 08:30 -0300
 
 ---
 
-**Estudo da 2ª Semana**<a id="re2sem"></a>
+**Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+- **Leituras obrigatórias:**
+  - [Notas de aula: revisão de C](/assets/disciplinas/arqcomp1/capitulo01.pdf)
+    (Capítulo 1 do livro Programming Abstractions in C)
+  - [Unidade 0: Introdução à CR6.100B](https://www.computacaoraiz.com.br/cr6100b/unidades/0/)
+- **Leituras recomendadas:**
+  - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): este arquivo
+    é o PDF do "Anexo C" do livro *Digital Design and Computer Architecture* (também
+    [disponível online](https://booksite.elsevier.com/9780128000564/index.php))
+- **Leituras adicionais sugeridas:**
+  - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
+  - [UNIX/Linux Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
+  - [Linux Commands Cheat Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+  - [C Programming Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
+- **Exercícios obrigatórios:**
+  - [Lista de Exercícios n.º 1](/assets/disciplinas/arqcomp1/20242/exercicio01.pdf)
 
 ---
 
