@@ -24,6 +24,8 @@ last_modified_date: 2024-07-30 08:30 -0300
   - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
   - [UNIX/Linux Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
   - [Linux Commands Cheat Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+- **Exercícios:**
+  - [Lista de Exercícios n.º 1](/assets/disciplinas/ed1/2024_2/exercicio01.pdf)
 
 ---
 
