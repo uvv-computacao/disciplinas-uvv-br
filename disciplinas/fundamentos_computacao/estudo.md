@@ -10,7 +10,7 @@ last_modified_date: 2024-07-31 17:24 -0300
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a>
+**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
@@ -33,8 +33,9 @@ last_modified_date: 2024-07-31 17:24 -0300
 
 ---
 
-**Estudo da 2ª Semana**<a id="re2sem"></a>
+**Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }
+
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0) (não se esqueça de fazer o
     download do PDF dos slides do vídeo dessa unidade)
