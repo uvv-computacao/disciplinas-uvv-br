@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Linguagens de Programação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-07-30 08:30 -0300
+last_modified_date: 2024-08-12 17:19 -0300
 ---
 
 # Roteiro de estudo
@@ -33,8 +33,38 @@ last_modified_date: 2024-07-30 08:30 -0300
 
 ---
 
-**Estudo da 3ª Semana**<a id="re3sem"></a>
+**Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+    - [Parte 1: O que é ciência da
+      computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+    - [Parte 2, Anexo 1: Conversão entre bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+    - [Parte 2, Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
+    - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+    - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 5](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 5 - Material Extra](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
+    - Parte 0: visão geral da unidade
+    - Parte 1: O que é ciência da computação
+    - Parte 2: Representação de dados (incluindo os 5 anexos)
+- **Exercícios obrigatórios:**
+  - Imprima e responda as perguntas de n.º 1 até 160 do **[Diário de
+    Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)**, que os
+    alunos do 1º período estão fazendo nesta semana (sim, são
+    160 perguntas a serem feitas nesta semana. Algumas são fáceis e respondidas
+    em menos de 1 minuto, outras são mais difíceis e envolvem pesquisa e contas
+    matemáticas. Não deixe para começar a responder no final da
+    semana!). A data de entrega será estabelecida pelo professor.
+  - Exercícios sobre o capítulo 5 (em breve)
 
 ---
 

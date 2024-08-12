@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Arq. de Computadores I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-07-30 08:30 -0300
+last_modified_date: 2024-08-12 17:15 -0300
 ---
 
 # Roteiro de estudo
@@ -54,9 +54,9 @@ last_modified_date: 2024-07-30 08:30 -0300
 
 ---
 
-**Estudo da 3ª Semana**<a id="re3sem"></a>
+**Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
-
+    
 ---
 
 **Estudo da 4ª Semana**<a id="re4sem"></a>
