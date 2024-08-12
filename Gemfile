@@ -5,7 +5,7 @@ gem "jekyll", "~> 4.3.2"
 
 # Temas disponíveis para serem utilizados:
 #gem "minima", "~> 2.5"
-gem "just-the-docs", "0.7.0"
+gem "just-the-docs", "0.8.2"
 
 # Plugins a serem ativados:
 group :jekyll_plugins do
@@ -38,3 +38,7 @@ gem "webrick", "~> 1.7"
 
 # Usar o CodeRay syntax highlighter com o Kramdown:
 gem "kramdown-syntax-coderay", "~> 1.0"
+
+# Outras gems:
+gem "csv"
+gem "base64"

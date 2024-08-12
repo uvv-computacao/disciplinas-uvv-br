@@ -1,6 +1,6 @@
 ---
 title: Avisos da 2ª Semana
-semana: 1
+semana: 2
 disciplina: fundcomp
 semestre: 20242
 turma: si1n

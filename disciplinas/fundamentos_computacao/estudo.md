@@ -47,17 +47,18 @@ last_modified_date: 2024-07-31 17:24 -0300
     Introdução](/assets/disciplinas/fundcomp/2024_2/diario_0.pdf)**
     (verifique a data de entrega no calendário de sua turma)
 
-<!--
 ---
 
-**Estudo da 3ª Semana**<a id="re3sem"></a>
+**Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
     - Parte 0: visão geral da unidade
     - Parte 1: O que é ciência da computação
     - Parte 2: Representação de dados (incluindo os 5 anexos)
-  - Assistir os seguintes vídeos (várias vezes!):
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
     - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
     - [Parte 1: O que é ciência da
       computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
@@ -69,9 +70,16 @@ last_modified_date: 2024-07-31 17:24 -0300
     - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
   - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
 - **Atividades obrigatórias:**
-  - **[Diário de Aprendizagem 1: Fundamentos da Computação (primeira parte do
-      diário)](/assets/disciplinas/fundcomp/2024_2/diario_1a.pdf)**
+  - Imprima e responda as perguntas de n.º 1 até 160 do **[Diário de
+    Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)** (sim, são
+    160 perguntas a serem feitas nesta semana. Algumas são fáceis e respondidas
+    em menos de 1 minuto, outras são mais difíceis e envolvem pesquisa e contas
+    matemáticas. Não deixe para começar a responder no final da
+    semana!). As outras perguntas devem ser respondidas na próxima
+    semana. Verifique no calendário de sua turma a data de entrega deste diário.
 
+<!--
 ---
 
 **Estudo da 4ª Semana**<a id="re4sem"></a>
