@@ -79,25 +79,29 @@ last_modified_date: 2024-07-31 17:24 -0300
     semana!). As outras perguntas devem ser respondidas na próxima
     semana. Verifique no calendário de sua turma a data de entrega deste diário.
 
-<!--
 ---
 
-**Estudo da 4ª Semana**<a id="re4sem"></a>
+**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar o seguinte:
     - Parte 3: Algoritmos
     - Parte 4: Pensamento computacional
     - Parte 5: Abstração
-  - Assistir os seguintes vídeos (várias vezes!):
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o
+    download dos slides correspondentes a cada vídeo):
     - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
     - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
     - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 1 e Koan 2 (pág. 8-12)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
-    diário): transferido para a semana 5.
+  - Termine de responder o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)**,
+    fazendo as perguntas de n.º 161 até 225). Verifique no calendário de sua turma
+    a data para a entrega do diário.
 
+<!--
 ---
 
 **Estudo da 5ª Semana**<a id="re5sem"></a>

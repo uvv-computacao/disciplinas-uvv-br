@@ -32,21 +32,21 @@
     </tr>
     <tr>
       <th>Qua<br />31/7</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />1/8</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade -1: Apresentação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re1sem">1ª
           semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf">Diário -1: 
+      <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf">Diário -1:
           Apresentação</a></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />1/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -78,14 +78,6 @@
     </tr>
     <tr>
       <th>Qua<br />7/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />8/8</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade 0: Introdução</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re2sem">2ª
@@ -94,6 +86,14 @@
       <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_0.pdf">Diário 0:
           Introdução</a></td> <!-- Hand out -->
       <td>Diário -1: Apresentação</td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />8/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />9/8</th> <!-- Dia e Data -->
@@ -124,22 +124,22 @@
     </tr>
     <tr>
       <th>Qua<br />14/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />15/8</th> <!-- Dia e Data -->
       <td>Aula:<br />
-          Unidade 1: computação</td> <!-- Aula -->
+          Unidade 1: Computação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re3sem">3ª
           semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_1.pdf">Diário 1:
           Computação</a></td> <!-- Hand out -->
       <td>Diário 0: Introdução</td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />15/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />16/8</th> <!-- Dia e Data -->
@@ -178,8 +178,10 @@
     </tr>
     <tr>
       <th>Qui<br />22/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula (continuação):<br />
+          Unidade 1: Computação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re4sem">4ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -217,7 +219,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />29/8</th> <!-- Dia e Data -->
@@ -225,7 +227,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td>Diário 1: Computação</td> <!-- Hand in -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />30/8</th> <!-- Dia e Data -->
