@@ -68,8 +68,28 @@ last_modified_date: 2024-08-12 17:19 -0300
 
 ---
 
-**Estudo da 4ª Semana**<a id="re4sem"></a>
+**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 5](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 5 - Material Extra](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
+    - Parte 3: Algoritmos
+    - Parte 4: Pensamento computacional
+    - Parte 5: Abstração
+- **Exercícios obrigatórios:**
+  - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)**, que os
+    alunos do 1º período estão fazendo nesta semana, fazendo as perguntas
+    de 161 até 225. A data de entrega ainda será estabelecida pelo professor
+  - Exercícios sobre o capítulo 5 (em breve)
 
 ---
 
