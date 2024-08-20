@@ -130,7 +130,8 @@
           semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_1.pdf">Diário 1:
-          Computação</a></td> <!-- Hand out -->
+          Computação</a><br />
+          Devolução do Diário -1</td> <!-- Hand out -->
       <td>Diário 0: Introdução</td> <!-- Hand in -->
     </tr>
     <tr>
@@ -183,7 +184,7 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re4sem">4ª
           semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td>Devolução do Diário 0</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>

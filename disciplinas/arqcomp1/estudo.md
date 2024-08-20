@@ -34,12 +34,12 @@ last_modified_date: 2024-08-12 17:15 -0300
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }
-- **Vídeos obrigatórios:**
-  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras obrigatórias:**
   - [Notas de aula: revisão de C](/assets/disciplinas/arqcomp1/capitulo01.pdf)
     (Capítulo 1 do livro Programming Abstractions in C)
   - [Unidade 0: Introdução à CR6.100B](https://www.computacaoraiz.com.br/cr6100b/unidades/0/)
+- **Vídeos obrigatórios:**
+  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras recomendadas:**
   - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): este arquivo
     é o PDF do "Anexo C" do livro *Digital Design and Computer Architecture* (também
@@ -56,11 +56,56 @@ last_modified_date: 2024-08-12 17:15 -0300
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
-    
+- **Leituras obrigatórias:**
+  - Notas de aula:
+    - [Motivação 1: Introdução](/assets/disciplinas/arqcomp1/20242/1_motivacao.pdf)
+    - [Motivação 2: int não é Z](/assets/disciplinas/arqcomp1/20242/2_int_nao_e_z.pdf)
+    - [Motivação 3: Olá, mundo!](/assets/disciplinas/arqcomp1/20242/3_ola_mundo.pdf)
+    - [Motivação 4: Memória](/assets/disciplinas/arqcomp1/20242/4_memoria.pdf)
+    - [Motivação 5: Entrada e Saída](/assets/disciplinas/arqcomp1/20242/5_entrada_saida_rede.pdf)
+    - [Cap. 1: Abstrações e Tecnologias (1.1 até 1.3)](/assets/disciplinas/arqcomp1/20242/cap01a.pdf)
+  - Outras:
+    - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
+- **Vídeos obrigatórios:**
+  - Unidade 1: Fundamentos da Computação: assistir os seguintes vídeos
+    (assista aos vídeos várias vezes até que você consiga entender tudo;
+    na página da CR6.100B você pode fazer o download dos slides
+    correspondentes a cada vídeo):
+    - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+    - [Parte 1: O que é ciência da computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+    - [Parte 2, Anexo 1: Conversão entre bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+    - [Parte 2, Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
+    - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+    - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+- **Leituras recomendadas:**
+  - (nada para essa semana)
+- **Exercícios:**
+  - (nada para essa semana)
+
 ---
 
 **Estudo da 4ª Semana**<a id="re4sem"></a>
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Notas de aula:
+    - [Cap. 1: Abstrações e Tecnologias (1.4 até 1.5)](/assets/disciplinas/arqcomp1/20242/cap01b.pdf)
+    - [Cap. 1: Abstrações e Tecnologias (1.6)](/assets/disciplinas/arqcomp1/20242/cap01c.pdf)
+  - Outras:
+    - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
+- **Vídeos obrigatórios:**
+  - Unidade 1: Fundamentos da Computação: assistir os seguintes vídeos
+    (assista aos vídeos várias vezes até que você consiga entender tudo;
+    na página da CR6.100B você pode fazer o download dos slides
+    correspondentes a cada vídeo):
+    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
+- **Leituras recomendadas:**
+  - (nada para essa semana)
+- **Exercícios:**
+  - (nada para essa semana)
 
 ---
 
