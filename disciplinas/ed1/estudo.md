@@ -57,8 +57,16 @@ last_modified_date: 2024-08-12 15:09 -0300
 
 ---
 
-**Estudo da 4ª Semana**<a id="re4sem"></a>
+**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+ 50   - (em breve)
+ 51 - **Leituras obrigatórias:**
+ 52   - (em breve)
+ 53 - **Leituras recomendadas:**
+ 54   - (em breve)
+ 55 - **Exercícios:**
+ 56   - [Lista de Exercícios n.º 2](/assets/disciplinas/ed1/2024_2/exercicio02.pdf)
 
 ---
 
