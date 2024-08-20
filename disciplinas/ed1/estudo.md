@@ -46,25 +46,42 @@ last_modified_date: 2024-08-12 15:09 -0300
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
-- **Vídeos obrigatórios:**
-  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras obrigatórias:**
   - [Notas de aula do Capítulo 2](/assets/disciplinas/ed1/capitulo02.pdf)
+  - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o
+    download dos slides correspondentes a cada vídeo):
+    - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+    - [Parte 1: O que é ciência da computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+    - [Parte 2, Anexo 1: Conversão entre bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+    - [Parte 2, Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
+    - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+    - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
 - **Leituras recomendadas:**
   - Capítulo 2 do *Programming Abstractions in C*: ler o capítulo 2 todo.
 - **Exercícios:**
-  - Lista de Exercícios n.º 2 (em breve)
+  - (na próxima semana)
 
 ---
 
 **Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
-- **Vídeos obrigatórios:**
-  - (em breve)
 - **Leituras obrigatórias:**
-  - (em breve)
+  - [Notas de aula do Capítulo 2](/assets/disciplinas/ed1/capitulo02.pdf)
+  - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o
+    download dos slides correspondentes a cada vídeo):
+    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
 - **Leituras recomendadas:**
-  - (em breve)
+  - Capítulo 2 do *Programming Abstractions in C*: ler o capítulo 2 todo.
 - **Exercícios:**
   - [Lista de Exercícios n.º 2](/assets/disciplinas/ed1/2024_2/exercicio02.pdf)
 
