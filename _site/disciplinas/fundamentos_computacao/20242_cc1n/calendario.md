@@ -216,11 +216,13 @@
     </tr>
     <tr>
       <th>Qua<br />28/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula (continuação):<br />
+          Unidade 1: Computação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re5sem">5ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td>Diário 1: Computação</td> <!-- Hand in -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />29/8</th> <!-- Dia e Data -->
@@ -263,7 +265,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />5/9</th> <!-- Dia e Data -->

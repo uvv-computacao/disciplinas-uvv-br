@@ -101,6 +101,39 @@ last_modified_date: 2024-07-31 17:24 -0300
     fazendo as perguntas de n.º 161 até 225). Verifique no calendário de sua turma
     a data para a entrega do diário.
 
+---
+
+**Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar o seguinte:
+    - Parte 0: Visão geral
+    - Parte 1: O que é ciência da computação
+    - Parte 2: Representação de dados (incluindo os anexos!)
+    - Parte 3: Algoritmos
+    - Parte 4: Pensamento computacional
+    - Parte 5: Abstração
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o
+    download dos slides correspondentes a cada vídeo):
+    - [Parte 0: Visão geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+    - [Parte 1: O que é ciência da computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+      - [Anexo 1: Conversão de bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+      - [Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
+      - [Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+      - [Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+      - [Anexo 5: BCD e expansão de sinal](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
+  - Blown to Bits: capítulo 1, seção 1.2, Koan 1 e Koan 2 (pág. 8-12)
+- **Atividades obrigatórias:**
+  - Termine de responder o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)**,
+    fazendo todas perguntas. Verifique no calendário de sua turma
+    a data para a entrega do diário.
+
 <!--
 ---
 
