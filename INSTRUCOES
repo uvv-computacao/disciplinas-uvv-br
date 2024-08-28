@@ -4,6 +4,7 @@ Instruções e lembretes úteis
 Instalar/atualizar novos pré-requisitos:
   bundle install
   bundle update
+  bundle update --bundler
 
 
 Rodar o Jekyll localmente:

@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-08-12 15:09 -0300
+last_modified_date: 2024-08-28 08:42 -0300
 ---
 
 # Roteiro de estudo
@@ -17,7 +17,7 @@ last_modified_date: 2024-08-12 15:09 -0300
   - [Motivação e diferenças com a CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
   - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1](/assets/disciplinas/ed1/capitulo01.pdf)
+  - [Notas de aula do Capítulo 1: Revisão de C](/assets/disciplinas/ed1/capitulo01.pdf)
 - **Leituras recomendadas:**
   - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo 1 todo.
   - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
@@ -33,7 +33,7 @@ last_modified_date: 2024-08-12 15:09 -0300
 - **Vídeos obrigatórios:**
   - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1](/assets/disciplinas/ed1/capitulo01.pdf)
+  - [Notas de aula do Capítulo 1: Revisão de C](/assets/disciplinas/ed1/capitulo01.pdf)
 - **Leituras recomendadas:**
   - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo 1 todo.
   - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
@@ -47,7 +47,7 @@ last_modified_date: 2024-08-12 15:09 -0300
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 2](/assets/disciplinas/ed1/capitulo02.pdf)
+  - [Notas de aula do Capítulo 2: Tipos de dados em C](/assets/disciplinas/ed1/capitulo02.pdf)
   - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
@@ -71,7 +71,7 @@ last_modified_date: 2024-08-12 15:09 -0300
 **Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 2](/assets/disciplinas/ed1/capitulo02.pdf)
+  - [Notas de aula do Capítulo 2: Tipos de dados em C](/assets/disciplinas/ed1/capitulo02.pdf)
   - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
@@ -87,8 +87,23 @@ last_modified_date: 2024-08-12 15:09 -0300
 
 ---
 
-**Estudo da 5ª Semana**<a id="re5sem"></a>
+**Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 3: Bibliotecas e Inferfaces](/assets/disciplinas/ed1/capitulo03.pdf)
+- **Vídeos obrigatórios:**
+  - [Fundamentos da Programação, Parte 1: Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA)
+    (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
+    mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
+    conceitos avançados de programação que serão vistos posteriormente)
+- **Leituras recomendadas:**
+  - Capítulo 3 do *Programming Abstractions in C*: ler o capítulo 3 todo
+    (você pode pular a seção 3.4 e a seção 3.5, que serão vistas posteriormente; se quiser
+    se adiantar, leia também essas seções)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
+- **Exercícios:**
+  - (será divulgado posteriormente, ainda nesta semana)
 
 ---
 
