@@ -73,7 +73,7 @@ last_modified_date: 2024-08-20 17:15 -0300
 
 ---
 
-**Estudo da 4ª Semana**<a id="re4sem"></a>
+**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [Apostilas diversas sobre Arduino](../recursos/)
@@ -93,8 +93,19 @@ last_modified_date: 2024-08-20 17:15 -0300
 
 ---
 
-**Estudo da 5ª Semana**<a id="re5sem"></a>
+**Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Apostilas diversas sobre Arduino](../recursos/)
+- **Vídeos obrigatórios:**
+  - [Fundamentos da Programação, Parte 1: Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA)
+    (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
+    mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
+    conceitos avançados de programação que serão vistos posteriormente)
+- **Leituras recomendadas:**
+  - (nada para essa semana)
+- **Exercícios:**
+  - (nada para essa semana)
 
 ---
 

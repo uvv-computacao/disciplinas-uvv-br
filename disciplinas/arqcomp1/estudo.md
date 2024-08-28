@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Arq. de Computadores I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-08-12 17:15 -0300
+last_modified_date: 2024-08-28 17:15 -0300
 ---
 
 # Roteiro de estudo
@@ -86,7 +86,7 @@ last_modified_date: 2024-08-12 17:15 -0300
 
 ---
 
-**Estudo da 4ª Semana**<a id="re4sem"></a>
+**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - Notas de aula:
@@ -109,8 +109,19 @@ last_modified_date: 2024-08-12 17:15 -0300
 
 ---
 
-**Estudo da 5ª Semana**<a id="re5sem"></a>
+**Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Notas de aula:
+    - [Cap. 1: Abstrações e Tecnologias (1.6)](/assets/disciplinas/arqcomp1/20242/cap01c.pdf)
+- **Vídeos obrigatórios:**
+    - [Circuit Energy doesn't FLOW the way you THINK!](https://www.youtube.com/watch?v=C7tQJ42nGno)
+    - [The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
+    - [How Electricity Actually Works](https://www.youtube.com/watch?v=oI_X2cMHNe0)
+- **Leituras recomendadas:**
+  - (nada para essa semana)
+- **Exercícios:**
+  - (nada para essa semana)
 
 ---
 
