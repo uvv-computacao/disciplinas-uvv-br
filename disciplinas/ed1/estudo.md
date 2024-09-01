@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-08-28 08:42 -0300
+last_modified_date: 2024-09-01 19:21 -0300
 ---
 
 # Roteiro de estudo
@@ -103,17 +103,66 @@ last_modified_date: 2024-08-28 08:42 -0300
 - **Vídeos recomendados:**
   - (nada nesta semana)
 - **Exercícios:**
-  - (será divulgado posteriormente, ainda nesta semana)
+  - (nada até o momento)
 
 ---
 
-**Estudo da 6ª Semana**<a id="re6sem"></a>
+**Estudo da 6ª Semana**<a id="re6sem"></a> (02/09 - 08/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 4: Introdução à
+    Recursão](/assets/disciplinas/ed1/capitulo04.pdf)
+- **Vídeos obrigatórios:**
+  - [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+  - [EXTRA BITS: Recursion and the
+    Stack](https://www.youtube.com/watch?v=0pncNKHj-Sc) 
+  - [Programming Loops vs
+    Recursion](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+  - [Recursion: CS50 Shorts](https://www.youtube.com/watch?v=mz6tAJMVmfM)
+  - [Fibonacci Programming](https://www.youtube.com/watch?v=7t_pTlH9HwA)
+- **Leituras recomendadas:**
+  - Capítulo 4 do *Programming Abstractions in C*: ler o capítulo 4 todo!
+- **Vídeos recomendados:**
+  - [Sunflowers and Fibonacci](https://www.youtube.com/watch?v=DRjFV_DETKQ)
+  - [Fibonacci Tartan and Bagpipes](https://www.youtube.com/watch?v=e4sF_Z5oJek)
+  - [Fibonacci Mystery](https://www.youtube.com/watch?v=Nu-lW-Ifyec)
+  - [Heartbleed, Running the Code](https://www.youtube.com/watch?v=1dOCHwf8zVQ)
+- **Exercícios:**
+  - [Lista de Exercícios do Cap. 4](/assets/disciplinas/ed1/2024_2/lista04.pdf)
 
+<!--
 ---
 
-**Estudo da 7ª Semana**<a id="re7sem"></a>
+**Estudo da 7ª Semana**<a id="re7sem"></a> (09/09 - 15/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 5: Procedimentos
+    Recursivos](/assets/disciplinas/ed1/capitulo05.pdf)
+- **Vídeos obrigatórios:**
+    - [Loops, Ackermann &
+      Recursion](https://www.youtube.com/watch?v=DVG5G1V8Zx0)
+    - [The Most Difficult Program to
+      Compute?](https://www.youtube.com/watch?v=i7sm9dzFtEI)
+    - [Ackermann Follow Up](https://www.youtube.com/watch?v=uNACwX-O5lk)
+    - [Recursion 'Super Power' (in
+      Python)](https://www.youtube.com/watch?v=8lhxIOAfDss)
+    - [Discussing Recursion](https://www.youtube.com/watch?v=c9IH8DHDI4M)
+- **Leituras recomendadas:**
+  - Capítulo 5 do *Programming Abstractions in C*: ler o capítulo 5 todo!
+- **Vídeos recomendados:**
+  - [Reverse Polish Notation and The
+    Stack](https://www.youtube.com/watch?v=7ha78yWRDlE)
+  - [Towers of Hanoi: A Complete Recursive
+    Visualization](https://www.youtube.com/watch?v=rf6uf3jNjbo)
+  - [5 Simple Steps for Solving Any Recursive
+    Problem](https://www.youtube.com/watch?v=ngCos392W4w)
+  - [The Towers of Hanoi: Experiential Recursive
+    Thinking](https://www.youtube.com/watch?v=UuIneNBbscc)
+  - [Towers of Hanoi as an Example of
+    Recursion](https://www.youtube.com/watch?v=Ajy8XweC3L8)
+  - [Key to the Tower of Hanoi](https://www.youtube.com/watch?v=PGuRmqpr6Oo)
+- **Exercícios:**
+  - [Lista de Exercícios do Cap. 5](/assets/disciplinas/ed1/2024_2/lista05.pdf)
 
 ---
 
@@ -180,5 +229,6 @@ last_modified_date: 2024-08-28 08:42 -0300
 **20ª Semana: AV2**<a id="re20sem"></a>
 {: .label .label-reading }
 
+-->
 ---
 **Notas:**
