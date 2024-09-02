@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-07-31 17:24 -0300
+last_modified_date: 2024-09-02 17:24 -0300
 ---
 
 # Roteiro de estudo
@@ -134,23 +134,29 @@ last_modified_date: 2024-07-31 17:24 -0300
     fazendo todas perguntas. Verifique no calendário de sua turma
     a data para a entrega do diário.
 
-<!--
 ---
 
-**Estudo da 5ª Semana**<a id="re5sem"></a>
+**Estudo da 6ª Semana**<a id="re6sem"></a> (02/09 - 08/09)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
-    - [Parte 1: fundamentos da
-      programação Scratch](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-1-fundamentos-da-programação)
+    - [Parte 1: Scratch - fundamentos da
+      programação](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-1-fundamentos-da-programação)
+    - [Parte 2: Exemplos em Scratch](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-2-exemplos-em-scratch)
   - Blown to Bits: capítulo 1, seção 1.2, Koan 3 e Koan 4 (pág. 12-14)
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o
+    download dos slides correspondentes a cada vídeo):
+    - [Parte 1: Fundamentos da Programação:
+      Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA)
+    - [Parte 2: Exemplos em
+      Scratch](https://www.youtube.com/watch?v=YWIVJrV-EYs)
 - **Atividades obrigatórias:**
-  - [**Diário de Aprendizagem 1: Fundamentos da Computação (segunda parte do
-    diário)**](/assets/disciplinas/fundcomp/2024_1/diario_1b.pdf)
-  - [**Diário de Aprendizagem 2: Fundamentos da Programação**](/assets/disciplinas/fundcomp/2024_1/diario_2.pdf)
+  - **Diário de Aprendizagem 2: Fundamentos da Programação** (em breve)
 - **Atividades no Autolab (obrigatórias):**
   - [PSET 0: Scratch](../autolab/#autolab2)
 
+<!--
 ---
 
 **Estudo da 6ª Semana**<a id="re6sem"></a>

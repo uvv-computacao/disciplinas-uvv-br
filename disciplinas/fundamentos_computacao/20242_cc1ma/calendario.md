@@ -32,14 +32,6 @@
     </tr>
     <tr>
       <th>Qua<br />31/7</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />1/8</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade -1: Apresentação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re1sem">1ª
@@ -47,6 +39,14 @@
       <td></td> <!-- Autolab -->
       <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf">Diário -1:
           Apresentação</a></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />1/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -78,14 +78,6 @@
     </tr>
     <tr>
       <th>Qua<br />7/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />8/8</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade 0: Introdução</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re2sem">2ª
@@ -94,6 +86,14 @@
       <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_0.pdf">Diário 0:
           Introdução</a></td> <!-- Hand out -->
       <td>Diário -1: Apresentação</td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />8/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />9/8</th> <!-- Dia e Data -->
@@ -124,14 +124,6 @@
     </tr>
     <tr>
       <th>Qua<br />14/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />15/8</th> <!-- Dia e Data -->
       <td>Aula:<br />
           Unidade 1: Computação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re3sem">3ª
@@ -141,6 +133,14 @@
           Computação</a><br />
           Devolução do Diário -1</td> <!-- Hand out -->
       <td>Diário 0: Introdução</td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />15/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />16/8</th> <!-- Dia e Data -->
@@ -171,20 +171,20 @@
     </tr>
     <tr>
       <th>Qua<br />21/8</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
-    </tr>
-    <tr>
-      <th>Qui<br />22/8</th> <!-- Dia e Data -->
       <td>Aula (continuação):<br />
           Unidade 1: Computação</td> <!-- Aula -->
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re4sem">4ª
           semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td>Devolução do Diário 0</td> <!-- Hand out -->
+      <td></td> <!-- Hand in -->
+    </tr>
+    <tr>
+      <th>Qui<br />22/8</th> <!-- Dia e Data -->
+      <td></td> <!-- Aula -->
+      <td></td> <!-- Estudo -->
+      <td></td> <!-- Autolab -->
+      <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -269,10 +269,13 @@
     </tr>
     <tr>
       <th>Qui<br />5/9</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td>Aula:<br />
+          Unidade 2: Programação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET
+          0</a></td> <!-- Autolab -->
+      <td>Diário 2: Programação</td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>

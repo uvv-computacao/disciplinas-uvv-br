@@ -261,10 +261,13 @@
     </tr>
     <tr>
       <th>Qua<br />4/9</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td>Aula:<br />
+          Unidade 2: Programação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
+      <td><a href="/disciplinas/fundamentos_computacao/autolab/#autolab2">PSET
+          0</a></td> <!-- Autolab -->
+      <td>Diário 2: Programação</td> <!-- Hand out -->
       <td>Diário 1: Computação</td> <!-- Hand in -->
     </tr>
     <tr>
