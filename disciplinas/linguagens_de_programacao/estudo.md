@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Linguagens de Programação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-08-12 17:19 -0300
+last_modified_date: 2024-09-02 18:54 -0300
 ---
 
 # Roteiro de estudo
@@ -93,13 +93,44 @@ last_modified_date: 2024-08-12 17:19 -0300
 
 ---
 
-**Estudo da 5ª Semana**<a id="re5sem"></a>
+**Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Fundamentos da Programação, parte 1:
+      Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA) (atenção: este vídeo
+      pode parecer um pouco **bobo** para alunos em períodos mais adiantados no
+      curso, mas este vídeo vai prepará-lo para entender alguns conceitos
+      avançados de programação que serão vistos posteriormente) 
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 5](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 6:
+    parte1](/assets/disciplinas/lingprog/20242/capitulo06a.pdf)
+- **Exercícios obrigatórios:**
+  - (nada nesta semana)
 
 ---
 
-**Estudo da 6ª Semana**<a id="re6sem"></a>
+**Estudo da 6ª Semana**<a id="re6sem"></a> (02/09 - 08/09)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Fundamentos da Programação, parte 2: Exemplos em
+      Scratch](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-2-exemplos-em-scratch)
+      (atenção: este vídeo pode parecer um pouco **bobo** para alunos em
+      períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
+      entender alguns conceitos avançados de programação que serão vistos
+      posteriormente)
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 6:
+    parte2](/assets/disciplinas/lingprog/20242/capitulo06b.pdf)
+  - [Notas de aula do Capítulo 7](/assets/disciplinas/lingprog/20242/capitulo07.pdf)
+- **Exercícios obrigatórios:**
+  - (nada nesta semana)
 
 ---
 
