@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-01 19:21 -0300
+last_modified_date: 2024-09-03 17:10 -0300
 ---
 
 # Roteiro de estudo
@@ -129,6 +129,7 @@ last_modified_date: 2024-09-01 19:21 -0300
   - [Heartbleed, Running the Code](https://www.youtube.com/watch?v=1dOCHwf8zVQ)
 - **Exercícios:**
   - [Lista de Exercícios do Cap. 4](/assets/disciplinas/ed1/2024_2/lista04.pdf)
+  - [Lista de Exercícios Preparatórios para o Cap. 5](/assets/disciplinas/ed1/2024_2/lista04_05.pdf)
 
 <!--
 ---
