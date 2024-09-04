@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Arq. de Computadores I
 nav_order: 30
 has_children: false
-last_modified_date: 2024-08-20 17:15 -0300
+last_modified_date: 2024-09-04 09:03 -0300
 ---
 
 # Recursos diversos
@@ -52,6 +52,9 @@ last_modified_date: 2024-08-20 17:15 -0300
 ## Calendário acadêmico
 * [Calendário acadêmico oficial 2024](/assets/docs/calendario_oficial_2024.pdf)
 
+## Componentes eletrônicos
+* [Tabela de cores de resistores](/assets/disciplinas/arqcomp1/tabela_resistores.pdf)
+
 ## Notas
-* [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)  
+* [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)
 

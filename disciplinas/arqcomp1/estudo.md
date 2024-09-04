@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Arq. de Computadores I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-08-28 17:15 -0300
+last_modified_date: 2024-09-04 08:40 -0300
 ---
 
 # Roteiro de estudo
@@ -113,7 +113,9 @@ last_modified_date: 2024-08-28 17:15 -0300
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - Notas de aula:
-    - [Cap. 1: Abstrações e Tecnologias (1.6)](/assets/disciplinas/arqcomp1/20242/cap01c.pdf)
+    - [Cap. 1: Abstrações e Tecnologias
+      (1.6)](/assets/disciplinas/arqcomp1/20242/cap01c.pdf)
+    - [Fundamentos Físicos da Computação](/assets/disciplinas/arqcomp1/20242/fund_fisicos.pdf)
 - **Vídeos obrigatórios:**
     - [Circuit Energy doesn't FLOW the way you THINK!](https://www.youtube.com/watch?v=C7tQJ42nGno)
     - [The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
@@ -127,6 +129,19 @@ last_modified_date: 2024-08-28 17:15 -0300
 
 **Estudo da 6ª Semana**<a id="re6sem"></a>
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Notas de aula:
+    - [Cap. 2: Instruções: a linguagem do
+      computador](/assets/disciplinas/arqcomp1/20242/cap02a.pdf)
+    - [Fundamentos Físicos da Computação](/assets/disciplinas/arqcomp1/20242/fund_fisicos.pdf)
+- **Vídeos obrigatórios:**
+    - [Circuit Energy doesn't FLOW the way you THINK!](https://www.youtube.com/watch?v=C7tQJ42nGno)
+    - [The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
+    - [How Electricity Actually Works](https://www.youtube.com/watch?v=oI_X2cMHNe0)
+- **Leituras recomendadas:**
+  - (nada para essa semana)
+- **Exercícios:**
+  - [Exercício sobre Eletricidade](/assets/disciplinas/arqcomp1/20242/eletricidade.pdf)
 
 ---
 
