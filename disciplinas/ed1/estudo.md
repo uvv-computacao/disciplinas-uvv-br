@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-03 17:10 -0300
+last_modified_date: 2024-09-08 11:11 -0300
 ---
 
 # Roteiro de estudo
@@ -113,6 +113,11 @@ last_modified_date: 2024-09-03 17:10 -0300
   - [Notas de aula do Capítulo 4: Introdução à
     Recursão](/assets/disciplinas/ed1/capitulo04.pdf)
 - **Vídeos obrigatórios:**
+  - [Fundamentos da Programação, Parte 2: Exemplos em
+    Scratch](https://www.youtube.com/watch?v=YWIVJrV-EYs)
+    (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
+    mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
+    conceitos avançados de programação que serão vistos posteriormente)
   - [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
   - [EXTRA BITS: Recursion and the
     Stack](https://www.youtube.com/watch?v=0pncNKHj-Sc) 
@@ -131,7 +136,6 @@ last_modified_date: 2024-09-03 17:10 -0300
   - [Lista de Exercícios do Cap. 4](/assets/disciplinas/ed1/2024_2/lista04.pdf)
   - [Lista de Exercícios Preparatórios para o Cap. 5](/assets/disciplinas/ed1/2024_2/lista04_05.pdf)
 
-<!--
 ---
 
 **Estudo da 7ª Semana**<a id="re7sem"></a> (09/09 - 15/09)
@@ -140,14 +144,19 @@ last_modified_date: 2024-09-03 17:10 -0300
   - [Notas de aula do Capítulo 5: Procedimentos
     Recursivos](/assets/disciplinas/ed1/capitulo05.pdf)
 - **Vídeos obrigatórios:**
-    - [Loops, Ackermann &
-      Recursion](https://www.youtube.com/watch?v=DVG5G1V8Zx0)
-    - [The Most Difficult Program to
-      Compute?](https://www.youtube.com/watch?v=i7sm9dzFtEI)
-    - [Ackermann Follow Up](https://www.youtube.com/watch?v=uNACwX-O5lk)
-    - [Recursion 'Super Power' (in
-      Python)](https://www.youtube.com/watch?v=8lhxIOAfDss)
-    - [Discussing Recursion](https://www.youtube.com/watch?v=c9IH8DHDI4M)
+  - [Fundamentos da Programação, Parte 3: Funções e
+    variáveis](https://www.youtube.com/watch?v=jeFJuow44kI)
+    (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
+    mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
+    conceitos avançados de programação que serão vistos posteriormente)
+  - [Loops, Ackermann &
+    Recursion](https://www.youtube.com/watch?v=DVG5G1V8Zx0)
+  - [The Most Difficult Program to
+    Compute?](https://www.youtube.com/watch?v=i7sm9dzFtEI)
+  - [Ackermann Follow Up](https://www.youtube.com/watch?v=uNACwX-O5lk)
+  - [Recursion 'Super Power' (in
+    Python)](https://www.youtube.com/watch?v=8lhxIOAfDss)
+  - [Discussing Recursion](https://www.youtube.com/watch?v=c9IH8DHDI4M)
 - **Leituras recomendadas:**
   - Capítulo 5 do *Programming Abstractions in C*: ler o capítulo 5 todo!
 - **Vídeos recomendados:**
@@ -165,6 +174,7 @@ last_modified_date: 2024-09-03 17:10 -0300
 - **Exercícios:**
   - [Lista de Exercícios do Cap. 5](/assets/disciplinas/ed1/2024_2/lista05.pdf)
 
+<!--
 ---
 
 **Estudo da 8ª Semana**<a id="re8sem"></a>
