@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-02 17:24 -0300
+last_modified_date: 2024-09-09 07:44 -0300
 ---
 
 # Roteiro de estudo
@@ -156,19 +156,26 @@ last_modified_date: 2024-09-02 17:24 -0300
 - **Atividades no Autolab (obrigatórias):**
   - [PSET 0: Scratch](../autolab/#autolab2)
 
-<!--
 ---
 
-**Estudo da 6ª Semana**<a id="re6sem"></a>
+**Estudo da 7ª Semana**<a id="re7sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
-    - Parte 2: fundamentos da programação Snap! (será liberado em breve)
+    - Parte 3: Funções e variáveis
+    - Parte 4: Conceitos avançados
   - Blown to Bits: capítulo 1, seção 1.2, Koan 5 (pág. 14-16)
+- **Vídeos obrigatórios:**
+  - [CR6.100B: Parte 3: Funções e
+    variáveis](https://www.youtube.com/watch?v=jeFJuow44kI)
+  - [CR6.100B: Parte 4: Conceitos
+    avançados](https://www.youtube.com/watch?v=dWMx4503llQ)
+  - [CR6.100B: Parte 5: PSET 0:
+    Scratch](https://www.youtube.com/watch?v=21Vknz2W9FA)
 - **Atividades obrigatórias:**
-  - Diário de Aprendizagem 1: computação (segunda parte)
-  - Diário de Aprendizagem 2: programação
+  - (em breve)
 
+<!--
 ---
 
 **Estudo da 7ª Semana**<a id="re7sem"></a>
