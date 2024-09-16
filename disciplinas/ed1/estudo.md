@@ -174,12 +174,36 @@ last_modified_date: 2024-09-08 11:11 -0300
 - **Exercícios:**
   - [Lista de Exercícios do Cap. 5](/assets/disciplinas/ed1/2024_2/lista05.pdf)
 
-<!--
 ---
 
-**Estudo da 8ª Semana**<a id="re8sem"></a>
+**Estudo da 8ª Semana**<a id="re8sem"></a> (16/09 - 22/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 6: Algoritmos de
+    Backtracking](/assets/disciplinas/ed1/capitulo06.pdf)
+- **Vídeos obrigatórios:**
+  - [Fundamentos da Programação, Parte 4: Conceitos avançados: objetos de 1ª
+    classe, funções de ordem superior, recursividade e
+    continuações](https://www.youtube.com/watch?v=dWMx4503llQ)
+    (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
+    mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
+    conceitos avançados de programação que serão vistos posteriormente)
+  - [Backtracking (Think Like a
+    Programmer)](https://www.youtube.com/watch?v=gBC_Fd8EE8A)
+  - [Backtracking made easy](https://www.youtube.com/watch?v=51Zy1ULau1s)
+  - [The Backtracking Blueprint](https://www.youtube.com/watch?v=Zq4upTEaQyM)
+- **Leituras recomendadas:**
+  - Capítulo 6 do *Programming Abstractions in C*: ler o capítulo 6 todo!
+- **Vídeos recomendados:**
+  - [The N-Queens Problem](https://www.youtube.com/watch?v=wGbuCyNpxIg)
+  - [Implement A Sudoku Solver](https://www.youtube.com/watch?v=JzONv5kaPJM)
+- **Exercícios:**
+  - Lista de Exercícios do Cap. 6 (em breve)
+- **Recursos:**
+  - [Códigos de aula e dos
+    exercícios](/assets/disciplinas/ed1/capitulo06_codigos.rar)
 
+<!--
 ---
 
 **9ª Semana: AV1**<a id="re9sem"></a>
