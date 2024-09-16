@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Arq. de Computadores I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-04 08:40 -0300
+last_modified_date: 2024-09-16 15:05 -0300
 ---
 
 # Roteiro de estudo
@@ -132,7 +132,9 @@ last_modified_date: 2024-09-04 08:40 -0300
 - **Leituras obrigatórias:**
   - Notas de aula:
     - [Cap. 2: Instruções: a linguagem do
-      computador](/assets/disciplinas/arqcomp1/20242/cap02a.pdf)
+      computador (2.1, 2.2 e
+      2.3)](/assets/disciplinas/arqcomp1/20242/cap02a.pdf) (estudar até chegar
+      nas instruções de memória)
     - [Fundamentos Físicos da Computação](/assets/disciplinas/arqcomp1/20242/fund_fisicos.pdf)
 - **Vídeos obrigatórios:**
     - [Circuit Energy doesn't FLOW the way you THINK!](https://www.youtube.com/watch?v=C7tQJ42nGno)
@@ -145,13 +147,39 @@ last_modified_date: 2024-09-04 08:40 -0300
 
 ---
 
-**Estudo da 7ª Semana**<a id="re7sem"></a>
+**Estudo da 7ª Semana**<a id="re7sem"></a> (09/09 - 15/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Notas de aula:
+    - [Cap. 2: Instruções: a linguagem do
+      computador (2.1, 2.2 e
+      2.3)](/assets/disciplinas/arqcomp1/20242/cap02a.pdf) (estudar o resto)
+    - [Fundamentos Físicos da Computação](/assets/disciplinas/arqcomp1/20242/fund_fisicos.pdf)
+- **Vídeos obrigatórios:**
+    - [Circuit Energy doesn't FLOW the way you THINK!](https://www.youtube.com/watch?v=C7tQJ42nGno)
+    - [The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
+    - [How Electricity Actually Works](https://www.youtube.com/watch?v=oI_X2cMHNe0)
+- **Leituras recomendadas:**
+  - (nada para essa semana)
+- **Exercícios:**
+  - [Exercício sobre Eletricidade](/assets/disciplinas/arqcomp1/20242/eletricidade.pdf)
 
 ---
 
-**Estudo da 8ª Semana**<a id="re8sem"></a>
+**Estudo da 8ª Semana**<a id="re8sem"></a> (16/09 - 22/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - Notas de aula:
+    - [Cap. 2: Instruções: a linguagem do
+      computador (2.5)](/assets/disciplinas/arqcomp1/20242/cap02c.pdf)
+    - [Fundamentos Físicos da Computação](/assets/disciplinas/arqcomp1/20242/fund_fisicos.pdf)
+- **Vídeos obrigatórios:**
+  - (nada para essa semana)
+- **Leituras recomendadas:**
+  - Familiarize-se com a documentação do RISC-V, principalmente com os cartões
+    de referência rápida, que estão na seção de recursos da disciplina.
+- **Exercícios:**
+  - (nada para essa semana)
 
 ---
 

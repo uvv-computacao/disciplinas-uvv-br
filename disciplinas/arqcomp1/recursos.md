@@ -53,7 +53,24 @@ last_modified_date: 2024-09-04 09:03 -0300
 * [Calendário acadêmico oficial 2024](/assets/docs/calendario_oficial_2024.pdf)
 
 ## Componentes eletrônicos
-* [Tabela de cores de resistores](/assets/disciplinas/arqcomp1/tabela_resistores.pdf)
+* [Tabela de cores de
+  resistores](/assets/disciplinas/arqcomp1/tabela_resistores.pdf)
+
+## Material sobre RISC-V
+* [RISC-V Instruction Set Manual - Volume
+  1](/assets/disciplinas/arqcomp1/riscv/riscv1.pdf)
+* [RISC-V Instruction Set Manual - Volume
+  2](/assets/disciplinas/arqcomp1/riscv/riscv2.pdf)
+* [RISC-V: Cartão de referência rápida (modelo
+  1)](/assets/disciplinas/arqcomp1/riscv/riscv_card1.pdf)
+* [RISC-V: Cartão de referência rápida (modelo
+  2)](/assets/disciplinas/arqcomp1/riscv/riscv_card2.pdf)
+* [RISC-V: Cartão de referência rápida (modelo
+  3)](/assets/disciplinas/arqcomp1/riscv/riscv_card3.pdf)
+* [RISC-V: Cartão de referência rápida (modelo
+  4)](/assets/disciplinas/arqcomp1/riscv/riscv_card4.pdf)
+* [RISC-V: Cartão de referência rápida (modelo
+  5)](/assets/disciplinas/arqcomp1/riscv/riscv_card5.pdf)
 
 ## Notas
 * [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)
