@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-09 07:44 -0300
+last_modified_date: 2024-09-16 11:44 -0300
 ---
 
 # Roteiro de estudo
@@ -175,20 +175,25 @@ last_modified_date: 2024-09-09 07:44 -0300
 - **Atividades obrigatórias:**
   - (em breve)
 
-<!--
 ---
 
-**Estudo da 7ª Semana**<a id="re7sem"></a>
+**Estudo da 8ª Semana**<a id="re8sem"></a>
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 3](http://cmprz.me/cr6100bu3)
-  - Blown to Bits: capítulo 1, seção 1.2, Koan 6 e Koan 7 (pág. 16-20)
+  - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
+    - Parte 3: Funções e variáveis
+    - Parte 4: Conceitos avançados
+  - Blown to Bits: capítulo 1, seção 1.2, Koan 5 (pág. 14-16)
+- **Vídeos obrigatórios:**
+  - [CR6.100B: Parte 3: Funções e
+    variáveis](https://www.youtube.com/watch?v=jeFJuow44kI)
+  - [CR6.100B: Parte 4: Conceitos
+    avançados](https://www.youtube.com/watch?v=dWMx4503llQ)
 - **Atividades obrigatórias:**
-  - [**Diário de Aprendizagem 3: C**](/assets/disciplinas/fundcomp/2024_1/diario_3.pdf)
-- **Atividades no Autolab (obrigatórias):**
-  - Exercícios
-  - PSET-1
+  - Diário 2: Programação (será liberado dia 18/09)
 
+
+<!--
 ---
 
 **Estudo da 8ª Semana**<a id="re8sem"></a>
