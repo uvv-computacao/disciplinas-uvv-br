@@ -18,7 +18,8 @@ last_modified_date: 2024-09-02 18:54 -0300
   - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
   - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1](/assets/disciplinas/lingprog/20242/capitulo01.pdf)
+  - [Notas de aula do Capítulo 1:
+    Introdução](/assets/disciplinas/lingprog/20242/capitulo01.pdf)
 
 ---
 
@@ -49,8 +50,10 @@ last_modified_date: 2024-09-02 18:54 -0300
     - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
     - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 5](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
-  - [Notas de aula do Capítulo 5 - Material Extra](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
+  - [Notas de aula do Capítulo 5: Nomes, vinculações e
+    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 5 - Material Extra: Arquitetura de
+    memória](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
   - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
     - Parte 0: visão geral da unidade
     - Parte 1: O que é ciência da computação
@@ -78,8 +81,10 @@ last_modified_date: 2024-09-02 18:54 -0300
     - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
     - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 5](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
-  - [Notas de aula do Capítulo 5 - Material Extra](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
+  - [Notas de aula do Capítulo 5: Nomes, vinculações e
+    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 5 - Material Extra: Arquitetura de
+    memória](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
   - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
     - Parte 3: Algoritmos
     - Parte 4: Pensamento computacional
@@ -105,8 +110,9 @@ last_modified_date: 2024-09-02 18:54 -0300
       curso, mas este vídeo vai prepará-lo para entender alguns conceitos
       avançados de programação que serão vistos posteriormente) 
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 5](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
-  - [Notas de aula do Capítulo 6:
+  - [Notas de aula do Capítulo 5: Nomes, vinculações e
+    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 6: Tipos de dados,
     parte1](/assets/disciplinas/lingprog/20242/capitulo06a.pdf)
 - **Exercícios obrigatórios:**
   - (nada nesta semana)
@@ -126,21 +132,52 @@ last_modified_date: 2024-09-02 18:54 -0300
       entender alguns conceitos avançados de programação que serão vistos
       posteriormente)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 6:
+  - [Notas de aula do Capítulo 6: Tipos de dados,
     parte2](/assets/disciplinas/lingprog/20242/capitulo06b.pdf)
-  - [Notas de aula do Capítulo 7](/assets/disciplinas/lingprog/20242/capitulo07.pdf)
+  - [Notas de aula do Capítulo 7: Expressões e sentenças de
+    atribuição](/assets/disciplinas/lingprog/20242/capitulo07.pdf)
 - **Exercícios obrigatórios:**
   - (nada nesta semana)
 
 ---
 
-**Estudo da 7ª Semana**<a id="re7sem"></a>
+**Estudo da 7ª Semana**<a id="re7sem"></a> (09/09 - 15/09)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Fundamentos da Programação, parte 3: Funções e
+      variáveis](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-3-fun%C3%A7%C3%B5es-e-vari%C3%A1veis)
+      (atenção: este vídeo pode parecer um pouco **bobo** para alunos em
+      períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
+      entender alguns conceitos avançados de programação que serão vistos
+      posteriormente)
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 8: Estruturas de controle no nível de
+    sentença](/assets/disciplinas/lingprog/20242/capitulo08.pdf)
+- **Exercícios obrigatórios:**
+  - (nada nesta semana)
 
 ---
 
-**Estudo da 8ª Semana**<a id="re8sem"></a>
+**Estudo da 8ª Semana**<a id="re8sem"></a> (16/09 - 22/09)
 {: .label .label-reading }
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Fundamentos da Programação, parte 4: Objetos de 1ª classe, funções de
+      ordem superior, recursividade e
+      continuações](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-4-conceitos-avan%C3%A7ados)
+      (atenção: este vídeo pode parecer um pouco **bobo** para alunos em
+      períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
+      entender alguns conceitos avançados de programação que serão vistos
+      posteriormente)
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 9: Subprogramas](/assets/disciplinas/lingprog/20242/capitulo09.pdf)
+- **Exercícios obrigatórios:**
+  - (nada nesta semana)
 
 ---
 
