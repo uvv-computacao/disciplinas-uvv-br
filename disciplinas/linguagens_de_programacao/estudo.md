@@ -255,7 +255,8 @@ last_modified_date: 2024-09-30 12:04 -0300
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [Notas de aula do Capítulo 11:
-    Subprogramas](/assets/disciplinas/lingprog/20242/capitulo11.pdf)
+    Tipos de dados Abstratos e Construções de
+    Encapsulamento](/assets/disciplinas/lingprog/20242/capitulo11.pdf)
 - **Vídeos obrigatórios:**
   (nada nesta semana)
 - **Leituras recomendadas:**
