@@ -5,37 +5,59 @@ nav_exclude: false
 parent: Linguagens de Programação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-02 18:54 -0300
+last_modified_date: 2024-09-30 12:04 -0300
 ---
 
 # Roteiro de estudo
 
 **Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 1:
+    Introdução](/assets/disciplinas/lingprog/20242/capitulo01.pdf)
 - **Vídeos obrigatórios:**
   - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
   - [Motivação e diferenças com a CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
   - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
   - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1:
-    Introdução](/assets/disciplinas/lingprog/20242/capitulo01.pdf)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 1 (preliminares)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
+- **Exercícios:**
+  - (nada nesta semana)
 
 ---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Unidade 0: Introdução à
+    CR6.100B](https://www.computacaoraiz.com.br/cr6100b/unidades/0/)
 - **Vídeos obrigatórios:**
   - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
-- **Leituras obrigatórias:**
-  - [Unidade 0: Introdução à CR6.100B](https://www.computacaoraiz.com.br/cr6100b/unidades/0/)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 2 (evolução das
+    principais linguagens de programação)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
-  - [Lista de Exercícios n.º 1](/assets/disciplinas/lingprog/20242/exercicio01.pdf)
+  - [História das Linguagens de
+    Programação](/assets/disciplinas/lingprog/20242/exercicio01.pdf)
 
 ---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 5: Nomes, vinculações e
+    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 5 - Material Extra: Arquitetura de
+    memória](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
+  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
+    - Parte 0: visão geral da unidade
+    - Parte 1: O que é ciência da computação
+    - Parte 2: Representação de dados (incluindo os 5 anexos)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o download
@@ -49,15 +71,11 @@ last_modified_date: 2024-09-02 18:54 -0300
     - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
     - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
     - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 5: Nomes, vinculações e
-    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
-  - [Notas de aula do Capítulo 5 - Material Extra: Arquitetura de
-    memória](/assets/disciplinas/lingprog/20242/capitulo05_extra.pdf)
-  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
-    - Parte 0: visão geral da unidade
-    - Parte 1: O que é ciência da computação
-    - Parte 2: Representação de dados (incluindo os 5 anexos)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 5 (nomes, vinculações e
+    escopo)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
   - Imprima e responda as perguntas de n.º 1 até 160 do **[Diário de
     Aprendizagem 1: Fundamentos da
@@ -73,13 +91,6 @@ last_modified_date: 2024-09-02 18:54 -0300
 
 **Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
-- **Vídeos obrigatórios:**
-  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
-    você consiga entender tudo; na página da CR6.100B você pode fazer o download
-    dos slides correspondentes a cada vídeo):
-    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
-    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
-    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
 - **Leituras obrigatórias:**
   - [Notas de aula do Capítulo 5: Nomes, vinculações e
     escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
@@ -89,6 +100,18 @@ last_modified_date: 2024-09-02 18:54 -0300
     - Parte 3: Algoritmos
     - Parte 4: Pensamento computacional
     - Parte 5: Abstração
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 5 (nomes, vinculações e
+    escopo)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
   - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
     Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)**, que os
@@ -100,6 +123,11 @@ last_modified_date: 2024-09-02 18:54 -0300
 
 **Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 5: Nomes, vinculações e
+    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
+  - [Notas de aula do Capítulo 6: Tipos de dados,
+    parte1](/assets/disciplinas/lingprog/20242/capitulo06a.pdf)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o download
@@ -109,11 +137,12 @@ last_modified_date: 2024-09-02 18:54 -0300
       pode parecer um pouco **bobo** para alunos em períodos mais adiantados no
       curso, mas este vídeo vai prepará-lo para entender alguns conceitos
       avançados de programação que serão vistos posteriormente) 
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 5: Nomes, vinculações e
-    escopo](/assets/disciplinas/lingprog/20242/capitulo05.pdf)
-  - [Notas de aula do Capítulo 6: Tipos de dados,
-    parte1](/assets/disciplinas/lingprog/20242/capitulo06a.pdf)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 5 (nomes, vinculações e
+    escopo)
+  - _Conceitos de Linguagens de Programação_: capítulo 6 (tipos de dados)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
   - (nada nesta semana)
 
@@ -121,6 +150,11 @@ last_modified_date: 2024-09-02 18:54 -0300
 
 **Estudo da 6ª Semana**<a id="re6sem"></a> (02/09 - 08/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 6: Tipos de dados,
+    parte2](/assets/disciplinas/lingprog/20242/capitulo06b.pdf)
+  - [Notas de aula do Capítulo 7: Expressões e sentenças de
+    atribuição](/assets/disciplinas/lingprog/20242/capitulo07.pdf)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o download
@@ -131,11 +165,12 @@ last_modified_date: 2024-09-02 18:54 -0300
       períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
       entender alguns conceitos avançados de programação que serão vistos
       posteriormente)
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 6: Tipos de dados,
-    parte2](/assets/disciplinas/lingprog/20242/capitulo06b.pdf)
-  - [Notas de aula do Capítulo 7: Expressões e sentenças de
-    atribuição](/assets/disciplinas/lingprog/20242/capitulo07.pdf)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 6 (tipos de dados)
+  - _Conceitos de Linguagens de Programação_: capítulo 7 (expressões e sentenças
+    de atribuição)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
   - (nada nesta semana)
 
@@ -143,6 +178,9 @@ last_modified_date: 2024-09-02 18:54 -0300
 
 **Estudo da 7ª Semana**<a id="re7sem"></a> (09/09 - 15/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 8: Estruturas de controle no nível de
+    sentença](/assets/disciplinas/lingprog/20242/capitulo08.pdf)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o download
@@ -153,9 +191,11 @@ last_modified_date: 2024-09-02 18:54 -0300
       períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
       entender alguns conceitos avançados de programação que serão vistos
       posteriormente)
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 8: Estruturas de controle no nível de
-    sentença](/assets/disciplinas/lingprog/20242/capitulo08.pdf)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 8 (estruturas de controle
+    no nível de sentença)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
   - (nada nesta semana)
 
@@ -163,6 +203,9 @@ last_modified_date: 2024-09-02 18:54 -0300
 
 **Estudo da 8ª Semana**<a id="re8sem"></a> (16/09 - 22/09)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 9:
+    Subprogramas](/assets/disciplinas/lingprog/20242/capitulo09.pdf) 
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o download
@@ -174,25 +217,68 @@ last_modified_date: 2024-09-02 18:54 -0300
       períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
       entender alguns conceitos avançados de programação que serão vistos
       posteriormente)
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 9: Subprogramas](/assets/disciplinas/lingprog/20242/capitulo09.pdf)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 9 (subprogramas)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
 - **Exercícios obrigatórios:**
   - (nada nesta semana)
 
 ---
 
-**9ª Semana: AV1**<a id="re9sem"></a>
+**9ª Semana:**<a id="re9sem"></a> (23/09 - 29)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 9:
+    Subprogramas](/assets/disciplinas/lingprog/20242/capitulo09.pdf) 
+- **Vídeos obrigatórios:**
+  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
+    você consiga entender tudo; na página da CR6.100B você pode fazer o download
+    dos slides correspondentes a cada vídeo):
+    - [Fundamentos da Programação, parte 4: Objetos de 1ª classe, funções de
+      ordem superior, recursividade e
+      continuações](https://www.computacaoraiz.com.br/cr6100b/unidades/2/#parte-4-conceitos-avan%C3%A7ados)
+      (atenção: este vídeo pode parecer um pouco **bobo** para alunos em
+      períodos mais adiantados no curso, mas este vídeo vai prepará-lo para
+      entender alguns conceitos avançados de programação que serão vistos
+      posteriormente)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 9 (subprogramas)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
+- **Exercícios obrigatórios:**
+  - (nada nesta semana)
 
 ---
 
-**Estudo da 10ª Semana**<a id="re10sem"></a>
+**Estudo da 10ª Semana**<a id="re10sem"></a> (30/09 - 06/10)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 11:
+    Subprogramas](/assets/disciplinas/lingprog/20242/capitulo11.pdf)
+- **Vídeos obrigatórios:**
+  (nada nesta semana)
+- **Leituras recomendadas:**
+  - _Conceitos de Linguagens de Programação_: capítulo 11 (tipos de dados
+    abstratos e construções de encapsulamento)
+- **Vídeos recomendados:**
+  - (nada nesta semana)
+- **Exercícios obrigatórios:**
+  - (nada nesta semana)
 
 ---
 
-**Estudo da 11ª Semana**<a id="re11sem"></a>
-{: .label .label-reading }
+**11ª Semana: AV-1**<a id="re11sem"></a> (07/10 - 13/10)
+{: .label .label-red }
+- **Conteúdo da prova:**
+  - Capítulos do livro de referência: 1, 2, 5, 6, 7, 8, 9 e 11;
+  - Material extra do capítulo 5: arquitetura de memória
+  - Todos os vídeos e exercícios indicados
+- **ATENÇÃO:**
+  - Os celulares serão RECOLHIDOS pelo professor no início da prova e serão
+    devolvidos ao final.
+  - Infrações à política de integridade acadêmica causarão penalidade de nota 0
+    (zero) na avaliação.
 
 ---
 
