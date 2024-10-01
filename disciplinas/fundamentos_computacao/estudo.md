@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-16 11:44 -0300
+last_modified_date: 2024-10-01 16:37 -0300
 ---
 
 # Roteiro de estudo
@@ -158,7 +158,7 @@ last_modified_date: 2024-09-16 11:44 -0300
 
 ---
 
-**Estudo da 7ª Semana**<a id="re7sem"></a>
+**Estudo da 7ª Semana**<a id="re7sem"></a> (09/09 - 15/09)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
@@ -177,7 +177,7 @@ last_modified_date: 2024-09-16 11:44 -0300
 
 ---
 
-**Estudo da 8ª Semana**<a id="re8sem"></a>
+**Estudo da 8ª Semana**<a id="re8sem"></a> (16/09 - 22/09)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
   - [CR6.100B: Unidade 2](http://cmprz.me/cr6100bu2): estudar o seguinte:
@@ -190,30 +190,35 @@ last_modified_date: 2024-09-16 11:44 -0300
   - [CR6.100B: Parte 4: Conceitos
     avançados](https://www.youtube.com/watch?v=dWMx4503llQ)
 - **Atividades obrigatórias:**
-  - Diário 2: Programação (será liberado dia 18/09)
+  - [Diário 2: Programação](/assets/disciplinas/fundcomp/2024_2/diario_2.pdf)
+    (será liberado dia 18/09)
 
-
-<!--
 ---
 
-**Estudo da 8ª Semana**<a id="re8sem"></a>
+**Estudo da 9ª Semana**<a id="re9sem"></a> (23/09 - 29/09)
 {: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 3](http://cmprz.me/cr6100bu3)
-  - Blown to Bits: capítulo 1, seção 1.3 (pág. 20-23)
-- **Atividades obrigatórias:**
-  - [**Diário de Aprendizagem 3: C**](/assets/disciplinas/fundcomp/2024_1/diario_3.pdf)
+- **InovaWeek**: em virtude da realização do InovaWeek, não teremos atividades
+  acadêmicas em sala de aula (haverá uma atividade prática a ser entregue via
+  Portal do Aluno). Também não haverá laboratórios ou monitoria.
 
 ---
 
-**9ª Semana: AV1**<a id="re9sem"></a>
+**Estudo da 10ª Semana**<a id="re10sem"></a> (30/09 - 06/10)
+{: .label .label-reading }
+- **Revisão para Prova**: a "1ª Avaliação Bimestral" de nossa disciplina será
+  realizada na próxima semana e, portanto, nesta semana nossa aula será de
+  revisão de conteúdo e esclarecimento de dúvidas.
+
+---
+
+**11ª Semana: AV1**<a id="re11sem"></a> (07/10 - 13/10)
 {: .label .label-red }
 - **Avaliação Bimestral AV1:** esta semana é dedicada à realização da 1ª
   avaliação bimestral, a AV1, e, portanto, não há conteúdo novo a ser
-  estudado. O conteúdo da AV1 corresponde a toda a matéria das semanas 1 a 8, ou
-  seja, tudo o que foi visto no bimestre, incluindo:
-  - Diários de Aprendizagem (do Diário -1 até o Diário 3)
-  - Todo o conteúdo visto no CR6.100B (Home, Unidade 0 até Unidade 3)
+  estudado. O conteúdo da AV1 corresponde a toda a matéria das semanas 1 a 10,
+  ou seja, tudo o que foi visto no bimestre, incluindo:
+  - Diários de Aprendizagem (do Diário -1 até o Diário 2)
+  - Todo o conteúdo visto no CR6.100B (Home, Unidade 0 até Unidade 2)
   - Todo o conteúdo dos Exercícios, Laboratórios e PSETs do Autolab
   - Todo o capítulo 1 do Blown to Bits
   - Todo o material extra que os monitores apresentaram durante as monitorias
@@ -239,6 +244,7 @@ last_modified_date: 2024-09-16 11:44 -0300
 > disciplina, sem chance de discussão. Evite problemas: **entregue seu celular
 > desligado** no início da prova.
 
+<!--
 ---
 
 **Estudo da 10ª Semana**<a id="re10sem"></a>

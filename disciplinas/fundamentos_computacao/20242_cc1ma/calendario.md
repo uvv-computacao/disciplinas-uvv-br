@@ -366,7 +366,8 @@
       <td><a href="/disciplinas/fundamentos_computacao/estudo/#re8sem">8ª
           semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td>Diário 2: Programação</td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2024_2/diario_2.pdf">Diário 2:
+          Programação</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -406,8 +407,9 @@
     </tr>
     <tr>
       <th>Qui<br />26/9</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>InovaWeek</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re9sem">9ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -449,10 +451,12 @@
     </tr>
     <tr>
       <th>Qui<br />3/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Revisão para prova</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re10sem">10ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td>Devolução do Diário 1</td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -492,11 +496,12 @@
     </tr>
     <tr>
       <th>Qui<br />10/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Avaliação bimestral</b></td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re11sem">11ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Diário 2: programação</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Sex<br />11/10</th> <!-- Dia e Data -->
