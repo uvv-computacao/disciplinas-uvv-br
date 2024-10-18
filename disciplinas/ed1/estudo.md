@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-09-08 11:11 -0300
+last_modified_date: 2024-10-18 12:21 -0300
 ---
 
 # Roteiro de estudo
@@ -203,32 +203,116 @@ last_modified_date: 2024-09-08 11:11 -0300
   - [Códigos de aula e dos
     exercícios](/assets/disciplinas/ed1/capitulo06_codigos.rar)
 
+---
+
+**Estudo da 9ª Semana:**<a id="re9sem"></a> (23/09 -29/09)
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 7: Ordenação e Análise de
+    Algoritmos](/assets/disciplinas/ed1/capitulo07.pdf)
+- **Vídeos obrigatórios:**
+  - [Visualization and Comparison of Sorting
+    Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+  - [Visualization of 24 Sorting Algorithms In 2
+    Minutes](https://www.youtube.com/watch?v=BeoCbJPuvSE)
+  - [Sorting Algorithms Explained
+    Visually](https://www.youtube.com/watch?v=RfXt_qHDEPw)
+- **Leituras recomendadas:**
+  - Capítulo 7 do *Programming Abstractions in C*: ler o capítulo 7 todo!
+- **Vídeos recomendados:**
+  - [Every Sorting Algorithm Explained in 120 minutes (full
+    series)](https://www.youtube.com/watch?v=h1Bi0granxM)
+- **Exercícios:**
+  - (em breve)
+- **Recursos:**
+  - [Códigos de aula e dos
+    exercícios](/assets/disciplinas/ed1/capitulo07_codigos.rar)
+- **Observações:**
+  - Devido ao InovaWeek, não teremos aula na terça-feira. Cada aluno deve
+    realizar o trabalho do InovaWeek conforme estipulado no Portal do Aluno.
+
+---
+
+**10ª Semana: AV1**<a id="re11sem"></a> (30/09 - 06/10)
+{: .label .label-red }
+- **Avaliação Bimestral AV1:** esta semana é dedicada à realização da 1ª
+  avaliação bimestral, a AV1, e, portanto, não há conteúdo novo a ser
+  estudado. O conteúdo da AV1 corresponde a toda a matéria das semanas 1 a 9,
+  ou seja, tudo o que foi visto no bimestre.
+- A prova é totalmente **objetiva**, com 60 questões. A nota sai na hora.
+- Venha bem preparado! A prova é **extensa** e não é fácil!
+- Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
+  flagrados com qualquer tipo de cola terão a AV1 zerada imediatamente e serão
+  encaminhados para a coordenação para as medidas disciplinares conforme o
+  regimento da UVV.
+- O professor determinará o assento de cada aluno.
+
+{: .vermelho-title }
+> Os celulares serão recolhidos pelo professor!
+>
+> Antes do início da prova o professor **recolherá todos os celulares** de todos
+> os alunos, **sem exceções**. O aluno só receberá a prova mediante a entrega do
+> celular, desligado. Os celulares serão identificados e ficarão sob a posse do
+> professor durante a prova. Ao terminar e entregar a prova, o professor
+> devolverá o celular.
+>
+> Alunos que não entregarem o celular e forem flagrados utilizando o aparelho
+> para colar na prova, serão **REPROVADOS IMEDIATA E AUTOMATICAMENTE** na
+> disciplina, sem chance de discussão. Evite problemas: **entregue seu celular
+> desligado** no início da prova.
+
+---
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (07/10 - 13/10)
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 7: Ordenação e Análise de
+    Algoritmos](/assets/disciplinas/ed1/capitulo07.pdf)
+- **Vídeos obrigatórios:**
+  - [Visualization and Comparison of Sorting
+    Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+  - [Visualization of 24 Sorting Algorithms In 2
+    Minutes](https://www.youtube.com/watch?v=BeoCbJPuvSE)
+  - [Sorting Algorithms Explained
+    Visually](https://www.youtube.com/watch?v=RfXt_qHDEPw)
+- **Leituras recomendadas:**
+  - Capítulo 7 do *Programming Abstractions in C*: ler o capítulo 7 todo!
+- **Vídeos recomendados:**
+  - [Every Sorting Algorithm Explained in 120 minutes (full
+    series)](https://www.youtube.com/watch?v=h1Bi0granxM)
+- **Exercícios:**
+  - (em breve)
+- **Recursos:**
+  - [Códigos de aula e dos
+    exercícios](/assets/disciplinas/ed1/capitulo07_codigos.rar)
+
+---
+
+**Estudo da 12ª Semana**<a id="re12sem"></a> (14/10 - 20/10)
+{: .label .label-reading }
+- **NÃO HAVERÁ AULA:** em virtude do feriado do dia do professor, não haverá
+  aula e nenhum conteúdo a ser estudado nesta semana.
+
+---
+
+**Estudo da 13ª Semana**<a id="re13sem"></a> (21/10 - 27/10)
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 8: Tipos Abstratos de
+    Dados](/assets/disciplinas/ed1/capitulo08.pdf)
+- **Vídeos obrigatórios:**
+  - (em breve)
+- **Leituras recomendadas:**
+  - Capítulo 8 do *Programming Abstractions in C*: ler o capítulo 8 todo!
+- **Vídeos recomendados:**
+  - (em breve)
+- **Exercícios:**
+  - (em breve)
+- **Recursos:**
+  - [Códigos de aula e dos
+    exercícios](/assets/disciplinas/ed1/capitulo08_codigos.rar)
+    
 <!--
----
-
-**9ª Semana: AV1**<a id="re9sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 10ª Semana**<a id="re10sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 11ª Semana**<a id="re11sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 12ª Semana**<a id="re12sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 13ª Semana**<a id="re13sem"></a>
-{: .label .label-reading }
-
 ---
 
 **Estudo da 14ª Semana**<a id="re14sem"></a>
