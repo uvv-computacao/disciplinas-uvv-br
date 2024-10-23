@@ -307,11 +307,14 @@ last_modified_date: 2024-10-18 12:21 -0300
 - **Vídeos recomendados:**
   - (em breve)
 - **Exercícios:**
-  - (em breve)
+  - [Lista de Exercícios do Cap. 8](/assets/disciplinas/ed1/2024_2/lista08.pdf)
+    (atenção: este exercício fará parte da nota do segundo bimestre, e deverá
+    ser entregue no Portal do Aluno até o dia 05/11/2024, 23:59h).
 - **Recursos:**
   - [Códigos de aula e dos
     exercícios](/assets/disciplinas/ed1/capitulo08_codigos.rar)
-  - [Avançado: pilha genérica em C](/assets/disciplinas/ed1/stackTAD_generico.rar)
+  - [Avançado: pilha genérica em
+    C](/assets/disciplinas/ed1/stackTAD_generico.rar)
     
 <!--
 ---
