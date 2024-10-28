@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-10-01 16:37 -0300
+last_modified_date: 2024-10-28 13:00 -0300
 ---
 
 # Roteiro de estudo
@@ -244,27 +244,48 @@ last_modified_date: 2024-10-01 16:37 -0300
 > disciplina, sem chance de discussão. Evite problemas: **entregue seu celular
 > desligado** no início da prova.
 
+---
+
+**Estudo da 12ª Semana**<a id="re10sem"></a> (14/10 - 20/10)
+{: .label .label-reading }
+- **Feriado:** em virtude do feriado do dia dos professores, não há nenhuma
+  atividade programada para esta semana.
+
+---
+
+**Estudo da 13ª Semana**<a id="re11sem"></a> (21/10 - 27/10)
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Material de Estudo sobre Linguagem
+    C](/assets/disciplinas/fundcomp/2024_2/unidade3_c.pdf)
+- **Atividades obrigatórias:**
+  - [Diário de Aprendizagem 3: Linguagem
+    C](/assets/disciplinas/fundcomp/2024_2/diario_3.pdf)
+- **Atividades no Autolab:**
+  - Nesta semana você deverá fazer diversos exercícios e laboratórios de
+    programação, e também o PSET-1, sobre linguagem C. O prazo final para
+    a entrega de todas as atividades é dia 08/11/2024 23:59h. Acesse a
+    [página de atividades do Autolab](../autolab/#autolab3) para mais
+    informações.
+
+---
+
+**Estudo da 14ª Semana**<a id="re11sem"></a> (28/10 - 03/11)
+{: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Material de Estudo sobre Linguagem
+    C](/assets/disciplinas/fundcomp/2024_2/unidade3_c.pdf)
+- **Atividades obrigatórias:**
+  - [Diário de Aprendizagem 3: Linguagem
+    C](/assets/disciplinas/fundcomp/2024_2/diario_3.pdf)
+- **Atividades no Autolab:**
+  - Nesta semana você continuará a fazer diversos exercícios e laboratórios
+    de programação, e também o PSET-1, sobre linguagem C. O prazo final para
+    a entrega de todas as atividades é dia 08/11/2024 23:59h. Acesse a
+    [página de atividades do Autolab](../autolab/#autolab3) para mais
+    informações.
+
 <!--
----
-
-**Estudo da 10ª Semana**<a id="re10sem"></a>
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 4](http://cmprz.me/cr6100bu4)
-  - Blown to Bits: (a definir)
-- **Atividades obrigatórias:**
-  - Diário de Aprendizagem 4: Arrays
-
----
-
-**Estudo da 11ª Semana**<a id="re11sem"></a>
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 4](http://cmprz.me/cr6100bu4)
-  - Blown to Bits: (a definir)
-- **Atividades obrigatórias:**
-  - Diário de Aprendizagem 4: Arrays
-
 ---
 
 **Estudo da 12ª Semana**<a id="re12sem"></a>
