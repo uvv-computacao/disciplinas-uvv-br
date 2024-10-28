@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-10-18 12:21 -0300
+last_modified_date: 2024-10-28 15:55 -0300
 ---
 
 # Roteiro de estudo
@@ -316,12 +316,29 @@ last_modified_date: 2024-10-18 12:21 -0300
   - [Avançado: pilha genérica em
     C](/assets/disciplinas/ed1/stackTAD_generico.rar)
     
-<!--
+
 ---
 
-**Estudo da 14ª Semana**<a id="re14sem"></a>
+**Estudo da 14ª Semana**<a id="re14sem"></a> (28/10 - 03/11)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 9: Eficiência e
+    TADs](/assets/disciplinas/ed1/capitulo09.pdf)
+- **Vídeos obrigatórios:**
+  - (em breve)
+- **Leituras recomendadas:**
+  - Capítulo 9 do *Programming Abstractions in C*: ler o capítulo 9 todo!
+- **Vídeos recomendados:**
+  - (em breve)
+- **Exercícios:**
+  - [Lista de Exercícios do Cap. 9](/assets/disciplinas/ed1/2024_2/lista09.pdf)
+    (atenção: este exercício fará parte da nota do segundo bimestre, e deverá
+    ser entregue no Portal do Aluno até o dia 12/11/2024, 23:59h).
+- **Recursos:**
+  - [Códigos de aula e dos
+    exercícios](/assets/disciplinas/ed1/capitulo09_codigos.rar)
 
+<!--
 ---
 
 **Estudo da 15ª Semana**<a id="re15sem"></a>
