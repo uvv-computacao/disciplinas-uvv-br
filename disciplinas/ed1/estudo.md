@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-10-28 15:55 -0300
+last_modified_date: 2024-11-03 20:43 -0300
 ---
 
 # Roteiro de estudo
@@ -14,15 +14,20 @@ last_modified_date: 2024-10-28 15:55 -0300
 {: .label .label-reading }
 - **Vídeos obrigatórios:**
   - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
-  - [Motivação e diferenças com a CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
+  - [Motivação e diferenças com a
+    CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
   - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1: Revisão de C](/assets/disciplinas/ed1/capitulo01.pdf)
+  - [Notas de aula do Capítulo 1: Revisão de
+    C](/assets/disciplinas/ed1/capitulo01.pdf)
 - **Leituras recomendadas:**
   - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo 1 todo.
-  - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
-  - [UNIX/Linux Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
-  - [Linux Commands Cheat Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+  - [Compiler, Assembler, Linker and Loader: A Brief
+    Story](https://www.tenouk.com/ModuleW.html)
+  - [UNIX/Linux Tutorial for
+    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
+  - [Linux Commands Cheat
+    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
 - **Exercícios:**
   - [Lista de Exercícios n.º 1](/assets/disciplinas/ed1/2024_2/exercicio01.pdf)
 
@@ -31,14 +36,19 @@ last_modified_date: 2024-10-28 15:55 -0300
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }
 - **Vídeos obrigatórios:**
-  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+  - [Unidade 0: Introdução à
+    CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1: Revisão de C](/assets/disciplinas/ed1/capitulo01.pdf)
+  - [Notas de aula do Capítulo 1: Revisão de
+    C](/assets/disciplinas/ed1/capitulo01.pdf)
 - **Leituras recomendadas:**
   - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo 1 todo.
-  - [Compiler, Assembler, Linker and Loader: A Brief Story](https://www.tenouk.com/ModuleW.html)
-  - [UNIX/Linux Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
-  - [Linux Commands Cheat Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+  - [Compiler, Assembler, Linker and Loader: A Brief
+    Story](https://www.tenouk.com/ModuleW.html)
+  - [UNIX/Linux Tutorial for
+    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
+  - [Linux Commands Cheat
+    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
 - **Exercícios:**
   - [Lista de Exercícios n.º 1](/assets/disciplinas/ed1/2024_2/exercicio01.pdf)
 
@@ -47,19 +57,27 @@ last_modified_date: 2024-10-28 15:55 -0300
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 2: Tipos de dados em C](/assets/disciplinas/ed1/capitulo02.pdf)
-  - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
+  - [Notas de aula do Capítulo 2: Tipos de dados em
+    C](/assets/disciplinas/ed1/capitulo02.pdf)
+  - [Unidade 1: Fundamentos da
+    Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o
     download dos slides correspondentes a cada vídeo):
     - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
-    - [Parte 1: O que é ciência da computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
-    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
-    - [Parte 2, Anexo 1: Conversão entre bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
-    - [Parte 2, Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
-    - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
-    - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+    - [Parte 1: O que é ciência da
+      computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+    - [Parte 2: Representação de
+      dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+    - [Parte 2, Anexo 1: Conversão entre
+      bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+    - [Parte 2, Anexo 2: Outros
+      conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
+    - [Parte 2, Anexo 3: Binários
+      negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+    - [Parte 2, Anexo 4: Binários
+      fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
     - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
 - **Leituras recomendadas:**
   - Capítulo 2 do *Programming Abstractions in C*: ler o capítulo 2 todo.
@@ -71,14 +89,17 @@ last_modified_date: 2024-10-28 15:55 -0300
 **Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 2: Tipos de dados em C](/assets/disciplinas/ed1/capitulo02.pdf)
-  - [Unidade 1: Fundamentos da Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
+  - [Notas de aula do Capítulo 2: Tipos de dados em
+    C](/assets/disciplinas/ed1/capitulo02.pdf)
+  - [Unidade 1: Fundamentos da
+    Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
 - **Vídeos obrigatórios:**
   - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
     você consiga entender tudo; na página da CR6.100B você pode fazer o
     download dos slides correspondentes a cada vídeo):
     - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
-    - [Parte 4: Pensamento computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+    - [Parte 4: Pensamento
+      computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
     - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
 - **Leituras recomendadas:**
   - Capítulo 2 do *Programming Abstractions in C*: ler o capítulo 2 todo.
@@ -90,16 +111,18 @@ last_modified_date: 2024-10-28 15:55 -0300
 **Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 3: Bibliotecas e Inferfaces](/assets/disciplinas/ed1/capitulo03.pdf)
+  - [Notas de aula do Capítulo 3: Bibliotecas e
+    Inferfaces](/assets/disciplinas/ed1/capitulo03.pdf)
 - **Vídeos obrigatórios:**
-  - [Fundamentos da Programação, Parte 1: Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA)
+  - [Fundamentos da Programação, Parte 1:
+    Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA)
     (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
     mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
     conceitos avançados de programação que serão vistos posteriormente)
 - **Leituras recomendadas:**
   - Capítulo 3 do *Programming Abstractions in C*: ler o capítulo 3 todo
-    (você pode pular a seção 3.4 e a seção 3.5, que serão vistas posteriormente; se quiser
-    se adiantar, leia também essas seções)
+    (você pode pular a seção 3.4 e a seção 3.5, que serão vistas posteriormente;
+    se quiser se adiantar, leia também essas seções)
 - **Vídeos recomendados:**
   - (nada nesta semana)
 - **Exercícios:**
@@ -134,7 +157,8 @@ last_modified_date: 2024-10-28 15:55 -0300
   - [Heartbleed, Running the Code](https://www.youtube.com/watch?v=1dOCHwf8zVQ)
 - **Exercícios:**
   - [Lista de Exercícios do Cap. 4](/assets/disciplinas/ed1/2024_2/lista04.pdf)
-  - [Lista de Exercícios Preparatórios para o Cap. 5](/assets/disciplinas/ed1/2024_2/lista04_05.pdf)
+  - [Lista de Exercícios Preparatórios para o
+    Cap. 5](/assets/disciplinas/ed1/2024_2/lista04_05.pdf)
 
 ---
 
@@ -338,12 +362,29 @@ last_modified_date: 2024-10-28 15:55 -0300
   - [Códigos de aula e dos
     exercícios](/assets/disciplinas/ed1/capitulo09_codigos.rar)
 
-<!--
 ---
 
-**Estudo da 15ª Semana**<a id="re15sem"></a>
+**Estudo da 15ª Semana**<a id="re15sem"></a> (04/11 - 10/11)
 {: .label .label-reading }
+- **Leituras obrigatórias:**
+  - [Notas de aula do Capítulo 10: Estruturas
+    Lineares](/assets/disciplinas/ed1/capitulo10.pdf)
+- **Vídeos obrigatórios:**
+  - (em breve)
+- **Leituras recomendadas:**
+  - Capítulo 10 do *Programming Abstractions in C*: ler o capítulo 10, seções:
+    introdução, 10.1 e 10.2 (não precisa ler da seção 10.3 em diante).
+- **Vídeos recomendados:**
+  - (em breve)
+- **Exercícios:**
+  - [Lista de Exercícios do Cap. 10](/assets/disciplinas/ed1/2024_2/lista10.pdf)
+    (atenção: este exercício fará parte da nota do segundo bimestre, e deverá
+    ser entregue no Portal do Aluno até o dia 18/11/2024, 23:59h).
+- **Recursos:**
+  - [Códigos de aula e dos
+    exercícios](/assets/disciplinas/ed1/capitulo10_codigos.rar)
 
+<!--
 ---
 
 **Estudo da 16ª Semana**<a id="re16sem"></a>
