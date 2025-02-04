@@ -1,11 +1,12 @@
 source "https://rubygems.org"
 
 # Versão do Jekyll a ser executada:
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.4.1"
+#gem "jekyll", "~> 4.3.2"
 
 # Temas disponíveis para serem utilizados:
 #gem "minima", "~> 2.5"
-gem "just-the-docs", "0.8.2"
+gem "just-the-docs", "0.10.1"
 
 # Plugins a serem ativados:
 group :jekyll_plugins do
@@ -34,7 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Usa a gem webrick para poder usar o servidor local
 # durante o desenvolvimento:
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.9"
 
 # Usar o CodeRay syntax highlighter com o Kramdown:
 gem "kramdown-syntax-coderay", "~> 1.0"
