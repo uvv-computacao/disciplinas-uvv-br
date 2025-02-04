@@ -5,23 +5,41 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 20
 has_children: false
-last_modified_date: 2024-11-03 20:43 -0300
+last_modified_date: 2025-02-04 16:25 -0300
 ---
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
+**Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
 {: .label .label-reading }
+
+Nesta semana faremos apenas uma avaliação diagnóstica inicial e a aula inaugural
+da disciplina.
+
+Para se preparar para a próxima semana, quando começaremos o conteúdo, você deve
+aprender a utilizar **Makefiles** para automatizar a compilação de programas em
+C. Assista aos vídeos obrigatórios listados. Você também deve ler o material
+obrigatório listado. O objetivo desse estudo inicial é você aprenda, *por conta
+própria* a utilizar Makefiles (e o comando `make`) para automatizar a compilação
+de programas. Você não precisa aprender as funcionalidades mais avançadas e
+difíceis agora, mas você deve ser capaz de criar e utilizar Makefiles para
+compilar, recompilar e construir seus programas em C.
+
+Também há algumas leituras não obrigatórias, mas recomendadas, a respeito de
+compiladores, montadores e outros tópicos importantes. Além disso, se você não
+tem facilidade com o uso de Linux, também há um tutorial recomendado para
+iniciantes em UNIX/Linux (e uma folha de consulta rápida de comandos).
+
 - **Vídeos obrigatórios:**
-  - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
-  - [Motivação e diferenças com a
-    CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
-  - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
+  - [C Programming: Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
+  - [Makefiles: 95% of what you need to
+    know](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
+  - [Makefile
+    Tutorials](https://www.youtube.com/playlist?list=PLNmACol6lYY7Dzvg7jKgvMdDaDEDFnNqD)
 - **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1: Revisão de
-    C](/assets/disciplinas/ed1/capitulo01.pdf)
+  - [Introdução ao Makefile](https://embarcados.com.br/introducao-ao-makefile/)
+  - [Makefile Tutorial](https://makefiletutorial.com/)
 - **Leituras recomendadas:**
-  - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo 1 todo.
   - [Compiler, Assembler, Linker and Loader: A Brief
     Story](https://www.tenouk.com/ModuleW.html)
   - [UNIX/Linux Tutorial for
@@ -29,8 +47,15 @@ last_modified_date: 2024-11-03 20:43 -0300
   - [Linux Commands Cheat
     Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
 - **Exercícios:**
-  - [Lista de Exercícios n.º 1](/assets/disciplinas/ed1/2024_2/exercicio01.pdf)
+  - (nada por enquanto)
+- **Outras atividades:**
+  - Comece a preparar o ambiente para o conteúdo que começa na próxima
+    semana. Você deve ter um computador Linux (ou uma máquina virtual Linux em
+    um computador Windows). Se você utiliza Mac, pode instalar as ferramentas
+    diretamente (é trabalhoso, mas possível). Em breve o professor
+    disponibilizará uma máquina virtual Linux para os alunos.
 
+<!--
 ---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
@@ -411,5 +436,6 @@ last_modified_date: 2024-11-03 20:43 -0300
 {: .label .label-reading }
 
 -->
+
 ---
 **Notas:**

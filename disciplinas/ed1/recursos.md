@@ -5,6 +5,7 @@ nav_exclude: false
 parent: Estrutura de Dados I
 nav_order: 30
 has_children: false
+last_modified_date: 2025-02-04 16:25 -0300
 ---
 
 # Recursos diversos
@@ -75,6 +76,21 @@ Esta disciplina utilizará os seguintes livros:
          utilizado diretamente, mas servirá para consulta e referência. O texto tem um
          enfoque mais matemático e baseado em provas, e os algoritmos são descritos em
          pseudocódigo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><img src="/assets/disciplinas/ed1/feofiloff1.jpg"
+              alt="Introduction to Algorithms"
+              style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+         Livro de consulta 3: <b>Algoritmos em Linguagem C</b>, de Paulo
+         Feofiloff, publicado pela Elsevier, 2009 (1ª edição). Também não será
+         utilizado diretamente, mas servirá para consulta e referência. Discute
+         algoritmos para alguns problemas básicos de computação bem como as
+         correspondentes estruturas de dados. Dá grande destaque aos algoritmos
+         recursivos, documentação e elegância do código. Uma <a target="_blank"
+         href="https://www.ime.usp.br/~pf/algoritmos-livro/">versão gratuita em
+         PDF pode ser obtida diretamente no site do autor</a>.</p>
     </td>
   </tr>
   <tr>
