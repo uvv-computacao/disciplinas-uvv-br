@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Avisos
-nav_exclude: false
-nav_order: 9
 grand_parent: NOME-DA-DISCIPLINA
 parent: NOME-DA-TURMA
+nav_exclude: false
+nav_order: 9
+has_toc: false
 has_children: false
+last_modified_date: 2023-12-20 10:27 -0300
 ---
 
 # Histórico de avisos: turma xxxx

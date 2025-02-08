@@ -42,11 +42,13 @@ last_modified_date: 2025-02-05 07:39 -0300
   Jack](/assets/arduino/apostila_eletrogate_10_arduino_big_jack.pdf)
 * [Eletrogate: Arduino
   Kids](/assets/arduino/apostila_eletrogate_11_arduino_kids.pdf)
+* [FilipeFlop: Guia Arduino para
+  Iniciantes](/assets/arduino/guia_arduino_iniciantes.pdf)
 * [Multilógica: Arduino Guia
   Iniciante](/assets/arduino/arduino_guia_iniciante_multilogica_Shop.pdf)
 * [Hack.ATOMIC: Arduino](/assets/arduino/hack_atomic_arduino.pdf)
 
-## Apostilas e livros sobre Internet das Coisas
+## Apostilas sobre Internet das Coisas
 * [Entendendo a Internet das
   Coisas](/assets/disciplinas/iot/livros/entendendo_iot.pdf)
 * [A Internet das Coisas](/assets/disciplinas/iot/livros/a_iot.pdf)

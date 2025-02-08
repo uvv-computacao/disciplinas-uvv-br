@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Horário semanal
-nav_exclude: false
-nav_order: 8
 grand_parent: NOME-DA-DISCIPLINA
 parent: NOME-DA-TURMA
+nav_exclude: false
+nav_order: 8
+has_toc: false
 has_children: false
+last_modified_date: 2023-12-20 10:27 -0300
 ---
 
 # Horário semanal

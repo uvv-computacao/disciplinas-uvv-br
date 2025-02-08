@@ -31,13 +31,16 @@ si na Internet e em outras redes. Estude e faça os exercícios listados abaixo.
     Coisas**" e estude o *Capítulo 1: Para entender a Internet das Coisas*
     (páginas 19 a 28)
 - **Exercícios:**
-  - [Exercício 1](/assets/disciplinas/iot/exercicios/exercicio01.pdf): este é o
+  - [Exercício 0](/assets/disciplinas/iot/2025_1/exercicio00.pdf): este é o
     exercício que foi distribuído para todos os alunos que participaram da
     recepção dos calouros, no anfiteatro da UVV. Você deve ler o exercício,
     seguir as instruções e entregar as respostas em um papel almaço, de forma
     manuscrita, na aula de 10/02/2025.
-  - Exercício 2: verifique o que você entendeu dos vídeos e leituras
-    obrigatórias desta semana. (SERÁ DISPONIBILIZADO EM BREVE)
+  - [Exercício 1](/assets/disciplinas/iot/2025_1/exercicio01.pdf): verifique
+    o que você entendeu dos vídeos e leituras obrigatórias desta semana! Você
+    deve assistir aos vídeos e fazer as leituras dessa semana e, depois,
+    responder este exercício. Verifique a data de entrega no calendário de sua
+    turma.
 
 <!--
 ---

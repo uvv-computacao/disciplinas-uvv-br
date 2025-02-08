@@ -4,6 +4,7 @@
  * Abrantes Araújo Silva Filho
  */
 #define _XOPEN_SOURCE
+#include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -13,6 +14,7 @@
 #define INICIO "2025-02-02 00:00:00"    /* Início em um DOMINGO */
 #define FIM    "2025-07-05 00:00:00"    /* Final em um SÁBADO */
 char diames[6];                         /* Armazenará string com dd/mm */
+bool autolab = false;                   /* Inclui coluna para Autolab */
 
 /* PROTÓTIPOS DOS SUBPROGRAMAS */
 long soma_dias(int dias);
@@ -63,7 +65,8 @@ int main(void)
     printf("      <th>Data</th>\n");
     printf("      <th>Aula</th>\n");
     printf("      <th>Estudo</th>\n");
-    printf("      <th>Autolab</th>\n");
+    if (autolab)
+        printf("      <th>Autolab</th>\n");
     printf("      <th><i>Hand out</i></th>\n");
     printf("      <th><i>Hand in</i></th>\n");
     printf("    </tr>\n");
@@ -85,7 +88,8 @@ int main(void)
 		printf("      <th>%s<br />%s</th> <!-- Dia e Data -->\n", dia_da_semana(atual), diames);
 		printf("      <td></td> <!-- Aula -->\n");
 		printf("      <td></td> <!-- Estudo -->\n");
-		printf("      <td></td> <!-- Autolab -->\n");
+                if (autolab)
+		    printf("      <td></td> <!-- Autolab -->\n");
 		printf("      <td></td> <!-- Hand out -->\n");
 		printf("      <td></td> <!-- Hand in -->\n");
 		printf("    </tr>\n");
@@ -96,7 +100,8 @@ int main(void)
                 printf("      <th>%s<br />%s</th> <!-- Dia e Data -->\n", dia_da_semana(atual), diames);
                 printf("      <td></td> <!-- Aula -->\n");
                 printf("      <td></td> <!-- Estudo -->\n");
-                printf("      <td></td> <!-- Autolab -->\n");
+                if (autolab)
+                    printf("      <td></td> <!-- Autolab -->\n");
                 printf("      <td></td> <!-- Hand out -->\n");
                 printf("      <td></td> <!-- Hand in -->\n");
                 printf("    </tr>\n");
