@@ -13,6 +13,11 @@ last_modified_date: 2025-02-07 14:35 -0300
 **Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
 {: .label .label-reading }
 
+Na aula desta semana faremos uma apresentação da disciplina para detalhar os
+objetivos, dinâmica, grau de dificuldade, critérios de avaliação e notas, método
+de estudo, atividades no Autolab e muito mais. Estude e faça o que se pede
+abaixo:
+
 - **Leituras obrigatórias:**
   - [Home da disciplina](/disciplinas/fundamentos_computacao/)
   - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
