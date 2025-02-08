@@ -8420,6 +8420,9 @@ blockquote.vermelho-title > p:last-child {
   user-select: none;
 }
 
+.announcement {
+  background-color: #fef9e7;
+}
 .main-content .module h1:first-child,
 .main-content .module h2:first-child,
 .main-content .module h3:first-child,

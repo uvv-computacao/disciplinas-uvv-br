@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 150
 has_children: true
 has_toc: false
-last_modified_date: 2023-12-20 10:27 -0300
+last_modified_date: 2025-02-07 10:12 -0300
 ---
 
 # Fundamentos da Computação
@@ -13,12 +13,12 @@ last_modified_date: 2023-12-20 10:27 -0300
 Aprenda a projetar e implementar soluções para resolver problemas!
 {: .fs-6 .fw-300 }
 
-Bem-vindo! Esta é a disciplina **Fundamentos da Computação**, uma introdução aos
-desafios intelectuais da computação e da arte da programação, para alunos da
-área de tecnologia (ciência da computação, sistemas de informação etc.) ou não
-(medicina, psicologia, arquitetura, direito etc.). Na realidade os alunos não
-precisam ter nenhuma experiência prévia com computação ou programação, além de
-saber usar um computador para atividades cotidianas como mandar um e-mail,
+Bem-vindo! Esta é a disciplina **Fundamentos da Computação**, uma *introdução
+aos desafios intelectuais da computação e da arte da programação*, para alunos
+da área de tecnologia (ciência da computação, sistemas de informação etc.) ou
+não (medicina, psicologia, arquitetura, direito etc.). Na realidade os alunos
+não precisam ter nenhuma experiência prévia com computação ou programação, além
+de saber usar um computador para atividades cotidianas como mandar um e-mail,
 escrever um documento ou visitar sites na Internet.
 
 Este curso ensinará **como projetar e implementar soluções para resolver

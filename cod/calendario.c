@@ -10,8 +10,8 @@
 #include <time.h>
 
 /* DEFINIÇÕES E VARIÁVEIS GLOBAIS */
-#define INICIO "2024-07-28 00:00:00"    /* Início em um DOMINGO */
-#define FIM    "2024-11-30 00:00:00"    /* Final em um SÁBADO */
+#define INICIO "2025-02-02 00:00:00"    /* Início em um DOMINGO */
+#define FIM    "2025-07-05 00:00:00"    /* Final em um SÁBADO */
 char diames[6];                         /* Armazenará string com dd/mm */
 
 /* PROTÓTIPOS DOS SUBPROGRAMAS */

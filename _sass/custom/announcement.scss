@@ -1,5 +1,6 @@
 .announcement {
   @extend %card;
+  background-color: #fef9e7;
 
   h1, h2 {
     @extend .text-gamma;

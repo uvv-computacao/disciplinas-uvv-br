@@ -20,7 +20,7 @@ has_children: false
 * [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
 
 ## Calendário acadêmico
-* [Calendário acadêmico oficial 2024](/assets/docs/calendario_oficial_2024.pdf)
+* [Calendário acadêmico oficial 2025](/assets/docs/calendario_oficial_2025.pdf)
 
 ## Livros
 * [Blown to Bits](/assets/docs/blown_to_bits_2e.pdf) (original em inglês)

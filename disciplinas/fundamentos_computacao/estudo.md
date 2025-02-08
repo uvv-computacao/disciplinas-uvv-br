@@ -5,32 +5,26 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2024-10-28 13:00 -0300
+last_modified_date: 2025-02-07 14:35 -0300
 ---
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
+**Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
   - [Home da disciplina](/disciplinas/fundamentos_computacao/)
   - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
   - [CR6.100B: Home](http://cmprz.me/cr6100bhome)
-  - Blown to Bits: prefácio (pág. vii-viii) (a numeração refere-se à versão
-    traduzida em Português que está na página de recursos)
 - **Atividades obrigatórias:**
-  - Responda ao [questionário inicial da
-    disciplina](https://disciplinas.uvv.br/pesquisas/), e escolha a data de sua
-    monitoria vespertina opcional (a opção de monitoria no sábado pela manhã
-    depende da quantidade de alunos interessados; não se esqueça de que a
-    monitoria vale até 1 ponto extra na nota, 0,5 por bimestre)
   - Imprima e responda o **[Diário de Aprendizagem -1:
-    Apresentação](/assets/disciplinas/fundcomp/2024_2/diario_-1.pdf)**
+    Apresentação](/assets/disciplinas/fundcomp/2025_1/diario_-1.pdf)**
     (verifique a data de entrega no calendário de sua turma)
 - **Outras atividades:**
   - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
 
+<!--
 ---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
@@ -459,7 +453,7 @@ last_modified_date: 2024-10-28 13:00 -0300
 
 (sem leituras, curso não iniciado)
 
+-->
+
 ---
 **Notas:**
-
--->

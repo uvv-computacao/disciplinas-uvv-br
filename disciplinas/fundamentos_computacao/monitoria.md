@@ -6,7 +6,7 @@ has_children: false
 has_toc: false
 nav_exclude: false
 nav_order: 27
-last_modified_date: 2024-10-01 17:39-0300
+last_modified_date: 2025-02-07 14:40-0300
 ---
 
 # Previsão das monitorias e laboratórios
@@ -16,10 +16,13 @@ de **monitoria** e de **laboratório**, bem como uma breve descrição do que se
 feito em cada uma dessas atividades. O nome do monitor responsável está
 indicado. Bons estudos!
 
+(em breve!)
+
+<!--
 {% assign monitorias = site.monitorias
      | where: "disciplina", "fundcomp"
      | where: "semestre", "20242" %}
 {% for monitoria in monitorias %}
 {{ monitoria }}
 {% endfor %}
-
+-->
