@@ -26,9 +26,9 @@ sistemas computacionais e ensinar a você as maneiras concretas através das qua
 esses conceitos afetam a corretude, performance e utilidade de seus programas.
 
 Se você se dedicar com afinco e estudar bastante, após aprender os conceitos
-nesta disciplina você estará no caminho correto para se tornar aquele raro
-programador avançado que sabe como as coisas funcionam e como consertá-las caso
-elas se quebrem. Em especial, você será capaz de escrever programas que:
+nesta disciplina você estará no caminho correto para se tornar aquele **raro
+programador avançado** que sabe como as coisas funcionam e como consertá-las
+caso elas se quebrem. Em especial, você será capaz de escrever programas que:
 
 * Fazem melhor uso das capacidades e funcionalidades oferecidas pelo hardware e
   pelo sistema operacional

@@ -4,6 +4,8 @@
  * Abrantes Araújo Silva Filho
  */
 #define _XOPEN_SOURCE
+#include <CRpaic.h>
+#include <ctype.h>
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -14,7 +16,6 @@
 #define INICIO "2025-02-02 00:00:00"    /* Início em um DOMINGO */
 #define FIM    "2025-07-05 00:00:00"    /* Final em um SÁBADO */
 char diames[6];                         /* Armazenará string com dd/mm */
-bool autolab = false;                   /* Inclui coluna para Autolab */
 
 /* PROTÓTIPOS DOS SUBPROGRAMAS */
 long soma_dias(int dias);
@@ -27,6 +28,16 @@ int main(void)
     struct tm inicio;
     struct tm fim;
     struct tm *atual = NULL;
+
+    bool autolab;
+    char c_autolab;
+    do
+    {
+        c_autolab = get_char("Usará o Autolab (s/n)? ");
+        c_autolab = tolower(c_autolab);
+    }
+    while (c_autolab != 's' && c_autolab != 'n');
+    autolab = (c_autolab == 's') ? true : false;
 
     memset(&inicio, 0, sizeof(struct tm));
     memset(&fim, 0, sizeof(struct tm));

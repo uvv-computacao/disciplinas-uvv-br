@@ -1,17 +1,62 @@
 ---
 layout: page
 title: Roteiro de estudo
-nav_exclude: false
+grand_parent:
 parent: Arq. de Computadores I
+nav_exclude: false
 nav_order: 20
+has_toc: false
 has_children: false
-last_modified_date: 2024-10-30 08:51 -0300
+last_modified_date: 2025-02-06 23:36 -0300
 ---
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
+**Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
 {: .label .label-reading }
+Nesta semana continuaremos nosso estudo sobre a representação de dados no
+computador, começando com representação textual (ASCII e Unicode), cores,
+imagens, áudio e vídeo. Depois faremos um estudo aprofundado da representação
+numérica: conversão entre bases, conceitos importantes, números negativos,
+números fracionários e BCD.
+
+- **Vídeos obrigatórios:**
+  - [Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+  - [Conversão entre bases
+    numéricas](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+  - [Conceitos fundamentais sobre representação
+    numérica](https://www.youtube.com/watch?v=MxdbxybOlmE)
+  - [Representação de inteiros negativos em
+    binário](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+  - [Representação de números fracionários em
+    binário](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+  - [BCD e expansão do sinal](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+- **Leituras obrigatórias:**
+  - No site da [CR6.100B](https://www.computacaoraiz.com.br/cr6100b/) você pode
+    fazer o download de todos os slides do material dos vídeos obrigatórios
+    listados acima. Faça o download e estude esse material.
+- **Leituras recomendadas:**
+  - CSAPP: ler o "*Chapter 2: Representing and Manipulating Information*"
+  - CSAPP Web Asides:
+    - [DATA:BOOL](http://csapp.cs.cmu.edu/3e/waside/waside-boolean.pdf):
+      *Boolean algebra and Boolean rings*
+    - [DATA:TMIN](http://csapp.cs.cmu.edu/3e/waside/waside-tmin.pdf): *Writing
+      TMin in C*
+    - [DATA:TNEG](http://csapp.cs.cmu.edu/3e/waside/waside-tneg.pdf): *Bit-level
+      representation of two's complement negation*
+- **Exercícios:**
+  - (em breve)
+- **Outras atividades:**
+  - (em breve)
+
+
+**Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
+{: .label .label-reading }
+Nesta semana começaremos uma rápida revisão sobre computação em geral (e ciência
+da computação em particular). Faremos uma revisão sobre conhecimento declarativo
+e imperativo, o papel a ciência da computação e começaremos a aprender como
+representar dados no computador (números, texto, sons, imagens, vídeos, etc).
+
 - **Vídeos obrigatórios:**
   - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
   - [Motivação e diferenças com a
@@ -19,24 +64,33 @@ last_modified_date: 2024-10-30 08:51 -0300
   - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
   - [Unidade 0: Introdução à
     CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+  - [Unidade 1: Computação - Parte 0: visão
+    geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+  - [Unidade 1: Computação - Parte 1: representação de
+    dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
 - **Leituras obrigatórias:**
-  - [Notas de aula: revisão de C](/assets/disciplinas/arqcomp1/capitulo01.pdf)
-    (Capítulo 1 do livro Programming Abstractions in C)
+  - No site da [CR6.100B](https://www.computacaoraiz.com.br/cr6100b/) você pode
+    fazer o download de todos os slides do material dos vídeos obrigatórios
+    listados acima. Faça o download e estude esse material.
 - **Leituras recomendadas:**
-  - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): este
-    arquivo é o PDF do "Anexo C" do livro *Digital Design and Computer
-    Architecture* (também [disponível
-    online](https://booksite.elsevier.com/9780128000564/index.php))
+  - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): se
+    você não tem uma boa base na linguagem C ou se precisa de uma revisão
+    rápida, este arquivo é o PDF do "Anexo C" do livro *Digital Design and
+    Computer Architecture* (também [disponível
+    online](https://booksite.elsevier.com/9780128000564/index.php)). Estude esse
+    material para aprender/revisar programação C.
 - **Leituras adicionais sugeridas:**
   - [Compiler, Assembler, Linker and Loader: A Brief
     Story](https://www.tenouk.com/ModuleW.html)
   - [UNIX/Linux Tutorial for
     Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/) 
   - [Linux Commands Cheat
-    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/) 
+    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+  - [C Reference](https://en.cppreference.com/w/c)
   - [C Programming
-    Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html) 
+    Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
 
+<!--
 ---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
@@ -388,7 +442,7 @@ last_modified_date: 2024-10-30 08:51 -0300
 **20ª Semana: AV2**<a id="re20sem"></a>
 {: .label .label-reading }
 
+-->
+
 ---
 **Notas:**
-
--->

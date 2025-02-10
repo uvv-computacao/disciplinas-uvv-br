@@ -37,5 +37,13 @@ oneliner da disciplina.
 </div>
 
 ## Calendário previsto
+- Este é o calendário previsto para o semestre e pode sofrer algumas variações e
+  ajustes em virtude de situações que fogem ao nosso controle. Visite sempre
+  esta página para ficar atualizado;
+- *Hand out*: aquilo que nós entregamos para você;
+- *Hand in*: aquilo que você entrega para nós (professor e/ou monitores e/ou
+  Autolab); e
+- **As datas de hand in são rígidas**, não atrase as entregas para não sofrer
+  penalidades na nota!
 
 {% include_relative calendario.md %}

@@ -11,11 +11,81 @@ last_modified_date: 2024-09-04 09:03 -0300
 # Recursos diversos
 {:.no_toc}
 
-## Sumário (em ordem alfabética)
+## Sumário
 {: .no_toc .text-delta }
 
 * TOC
 {:toc}
+
+## Livros de estudo e de referência
+Esta disciplina utilizará os seguintes livros:
+
+<table>
+  <tr>
+    <td>
+      <p><img src="/assets/disciplinas/arqcomp1/livros/csapp3ed.jpg"
+             alt="Computer Systems: A Programmer's Perspective"
+             style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+             Livro texto de referência: <b>Computer Systems: A Programmer's
+             Perspective</b>, de Randal E. Bryant e David
+             R. O'Hallaron. Usaremos a 3ª edição do livro, publicada em 2016,
+             pela editora Pearson. Este é um dos melhores livros disponíveis
+             para o estudo de sistemas computacionais a partir da perspectiva do
+             programador, ou seja: é um estudo da arquitetura de hardware e
+             software visando tornar uma pessoa um programador melhor: se você
+             sabe como o "motor" funciona, saberá o que está errado e como
+             consertar. Este é um livro indispensável em sua biblioteca, quer
+             você trabalhe com hardware, software ou áreas de gestão: se você
+             trabalha em alguma área da computação tem muito a ganhar com este
+             livro. Não é uma leitura fácil, mas é fantástica.
+             ATENÇÃO: não utilize edições antigas (1ª ou 2ª edições) pois
+             nossa disciplina seguirá muito de perto o conteúdo e exercícios da
+             3ª edição. Também não compre as edições identificadas como "Global
+             Edition", "Indian Edition", "International Edition" ou outra edição
+             estranha: utilize a edição americana original com ISBN
+             978-0-13-409266-9. Você pode comprar na <a
+  href="https://www.amazon.com.br/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X">Amazon
+             Brasileira</a> ou na <a
+  href="https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X">Amazon
+  Americana</a>. Você pode encontrar diversos outros materiais de referência e
+             estudo no site oficial do livro: <a
+             href="https://csapp.cs.cmu.edu/">https://csapp.cs.cmu.edu</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><img src="/assets/disciplinas/arqcomp1/livros/KeR2ed.jpg"
+              alt="The C Programming Language"
+              style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+         Livro de consulta: <b>The C Programming Language</b>, de Brian
+         W. Kernighan e Dennis M. Ritchie, 2ª edição, publicado pela Pearson
+         em 1988. É uma apresentação completa, detalhada e sucinta da ANSI C,
+         escrito pelos próprios criadores da linguagem. Independentemente de seu
+         conhecimento prévio em programação, considere o K&R (como é
+         popularmente conhecido) um livro indispensável em sua biblioteca
+         pessoal. Já está um pouco desatualizado em relação aos padrões mais
+         novos da linguagem C mas ainda é considerado uma das melhores
+         referências disponíveis para o aprendizado dessa linguagem. Caso você
+         não tenha familiaridade com programação C, deve estudar este livro ao
+         mesmo tempo em que estuda o conteúdo desta disciplina.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><img src="/assets/disciplinas/arqcomp1/livros/tlpi.jpg"
+              alt="The Linux Programming Interface"
+              style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+         Livro de consulta: <b>The Linux Programming Interface: a Linux and UNIX
+         System Programming Handbook</b>, de Michael Kerrisk, publicado pela
+         No Starch Press em 2010 (1ª edição). É "o" guia essencial de
+         programação de sistemas Linux, escrito pelo principal mantenedor (e
+         autor) das *Linux man pages*. Claro, autoritativo e
+         enciclopédico. Inclui coisas como I/O de arquivos, processos, sinais,
+         tempo, threads, bibliotecas compartilhadas, IPC, sincronização e
+         soquetes. Um ótimo livro de consulta.</p>
+    </td>
+  </tr>
+</table>
 
 ## Apostilas sobre Arduino
 * [Curso básico de Arduino](/assets/arduino/apostila_curso_basico_de_arduino.pdf)
@@ -50,7 +120,7 @@ last_modified_date: 2024-09-04 09:03 -0300
     engenheiro da Atari)
 
 ## Calendário acadêmico
-* [Calendário acadêmico oficial 2024](/assets/docs/calendario_oficial_2024.pdf)
+* [Calendário acadêmico oficial 2025](/assets/docs/calendario_oficial_2025.pdf)
 
 ## Componentes eletrônicos
 * [Tabela de cores de
