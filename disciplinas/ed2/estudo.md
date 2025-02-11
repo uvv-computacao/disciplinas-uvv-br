@@ -1,14 +1,60 @@
 ---
 layout: page
 title: Roteiro de estudo
-nav_exclude: false
+grand_parent:
 parent: Estrutura de Dados II
+nav_exclude: false
 nav_order: 20
+has_toc: false
 has_children: false
-last_modified_date: 2025-02-04 16:25 -0300
+last_modified_date: 2025-02-10 12:38 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
+{: .label .label-reading }
+
+Esta semana nos dedicaremos a fazer uma rápida revisão sobre os aspectos mais
+importantes da linguagem C. Em especial, veremos: linguagens de alto e baixo
+nível, processo de compilação, a estrutura de um programa em C, variáveis,
+valores e tipos, expressões e regras de precedência e associatividade, sentenças
+de comando e sentenças de controle, e subprogramas (funções, procedimentos e
+predicados). Você fará a primeira listagem de exercícios, contendo questões
+teóricas e questões de programação.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 1: An Overview of C"*. Ler o
+    capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo
+    1](/assets/disciplinas/ed1/2025_1/capitulo01.pdf). Este é o material
+    utilizado em sala de aula.
+  - [Como documentar um
+    programa](https://www.ime.usp.br/~pf/algoritmos/aulas/docu.html): aprenda a
+    documentar corretamente um programa em C, explicando **o que** um
+    subprograma faz, não **como** ele faz. Também disponível [em
+    PDF](/assets/disciplinas/ed1/documentacao.pdf).
+- **Leituras recomendadas:**
+  - [C Programming](/assets/disciplinas/ed1/c_programming.pdf) (PDF): este
+    arquivo é o PDF do "Anexo C" do livro _Digital Design and Computer
+    Architecture_ (também <a
+    href="https://booksite.elsevier.com/9780128000564/index.php">disponível
+    online</a>). Estude este material de você precisa de uma revisão mais
+    detalhada da linguagem C.
+- **Códigos:**
+  - [Códigos do Capítulo 1](/assets/disciplinas/ed1/2025_1/cod_cap01.zip)
+    (ZIP). Estude os códigos de exemplo deste capítulo. Em especial note como o
+    código está formatado e documentado. Aprenda também como a `Makefile` está
+    configurada para fazer o build do programa.
+- **Exercícios:**
+  - [Lista de Exercícios n.º
+    1](/assets/disciplinas/ed1/2025_1/exercicio01.pdf). As questões discursivas
+    devem ser respondidas de forma **manuscrita** em papel almaço. As questões
+    de programação serão entregues no
+    [Autolab](https://autolab.computacaoraiz.com.br) (o professor explicará
+    posteriormente como fazer essa entrega).
+
+---
 
 **Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
 {: .label .label-reading }
@@ -56,27 +102,6 @@ iniciantes em UNIX/Linux (e uma folha de consulta rápida de comandos).
     disponibilizará uma máquina virtual Linux para os alunos.
 
 <!--
----
-
-**Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
-{: .label .label-reading }
-- **Vídeos obrigatórios:**
-  - [Unidade 0: Introdução à
-    CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 1: Revisão de
-    C](/assets/disciplinas/ed1/capitulo01.pdf)
-- **Leituras recomendadas:**
-  - Capítulo 1 do *Programming Abstractions in C*: ler o capítulo 1 todo.
-  - [Compiler, Assembler, Linker and Loader: A Brief
-    Story](https://www.tenouk.com/ModuleW.html)
-  - [UNIX/Linux Tutorial for
-    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)
-  - [Linux Commands Cheat
-    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
-- **Exercícios:**
-  - [Lista de Exercícios n.º 1](/assets/disciplinas/ed1/2024_2/exercicio01.pdf)
-
 ---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)

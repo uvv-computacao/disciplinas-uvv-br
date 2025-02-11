@@ -1,7 +1,7 @@
 ---
 name: Arthur Morgado Teixeira
 role: Monitor
-disciplinas: 20241-fc 20242-fc
+disciplinas: 20241-fc 20242-fc 20251-ed1 20251-ed2
 email: arthurmorgado7751@gmail.com.
 website: https://github.com/Morgadineo
 photo: arthur.jpeg

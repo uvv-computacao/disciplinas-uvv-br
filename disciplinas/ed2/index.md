@@ -2,10 +2,10 @@
 layout: page
 title: Estrutura de Dados II
 nav_exclude: false
-nav_order: 130
+nav_order: 110
 has_children: true
 has_toc: false
-last_modified_date: 2025-02-04 16:52 -0300
+last_modified_date: 2023-12-20 10:27 -0300
 ---
 
 # Estrutura de Dados II
