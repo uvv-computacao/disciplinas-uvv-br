@@ -10,6 +10,35 @@ last_modified_date: 2025-02-07 14:35 -0300
 
 # Roteiro de estudo
 
+**Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
+{: .label .label-reading }
+
+Na aula desta semana faremos um "passeio geral" pelas áreas da computação. Você
+entenderá o que estudaremos nesta disciplina, incluindo: fundamentos da
+computação, fundamentos da programação, visão atual e futura. Você conhecerá
+rapidamente algumas outras disciplinas da computação. Você também começará a
+leitura do livro *Blown to Bits*. Assista aos vídeos, faça as leituras e as
+atividades listadas abaixo:
+
+- **Vídeos obrigatórios:**
+  - [CR6.100B, vídeo da Unidade 0](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0): estude o material
+    disponível na página dessa unidade, na Internet
+  - [PDF dos slides da Unidade 0](https://cmprz.me/slides-unid-0): faça o
+    download dos slides e use como referência de estudo
+  - Leitura do livro [*Blown to Bits*](/assets/docs/blown_to_bits_2e_pt-BR.pdf):
+    - Prefácio: leia as páginas vii-viii
+    - Introdução do capítulo 1: leia as páginas 1-4
+- **Atividades obrigatórias:**
+  - Imprima e responda o **[Diário de Aprendizagem 0:
+    Introdução](/assets/disciplinas/fundcomp/2025_1/diario_0.pdf)**. Atenção:
+    você precisa ter feito as leituras e ter visto o vídeo listado acima para
+    responder com segurança esse diário. Verifique a data de entrega no
+    calendário de sua turma.
+
+---
+
 **Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
 {: .label .label-reading }
 
@@ -30,23 +59,6 @@ abaixo:
   - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
 
 <!--
----
-
-**Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
-{: .label .label-reading }
-
-- **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0) (não se esqueça de fazer o
-    download do PDF dos slides do vídeo dessa unidade)
-  - Blown to Bits: capítulo 1, introdução (pág. 1-4)
-- **Vídeos obrigatórios:**
-  - [CR6.100B, vídeo da Unidade 0](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
-- **Atividades obrigatórias:**
-  - Imprima e responda o **[Diário de Aprendizagem 0:
-    Introdução](/assets/disciplinas/fundcomp/2024_2/diario_0.pdf)**
-    (verifique a data de entrega no calendário de sua turma)
-
----
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
