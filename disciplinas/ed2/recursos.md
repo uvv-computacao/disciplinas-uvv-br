@@ -1,24 +1,23 @@
 ---
 layout: page
 title: Recursos
-nav_exclude: false
+grand_parent: 
 parent: Estrutura de Dados II
+has_children: true
+has_toc: false
+nav_exclude: false
 nav_order: 30
-has_children: false
-last_modified_date: 2025-02-04 16:25 -0300
+last_modified_date: 2025-02-14 08:12 -0300
 ---
 
 # Recursos diversos
 {:.no_toc}
 
-## Sumário (em ordem alfabética)
+## Sumário
 {: .no_toc .text-delta }
 
 * TOC
 {:toc}
-
-## Papel almaço
-* [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
 
 ## Livros
 Esta disciplina utilizará os seguintes livros:
@@ -107,6 +106,56 @@ Esta disciplina utilizará os seguintes livros:
   </tr>
 </table>
 
-## Notas
-* [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)  
+## Softwares de virtualização
+Desde o ano de 2024 a **vmware** [liberou gratuitamente para uso
+pessoal](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)
+seus softwares de virtualização para desktops, o VMware Workstation Pro (para
+Linux e Windows) e o VMware Fusion Pro (para Mac). Você pode fazer um rápido
+cadastro no site da **vmware** e fazer o download. Apenas com o intuito de
+facilitar e agilizar o processo de download para nossos alunos, os links abaixo
+correspondem às versões mais recentes desses sistemas de virtualização:
 
+* [VMware Workstation Pro 17
+  (Linux)](https://disciplinas.uvv.br/virtualizacao-linux.rar)
+* [VMware Workstation Pro 17
+  (Windows)](https://disciplinas.uvv.br/virtualizacao-windows.rar)
+* [VMware Fusion Pro 13
+  (Mac)](https://disciplinas.uvv.br/virtualizacao-mac.rar)
+
+## Desktop virtual Linux
+Neste disciplina você trabalhará com programação C, usando bibliotecas
+especializadas ([CRpaic](https://github.com/computacaoraiz/CRpaic) e
+[CSLIB](https://github.com/computacaoraiz/Roberts.CS1.C)). Para facilitar a
+padronização do ambiente para todos os alunos, está disponível para download e
+uso uma **máquina virtual** para os softwares de virtualização da **vmware**
+(Workstation ou Fusion), com todas as ferramentas necessárias instaladas e
+configuradas. Você pode fazer o download da máquina virtual nos links abaixo:
+
+* [Desktop Virtual Linux 1.0 do Computação Raiz](https://we.tl/t-KaIaW5cGyD) (13
+  GB)
+* [Instruções de instalação](maqvirt) do Desktop Virtual Linux
+
+Se você tem um **computador Windows**, recomenda-se enfaticamente que você
+utilize o VMware Workstation Pro 17 para Windows com o Desktop Virtual Linux 1.0
+do Computação Raiz. Isso irá poupá-lo de muitos e muitos problemas de instalação
+e configuração das ferramentas necessárias diretamente no Windows.
+
+Se você tem um **computador Linux**, você tem duas opções:
+
+* Usar o Desktop Virtual Linux: sim, é possível usar uma máquina virtual Linux
+  até mesmo em um computador Linux (mais fácil); ou
+* Instalar diretamente as ferramentas e bibliotecas necessárias em seu
+  computador (um pouco mais difícil, mas 100% possível)
+
+Se você tem um **computador Mac**, você tem duas opções:
+
+* Usar o Desktop Virtual Linux: você pode usar o VMware Fusion e instalar a
+  máquina virtual em seu Mac (mais fácil); ou
+* Instalar diretamente as ferramentas e bibliotecas necessárias em seu
+  computador (um pouco mais difícil, mas 100% possível)
+
+## Uso correto do papel almaço
+* [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
+
+## Arredondamento de notas
+* [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)  

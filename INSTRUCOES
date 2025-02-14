@@ -13,3 +13,7 @@ Rodar o Jekyll localmente:
 
 Fazer o build para produção:
   JEKYLL_ENV=production bundle exec jekyll build
+
+
+Remover arquivo backup do Emacs:
+  find `pwd` -name "*~" -exec rm -f {} \;
