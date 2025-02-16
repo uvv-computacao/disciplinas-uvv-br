@@ -10,6 +10,70 @@ last_modified_date: 2025-02-05 08:23 -0300
 
 # Roteiro de estudo
 
+**Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
+{: .label .label-reading }
+
+Esta é uma semana de atividades práticas no Laboratório de Hardware (sala 3 do
+prédio azul). Você aprenderá a crimpar cabos de rede e a configurar redes
+cabeadas e WiFi.
+
+- **Vídeos obrigatórios:**
+  - [Crimpar cabo de rede com conector
+    RJ45](https://www.youtube.com/watch?v=OT_5EjDfD6M)
+  - [Normas T568A e T568B](https://www.youtube.com/watch?v=glPc_yB9-I0)
+  - [Como Funciona o Cabo de Rede
+    Crossover](https://www.youtube.com/watch?v=rfZ6mh-ufJc)
+  - [Qual a diferença: Cabo de rede CAT5, CAT5e e
+    CAT6](https://www.youtube.com/watch?v=dFMqNSOvhzo)
+  - [Qual cabo de rede usar? Cat5e? Cat6? Cat7? Ou
+    Cat8?](https://www.youtube.com/watch?v=PYL9_ejeeD4)
+- **Exercícios:**
+  - Lista de Exercícios n.º 3 (em breve)
+
+---
+
+**Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
+{: .label .label-reading }
+
+Nesta semana começaremos nosso estudo introdutório sobre redes de computadores e
+Internet. Você conhecerá coisas como: redes, subredes, endereços IP (públicos e
+privados), roteadores, gateways e diversos protocolos de comunicação, tais como:
+IP, TCP, UDP, DHCP e DNS.
+
+- **Vídeos obrigatórios:**
+  - Sobre endereços IP:
+    - [Entenda o que é endereço IP](https://www.youtube.com/watch?v=JAD4M7j_tQg)
+    - [IP](https://www.youtube.com/watch?v=okYCzbUjwHI)
+    - [As classes de endereços IP](https://www.youtube.com/watch?v=zuiaQkmlW54)
+    - [Os endereços IP não são todos iguais (parte
+      1)](https://www.youtube.com/watch?v=jnuHODaLcO8)
+    - [Os endereços IP não são todos iguais (parte
+      2)](https://www.youtube.com/watch?v=63M61wttuMk)
+    - [Conceito de IP privado](https://www.youtube.com/watch?v=g1IqPwQ7AT0)
+  - Sobre DHCP:
+    - [DHCP](https://www.youtube.com/watch?v=D2tlmxb8lW0)
+    - [Como funciona o DHCP](https://www.youtube.com/watch?v=9286Z3dwcdU)
+    - [DHCP explicado](https://www.youtube.com/watch?v=SOsrw2uMLeY)
+  - Sobre DNS:
+    - [Como funciona a Internet? Parte 3:
+      DNS](https://www.youtube.com/watch?v=ACGuo26MswI)
+    - [DNS](https://www.youtube.com/watch?v=XJ1YjZbdz_s)
+    - [O que é DNS?](https://www.youtube.com/watch?v=YMmIRoJjICw)
+  - Sobre o TCP e o UDP:
+    - [Protocolos TCP e UDP](https://www.youtube.com/watch?v=uRvjPlbJ_98)
+    - [TCP e UDP](https://www.youtube.com/watch?v=Wo7GOmuN-og)
+  - Sobre os Gateways:
+    - [Gateway](https://www.youtube.com/watch?v=F3ziubke1_w)
+- **Exercícios:**
+  - [Lista de Exercícios N.º 2](/assets/disciplinas/iot/2025_1/exercicio02.pdf):
+    verifique o que você entendeu sobre os conceitos básicos de rede e Internet:
+    IP, TCP, UDP, DNS, DHCP, gateway, roteador, rede, sub-rede, pacotes e
+    outros. Nesta lista de exercícios, além das questões teóricas você precisará
+    fazer uma análise prática da rede de sua casa e identificar diversas
+    informações reais de sua rede. Vamos lá!
+
+---
+
 **Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
 {: .label .label-reading }
 

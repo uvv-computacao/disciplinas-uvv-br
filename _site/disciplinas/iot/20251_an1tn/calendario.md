@@ -58,16 +58,22 @@
     <tr>
       <td rowspan=5>2</td> <!-- Número da semana-->
       <th>Seg<br />10/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Hand out -->
+      <td>Aula:<br />
+          Conceitos básicos de redes e Internet</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re2sem">2ª
+          semana</a></td> <!-- Estudo -->
+      <td><a href="/assets/disciplinas/iot/2025_1/exercicio02.pdf">
+          Exercício 2</a></td> <!-- Hand out -->
       <td>Exercício 0</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />11/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
-      <td></td> <!-- Hand out -->
+      <td>Aula:<br />
+          Conceitos básicos de redes e Internet</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re2sem">2ª
+          semana</a></td> <!-- Estudo -->
+      <td><a href="/assets/disciplinas/iot/2025_1/exercicio02.pdf">
+          Exercício 2</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -96,17 +102,23 @@
     <tr>
       <td rowspan=5>3</td> <!-- Número da semana-->
       <th>Seg<br />17/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Laboratório (Grupo 1):<br />
+          Criação de redes cabeadas e WiFi</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re3sem">3ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
-      <td>Exercício 1</td> <!-- Hand in -->
+      <td>Exercício 1:<br />
+          Grupo 1</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />18/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Laboratório (Grupo 2):<br />
+          Criação de redes cabeadas e WiFi</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re3sem">3ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Exercício 1:<br />
+          Grupo 2</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />19/2</th> <!-- Dia e Data -->
@@ -137,7 +149,7 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Exercício 2</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />25/2</th> <!-- Dia e Data -->
