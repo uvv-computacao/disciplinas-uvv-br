@@ -7,10 +7,92 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-02-10 12:38 -0300
+last_modified_date: 2025-02-17 12:38 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
+{: .label .label-reading }
+
+Nesta semana iniciaremos nosso estudo aprofundado sobre tipos de dados em C, em
+especial os tipos enumeração, ponteiros, arrays e registros. Aprenderemos a
+relação especial entre ponteiros e arrays, e começaremos a trabalhar com
+alocação dinâmica de memória. **Atenção:**
+
+{: .important }
+> * Para o estudo deste conteúdo você deve fazer um esforço **ESTUDAR AS LEITURAS
+>   RECOMENTADAS**. Não fique apenas com as leituras obrigatórias, que são
+>   o mínimo para o entendimento inicial do assunto. Se você quiser entender
+>   enumerações, arrays, ponteiros e registros, você PRECISA se esforçar nas
+>   leituras recomendadas adicionais.
+> * É absolutamente fundamental que você **FAÇA TODOS OS EXERCÍCIOS DE
+>   PROGRAMAÇÃO** desta semana. Você precisa dominar esse conteúdo para poder
+>   entender aspectos mais avançados das estruturas de dados e algoritmos da
+>   computação.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 1: An Overview of C"*. Ler o
+    capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo
+    2](/assets/disciplinas/ed1/2025_1/capitulo02.pdf). Este é o material
+    utilizado em sala de aula.
+- **Leituras (altamente!) recomendadas:**
+  - [C Pointers](https://www.w3schools.com/c/c_pointers.php)
+  - [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+  - [C Pointers](https://www.geeksforgeeks.org/c-pointers/)
+  - [C Pointers and Arrays](https://www.w3schools.com/c/c_pointers_arrays.php)
+  - [Pointer to an
+    Array](https://www.geeksforgeeks.org/pointer-array-array-pointer/)
+  - [Function Pointer in
+    C](https://www.geeksforgeeks.org/function-pointer-in-c/)
+  - [Pointer to
+    Pointer](https://www.geeksforgeeks.org/c-pointer-to-pointer-double-pointer/)
+  - [Chain of Pointers in
+    C](https://www.geeksforgeeks.org/chain-of-pointers-in-c-with-examples/)
+  - [NULL Pointer in C](https://www.geeksforgeeks.org/null-pointer-in-c/)
+  - [Void Pointer in C](https://www.geeksforgeeks.org/void-pointer-c-cpp/)
+  - [What are Wild
+    Pointers?](https://www.geeksforgeeks.org/what-are-wild-pointers-how-can-we-avoid/)
+  - [Difference between constant pointer, pointers to constant, and constant
+    pointers to
+    constants](https://www.geeksforgeeks.org/difference-between-constant-pointer-pointers-to-constant-and-constant-pointers-to-constants/)
+  - [Pointer Arithmetics in
+    C](https://www.geeksforgeeks.org/pointer-arithmetics-in-c-with-examples/)
+  - [Relationship Between a Pointer and an
+    Array](https://www.geeksforgeeks.org/relationship-between-pointer-and-array-in-c/)
+  - [Passing Pointers to
+    Functions](https://www.geeksforgeeks.org/passing-pointers-to-functions-in-c/)
+  - [How to Return a
+    Pointer](https://www.geeksforgeeks.org/how-to-return-a-pointer-from-a-function-in-c/)
+  - [Dynamic Memory Allocation in
+    C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+  - [What is Memory
+    Leak](https://www.geeksforgeeks.org/what-is-memory-leak-how-can-we-avoid/)
+  - [Pointers vs Arrays in
+    C++](https://www.geeksforgeeks.org/pointers-vs-array-in-cpp/)
+  - [Difference Between Arrays and
+    Pointers](https://www.geeksforgeeks.org/difference-between-array-and-pointers/)
+  - [Pointer vs Array in
+    C](https://www.geeksforgeeks.org/pointer-vs-array-in-c/)
+  - [C++ Pointers](https://www.geeksforgeeks.org/cpp-pointers/)
+  - [C Structures](https://www.geeksforgeeks.org/structures-c/)
+  - [Array of Structures](https://www.geeksforgeeks.org/c-array-of-structure/)
+  - [Structure Pointer in
+    C](https://www.geeksforgeeks.org/structure-pointer-in-c/)
+  - [C Pointer to
+    Pointer](https://www.geeksforgeeks.org/c-pointer-to-pointer-double-pointer/)
+- **Códigos:**
+  - Códigos do Capítulo 2. (em breve)
+- **Exercícios:**
+  - [Lista de Exercícios n.º
+    2](/assets/disciplinas/ed1/2025_1/exercicio02.pdf). As questões discursivas
+    devem ser respondidas de forma **manuscrita** em papel almaço. As questões
+    de programação serão entregues no
+    [Autolab](https://autolab.computacaoraiz.com.br) (verifique a data de
+    entrega no calendário de sua turma).
+
+---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
 {: .label .label-reading }
