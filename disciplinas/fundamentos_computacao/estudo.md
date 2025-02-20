@@ -5,10 +5,47 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2025-02-07 14:35 -0300
+last_modified_date: 2025-02-17 15:32 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
+{: .label .label-reading }
+
+Nesta semana começaremos nosso estudo sobre os fundamentos da
+computação, a Unidade 1 de nossa disciplina. Aprenderemos o conceito e a
+essência da computação, conheceremos o modelo geral da computação, e
+diferenciaremos conhecimento declarativo de imperativo. Também começaremos a
+aprender como os diversos dados e informações são representados no computador.
+
+- **Vídeos obrigatórios:**
+  - [Visão geral da Unidade 1](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+  - [O que é computação?](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
+  - [Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+- **Leituras obrigatórias:**
+  - [Unidade 1: computação](https://cmprz.me/cr6100bu1)
+    - [Vídeo da Parte 0](https://cmprz.me/cr6100b-unid-1-parte-0-video)
+    - [PDF dos slides da Parte
+      0](https://cmprz.me/cr6100b-unid-1-parte-0-slides)
+    - [Vídeo da Parte 1](https://cmprz.me/cr6100b-unid-1-parte-1-video)
+    - [PDF dos slides da Parte
+      1](https://cmprz.me/cr6100b-unid-1-parte-1-slides)
+    - [Vídeo da Parte 2 (exceto os
+      anexos!)](https://cmprz.me/cr6100b-unid-1-parte-2-video)
+    - [PDF dos slides da Parte
+      2](https://cmprz.me/cr6100b-unid-1-parte-2-slides)
+  - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
+- **Atividades obrigatórias:**
+  - Imprima **integralmente** o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2025_1/diario_1.pdf)**, mas só
+    responda as perguntas de n.º 1 até 80 do (sim, são 80 perguntas a serem
+    feitas nesta semana. Algumas são fáceis e respondidas em menos de 1 minuto,
+    outras são mais difíceis e envolvem pesquisa e contas matemáticas. As outras
+    perguntas do diário serão respondidas em outra semana de estudo. Esse diário
+    ainda não tem data de entrega definida.
+
+---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
 {: .label .label-reading }
@@ -59,38 +96,6 @@ abaixo:
   - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
 
 <!--
-
-**Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 1](http://cmprz.me/cr6100bu1): estudar apenas o seguinte:
-    - Parte 0: visão geral da unidade
-    - Parte 1: O que é ciência da computação
-    - Parte 2: Representação de dados (incluindo os 5 anexos)
-  - Assistir os seguintes vídeos (assista aos vídeos **várias vezes** até que
-    você consiga entender tudo; na página da CR6.100B você pode fazer o download
-    dos slides correspondentes a cada vídeo):
-    - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
-    - [Parte 1: O que é ciência da
-      computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
-    - [Parte 2: Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
-    - [Parte 2, Anexo 1: Conversão entre bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
-    - [Parte 2, Anexo 2: Outros conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
-    - [Parte 2, Anexo 3: Binários negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
-    - [Parte 2, Anexo 4: Binários fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
-    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
-  - Blown to Bits: capítulo 1, seção 1.1 (pág. 5-8)
-- **Atividades obrigatórias:**
-  - Imprima e responda as perguntas de n.º 1 até 160 do **[Diário de
-    Aprendizagem 1: Fundamentos da
-    Computação](/assets/disciplinas/fundcomp/2024_2/diario_1.pdf)** (sim, são
-    160 perguntas a serem feitas nesta semana. Algumas são fáceis e respondidas
-    em menos de 1 minuto, outras são mais difíceis e envolvem pesquisa e contas
-    matemáticas. Não deixe para começar a responder no final da
-    semana!). As outras perguntas devem ser respondidas na próxima
-    semana. Verifique no calendário de sua turma a data de entrega deste diário.
-
----
 
 **Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }

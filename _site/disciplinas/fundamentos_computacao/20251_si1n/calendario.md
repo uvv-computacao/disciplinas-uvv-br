@@ -133,10 +133,13 @@
     </tr>
     <tr>
       <th>Qui<br />20/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Unidade 1: Computação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re3sem">3ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2025_1/diario_1.pdf">
+          Diário 1: Computação</a></td> <!-- Hand out -->
       <td>Diário 0: Introdução</td> <!-- Hand in -->
     </tr>
     <tr>
