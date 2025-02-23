@@ -90,7 +90,12 @@ alocação dinâmica de memória. **Atenção:**
     devem ser respondidas de forma **manuscrita** em papel almaço. As questões
     de programação serão entregues no
     [Autolab](https://autolab.computacaoraiz.com.br) (verifique a data de
-    entrega no calendário de sua turma).
+    entrega no calendário de sua turma). Atenção: você precisará utilizar o
+    código abaixo em um dos exercícios:
+    - [juizes.c.rar](/assets/disciplinas/ed1/2025_1/juizes.c.rar): este é o
+      código do programa "`juizes.c`" que você utilizará em um dos exercícios de
+      programação. O código está compactado no formato RAR, basta descompactar o
+      arquivo e estudar o programa.
 
 ---
 
