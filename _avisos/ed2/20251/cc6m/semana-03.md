@@ -12,6 +12,6 @@ referência, um estudo aprofundado sobre tipos de dados em C (em especial os
 tipos: enumeração, ponteiros, arrays e registros).
 
 1. **ESTUDE** o material listado no "Roteiro de Estudo da 3ª semana".
-1. **FAÇA** a "Lista de Exercícios n.º 1" (tem uma parte discursiva
+1. **FAÇA** a "Lista de Exercícios n.º 2" (tem uma parte discursiva
    manuscrita e uma parte de exercícios de programação). Atenção ao
    prazo de entrega!

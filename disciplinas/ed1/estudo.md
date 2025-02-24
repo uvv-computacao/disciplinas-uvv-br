@@ -7,10 +7,25 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-02-17 12:38 -0300
+last_modified_date: 2025-02-24 13:36 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 4ª Semana**<a id="re4sem"></a> (24/02 - 02/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos o estudo sobre tipos de dados em C, em
+especial os tipos enumeração, ponteiros, arrays e registros.
+
+- **Leituras obrigatórias:**
+  - As mesmas da semana 3, continue lendo!
+- **Leituras recomendadas:**
+  - As mesmas da semana 3, continue lendo!
+- **Exercícios:**
+  - Os mesmos da semana 3, continue estudante!
+
+---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
 {: .label .label-reading }

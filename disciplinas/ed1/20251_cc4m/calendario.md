@@ -158,18 +158,24 @@
     <tr>
       <td rowspan=5>4</td> <!-- Número da semana-->
       <th>Seg<br />24/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 2:<br />
+          Data Types in C</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re4sem">
+          4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio02.pdf">
+          Lista n.º 2</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />25/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 2:<br />
+          Data Types in C</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re4sem">
+          4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio02.pdf">
+          Lista n.º 2</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -201,7 +207,7 @@
     <tr>
       <td rowspan=5>5</td> <!-- Número da semana-->
       <th>Seg<br />3/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>FERIADO</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -209,17 +215,18 @@
     </tr>
     <tr>
       <th>Ter<br />4/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>FERIADO</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>Lista n.º 2</td> <!-- Autolab -->
+      <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td>Lista n.º 2</td> <!-- Hand in -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />5/3</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td></td> <!-- Autolab -->
+      <td>Lista n.º 2<br />
+          (parte do Autolab)</td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -248,7 +255,8 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 2<br />
+          (parte manuscrita)</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />11/3</th> <!-- Dia e Data -->
