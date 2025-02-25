@@ -146,17 +146,23 @@
     <tr>
       <td rowspan=5>4</td> <!-- Número da semana-->
       <th>Seg<br />24/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Laboratório (Grupo 2):<br />
+          Criação de redes cabeadas e WiFi</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re4sem">4ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
-      <td>Exercício 2</td> <!-- Hand in -->
+      <td>Exercício 2:<br />
+          Grupo 2</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />25/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Laboratório (Grupo 1):<br />
+          Criação de redes cabeadas e WiFi</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re4sem">4ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Exercício 2:<br />
+          Grupo 1</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />26/2</th> <!-- Dia e Data -->
@@ -184,14 +190,14 @@
     <tr>
       <td rowspan=5>5</td> <!-- Número da semana-->
       <th>Seg<br />3/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>FERIADO</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />4/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>FERIADO</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->

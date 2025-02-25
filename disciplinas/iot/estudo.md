@@ -10,6 +10,22 @@ last_modified_date: 2025-02-05 08:23 -0300
 
 # Roteiro de estudo
 
+**Estudo da 4ª Semana**<a id="re4sem"></a> (24/02 - 02/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nossas atividades no Laboratório de Hardware para
+entendermos sobre redes de computadores.
+
+- **Vídeos obrigatórios:**
+  - [Entenda o Wi-Fi de uma vez por
+    todas](https://www.youtube.com/watch?v=V2XW8nxNjcc)
+  - [Wi-Fi](https://www.youtube.com/watch?v=Nli8nXFOaRQ)
+  - [Como o Wi-Fi funciona?](https://www.youtube.com/watch?v=Z3bwoDdP_OE)
+- **Exercícios:**
+  - Sem exercícios nesta semana.
+
+---
+
 **Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
 {: .label .label-reading }
 
@@ -28,7 +44,7 @@ cabeadas e WiFi.
   - [Qual cabo de rede usar? Cat5e? Cat6? Cat7? Ou
     Cat8?](https://www.youtube.com/watch?v=PYL9_ejeeD4)
 - **Exercícios:**
-  - Lista de Exercícios n.º 3 (em breve)
+  - Sem exercícios nesta semana.
 
 ---
 
