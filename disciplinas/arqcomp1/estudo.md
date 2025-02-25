@@ -7,13 +7,108 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-02-06 23:36 -0300
+last_modified_date: 2025-02-24 14:33 -0300
 ---
 
 # Roteiro de estudo
 
+**Estudo da 5ª Semana**<a id="re5sem"></a> (03/03 - 09/03)
+{: .label .label-reading }
+
+Nesta semana não teremos aula devido ao feriado de carnaval mas, mesmo assim,
+você deve terminar de fazer o Diário nº 1!
+
+- **Exercícios:**
+  - [Diário de Aprendizagem n.º
+    1](/assets/disciplinas/arqcomp1/20251/diario_1.pdf): termine de responder o 
+    **Diário de Aprendizagem n.º 1**. Faça as perguntas de nº 131 até 160. A
+    data de entrega será no dia 12/03.
+
+
+**Estudo da 4ª Semana**<a id="re4sem"></a> (24/02 - 02/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo aprofundado sobre a representação de
+números no computador. Em especial veremos: representação de binários negativos,
+representação de binários fracionários e notação BCD.
+
+- **Vídeos obrigatórios:**
+  - [Conversão entre bases
+    numéricas](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+  - [Conceitos fundamentais sobre representação
+    numérica](https://www.youtube.com/watch?v=MxdbxybOlmE)
+  - [Representação de inteiros negativos em
+    binário](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+  - [Representação de números fracionários em
+    binário](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+  - [BCD e expansão do sinal](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+- **Leituras obrigatórias:**
+  - No site da [CR6.100B](https://www.computacaoraiz.com.br/cr6100b/) você pode
+    fazer o download de todos os slides do material dos vídeos obrigatórios
+    listados acima. Faça o download e estude esse material.
+- **Leituras recomendadas:**
+  - CSAPP: ler o "*Chapter 2: Representing and Manipulating Information*"
+  - CSAPP Web Asides:
+    - [DATA:BOOL](http://csapp.cs.cmu.edu/3e/waside/waside-boolean.pdf):
+      *Boolean algebra and Boolean rings*
+    - [DATA:TMIN](http://csapp.cs.cmu.edu/3e/waside/waside-tmin.pdf): *Writing
+      TMin in C*
+    - [DATA:TNEG](http://csapp.cs.cmu.edu/3e/waside/waside-tneg.pdf): *Bit-level
+      representation of two's complement negation*
+- **Exercícios:**
+  - [Diário de Aprendizagem n.º
+    1](/assets/disciplinas/arqcomp1/20251/diario_1.pdf): continue a responder o 
+    **Diário de Aprendizagem n.º 1**. Faça as perguntas de nº 81 até 130 (as
+    demais perguntas serão respondidas nas próximas semanas). A data de entrega
+    ainda será definida.
+  
+---
+
+**Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo aprofundado sobre a representação de
+números no computador. Em especial veremos: conversão entre as diversas bases
+numéricas, outros conceitos fundamentais sobre representação numérica,
+aritmética binária (adição, subtração, multiplicação e divisão) e as diferentes
+notações para a representação de binários negativos.
+
+- **Vídeos obrigatórios:**
+  - [Conversão entre bases
+    numéricas](https://www.youtube.com/watch?v=7u4lJQE2xOk)
+  - [Conceitos fundamentais sobre representação
+    numérica](https://www.youtube.com/watch?v=MxdbxybOlmE)
+  - [Representação de inteiros negativos em
+    binário](https://www.youtube.com/watch?v=gLBV2iU_EbM)
+  - [Representação de números fracionários em
+    binário](https://www.youtube.com/watch?v=QdOMYMvn2h8)
+  - [BCD e expansão do sinal](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+- **Leituras obrigatórias:**
+  - No site da [CR6.100B](https://www.computacaoraiz.com.br/cr6100b/) você pode
+    fazer o download de todos os slides do material dos vídeos obrigatórios
+    listados acima. Faça o download e estude esse material.
+- **Leituras recomendadas:**
+  - CSAPP: ler o "*Chapter 2: Representing and Manipulating Information*"
+  - CSAPP Web Asides:
+    - [DATA:BOOL](http://csapp.cs.cmu.edu/3e/waside/waside-boolean.pdf):
+      *Boolean algebra and Boolean rings*
+    - [DATA:TMIN](http://csapp.cs.cmu.edu/3e/waside/waside-tmin.pdf): *Writing
+      TMin in C*
+    - [DATA:TNEG](http://csapp.cs.cmu.edu/3e/waside/waside-tneg.pdf): *Bit-level
+      representation of two's complement negation*
+- **Exercícios:**
+  - [Diário de Aprendizagem n.º
+    1](/assets/disciplinas/arqcomp1/20251/diario_1.pdf): faça o download e
+    imprima o **Diário de Aprendizagem n.º 1**, com exercícios sobre
+    representação de dados. Faça as perguntas de nº 1 até 80 (as demais
+    perguntas serão respondidas nas próximas semanas). A data de entrega ainda
+    será definida.
+
+---
+
 **Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
 {: .label .label-reading }
+
 Nesta semana continuaremos nosso estudo sobre a representação de dados no
 computador, começando com representação textual (ASCII e Unicode), cores,
 imagens, áudio e vídeo. Depois faremos um estudo aprofundado da representação

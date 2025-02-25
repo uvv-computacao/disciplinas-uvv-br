@@ -114,18 +114,22 @@
     </tr>
     <tr>
       <th>Ter<br />18/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Representação de dados</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re3sem">3ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/arqcomp1/20251/diario_1.pdf">
+          Diário n.º 1</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />19/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Representação de dados</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re3sem">3ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/arqcomp1/20251/diario_1.pdf">
+          Diário n.º 1</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -157,16 +161,18 @@
     </tr>
     <tr>
       <th>Ter<br />25/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Representação de dados</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re4sem">4ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />26/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Representação de dados</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re4sem">4ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -200,16 +206,18 @@
     </tr>
     <tr>
       <th>Ter<br />4/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>FERIADO</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re5sem">5ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />5/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>FERIADO</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re5sem">5ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -255,7 +263,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Diário n.º 1</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qui<br />13/3</th> <!-- Dia e Data -->
