@@ -7,10 +7,22 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-02-24 13:36 -0300
+last_modified_date: 2025-03-03 15:30 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 5ª Semana**<a id="re5sem"></a> (03/03 - 09/03)
+{: .label .label-reading }
+
+Em virtude do Feriado de Carnaval não haverá aula presencial nesta semana. Você
+deve continuar a fazer a **Lista de Exercícios n.º 2**. Note que o prazo de
+entrega foi alterado:
+
+* Exercícios de Programação: 09/03/2025 23:59h, no Autolab
+* Respostas manuscritas: 10/03/2025 07:15h, durante a aula
+
+---
 
 **Estudo da 4ª Semana**<a id="re4sem"></a> (24/02 - 02/03)
 {: .label .label-reading }
