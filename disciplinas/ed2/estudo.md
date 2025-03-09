@@ -7,10 +7,45 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-03-03 15:30 -0300
+last_modified_date: 2025-03-08 19:23 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 6ª Semana**<a id="re6sem"></a> (10/03 - 16/03)
+{: .label .label-reading }
+
+Nesta semana estudaremos alguns conceitos importantíssimos na computação:
+bibliotecas e interfaces. Aprenderemos a importância de interfaces e a como
+projetar boas interfaces. Também entenderemos em maiores detalhes como as
+strings são representadas no computador e aprenderemos sobre os modelos de
+abstração fornecidos por diferentes interfaces. Também aprenderemos a ler e
+escrever em arquivos de dados.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 3: Libraries and Interfaces"*. Ler
+    o capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo
+    3](/assets/disciplinas/ed1/2025_1/capitulo03.pdf). Este é o material
+    utilizado em sala de aula.
+- **Leituras (altamente!) recomendadas:**
+  - (em breve)
+- **Códigos:**
+  - Códigos do Capítulo 3. (em breve)
+- **Exercícios:**
+  - [Lista de Exercícios n.º
+    3](/assets/disciplinas/ed1/2025_1/exercicio03.pdf). As questões discursivas
+    devem ser respondidas de forma **manuscrita** em papel almaço. As questões
+    de programação serão entregues no
+    [Autolab](https://autolab.computacaoraiz.com.br) (verifique a data de
+    entrega no calendário de sua turma).
+  - [Lista de Exercícios n.º 3
+    (Extra)](/assets/disciplinas/ed1/2025_1/exercicio03_extra.pdf). Este é um
+    exercício de programação OPCIONAL um pouco mais avançado. Você não é
+    obrigado a fazer este exercício mas saiba que este exercício será muito bom
+    para que você aprenda e sedimente os conceitos de estruturas de dados
+
+---
 
 **Estudo da 5ª Semana**<a id="re5sem"></a> (03/03 - 09/03)
 {: .label .label-reading }

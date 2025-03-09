@@ -26,7 +26,7 @@
     <tr>
       <th>Ter<br />4/2</th> <!-- Dia e Data -->
       <td>Aula inaugural</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re1sem">
+      <td><a href="/disciplinas/ed2/estudo/#re1sem">
           1ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -63,7 +63,7 @@
       <th>Seg<br />10/2</th> <!-- Dia e Data -->
       <td>Capítulo 1:<br />
           An Overview of ANSI C</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re2sem">
+      <td><a href="/disciplinas/ed2/estudo/#re2sem">
           2ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -73,10 +73,10 @@
       <th>Ter<br />11/2</th> <!-- Dia e Data -->
       <td>Capítulo 1:<br />
           An Overview of ANSI C</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re2sem">
+      <td><a href="/disciplinas/ed2/estudo/#re2sem">
           2ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio01.pdf">
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio01.pdf">
           Lista n.º 1</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -111,10 +111,10 @@
       <th>Seg<br />17/2</th> <!-- Dia e Data -->
       <td>Capítulo 2:<br />
           Data Types in C</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re3sem">
+      <td><a href="/disciplinas/ed2/estudo/#re3sem">
           3ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio02.pdf">
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio02.pdf">
           Lista n.º 2</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -122,10 +122,10 @@
       <th>Ter<br />18/2</th> <!-- Dia e Data -->
       <td>Capítulo 2:<br />
           Data Types in C</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re3sem">
+      <td><a href="/disciplinas/ed2/estudo/#re3sem">
           3ª semana</a></td> <!-- Estudo -->
       <td>Lista n.º 1</td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio02.pdf">
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio02.pdf">
           Lista n.º 2</a></td> <!-- Hand out -->
       <td>Lista n.º 1</td> <!-- Hand in -->
     </tr>
@@ -160,10 +160,10 @@
       <th>Seg<br />24/2</th> <!-- Dia e Data -->
       <td>Capítulo 2:<br />
           Data Types in C</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re4sem">
+      <td><a href="/disciplinas/ed2/estudo/#re4sem">
           4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio02.pdf">
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio02.pdf">
           Lista n.º 2</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -171,10 +171,10 @@
       <th>Ter<br />25/2</th> <!-- Dia e Data -->
       <td>Capítulo 2:<br />
           Data Types in C</td> <!-- Aula -->
-      <td><a href="/disciplinas/ed1/estudo/#re4sem">
+      <td><a href="/disciplinas/ed2/estudo/#re4sem">
           4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio02.pdf">
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio02.pdf">
           Lista n.º 2</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
@@ -208,7 +208,8 @@
       <td rowspan=5>5</td> <!-- Número da semana-->
       <th>Seg<br />3/3</th> <!-- Dia e Data -->
       <td>FERIADO</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/ed2/estudo/#re5sem">
+          5ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -216,7 +217,8 @@
     <tr>
       <th>Ter<br />4/3</th> <!-- Dia e Data -->
       <td>FERIADO</td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><a href="/disciplinas/ed2/estudo/#re5sem">
+          5ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -232,7 +234,10 @@
     </tr>
     <tr>
       <th>Qui<br />6/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Exercício "k"<br />
+          <a href="https://www.youtube.com/watch?v=UzMbgiu6u24"
+           target="_blank">
+          YouTube</a></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -240,7 +245,10 @@
     </tr>
     <tr>
       <th>Sex<br />7/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Exercício "i"<br />
+          <a href="https://www.youtube.com/watch?v=QAC2Utp340k"
+           target="_blank">
+          YouTube</a></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -251,19 +259,25 @@
     <tr>
       <td rowspan=5>6</td> <!-- Número da semana-->
       <th>Seg<br />10/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 3:<br />
+          Bibliotecas e Interfaces</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re6sem">
+          6ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio03.pdf">
+          Lista n.º 3</a></td> <!-- Hand out -->
       <td>Lista n.º 2<br />
           (parte manuscrita)</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />11/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 3:<br />
+          Bibliotecas e Interfaces</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re6sem">
+          6ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio03_extra.pdf">
+          Lista n.º 3 (Extra)</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -307,7 +321,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 3</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />19/3</th> <!-- Dia e Data -->
@@ -350,7 +364,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 3 Extra</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />26/3</th> <!-- Dia e Data -->
