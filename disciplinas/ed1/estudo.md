@@ -31,7 +31,7 @@ escrever em arquivos de dados.
 - **Leituras (altamente!) recomendadas:**
   - (em breve)
 - **Códigos:**
-  - Códigos do Capítulo 3. (em breve)
+  - [Códigos do Capítulo 3](/assets/disciplinas/ed1/2025_1/cod_cap03.zip)
 - **Exercícios:**
   - [Lista de Exercícios n.º
     3](/assets/disciplinas/ed1/2025_1/exercicio03.pdf). As questões discursivas

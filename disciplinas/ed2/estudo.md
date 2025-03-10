@@ -26,12 +26,12 @@ escrever em arquivos de dados.
   - *Programming Abstractions in C - "Chapter 3: Libraries and Interfaces"*. Ler
     o capítulo todo, analisando os exemplos e códigos.
   - [Notas de aula do Capítulo
-    3](/assets/disciplinas/ed1/2025_1/capitulo03.pdf). Este é o material
+    3](/assets/disciplinas/ed2/2025_1/capitulo03.pdf). Este é o material
     utilizado em sala de aula.
 - **Leituras (altamente!) recomendadas:**
   - (em breve)
 - **Códigos:**
-  - Códigos do Capítulo 3. (em breve)
+  - [Códigos do Capítulo 3](/assets/disciplinas/ed2/2025_1/cod_cap03.zip)
 - **Exercícios:**
   - [Lista de Exercícios n.º
     3](/assets/disciplinas/ed1/2025_1/exercicio03.pdf). As questões discursivas

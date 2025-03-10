@@ -1233,6 +1233,10 @@
 <lastmod>2025-02-18T11:48:56-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/disciplinas/ed1/2025_1/capitulo03.pdf</loc>
+<lastmod>2025-03-10T00:05:32-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/disciplinas/ed1/2025_1/exercicio01.pdf</loc>
 <lastmod>2025-02-11T15:28:06-03:00</lastmod>
 </url>
@@ -1307,6 +1311,10 @@
 <url>
 <loc>http://localhost:4000/assets/disciplinas/ed2/2025_1/capitulo02.pdf</loc>
 <lastmod>2025-02-18T11:48:56-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/disciplinas/ed2/2025_1/capitulo03.pdf</loc>
+<lastmod>2025-03-10T00:05:32-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/disciplinas/ed2/2025_1/exercicio01.pdf</loc>
