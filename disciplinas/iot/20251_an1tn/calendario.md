@@ -228,15 +228,19 @@
     <tr>
       <td rowspan=5>6</td> <!-- Número da semana-->
       <th>Seg<br />10/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Introdução aos Circuitos Elétricos<br />
+          Introdução ao Arduino</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />11/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Introdução aos Circuitos Elétricos<br />
+          Introdução ao Arduino</td> <!-- Aula -->
+      <td><a href="/disciplinas/iot/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>

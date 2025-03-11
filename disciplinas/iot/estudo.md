@@ -5,10 +5,53 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2025-02-05 08:23 -0300
+last_modified_date: 2025-03-11 17:58 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 6ª Semana**<a id="re6sem"></a> (10/03 - 16/03)
+{: .label .label-reading }
+
+Nesta semana começaremos a nos preparar para criar nossos próprios dispositivos
+de Internet das Coisas (IoT). Estudaremos circuitos elétricos, analógicos e
+digitais e, depois, aprenderemos sobre o Arduino (uma plataforma de prototipação
+*open-hardware* para eletrônica e sistemas embarcados).
+
+- **Vídeos obrigatórios:**
+  - [Qual a diferença entre volt, watt e
+    ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [O que é Arduino, afinal de
+    contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g)
+- **Leituras obrigatórias:**
+  - [Circuitos elétricos (notas de
+    aula)](/assets/disciplinas/iot/2025_1/circuitos_eletricos.pdf)
+  - [Apostila Eletrogate: Arduino
+    Iniciante](/assets/arduino/apostila_eletrogate_01_arduino_iniciante.pdf)
+    (ler a *Parte I: Revisão de Circuitos Elétricos e Componentes Básicos*,
+    páginas 4 até 15)
+- **Vídeos recomendados:**
+  - [Curso Manual Maker do Manual do
+    Mundo](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Exercícios:**
+  - (em breve)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
+
+**Estudo da 5ª Semana**<a id="re5sem"></a> (03/03 - 09/03)
+{: .label .label-reading }
+
+FERIADO DE CARNAVAL.
+
+---
 
 **Estudo da 4ª Semana**<a id="re4sem"></a> (24/02 - 02/03)
 {: .label .label-reading }
