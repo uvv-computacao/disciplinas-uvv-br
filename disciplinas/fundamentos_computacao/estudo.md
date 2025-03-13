@@ -5,10 +5,82 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2025-02-17 15:32 -0300
+last_modified_date: 2025-03-13 09:34 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 6ª Semana**<a id="re6sem"></a> (17/03 - 23/03)
+{: .label .label-reading }
+
+Nesta semana aprenderemos sobre o "coração" da computação, os **algoritmos**!
+Veremos que computação é a ciência dos algoritmos, estudaremos algoritmos do
+ponto de vista informal e entenderemos que alguns problemas não têm solução
+algorítmica. Faremos uma introdução à formalização e eficiência dos algoritmos,
+e aprenderemos à expressá-los de diversas maneiras.
+
+- **Vídeos obrigatórios:**
+  - [Algoritmos](https://cmprz.me/cr6100b-unid-1-parte3-video)
+- **Leituras obrigatórias:**
+  - [PDF dos slides da parte 3,
+    Algoritmos](https://cmprz.me/cr6100b-unid-1-parte-3-slides)
+  - [PDF sobre fluxograma](https://cmprz.me/cr6100b-unid-1-parte-3-fluxogramas)
+- **Exercícios:**
+  - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2025_1/diario_1.pdf)**, perguntas
+    de n.º 161 até 206. Observação: não faça ainda as perguntas 81 até 160, elas
+    serão vistas depois que a monitoria iniciar.
+
+---
+
+**Estudo da 5ª Semana**<a id="re5sem"></a> (03/03 - 09/03)
+{: .label .label-reading }
+
+Continuaremos nosso estudo sobre como os computadores representam dados e
+informações aprendendo sobre cores, imagens, sons e vídeos. Entenderemos um
+pouco sobre compressão de dados (com e sem perda).
+
+- **Vídeos obrigatórios:**
+  - [Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+- **Leituras obrigatórias:**
+  - [Vídeo da Parte 2 (exceto os
+      anexos!)](https://cmprz.me/cr6100b-unid-1-parte-2-video)
+    - [PDF dos slides da Parte
+      2](https://cmprz.me/cr6100b-unid-1-parte-2-slides)
+  - Blown to Bits: capítulo 1, seção 1.2 (pág. 8-20)
+- **Exercícios:**
+  - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2025_1/diario_1.pdf)**, perguntas
+    de n.º 1 até 80, se você ainda não terminou. Este diário ainda não tem data
+    de entrega definida.
+
+---
+
+**Estudo da 4ª Semana**<a id="re4sem"></a> (24/02 - 02/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre a representação de dados no
+computador. Entenderemos a linguagem binária de 0s e 1s como abstrações e
+aprenderemos como os computadores "criam" esses 0s e 1s. Também estudaremos a
+formalização de sistemas numéricos diversos (binário, octal, decimal e
+hexadecimal) e aprenderemos como os computadores representam texto (ASCII e
+Unicode).
+
+- **Vídeos obrigatórios:**
+  - [Representação de dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
+- **Leituras obrigatórias:**
+  - [Vídeo da Parte 2 (exceto os
+      anexos!)](https://cmprz.me/cr6100b-unid-1-parte-2-video)
+    - [PDF dos slides da Parte
+      2](https://cmprz.me/cr6100b-unid-1-parte-2-slides)
+  - Blown to Bits: capítulo 1, seção 1.2 (pág. 8-20)
+- **Exercícios:**
+  - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2025_1/diario_1.pdf)**, perguntas
+    de n.º 1 até 80, se você ainda não terminou. Este diário ainda não tem data
+    de entrega definida.
+
+---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (17/02 - 23/02)
 {: .label .label-reading }

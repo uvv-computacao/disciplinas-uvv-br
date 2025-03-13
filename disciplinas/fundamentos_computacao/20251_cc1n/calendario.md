@@ -19,8 +19,8 @@
       <td>Recepção de Calouros</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td><a href="/assets/disciplinas/fundcomp/2025_1/exercicio_recepcao.pdf">Exercício
-          de recepção</a></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2025_1/exercicio_recepcao.pdf">
+          Exercício de recepção</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -179,10 +179,13 @@
     </tr>
     <tr>
       <th>Qui<br />27/2</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Unidade 1: Computação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re4sem">4ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2025_1/diario_1.pdf">
+          Diário 1: Computação</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -222,10 +225,13 @@
     </tr>
     <tr>
       <th>Qui<br />6/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Unidade 1: Computação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re5sem">5ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2025_1/diario_1.pdf">
+          Diário 1: Computação</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -265,10 +271,13 @@
     </tr>
     <tr>
       <th>Qui<br />13/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Aula:<br />
+          Unidade 1: Computação</td> <!-- Aula -->
+      <td><a href="/disciplinas/fundamentos_computacao/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/fundcomp/2025_1/diario_1.pdf">
+          Diário 1: Computação</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
