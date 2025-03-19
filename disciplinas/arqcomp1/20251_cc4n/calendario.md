@@ -251,16 +251,18 @@
     </tr>
     <tr>
       <th>Ter<br />11/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Teste sobre representação numérica</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />12/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 1a: abstrações computacionais</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re6sem">6ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td>Diário n.º 1</td> <!-- Hand in -->
@@ -294,16 +296,18 @@
     </tr>
     <tr>
       <th>Ter<br />18/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 1b: Construção de processadores</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re7sem">7ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />19/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 1c: performance</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re7sem">7ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->

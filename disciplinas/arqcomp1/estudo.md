@@ -7,10 +7,68 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-02-24 14:33 -0300
+last_modified_date: 2025-03-19 14:34 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 7ª Semana**<a id="re7sem"></a> (17/03 - 23/03)
+{: .label .label-reading }
+
+Nesta semana nosso objetivo é entender os grandes sub-sistemas que formam um
+computador (entrada, saída, memória, controle e datapath). Também estudaremos as
+tecnologias de construção de processadores e memórias, e começaremos o estudo
+sobre a performance dos processadores.
+
+- **Vídeos obrigatórios:**
+  - [Documentário Transistores - parte
+    01](https://www.youtube.com/watch?v=nP9loZiQ8ZU) 
+  - [Documentário Transistores - parte
+    02](https://www.youtube.com/watch?v=VZkJD_MD7Qs) 
+  - [Documentário Transistores - parte
+    03](https://www.youtube.com/watch?v=jtJStZn-P_M)
+  - [Transístor Explicado](https://www.youtube.com/watch?v=JROzWgqDZrQ)
+  - [A peça que encolheu o
+    computador](https://www.youtube.com/watch?v=sS7r7a-6SO0)
+  - [A história do transístor](https://www.youtube.com/watch?v=fmuIEI2mBlM)
+  - [A maior invenção da
+    humanidade](https://www.youtube.com/watch?v=vYIVtOB-4xQ&t)
+  - [Como um transístor funciona?](https://www.youtube.com/watch?v=IcrBqCFLHIY)
+  - [A criação dos processadores
+    explicada](https://www.youtube.com/watch?v=CiMnb06C4po) 
+  - [Veja como é feito um chip](https://www.youtube.com/watch?v=AuUOrrW8YOU)
+  - [Como os microchips são
+    feitos?](https://www.youtube.com/watch?v=Xos17z1sn3Y)
+- **Leituras obrigatórias:**
+  - [Notas de aula: Capítulo 1-b](/assets/disciplinas/arqcomp1/20251/cap01b.pdf)
+  - [Notas de aula: Capítulo 1-c](/assets/disciplinas/arqcomp1/20251/cap01c.pdf)
+- **Leituras recomendadas:**
+  - CSAPP: "*Chapter 1: A Tour of Computer Systems*"
+  - Dennis M. Ritchie: "[The Development of the C
+    Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)"
+- **Exercícios:**
+  - (em breve)
+
+---
+
+**Estudo da 6ª Semana**<a id="re6sem"></a> (10/03 - 16/03)
+{: .label .label-reading }
+
+Finalizaremos nesta semana nosso estudo aprofundado sobre a representação de
+números e começaremos a estudar mais diretamente a arquitetura e organização de
+computadores. Nosso interesse agora é entender as principais abstrações
+computacionais e as grandes idéias da computação que nos permitiram criar o
+hardware. Também começaremos a entender a interface entre o software e o
+hardware.
+
+- **Leituras obrigatórias:**
+  - [Notas de aula: Capítulo 1-a](/assets/disciplinas/arqcomp1/20251/cap01a.pdf)
+- **Leituras recomendadas:**
+  - CSAPP: "*Chapter 1: A Tour of Computer Systems*"
+  - Dennis M. Ritchie: "[The Development of the C
+    Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)"
+
+---
 
 **Estudo da 5ª Semana**<a id="re5sem"></a> (03/03 - 09/03)
 {: .label .label-reading }
@@ -262,33 +320,6 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
 
 ---
 
-**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - Notas de aula:
-    - [Cap. 1: Abstrações e Tecnologias (1.4 até
-      1.5)](/assets/disciplinas/arqcomp1/20242/cap01b.pdf) 
-    - [Cap. 1: Abstrações e Tecnologias
-      (1.6)](/assets/disciplinas/arqcomp1/20242/cap01c.pdf) 
-  - Outras:
-    - [Unidade 1: Fundamentos da
-      Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/) 
-- **Vídeos obrigatórios:**
-  - Unidade 1: Fundamentos da Computação: assistir os seguintes vídeos
-    (assista aos vídeos várias vezes até que você consiga entender tudo;
-    na página da CR6.100B você pode fazer o download dos slides
-    correspondentes a cada vídeo):
-    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
-    - [Parte 4: Pensamento
-      computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc) 
-    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
-- **Leituras recomendadas:**
-  - (nada para essa semana)
-- **Exercícios:**
-  - (nada para essa semana)
-
----
-
 **Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
@@ -474,24 +505,7 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
   - Notas de aula:
     - [Arquitetura da Memória](/assets/disciplinas/arqcomp1/20242/memoria.pdf)
 - **Vídeos obrigatórios:**
-  - [Documentário Transistores - parte
-    01](https://www.youtube.com/watch?v=nP9loZiQ8ZU) 
-  - [Documentário Transistores - parte
-    02](https://www.youtube.com/watch?v=VZkJD_MD7Qs) 
-  - [Documentário Transistores - parte
-    03](https://www.youtube.com/watch?v=jtJStZn-P_M)
-  - [Transístor Explicado](https://www.youtube.com/watch?v=JROzWgqDZrQ)
-  - [A peça que encolheu o
-    computador](https://www.youtube.com/watch?v=sS7r7a-6SO0)
-  - [A história do transístor](https://www.youtube.com/watch?v=fmuIEI2mBlM)
-  - [A maior invenção da
-    humanidade](https://www.youtube.com/watch?v=vYIVtOB-4xQ&t)
-  - [Como um transístor funciona?](https://www.youtube.com/watch?v=IcrBqCFLHIY)
-  - [A criação dos processadores
-    explicada](https://www.youtube.com/watch?v=CiMnb06C4po) 
-  - [Veja como é feito um chip](https://www.youtube.com/watch?v=AuUOrrW8YOU)
-  - [Como os microchips são
-    feitos?](https://www.youtube.com/watch?v=Xos17z1sn3Y)
+  
 - **Leituras recomendadas:**
   - (nada para essa semana)
 - **Exercícios:**
@@ -506,36 +520,8 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
       Maker](/assets/arduino/apostila_eletrogate_05_arduino_maker.pdf):
       exercício 8.
 
+
 <!--
----
-
-**Estudo da 15ª Semana**<a id="re15sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 16ª Semana**<a id="re16sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 17ª Semana**<a id="re17sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 18ª Semana**<a id="re18sem"></a>
-{: .label .label-reading }
-
----
-
-**Estudo da 19ª Semana**<a id="re19sem"></a>
-{: .label .label-reading }
-
----
-
-**20ª Semana: AV2**<a id="re20sem"></a>
-{: .label .label-reading }
 
 -->
 

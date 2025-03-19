@@ -3,7 +3,7 @@ title: Avisos da 5ª Semana
 semana: 5
 disciplina: arqcomp1
 semestre: 20251
-turma: XXcc4n
+turma: cc4n
 date: 2025-03-03
 ---
 
