@@ -7,10 +7,48 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-03-19 14:34 -0300
+last_modified_date: 2025-03-20 08:51 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 8ª Semana**<a id="re8sem"></a> (24/03 - 30/03)
+{: .label .label-reading }
+
+Nesta semana finalizaremos o estudo sobre a performance dos processadores e
+compreenderemos a interação entre as métricas do usuário e as métricas do
+projetista de hardware.
+
+- **Vídeos obrigatórios:**
+  - (em breve)
+- **Leituras obrigatórias:**
+  - (em breve)
+- **Leituras recomendadas:**
+  - (em breve)
+- **Exercícios:**
+  - Assista aos vídeos abaixo e leia os artigos indicados para poder responder
+    ao exercício sobre a "*Fast Inverse Square Root*"
+    - Artigos:
+      - [Origin of Quake3's Fast
+        InvSqrt](https://www.beyond3d.com/content/articles/8/)
+      - [Fast Inverse Square
+        Root](https://www.lomont.org/papers/2003/InvSqrt.pdf)
+      - [Understanding Quake’s Fast Inverse Square
+        Root](https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/)
+      - [Fast Inverse Square
+        Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
+    - Vídeos:
+      - [Fast Inverse Square Root — A Quake III
+        Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+      - [The Fast Inverse Square Root -- 0x5f3759df
+        explained!](https://www.youtube.com/watch?v=NCuf2tjUsAY)
+      - Se você tiver curiosidade e quiser aprender em (muito!) maior
+        profundidade, assista à playlist: [Understand Fast Inverse Square
+        Root](https://youtube.com/playlist?list=PLkd5S9lUKlOA3MpiTj9owaJqHBjR8fh2o&si=4Y1BVwZMnn7dp5D0)
+- **Outras atividades:**
+  - (em breve)
+
+---
 
 **Estudo da 7ª Semana**<a id="re7sem"></a> (17/03 - 23/03)
 {: .label .label-reading }
