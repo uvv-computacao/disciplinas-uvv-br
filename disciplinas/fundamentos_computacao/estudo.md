@@ -10,7 +10,31 @@ last_modified_date: 2025-03-13 09:34 -0300
 
 # Roteiro de estudo
 
-**Estudo da 6ª Semana**<a id="re6sem"></a> (17/03 - 23/03)
+**Estudo da 7ª Semana**<a id="re7sem"></a> (17/03 - 23/03)
+{: .label .label-reading }
+
+Nesta semana finalizaremos nosso estudo a respeito dos algoritmos e começaremos
+nosso estudo a respeito de pensamento computacional e abstração.
+
+- **Vídeos obrigatórios:**
+  - [Algoritmos](https://cmprz.me/cr6100b-unid-1-parte3-video)
+  - [Pensamento Computacional](https://cmprz.me/cr6100b-unid-1-parte4-video)
+- **Leituras obrigatórias:**
+  - [PDF dos slides da parte 3,
+    Algoritmos](https://cmprz.me/cr6100b-unid-1-parte-3-slides)
+  - [PDF sobre fluxograma](https://cmprz.me/cr6100b-unid-1-parte-3-fluxogramas)
+  - [PDF dos slides da parte 4,
+    Pensamento Computacional](https://cmprz.me/cr6100b-unid-1-parte-4-slides)
+- **Exercícios:**
+  - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2025_1/diario_1.pdf)**, perguntas
+    de n.º 161 até 206.
+  - Comece a fazer também as perguntas de n.º 207 até 216, sobre pensamento
+    computacional.
+
+---
+
+**Estudo da 6ª Semana**<a id="re6sem"></a> (10/03 - 16/03)
 {: .label .label-reading }
 
 Nesta semana aprenderemos sobre o "coração" da computação, os **algoritmos**!
