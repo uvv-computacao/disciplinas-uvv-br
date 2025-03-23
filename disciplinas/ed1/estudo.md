@@ -7,10 +7,62 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-03-08 19:23 -0300
+last_modified_date: 2025-03-23 00:49 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 8ª Semana**<a id="re8sem"></a> (24/03 - 30/03)
+{: .label .label-reading }
+
+Nesta semana começaremos nosso estudo sobre **recursividade**, um dos conceitos
+mais importantes da computação: é uma estratégia de resolver grandes problemas
+quebrando-os em problemas menores da mesma forma.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 4: Introduction to
+    Recursion"*. Ler o capítulo todo, analisando os exemplos e códigos.
+  - Notas de aula do Capítulo 4: Introdução à Recursão
+- **Vídeos obrigatórios:**
+  - [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+  - [EXTRA BITS: Recursion and the
+    Stack](https://www.youtube.com/watch?v=0pncNKHj-Sc) 
+  - [Programming Loops vs
+    Recursion](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+  - [Recursion: CS50 Shorts](https://www.youtube.com/watch?v=mz6tAJMVmfM)
+  - [Fibonacci Programming](https://www.youtube.com/watch?v=7t_pTlH9HwA)
+- **Leituras recomendadas:**
+  - (em breve)
+- **Vídeos recomendados:**
+  - [Sunflowers and Fibonacci](https://www.youtube.com/watch?v=DRjFV_DETKQ)
+  - [Fibonacci Tartan and Bagpipes](https://www.youtube.com/watch?v=e4sF_Z5oJek)
+  - [Fibonacci Mystery](https://www.youtube.com/watch?v=Nu-lW-Ifyec)
+  - [Heartbleed, Running the Code](https://www.youtube.com/watch?v=1dOCHwf8zVQ)
+- **Exercícios:**
+  - Lista de Exercícios do Cap. 4
+  - Lista de Exercícios Preparatórios para o Cap. 5
+
+---
+
+**Estudo da 7ª Semana**<a id="re7sem"></a> (17/03 - 23/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre Bibliotecas e Interfaces, com
+implementação na linguagem C. Também estaremos focados a utilizar (ler e
+escrever) arquivos de texto.
+
+- **Leituras obrigatórias:**
+  - As mesmas da semana 6. Continue lendo e estudando!
+- **Leituras (altamente!) recomendadas:**
+  - As mesmas da semana 6. Continue lendo e estudando!
+- **Códigos:**
+  - Os mesmos da semana 6. Continue estudando!
+- **Exercícios:**
+  - Os mesmos da semana 6. Continue fazendo a lista de exercícios teóricos
+    (manuscritos em papel almaço e fazendo a lista de exercícios de
+    programação).
+
+---
 
 **Estudo da 6ª Semana**<a id="re6sem"></a> (10/03 - 16/03)
 {: .label .label-reading }
@@ -38,7 +90,23 @@ escrever em arquivos de dados.
     devem ser respondidas de forma **manuscrita** em papel almaço. As questões
     de programação serão entregues no
     [Autolab](https://autolab.computacaoraiz.com.br) (verifique a data de
-    entrega no calendário de sua turma).
+    entrega no calendário de sua turma). Para fazer alguns dos exercícios, você
+    pode usar os arquivos abaixo:
+    - [`apologia_sem_acentos.txt`](/assets/disciplinas/ed1/apologia_sem_acentos.txt):
+      um pequeno trecho do livro "_Apologia de Sócrates_", de Platão, sem
+      acentos ou caracteres especiais. Aproveite e leia o [texto
+      original](/assets/docs/apologia_de_socrates.pdf) escrito por Platão, em
+      tradução de Maria Lacerda de Souza.
+    - [`br-sem-acentos.txt`](/assets/disciplinas/ed1/br-sem-acentos.txt): todas
+      as palavras do português brasileiro, sem acentos ou caracteres especiais,
+      em formato ASCII (lista produzida por [Paulo
+      Feofiloff](https://www.ime.usp.br/~pf/dicios/))
+    - [`br-utf8.txt`](/assets/disciplinas/ed1/br-utf8.txt): todas
+      as palavras do português brasileiro, COM acentos e caracteres especiais,
+      em formato UTF-8 (lista produzida por [Paulo
+      Feofiloff](https://www.ime.usp.br/~pf/dicios/)). Obs.: salve o arquivo em
+      seu computador, o navegador não conseguirá compreender corretamente os
+      acentos e caracteres especiais.
   - [Lista de Exercícios n.º 3
     (Extra)](/assets/disciplinas/ed1/2025_1/exercicio03_extra.pdf). Este é um
     exercício de programação OPCIONAL um pouco mais avançado. Você não é
@@ -251,82 +319,6 @@ iniciantes em UNIX/Linux (e uma folha de consulta rápida de comandos).
     disponibilizará uma máquina virtual Linux para os alunos.
 
 <!--
----
-
-**Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 2: Tipos de dados em
-    C](/assets/disciplinas/ed1/capitulo02.pdf)
-  - [Unidade 1: Fundamentos da
-    Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
-- **Vídeos obrigatórios:**
-  - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
-    você consiga entender tudo; na página da CR6.100B você pode fazer o
-    download dos slides correspondentes a cada vídeo):
-    - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
-    - [Parte 1: O que é ciência da
-      computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI)
-    - [Parte 2: Representação de
-      dados](https://www.youtube.com/watch?v=8T_hJhYg4R0)
-    - [Parte 2, Anexo 1: Conversão entre
-      bases](https://www.youtube.com/watch?v=7u4lJQE2xOk)
-    - [Parte 2, Anexo 2: Outros
-      conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE)
-    - [Parte 2, Anexo 3: Binários
-      negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM)
-    - [Parte 2, Anexo 4: Binários
-      fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8)
-    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
-- **Leituras recomendadas:**
-  - Capítulo 2 do *Programming Abstractions in C*: ler o capítulo 2 todo.
-- **Exercícios:**
-  - (na próxima semana)
-
----
-
-**Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 2: Tipos de dados em
-    C](/assets/disciplinas/ed1/capitulo02.pdf)
-  - [Unidade 1: Fundamentos da
-    Computação](https://www.computacaoraiz.com.br/cr6100b/unidades/1/)
-- **Vídeos obrigatórios:**
-  - Assistir os seguintes vídeos (assista aos vídeos várias vezes até que
-    você consiga entender tudo; na página da CR6.100B você pode fazer o
-    download dos slides correspondentes a cada vídeo):
-    - [Parte 3: Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
-    - [Parte 4: Pensamento
-      computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
-    - [Parte 5: Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
-- **Leituras recomendadas:**
-  - Capítulo 2 do *Programming Abstractions in C*: ler o capítulo 2 todo.
-- **Exercícios:**
-  - [Lista de Exercícios n.º 2](/assets/disciplinas/ed1/2024_2/exercicio02.pdf)
-
----
-
-**Estudo da 5ª Semana**<a id="re5sem"></a> (26/08 - 01/09)
-{: .label .label-reading }
-- **Leituras obrigatórias:**
-  - [Notas de aula do Capítulo 3: Bibliotecas e
-    Inferfaces](/assets/disciplinas/ed1/capitulo03.pdf)
-- **Vídeos obrigatórios:**
-  - [Fundamentos da Programação, Parte 1:
-    Scratch](https://www.youtube.com/watch?v=jaxotbKfnWA)
-    (atenção: este vídeo pode parecer um pouco **bobo** para alunos em períodos
-    mais adiantados no curso, mas este vídeo vai prepará-lo para entender alguns
-    conceitos avançados de programação que serão vistos posteriormente)
-- **Leituras recomendadas:**
-  - Capítulo 3 do *Programming Abstractions in C*: ler o capítulo 3 todo
-    (você pode pular a seção 3.4 e a seção 3.5, que serão vistas posteriormente;
-    se quiser se adiantar, leia também essas seções)
-- **Vídeos recomendados:**
-  - (nada nesta semana)
-- **Exercícios:**
-  - (nada até o momento)
-
 ---
 
 **Estudo da 6ª Semana**<a id="re6sem"></a> (02/09 - 08/09)

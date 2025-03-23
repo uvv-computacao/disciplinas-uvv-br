@@ -309,19 +309,23 @@
     <tr>
       <td rowspan=5>7</td> <!-- Número da semana-->
       <th>Seg<br />17/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 3:<br />
+          Bibliotecas e Interfaces</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re7sem">
+          7ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />18/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 3:<br />
+          Bibliotecas e Interfaces</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re7sem">
+          7ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td>Lista n.º 3</td> <!-- Hand in -->
+      <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />19/3</th> <!-- Dia e Data -->
@@ -352,19 +356,23 @@
     <tr>
       <td rowspan=5>8</td> <!-- Número da semana-->
       <th>Seg<br />24/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 4:<br />
+          Introdução à Recursão</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re8sem">
+          8ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />25/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 4:<br />
+          Introdução à Recursão</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re8sem">
+          8ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td>Lista n.º 3 Extra</td> <!-- Hand in -->
+      <td>Lista n.º 3</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />26/3</th> <!-- Dia e Data -->
@@ -407,7 +415,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 3 Extra</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />2/4</th> <!-- Dia e Data -->
