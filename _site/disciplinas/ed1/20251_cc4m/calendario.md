@@ -361,7 +361,8 @@
       <td><a href="/disciplinas/ed1/estudo/#re8sem">
           8ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio04.pdf">
+          Lista n.º 4</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -371,7 +372,8 @@
       <td><a href="/disciplinas/ed1/estudo/#re8sem">
           8ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio04_extra.pdf">
+          Lista n.º 4 (Extra)</a></td> <!-- Hand out -->
       <td>Lista n.º 3</td> <!-- Hand in -->
     </tr>
     <tr>
@@ -403,19 +405,25 @@
     <tr>
       <td rowspan=5>9</td> <!-- Número da semana-->
       <th>Seg<br />31/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 5:<br />
+          Procedimentos Recursivos</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re9sem">
+          9ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed1/2025_1/exercicio05.pdf">
+          Lista n.º 5</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />1/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 5:<br />
+          Procedimentos Recursivos</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re9sem">
+          9ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td>Lista n.º 3 Extra</td> <!-- Hand in -->
+      <td>Lista n.º 3 Extra<br />
+          Lista n.º 4 e 4 Extra</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />2/4</th> <!-- Dia e Data -->
@@ -446,19 +454,23 @@
     <tr>
       <td rowspan=5>10</td> <!-- Número da semana-->
       <th>Seg<br />7/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 6:<br />
+          Algoritmos de Backtracking</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re10sem">
+          10ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />8/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 6:<br />
+          Algoritmos de Backtracking</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed1/estudo/#re10sem">
+          10ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 5</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />9/4</th> <!-- Dia e Data -->

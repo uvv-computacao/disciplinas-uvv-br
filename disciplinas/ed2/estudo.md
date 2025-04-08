@@ -7,10 +7,98 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-03-23 00:49 -0300
+last_modified_date: 2025-04-07 16:48 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 10ª Semana**<a id="re10sem"></a> (07/04 - 13/04)
+{: .label .label-reading }
+
+Nesta semana aprenderemos sobre uma importante classe de algoritmos recursivos
+conhecidos como "algoritmos de backtracking", que são algoritmos que nos
+permitem encontrar a solução para problemas que dependem de uma seqüência de
+pontos de decisão nos quais, a cada decisão, você pode se aproximar ou se
+afastar da solução. Se percebermos que tomamos uma decisão errada, temos que
+retroceder (backtrack) e escolher outros caminhos. Estudaremos esses algoritmos
+através da programação da saída de um labirinto! Depois veremos como os
+algoritmos de backtracking podem se aplicar à maioria dos jogos de estratégia
+entre dois jogadores estudando como implementar o Jogo de Nim. E, por último,
+faremos a generalização dos algoritmos de backtracking para jogos entre dois
+jogadores através de um algoritmo especial chamado de "minimax".
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 6: Backtracking Algorithms"*. Ler
+    o capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo 6: Algoritmos de
+    Backtracking](/assets/disciplinas/ed2/2025_1/capitulo06.pdf)
+- **Vídeos obrigatórios:**
+  - [Backtracking (Think Like a
+    Programmer)](https://www.youtube.com/watch?v=gBC_Fd8EE8A)
+  - [Backtracking made easy](https://www.youtube.com/watch?v=51Zy1ULau1s)
+  - [The Backtracking Blueprint](https://www.youtube.com/watch?v=Zq4upTEaQyM)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - [Backtracking](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdbOTog8Jxk9XOjzUs3egMP)
+    (uma playlist com 21 vídeos que ensina o que são os algoritmos de
+    backtracking e a resolução de diversos problemas utilizando essa estratégia:
+    permutação de strings, labirinto, palíndromos, combinações diversas, o
+    problema das N-Rainhas, e um solucionador de Sudoku)
+  - [The N-Queens Problem](https://www.youtube.com/watch?v=wGbuCyNpxIg)
+  - [Implement A Sudoku Solver](https://www.youtube.com/watch?v=JzONv5kaPJM)
+- **Códigos:**
+  - [Códigos do Capítulo 6](/assets/disciplinas/ed2/2025_1/cod_cap06.zip)
+- **Exercícios:**
+  - (nada para esta semana)
+
+---
+
+**Estudo da 9ª Semana**<a id="re9sem"></a> (31/03 - 06/04)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre recursividade discutindo alguns
+procedimentos recursivos mais avançados. Analisaremos o exemplo clássico de
+aplicação de recursividade, o problema da Torre de Hanoi; também aprenderemos o
+que fazer quando o subproblema recursivo não tem a mesma forma do problema
+original; e, por último, estudaremos algumas aplicações gráficas da recursão
+reproduzindo quadros no estilo de Piet Mondrian e criando o fractal de Koch.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 5: Recursive Procedures"*. Ler o
+    capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo 5: Procedimentos
+    Recursivos](/assets/disciplinas/ed2/2025_1/capitulo05.pdf)
+- **Vídeos obrigatórios:**
+  - [Loops, Ackermann &
+    Recursion](https://www.youtube.com/watch?v=DVG5G1V8Zx0)
+  - [The Most Difficult Program to
+    Compute?](https://www.youtube.com/watch?v=i7sm9dzFtEI)
+  - [Ackermann Follow Up](https://www.youtube.com/watch?v=uNACwX-O5lk)
+  - [Recursion 'Super Power' (in
+    Python)](https://www.youtube.com/watch?v=8lhxIOAfDss)
+  - [Discussing Recursion](https://www.youtube.com/watch?v=c9IH8DHDI4M)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - [5 Simple Steps for Solving Any Recursive
+    Problem](https://www.youtube.com/watch?v=ngCos392W4w)
+  - [Reverse Polish Notation and The
+    Stack](https://www.youtube.com/watch?v=7ha78yWRDlE)
+  - [Towers of Hanoi: A Complete Recursive
+    Visualization](https://www.youtube.com/watch?v=rf6uf3jNjbo)
+  - [The Towers of Hanoi: Experiential Recursive
+    Thinking](https://www.youtube.com/watch?v=UuIneNBbscc)
+  - [Towers of Hanoi as an Example of
+    Recursion](https://www.youtube.com/watch?v=Ajy8XweC3L8)
+  - [Key to the Tower of Hanoi](https://www.youtube.com/watch?v=PGuRmqpr6Oo)
+- **Códigos:**
+  - [Códigos do Capítulo 5](/assets/disciplinas/ed2/2025_1/cod_cap05.zip)
+- **Exercícios:**
+  - [Lista de Exercícios do
+    Cap. 5](/assets/disciplinas/ed2/2025_1/exercicio05.pdf)
+
+---
 
 **Estudo da 8ª Semana**<a id="re8sem"></a> (24/03 - 30/03)
 {: .label .label-reading }
@@ -22,7 +110,8 @@ quebrando-os em problemas menores da mesma forma.
 - **Leituras obrigatórias:**
   - *Programming Abstractions in C - "Chapter 4: Introduction to
     Recursion"*. Ler o capítulo todo, analisando os exemplos e códigos.
-  - Notas de aula do Capítulo 4: Introdução à Recursão
+  - [Notas de aula do Capítulo 4: Introdução à
+    Recursão](/assets/disciplinas/ed2/2025_1/capitulo04.pdf)
 - **Vídeos obrigatórios:**
   - [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
   - [EXTRA BITS: Recursion and the
@@ -32,15 +121,18 @@ quebrando-os em problemas menores da mesma forma.
   - [Recursion: CS50 Shorts](https://www.youtube.com/watch?v=mz6tAJMVmfM)
   - [Fibonacci Programming](https://www.youtube.com/watch?v=7t_pTlH9HwA)
 - **Leituras recomendadas:**
-  - (em breve)
+  - (nada no momento)
 - **Vídeos recomendados:**
   - [Sunflowers and Fibonacci](https://www.youtube.com/watch?v=DRjFV_DETKQ)
   - [Fibonacci Tartan and Bagpipes](https://www.youtube.com/watch?v=e4sF_Z5oJek)
   - [Fibonacci Mystery](https://www.youtube.com/watch?v=Nu-lW-Ifyec)
-  - [Heartbleed, Running the Code](https://www.youtube.com/watch?v=1dOCHwf8zVQ)
+- **Códigos:**
+  - [Códigos do Capítulo 4](/assets/disciplinas/ed2/2025_1/cod_cap04.zip)
 - **Exercícios:**
-  - Lista de Exercícios do Cap. 4
-  - Lista de Exercícios Preparatórios para o Cap. 5
+  - [Lista de Exercícios do
+    Cap. 4](/assets/disciplinas/ed2/2025_1/exercicio04.pdf)
+  - [Lista de Exercícios Preparatórios para o Cap. 5 (Lista 4
+    Extra)](/assets/disciplinas/ed2/2025_1/exercicio04_extra.pdf)
 
 ---
 
