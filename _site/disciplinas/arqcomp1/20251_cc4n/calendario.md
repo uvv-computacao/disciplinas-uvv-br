@@ -341,16 +341,18 @@
     </tr>
     <tr>
       <th>Ter<br />25/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 1c: performance</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re8sem">8ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />26/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 1c: performance</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re8sem">8ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -376,7 +378,7 @@
     <tr>
       <td rowspan=5>9</td> <!-- Número da semana-->
       <th>Seg<br />31/3</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>AULA CANCELADA</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -384,7 +386,7 @@
     </tr>
     <tr>
       <th>Ter<br />1/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>AULA CANCELADA</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -427,16 +429,18 @@
     </tr>
     <tr>
       <th>Ter<br />8/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 2: Arquitetura do Processador</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re10sem">10ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />9/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 2: Arquitetura do Processador</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re10sem">10ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -470,16 +474,18 @@
     </tr>
     <tr>
       <th>Ter<br />15/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 2: Arquitetura do Processador</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re11sem">11ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />16/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 2: Arquitetura do Processador</td> <!-- Aula -->
+      <td><a href="/disciplinas/arqcomp1/estudo/#re11sem">11ª
+          semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->

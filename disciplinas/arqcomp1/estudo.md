@@ -7,10 +7,44 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-03-20 08:51 -0300
+last_modified_date: 2025-04-16 16:52 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (14/04 - 20/04)
+{: .label .label-reading }
+
+Nesta semana faremos exercícios sobre a transformação de um código em alto
+nível, na linguagem C, para o assembly RISC-V correspondente e, depois, sobre a
+transformação do assembly para o binário correspondente.
+
+- **Exercícios:**
+  - [Exercício Assembly
+    RISC-V](/assets/disciplinas/arqcomp1/20251/exercicio_assembly.pdf)
+
+---
+
+**Estudo da 10ª Semana**<a id="re10sem"></a> (07/04 - 13/04)
+{: .label .label-reading }
+
+Começaremos nosso estudo da arquitetura dos processadores, utilizando como
+modelo de estudo a arquitetura RISC-V! Também faremos uma breve revisão sobre a
+representação numérica nos computadores.
+
+- **Leituras obrigatórias:**
+  - [Notas de aula: Capítulo 2a](/assets/disciplinas/arqcomp1/20251/cap02a.pdf)
+  - [Notas de aula: Capítulo 2b](/assets/disciplinas/arqcomp1/20251/cap02b.pdf)
+  - [Notas de aula: Capítulo 2c](/assets/disciplinas/arqcomp1/20251/cap02c.pdf)
+
+---
+
+**Estudo da 9ª Semana**<a id="re9sem"></a> (31/03 - 06/04)
+{: .label .label-reading }
+
+As aulas desta semana foram canceladas por motivo de doença do professor.
+
+---
 
 **Estudo da 8ª Semana**<a id="re8sem"></a> (24/03 - 30/03)
 {: .label .label-reading }
@@ -20,33 +54,24 @@ compreenderemos a interação entre as métricas do usuário e as métricas do
 projetista de hardware.
 
 - **Vídeos obrigatórios:**
-  - (em breve)
+  - [Fast Inverse Square Root — A Quake III
+    Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+  - [The Fast Inverse Square Root -- 0x5f3759df
+    explained!](https://www.youtube.com/watch?v=NCuf2tjUsAY)
+  - Se você tiver curiosidade e quiser aprender em (muito!) maior
+    profundidade, assista à playlist: [Understand Fast Inverse Square
+    Root](https://youtube.com/playlist?list=PLkd5S9lUKlOA3MpiTj9owaJqHBjR8fh2o&si=4Y1BVwZMnn7dp5D0)
 - **Leituras obrigatórias:**
-  - (em breve)
+  - [Notas de aula: Capítulo 1-c](/assets/disciplinas/arqcomp1/20251/cap01c.pdf)
 - **Leituras recomendadas:**
-  - (em breve)
-- **Exercícios:**
-  - Assista aos vídeos abaixo e leia os artigos indicados para poder responder
-    ao exercício sobre a "*Fast Inverse Square Root*"
-    - Artigos:
-      - [Origin of Quake3's Fast
-        InvSqrt](https://www.beyond3d.com/content/articles/8/)
-      - [Fast Inverse Square
-        Root](https://www.lomont.org/papers/2003/InvSqrt.pdf)
-      - [Understanding Quake’s Fast Inverse Square
-        Root](https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/)
-      - [Fast Inverse Square
-        Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
-    - Vídeos:
-      - [Fast Inverse Square Root — A Quake III
-        Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
-      - [The Fast Inverse Square Root -- 0x5f3759df
-        explained!](https://www.youtube.com/watch?v=NCuf2tjUsAY)
-      - Se você tiver curiosidade e quiser aprender em (muito!) maior
-        profundidade, assista à playlist: [Understand Fast Inverse Square
-        Root](https://youtube.com/playlist?list=PLkd5S9lUKlOA3MpiTj9owaJqHBjR8fh2o&si=4Y1BVwZMnn7dp5D0)
-- **Outras atividades:**
-  - (em breve)
+  - [Origin of Quake3's Fast
+    InvSqrt](https://www.beyond3d.com/content/articles/8/)
+  - [Fast Inverse Square
+    Root](https://www.lomont.org/papers/2003/InvSqrt.pdf)
+  - [Understanding Quake’s Fast Inverse Square
+    Root](https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/)
+  - [Fast Inverse Square
+    Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
 
 ---
 
