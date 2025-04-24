@@ -7,10 +7,77 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-04-07 16:48 -0300
+last_modified_date: 2025-04-22 17:04 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 12ª Semana**<a id="re12sem"></a> (21/04 - 27/04)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre algoritmos de ordenação e análise
+da complexidade de algoritmos.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 7: Algorithmic Analysis"*. Ler
+    o capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo 7: Ordenação e Análise
+    Algoritmos](/assets/disciplinas/ed2/2025_1/capitulo07.pdf)
+- **Vídeos obrigatórios:**
+  - [Visualization and Comparison of Sorting
+    Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+  - [Visualization of 24 Sorting Algorithms In 2
+    Minutes](https://www.youtube.com/watch?v=BeoCbJPuvSE)
+  - [Sorting Algorithms Explained
+    Visually](https://www.youtube.com/watch?v=RfXt_qHDEPw)
+- **Leituras recomendadas:**
+  - [Árvore de recursão para resolver recorrências: passo a
+    passo](/assets/disciplinas/ed2/2025_1/rectree.pdf) (leitura avançada, leia
+    se tiver curiosidade de como calcular a complexidade do _merge sort_)
+- **Vídeos recomendados:**
+  - [Every Sorting Algorithm Explained in 120 minutes (full
+    series)](https://www.youtube.com/watch?v=h1Bi0granxM)
+- **Códigos:**
+  - [Códigos do Capítulo 7](/assets/disciplinas/ed2/2025_1/cod_cap07.zip)
+- **Exercícios:**
+  - (nada para esta semana)
+
+---
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (14/04 - 20/04)
+{: .label .label-reading }
+
+Nesta semana aprenderemos sobre os principais algoritmos de ordenação, desde os
+métodos simples e "lentos" (_selection sort_, _insertion sort_, _bubble sort_)
+até os métodos mais sofisticados (_merge sort_, _quick sort_). Aproveitaremos o
+estudo dos métodos de ordenação para discutirmos sobre complexidade de
+algoritmos e veremos as principais notações assintóticas.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 7: Algorithmic Analysis"*. Ler
+    o capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo 7: Ordenação e Análise
+    Algoritmos](/assets/disciplinas/ed2/2025_1/capitulo07.pdf)
+- **Vídeos obrigatórios:**
+  - [Visualization and Comparison of Sorting
+    Algorithms](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
+  - [Visualization of 24 Sorting Algorithms In 2
+    Minutes](https://www.youtube.com/watch?v=BeoCbJPuvSE)
+  - [Sorting Algorithms Explained
+    Visually](https://www.youtube.com/watch?v=RfXt_qHDEPw)
+- **Leituras recomendadas:**
+  - [Árvore de recursão para resolver recorrências: passo a
+    passo](/assets/disciplinas/ed2/2025_1/rectree.pdf) (leitura avançada, leia
+    se tiver curiosidade de como calcular a complexidade do _merge sort_)
+- **Vídeos recomendados:**
+  - [Every Sorting Algorithm Explained in 120 minutes (full
+    series)](https://www.youtube.com/watch?v=h1Bi0granxM)
+- **Códigos:**
+  - [Códigos do Capítulo 7](/assets/disciplinas/ed2/2025_1/cod_cap07.zip)
+- **Exercícios:**
+  - (nada para esta semana)
+
+---
 
 **Estudo da 10ª Semana**<a id="re10sem"></a> (07/04 - 13/04)
 {: .label .label-reading }

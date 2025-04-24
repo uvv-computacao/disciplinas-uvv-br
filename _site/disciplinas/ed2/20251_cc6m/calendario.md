@@ -501,16 +501,20 @@
     <tr>
       <td rowspan=5>11</td> <!-- Número da semana-->
       <th>Seg<br />14/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 6:<br />
+          Algoritmos de Backtracking</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re10sem">
+          10ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />15/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 7:<br />
+          Ordenação e Complexidade</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re11sem">
+          11ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
@@ -544,7 +548,7 @@
     <tr>
       <td rowspan=5>12</td> <!-- Número da semana-->
       <th>Seg<br />21/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>FERIADO</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -552,8 +556,10 @@
     </tr>
     <tr>
       <th>Ter<br />22/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 7:<br />
+          Ordenação e Complexidade</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re12sem">
+          12ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
