@@ -7,10 +7,57 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-04-22 17:04 -0300
+last_modified_date: 2025-05-06 18:46 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 14ª Semana**<a id="re14sem"></a> (05/05 - 11/05)
+{: .label .label-reading }
+
+Nesta semana aprenderemos sobre os **Tipos Abstratos de Dados** (TADs),
+aprenderemos sobre **Estruturas de Dados** (EDs), a diferença entre TADs e EDs,
+conheceremos os principais TADs da computação e aprenderemos a criar o TAD
+Pilha.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 8: Abstract Data Types"*. Ler o
+    capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo 8: Tipos Abstratos de
+    Dados](/assets/disciplinas/ed2/2025_1/capitulo08.pdf)
+- **Vídeos obrigatórios:**
+  - (nada para esta semana)
+- **Leituras recomendadas:**
+  - (nada para esta semana)
+- **Vídeos recomendados:**
+  - (nada para esta semana)
+- **Códigos:**
+  - [Códigos do Capítulo 8](/assets/disciplinas/ed2/2025_1/cod_cap08.zip)
+  - [Códigos avançados do Capítulo 8: pilhas genéricas em
+    C](/assets/disciplinas/ed2/2025_1/stackTAD_generico.rar) (estude se tiver
+    curiosidade de aprender a criar uma pilha genérica em C)
+- **Exercícios:**
+  - [Lista de Exercícios do
+    Cap. 8](/assets/disciplinas/ed2/2025_1/exercicio08.pdf)
+
+---
+
+**Estudo da 13ª Semana**<a id="re13sem"></a> (28/04 - 04/05)
+{: .label .label-reading }
+
+Nesta semana não haverá aula na segunda-feira e, na terça-feira, faremos nossa
+**AVALIAÇÃO BIMESTRAL: AV-1**. O conteúdo da AV1 corresponde a toda a matéria
+das semanas 1 a 12, ou seja, tudo o que foi visto no bimestre. Obs.:
+
+- A prova é totalmente **objetiva**, com 60 questões. A nota sai na hora.
+- Venha bem preparado! A prova é **extensa** e não é fácil!
+- Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
+  flagrados com qualquer tipo de cola terão a AV1 zerada imediatamente e serão
+  encaminhados para a coordenação para as medidas disciplinares conforme o
+  regimento da UVV.
+- O professor determinará o assento de cada aluno.
+
+---
 
 **Estudo da 12ª Semana**<a id="re12sem"></a> (21/04 - 27/04)
 {: .label .label-reading }

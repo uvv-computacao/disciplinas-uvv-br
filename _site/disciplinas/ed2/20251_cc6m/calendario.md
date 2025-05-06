@@ -593,7 +593,7 @@
     <tr>
       <td rowspan=5>13</td> <!-- Número da semana-->
       <th>Seg<br />28/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>FERIADO</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -601,7 +601,7 @@
     </tr>
     <tr>
       <th>Ter<br />29/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>AVALIAÇÃO BIMESTRAL AV-1</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
@@ -636,18 +636,24 @@
     <tr>
       <td rowspan=5>14</td> <!-- Número da semana-->
       <th>Seg<br />5/5</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 8:<br />
+          Tipos Abstratos de Dados</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re14sem">
+          14ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio08.pdf">
+          Lista n.º 8</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />6/5</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 8:<br />
+          Tipos Abstratos de Dados</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re14sem">
+          14ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio08.pdf">
+          Lista n.º 8</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
@@ -734,7 +740,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 8</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />21/5</th> <!-- Dia e Data -->
