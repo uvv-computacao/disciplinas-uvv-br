@@ -5,9 +5,9 @@ grand_parent: Fundamentos da Computação
 parent: Atividades no Autolab
 has_children: false
 has_toc: false
-nav_exclude: true
+nav_exclude: false
 nav_order: 20
-last_modified_date: 2025-02-07 14:39 -0300
+last_modified_date: 2025-05-05 14:39 -0300
 ---
 
 # Atividades do Autolab para a Unidade 2
@@ -23,7 +23,7 @@ O arquivo de *handout* do **PSET 0: Scratch** está disponível no Autolab e no
 link abaixo:
 
 * [Handout do **PSET 0:
-  Scratch**](/assets/disciplinas/fundcomp/2024_2/cs50_scratch-handout.rar) (esse
+  Scratch**](/assets/disciplinas/fundcomp/2025_1/cs50_scratch-handout.rar) (esse
   arquivo está compactado no formato RAR: você precisará descompactar o arquivo
   para poder acessar o conteúdo).
   

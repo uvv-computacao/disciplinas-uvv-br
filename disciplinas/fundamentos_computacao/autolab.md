@@ -33,8 +33,6 @@ last_modified_date: 2025-05-05 14:37 -0300
 >
 > Bons estudos!
 
-<!--
-
 **Unidade 2: Programação**<a id="autolab2"></a>
 {: .label .label-reading }
 
@@ -45,6 +43,7 @@ last_modified_date: 2025-05-05 14:37 -0300
 - Acesse a página da [Atividades do Autolab para a Unidade 2](unidade2/) para
   maiores informações.
 
+<!--
 ---
 
 **Unidade 3: C**<a id="autolab3"></a>
