@@ -4,9 +4,9 @@ title: Atividades no Autolab
 nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 25
-has_children: false
+has_children: true
 has_toc: false
-last_modified_date: 2025-02-07 14:37 -0300
+last_modified_date: 2025-05-05 14:37 -0300
 ---
 
 # Atividades no Autolab
