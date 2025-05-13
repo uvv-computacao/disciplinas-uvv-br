@@ -7,10 +7,39 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-05-06 18:46 -0300
+last_modified_date: 2025-05-12 23:46 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 15ª Semana**<a id="re15sem"></a> (12/05 - 18/05)
+{: .label .label-reading }
+
+Nesta semana estudaremos sobre o TAD Dicionário e suas duas principais
+implementações: o *dictionary* e a *symbol table*. Também conheceremos uma outra
+estrutura de dados, a *hash table*, muito utilizada para implementar
+dicionários. Por fim, estudaremos conceitos avançados da computação como o uso
+de *higher-order functions*, funções de *callback*, funções de mapeamento e
+outras. Aprenderemos a usar funções como dados.
+
+- **Leituras obrigatórias:**
+  - *Programming Abstractions in C - "Chapter 11: Symbol Tables"*. Ler o
+    capítulo todo, analisando os exemplos e códigos.
+  - [Notas de aula do Capítulo 11 (parte 1): Dicionários e Tabelas de
+    Símbolos](/assets/disciplinas/ed2/2025_1/capitulo11a.pdf)
+- **Vídeos obrigatórios:**
+  - (nada para esta semana)
+- **Leituras recomendadas:**
+  - (nada para esta semana)
+- **Vídeos recomendados:**
+  - (nada para esta semana)
+- **Códigos:**
+  - Códigos do Capítulo 11 (em breve)
+- **Exercícios:**
+  - [Lista de Exercícios do
+    Cap. 11 (parte 1)](/assets/disciplinas/ed2/2025_1/exercicio11a.pdf)
+
+---
 
 **Estudo da 14ª Semana**<a id="re14sem"></a> (05/05 - 11/05)
 {: .label .label-reading }

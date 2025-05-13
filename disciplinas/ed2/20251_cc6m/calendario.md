@@ -685,19 +685,23 @@
     <tr>
       <td rowspan=5>15</td> <!-- Número da semana-->
       <th>Seg<br />12/5</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td>Capítulo 11:<br />
+          Dicionários e Tabelas de Símbolos</td> <!-- Aula -->
+      <td><a href="/disciplinas/ed2/estudo/#re15sem">
+          15ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand out -->
+      <td><a href="/assets/disciplinas/ed2/2025_1/exercicio11a.pdf">
+          Lista n.º 11</a></td> <!-- Hand out -->
       <td></td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Ter<br />13/5</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>Capítulo 11:<br />
+          Exercício em Sala</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand out -->
-      <td></td> <!-- Hand in -->
+      <td>Lista n.º 11</td> <!-- Hand in -->
     </tr>
     <tr>
       <th>Qua<br />14/5</th> <!-- Dia e Data -->
