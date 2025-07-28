@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iniciação Científica em Computação
-nav_exclude: false
+nav_exclude: true
 nav_order: 1000
 has_children: true
 has_toc: false

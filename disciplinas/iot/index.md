@@ -3,7 +3,7 @@ layout: page
 title: Internet das Coisas
 grand_parent:
 parent:
-nav_exclude: false
+nav_exclude: true
 nav_order: 170
 has_toc: false
 has_children: true

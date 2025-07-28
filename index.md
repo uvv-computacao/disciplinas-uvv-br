@@ -4,7 +4,7 @@ title:  Home
 nav_exclude: false
 nav_order: 1
 permalink: /
-last_modified_date: 2023-12-19 16:00 -0300
+last_modified_date: 2025-07-28 10:26 -0300
 ---
 
 # **Disciplinas UVV**
@@ -21,8 +21,8 @@ Informações e recursos para as disciplinas da [Universidade Vila Velha
 A UVV é conhecida no mundo acadêmico como a **Melhor Universidade Privada do
 Brasil**, um título anual que considera diversos indicadores do Ministério da
 Educação (MEC) e do Instituto Nacional de Estudos e Pesquisas Educacionais
-Anísio Teixeira (Inep). No início de 2023 conquistamos o título de melhor
-universidade privada pelo [sétimo ano
+Anísio Teixeira (Inep). No início de 2025 conquistamos o título de melhor
+universidade privada pelo [oitavo ano
 consecutivo](https://cmprz.me/uvvmelhorbrasil)! Sim, você fez a escolha certa
 para seu futuro.
 

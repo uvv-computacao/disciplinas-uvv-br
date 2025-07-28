@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estrutura de Dados II
-nav_exclude: false
+nav_exclude: true
 nav_order: 110
 has_children: true
 has_toc: false

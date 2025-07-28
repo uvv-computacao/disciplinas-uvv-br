@@ -18,14 +18,14 @@ end
 # Windows (sempre ele!) não tem arquivos "zoneinfo",
 # entao vamos agregar tudo com a gem tzinfo-data e
 # outras bibliotecas associadas:
-platforms :mingw, :x64_mingw, :mswin, :jruby do
+platforms :windows, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
 
 # "Performance-booster" para monitorar diretórios
 # ao usar Windows:
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.1.1", :platforms => [:windows]
 
 # Mantém a gem `http_parser.rb` na versão `v0.6.x`
 # durante os builds do JRuby, já que novas versõe~s das gem
