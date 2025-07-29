@@ -55,9 +55,11 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
 - **Exercícios:**
   - (nada no momento)
 - **Outras atividades:**
-  - Instale um sistema de virtualização (Oracle VirtualBox ou VMWare
-    Workstation) e instale o **Ubuntu Server 24.04.2 LTS** (siga as instruções
-    do professor).
+  - Instale o sistema de virtualização VMWare e depois instale o sistema
+    operacional **Ubuntu Server 24.04.2 LTS**, seguindo as [instruções de
+    instalação da máquina
+    virtual](/assets/disciplinas/so/maqvirt/instalacao_ubuntu_server.pdf). O
+    professor demonstrará em sala de aula essa instalação.
 
 <!--
 
