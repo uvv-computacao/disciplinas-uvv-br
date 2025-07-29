@@ -12,7 +12,82 @@ last_modified_date: 2025-07-28 10:41 -0300
 
 # Roteiro de estudo
 
+Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
+
+- HLW = *How Linux Works* (livro)
+- TLCL = *The Linux Command Line* (livro)
+- SOM = *Sistemas Operacionais Modernos* (livro)
+- ASO = *Arquitetura de Sistemas Operacionais* (livro)
+- WIKI = *Wikipedia* (recurso online ou PDF gerado a partir da Wikipedia)
+- IA = *Inteligência Artificial* (recurso gerado por inteligência artificial)
+- NOT = *Notas de Aula* (material preparado pelo professor)
+
+**Estudo da 1ª Semana**<a id="re01sem"></a> (28/07 - 03/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [NOT: 1. Visão geral](/assets/disciplinas/so/2025_2/01_visao_geral.pdf)
+  - [WIKI: Operating
+    System](/assets/disciplinas/so/2025_2/wiki_operating_system.pdf)
+  - HLW: 1. The Big Picture
+- **Vídeos obrigatórios:**
+  - [What is Unix and why does it
+    matter?](https://www.youtube.com/watch?v=UVyKkcPoRb8)
+  - [AT&T Archives: The UNIX Operating
+    System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+  - [UNIX: Making Computers Easier To
+    Use](https://www.youtube.com/watch?v=XvDZLjaCJuw)
+  - [Pushing the Limits of Technology: The Ken Thompson and Dennis Ritchie
+    Story](https://www.youtube.com/watch?v=g3jOJfrOknA)
+  - [The Computer Chronicles -
+    UNIX](https://www.youtube.com/watch?v=0DdoGPav3fc)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - [UNIX was designed for
+    programmers](https://www.youtube.com/watch?v=v0ON23Y4W68)
+  - [Ken Thompson interviewed by Brian
+    Kernighan](https://www.youtube.com/watch?v=EY6q5dv_B-o)
+  - [UNIX memoir, in first person - Ken
+    Thompson](https://www.youtube.com/watch?v=xKNaCzdn6sY)
+  - [UNIX before Linux](https://www.youtube.com/watch?v=pzf3VlKNLiI)
+  - [Ken Thompson Biography](https://www.youtube.com/watch?v=Qu8g5NTN9iI)
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - Instale um sistema de virtualização (Oracle VirtualBox ou VMWare
+    Workstation) e instale o **Ubuntu Server 24.04.2 LTS** (siga as instruções
+    do professor).
+
 <!--
+
+  - [UNIX memoir, in first person - Ken
+    Thompson](https://www.youtube.com/watch?v=xKNaCzdn6sY)
+    
+    https://www.youtube.com/watch?v=HADp3emVABg
+    
+    https://www.youtube.com/watch?v=AEsdyAeumVQ
+    
+    https://www.youtube.com/watch?v=79IBT04qeZ4
+    
+    https://www.youtube.com/watch?v=nS-0Vrmok6Y
+    
+    https://www.youtube.com/watch?v=_2NI6t2r_Hs
+    
+    https://www.youtube.com/watch?v=XuzeagzQwRs
+    
+    https://www.youtube.com/watch?v=Ffh3DRFzRL0
+    
+    https://www.youtube.com/watch?v=l03CF9_078I
+    
+    https://www.youtube.com/watch?v=wqI7MrtxPnk
+    
+    https://www.youtube.com/watch?v=ECCr_KFl41E
+    
+    https://www.youtube.com/watch?v=tt2nHK0oaSg
+    
+    
+
 **Estudo da 11ª Semana**<a id="re11sem"></a> (14/04 - 20/04)
 {: .label .label-reading }
 
