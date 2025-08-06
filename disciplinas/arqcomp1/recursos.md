@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Recursos
-nav_exclude: false
+grand_parent:
 parent: Arq. de Computadores I
+nav_exclude: false
 nav_order: 30
+has_toc: true
 has_children: false
-last_modified_date: 2024-09-04 09:03 -0300
+last_modified_date: 2024-07-06 15:07 -0300
 ---
 
 # Recursos diversos
@@ -88,25 +90,42 @@ Esta disciplina utilizará os seguintes livros:
 </table>
 
 ## Apostilas sobre Arduino
-* [Curso básico de Arduino](/assets/arduino/apostila_curso_basico_de_arduino.pdf)
-* [Eletrogate: Arduino Iniciante](/assets/arduino/apostila_eletrogate_01_arduino_iniciante.pdf)
-* [Eletrogate: Arduino Start](/assets/arduino/apostila_eletrogate_02_arduino_start.pdf)
-* [Eletrogate: Arduino Beginning](/assets/arduino/apostila_eletrogate_03_arduino_beginning.pdf)
-* [Eletrogate: Arduino Intermediate](/assets/arduino/apostila_eletrogate_04_arduino_intermediate.pdf)
-* [Eletrogate: Arduino Maker](/assets/arduino/apostila_eletrogate_05_arduino_maker.pdf)
-* [Eletrogate: Automação Residencial](/assets/arduino/apostila_eletrogate_06_automacao_residencial.pdf)
-* [Eletrogate: Arduino Robô WiFi](/assets/arduino/apostila_eletrogate_07_arduino_robo_wifi.pdf)
-* [Eletrogate: Arduino Robótica](/assets/arduino/apostila_eletrogate_08_arduino_robotica.pdf)
-* [Eletrogate: Arduino Advanced](/assets/arduino/apostila_eletrogate_09_arduino_advanced.pdf)
-* [Eletrogate: Arduino Big Jack](/assets/arduino/apostila_eletrogate_10_arduino_big_jack.pdf)
-* [Eletrogate: Arduino Kids](/assets/arduino/apostila_eletrogate_11_arduino_kids.pdf)
-* [Multilógica: Arduino Guia Iniciante](/assets/arduino/arduino_guia_iniciante_multilogica_Shop.pdf)
+* [Official Arduino Projects Book](/assets/arduino/arduino_projects_book.pdf)
+* [Curso básico de
+  Arduino](/assets/arduino/apostila_curso_basico_de_arduino.pdf)
+* [Eletrogate: Arduino
+  Iniciante](/assets/arduino/apostila_eletrogate_01_arduino_iniciante.pdf)
+* [Eletrogate: Arduino
+  Start](/assets/arduino/apostila_eletrogate_02_arduino_start.pdf)
+* [Eletrogate: Arduino
+  Beginning](/assets/arduino/apostila_eletrogate_03_arduino_beginning.pdf)
+* [Eletrogate: Arduino
+  Intermediate](/assets/arduino/apostila_eletrogate_04_arduino_intermediate.pdf)
+* [Eletrogate: Arduino
+  Maker](/assets/arduino/apostila_eletrogate_05_arduino_maker.pdf)
+* [Eletrogate: Automação
+  Residencial](/assets/arduino/apostila_eletrogate_06_automacao_residencial.pdf)
+* [Eletrogate: Arduino Robô
+  WiFi](/assets/arduino/apostila_eletrogate_07_arduino_robo_wifi.pdf)
+* [Eletrogate: Arduino
+  Robótica](/assets/arduino/apostila_eletrogate_08_arduino_robotica.pdf)
+* [Eletrogate: Arduino
+  Advanced](/assets/arduino/apostila_eletrogate_09_arduino_advanced.pdf)
+* [Eletrogate: Arduino Big
+  Jack](/assets/arduino/apostila_eletrogate_10_arduino_big_jack.pdf)
+* [Eletrogate: Arduino
+  Kids](/assets/arduino/apostila_eletrogate_11_arduino_kids.pdf)
+* [Multilógica: Arduino Guia
+  Iniciante](/assets/arduino/arduino_guia_iniciante_multilogica_Shop.pdf)
 * [Hack.ATOMIC: Arduino](/assets/arduino/hack_atomic_arduino.pdf)
 
 ## Caderno de engenharia
-* [Instruções para o Caderno de Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)
-* [Capa para o Caderno de Engenharia](/assets/docs/caderno_engenharia/capa_caderno_engenharia.pdf)
-* [Algarismos Significativos](/assets/docs/caderno_engenharia/algarismos_significativos.pdf)
+* [Instruções para o Caderno de
+  Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)
+* [Capa para o Caderno de
+  Engenharia](/assets/docs/caderno_engenharia/capa_caderno_engenharia.pdf)
+* [Algarismos
+  Significativos](/assets/docs/caderno_engenharia/algarismos_significativos.pdf)
 * Exemplos de Cadernos de Engenharia:
   * [Team 1575a](/assets/docs/caderno_engenharia/team1575a.pdf) (um time
     de estudantes em uma competição de robótica)

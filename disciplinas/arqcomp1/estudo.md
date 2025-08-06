@@ -7,10 +7,87 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-04-16 16:52 -0300
+last_modified_date: 2025-07-06 14:44 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de aula: fundamentos físicos da
+    computação](/assets/disciplinas/arqcomp1/20252/fund_fisicos)
+  - Para o laboratório, você deve ler os seguintes capítulos do livro "Official
+    Arduino Projects Book" (o PDF do livro está na [página de
+    recursos](../recursos))
+    - Capítulo 0 do "Official Arduino Projects Book" (páginas 1-19): informações
+      básicas sobre o que é o Arduino, aprender os principais componentes
+      eletrônicos, circuitos, protoboard e instalação do software;
+    - Capítulo 1 do "Official Arduino Projects Book" (páginas 20-31): seu
+      primeiro projeto com o Arduino, um LED controlado por botão
+- **Vídeos obrigatórios:**
+  - [O que é Arduino, afinal de
+    contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g)
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - [Ferramentas: tudo o que você queria
+    saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
+  - [Qual a diferença entre volt, watt e
+    ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
+
+**Estudo da 1ª Semana**<a id="re01sem"></a> (28/07 - 03/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de aula 1: Motivação: O computador é
+    magia?](/assets/disciplinas/arqcomp1/20252/1_motivacao.pdf)
+  - [Notas de aula 2: Motivação: int não é
+    Z](/assets/disciplinas/arqcomp1/20252/2_int_nao_e_z.pdf)
+  - [Notas de aula 3: Motivação: "Olá,
+    Mundo!"](/assets/disciplinas/arqcomp1/20252/3_ola_mundo.pdf)
+  - [Notas de aula 4: Motivação:
+    Memória](/assets/disciplinas/arqcomp1/20252/4_memoria.pdf)
+  - [Notas de aula 5: Motivação: Entrada, saída e
+    Rede](/assets/disciplinas/arqcomp1/20252/5_entrada_saida_rede.pdf)
+- **Vídeos obrigatórios:**
+  - (nada no momento)
+- **Leituras recomendadas:**
+  - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): se
+    você não tem uma boa base na linguagem C ou se precisa de uma revisão
+    rápida, este arquivo é o PDF do "Anexo C" do livro *Digital Design and
+    Computer Architecture* (também [disponível
+    online](https://booksite.elsevier.com/9780128000564/index.php)). Estude esse
+    material para aprender/revisar programação C.
+  - [Compiler, Assembler, Linker and Loader: A Brief
+    Story](https://www.tenouk.com/ModuleW.html)
+  - [UNIX/Linux Tutorial for
+    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/) 
+  - [Linux Commands Cheat
+    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+  - [C Reference](https://en.cppreference.com/w/c)
+  - [C Programming
+    Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
+- **Vídeos recomendados:**
+  - (nada no momento)
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - (nada no momento)
+
+
+<!--
 
 **Estudo da 11ª Semana**<a id="re11sem"></a> (14/04 - 20/04)
 {: .label .label-reading }
@@ -288,25 +365,7 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
   - No site da [CR6.100B](https://www.computacaoraiz.com.br/cr6100b/) você pode
     fazer o download de todos os slides do material dos vídeos obrigatórios
     listados acima. Faça o download e estude esse material.
-- **Leituras recomendadas:**
-  - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): se
-    você não tem uma boa base na linguagem C ou se precisa de uma revisão
-    rápida, este arquivo é o PDF do "Anexo C" do livro *Digital Design and
-    Computer Architecture* (também [disponível
-    online](https://booksite.elsevier.com/9780128000564/index.php)). Estude esse
-    material para aprender/revisar programação C.
-- **Leituras adicionais sugeridas:**
-  - [Compiler, Assembler, Linker and Loader: A Brief
-    Story](https://www.tenouk.com/ModuleW.html)
-  - [UNIX/Linux Tutorial for
-    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/) 
-  - [Linux Commands Cheat
-    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
-  - [C Reference](https://en.cppreference.com/w/c)
-  - [C Programming
-    Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
 
-<!--
 ---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
@@ -319,20 +378,6 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
 - **Vídeos obrigatórios:**
   - [Unidade 0: Introdução à
     CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4) 
-- **Leituras recomendadas:**
-  - [C Programming](/assets/disciplinas/arqcomp1/c_programming.pdf) (PDF): este
-    arquivo é o PDF do "Anexo C" do livro *Digital Design and Computer
-    Architecture* (também [disponível
-    online](https://booksite.elsevier.com/9780128000564/index.php))
-- **Leituras adicionais sugeridas:**
-  - [Compiler, Assembler, Linker and Loader: A Brief
-    Story](https://www.tenouk.com/ModuleW.html) 
-  - [UNIX/Linux Tutorial for
-    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/) 
-  - [Linux Commands Cheat
-    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/) 
-  - [C Programming
-    Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
 - **Exercícios obrigatórios:**
   - [Lista de Exercícios n.º
     1](/assets/disciplinas/arqcomp1/20242/exercicio01.pdf)
@@ -342,17 +387,7 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - Notas de aula:
-    - [Motivação 1:
-      Introdução](/assets/disciplinas/arqcomp1/20242/1_motivacao.pdf)
-    - [Motivação 2: int não é
-      Z](/assets/disciplinas/arqcomp1/20242/2_int_nao_e_z.pdf)
-    - [Motivação 3: Olá,
-      mundo!](/assets/disciplinas/arqcomp1/20242/3_ola_mundo.pdf)
-    - [Motivação 4: Memória](/assets/disciplinas/arqcomp1/20242/4_memoria.pdf)
-    - [Motivação 5: Entrada e
-      Saída](/assets/disciplinas/arqcomp1/20242/5_entrada_saida_rede.pdf)
-    - [Cap. 1: Abstrações e Tecnologias (1.1 até
+  - [Cap. 1: Abstrações e Tecnologias (1.1 até
       1.3)](/assets/disciplinas/arqcomp1/20242/cap01a.pdf) 
   - Outras:
     - [Unidade 1: Fundamentos da

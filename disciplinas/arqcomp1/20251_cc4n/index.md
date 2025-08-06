@@ -3,7 +3,7 @@ layout: default
 title: 2025/1 - Turma CC4N
 grand_parent: 
 parent: Arq. de Computadores I
-nav_exclude: false
+nav_exclude: true
 nav_order: 50
 has_toc: false
 has_children: true
