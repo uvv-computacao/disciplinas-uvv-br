@@ -17,7 +17,7 @@ last_modified_date: 2025-07-06 14:44 -0300
 
 - **Leituras obrigatórias:**
   - [Notas de aula: fundamentos físicos da
-    computação](/assets/disciplinas/arqcomp1/20252/fund_fisicos)
+    computação](/assets/disciplinas/arqcomp1/20252/fund_fisicos.pdf)
   - Para o laboratório, você deve ler os seguintes capítulos do livro "Official
     Arduino Projects Book" (o PDF do livro está na [página de
     recursos](../recursos))
