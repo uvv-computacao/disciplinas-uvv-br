@@ -1,51 +1,98 @@
 ---
 layout: page
 title: Roteiro de estudo
-nav_exclude: false
+grand_parent:
 parent: Linguagens de Programação
+nav_exclude: false
 nav_order: 20
+has_toc: false
 has_children: false
-last_modified_date: 2024-09-30 12:04 -0300
+last_modified_date: 2025-08-06 15:44 -0300
 ---
 
 # Roteiro de estudo
 
-**Estudo da 1ª Semana**<a id="re1sem"></a> (29/07 - 04/08)
+**Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
 {: .label .label-reading }
+
 - **Leituras obrigatórias:**
   - [Notas de aula do Capítulo 1:
-    Introdução](/assets/disciplinas/lingprog/20242/capitulo01.pdf)
+    Introdução](/assets/disciplinas/lingprog/20252/capitulo01.pdf)
+  - _Conceitos de Linguagens de Programação_, Capítulo 1: Preliminares
+  - _Conceitos de Linguagens de Programação_, Capítulo 2: Evolução das
+    principais linguagens de programação
 - **Vídeos obrigatórios:**
-  - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
-  - [Motivação e diferenças com a CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
-  - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
-  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+  - [Linguagens de Programação - 01 - História das
+    Linguagens](https://www.youtube.com/watch?v=eaJwZLHURjg)
+  - [Como surgiu a primeira linguagem de
+    programação](https://www.youtube.com/watch?v=-EZ2Iwi9mFc)
+  - [Linguagens de Programação :: História, Curiosidades e
+    Mercado](https://www.youtube.com/watch?v=USSVm09Etyk)
+  - [The Brief History of Programming
+    Languages](https://www.youtube.com/watch?v=mhpslN-OD_o)
+  - [The History Of Programming Languages in 5
+    Minutes](https://www.youtube.com/watch?v=YZV8Zv_YW7I)
+  - [The AMAZING History of Computers, Programming, and
+    Coding](https://www.youtube.com/watch?v=M4d3FXu9-3I)
+  - [The First Programming Languages: Crash Course Computer
+    Science](https://www.youtube.com/watch?v=RU1u-js7db8)
+  - [Every Programming Language Ever Explained in 15
+    Minutes](https://www.youtube.com/watch?v=ajIcjx0PeYU)
+  - [Why C is so Influential](https://www.youtube.com/watch?v=ci1PJexnfNE)
+  - [The Generations of Programming
+    Languages](https://www.youtube.com/watch?v=ZFIeEV2HfPQ)
+  - ["C" Programming Language: Brian
+    Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+  - [Keynote session: The History of
+    Programming](https://www.youtube.com/watch?v=Tr9E_vzKRVo)
+  - [History of Programming
+    Languages](https://www.youtube.com/watch?v=KUGtBzws-ic)
+  - [The History Of Programming, Part
+    1](https://www.youtube.com/watch?v=2-mFWi5oLkM)
+  - [The Mostly Wrong History Of Programming
+    Languages](https://www.youtube.com/watch?v=hO0uL5XsLWE)
+  - [The Computer Chronicles - Visual Programming
+    Languages](https://www.youtube.com/watch?v=AEkweKSdnHM)
 - **Leituras recomendadas:**
-  - _Conceitos de Linguagens de Programação_: capítulo 1 (preliminares)
+  - (nada no momento)
 - **Vídeos recomendados:**
-  - (nada nesta semana)
+  - (nada no momento)
 - **Exercícios:**
-  - (nada nesta semana)
+  - [Exercício 01: história das linguagens de
+    programação](/assets/disciplinas/lingprog/20252/exercicio01.pdf)
+- **Outras atividades:**
+  - (nada no momento)
 
 ---
 
-**Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
+**Estudo da 1ª Semana**<a id="re1sem"></a> (28/07 - 03/08)
 {: .label .label-reading }
 - **Leituras obrigatórias:**
-  - [Unidade 0: Introdução à
-    CR6.100B](https://www.computacaoraiz.com.br/cr6100b/unidades/0/)
+  - (nada no momento)
 - **Vídeos obrigatórios:**
-  - [Unidade 0: Introdução à CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+  - (nada no momento)
 - **Leituras recomendadas:**
-  - _Conceitos de Linguagens de Programação_: capítulo 2 (evolução das
-    principais linguagens de programação)
+  - [C Programming](/assets/disciplinas/lingprog/c_programming.pdf) (PDF): se
+    você não tem uma boa base na linguagem C ou se precisa de uma revisão
+    rápida, este arquivo é o PDF do "Anexo C" do livro *Digital Design and
+    Computer Architecture* (também [disponível
+    online](https://booksite.elsevier.com/9780128000564/index.php)). Estude esse
+    material para aprender/revisar programação C.
+  - [Compiler, Assembler, Linker and Loader: A Brief
+    Story](https://www.tenouk.com/ModuleW.html)
+  - [UNIX/Linux Tutorial for
+    Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/) 
+  - [Linux Commands Cheat
+    Sheet](https://www.websentra.com/linux-commands-cheat-sheet/)
+  - [C Reference](https://en.cppreference.com/w/c)
+  - [C Programming
+    Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
 - **Vídeos recomendados:**
-  - (nada nesta semana)
-- **Exercícios obrigatórios:**
-  - [História das Linguagens de
-    Programação](/assets/disciplinas/lingprog/20242/exercicio01.pdf)
-
----
+  - (nada no momento)
+- **Exercícios:**
+  - (nada no momento)
+  
+<!--
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (12/08 - 18/08)
 {: .label .label-reading }
@@ -325,6 +372,8 @@ last_modified_date: 2024-09-30 12:04 -0300
 
 **20ª Semana: AV2**<a id="re20sem"></a>
 {: .label .label-reading }
+
+-->
 
 ---
 **Notas:**

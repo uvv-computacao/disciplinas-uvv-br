@@ -164,3 +164,5 @@ Esta disciplina utilizará os seguintes livros:
 ## Notas
 * [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)
 
+## Papel almaço
+* [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)

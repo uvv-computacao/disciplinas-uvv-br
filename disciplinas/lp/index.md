@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Linguagens de Programação
-nav_exclude: true
+grand_parent:
+parent:
+nav_exclude: false
 nav_order: 200
-has_children: true
 has_toc: false
-last_modified_date: 2023-12-20 10:27 -0300
+has_children: true
+last_modified_date: 2025-07-06 15:42 -0300
 ---
 
 # Linguagens de Programação
