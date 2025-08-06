@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-07-28 10:41 -0300
+last_modified_date: 2025-08-03 11:35 -0300
 ---
 
 # Roteiro de estudo
@@ -21,14 +21,49 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
 - WIKI = *Wikipedia* (recurso online ou PDF gerado a partir da Wikipedia)
 - IA = *Inteligência Artificial* (recurso gerado por inteligência artificial)
 - NOT = *Notas de Aula* (material preparado pelo professor)
+- WEB = *Internet* (material obtido na Internet)
+
+**Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [NOT] [2. Shell](/assets/disciplinas/so/2025_2/02_shell.pdf)
+  - [IA] [Desvendando o
+    Shell](/assets/disciplinas/so/2025_2/shell_definicoes.pdf)
+  - [IA] [Console x
+    Terminal](/assets/disciplinas/so/2025_2/console_terminal.pdf)
+  - [TLCL] 1. What is The Shell?
+- **Vídeos obrigatórios:**
+  - [What is a Shell?](https://www.youtube.com/watch?v=-qLrgCFynzE)
+  - [Unlock the Secrets of the Console, Terminal, and Shell: A Beginner's
+    Guide](https://www.youtube.com/watch?v=LdJkq8D11fU)
+  - [What is Shell? (Software)](https://www.youtube.com/watch?v=zskFbzsZu8s)
+- **Leituras recomendadas:**
+  - [WIKI] [Shell](/assets/disciplinas/so/2025_2/wiki_shell.pdf)
+- **Vídeos recomendados:**
+  - [I ranked EVERY terminal emulator. It was
+    nuts](https://www.youtube.com/watch?v=WxzYtdIcHnQ)
+  - [Testei 17 Apps de Terminal Linux, esses são os
+    melhores](https://www.youtube.com/watch?v=9_zKHrQZ7BI)
+  - [Qual o melhor SHELL? Diferenças entre BASH, ZSH e
+    FISH](https://www.youtube.com/watch?v=vE0McEujAGk)
+- **Leituras históricas e curiosidades:**
+  - [WEB] [The Origin of The
+    Shell](/assets/disciplinas/so/2025_2/the_origin_of_the_shell.pdf)
+  - [WEB] [The SHELL: A Global Tool for Calling and Chaining Procedures in the
+    System](/assets/disciplinas/so/2025_2/the_shell.pdf)
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - (name no momento)
+
+---
 
 **Estudo da 1ª Semana**<a id="re01sem"></a> (28/07 - 03/08)
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
   - [NOT: 1. Visão geral](/assets/disciplinas/so/2025_2/01_visao_geral.pdf)
-  - [WIKI: Operating
-    System](/assets/disciplinas/so/2025_2/wiki_operating_system.pdf)
   - HLW: 1. The Big Picture
 - **Vídeos obrigatórios:**
   - [What is Unix and why does it
@@ -42,7 +77,8 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
   - [The Computer Chronicles -
     UNIX](https://www.youtube.com/watch?v=0DdoGPav3fc)
 - **Leituras recomendadas:**
-  - (nada no momento)
+  - [WIKI: Operating
+    System](/assets/disciplinas/so/2025_2/operating_system.pdf)
 - **Vídeos recomendados:**
   - [UNIX was designed for
     programmers](https://www.youtube.com/watch?v=v0ON23Y4W68)
@@ -59,9 +95,16 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
     operacional **Ubuntu Server 24.04.2 LTS**, seguindo as [instruções de
     instalação da máquina
     virtual](/assets/disciplinas/so/maqvirt/instalacao_ubuntu_server.pdf). O
-    professor demonstrará em sala de aula essa instalação.
+    professor demonstrará em sala de aula essa instalação. Links importantes:
+    - [VMware Workstation para Windows](https://we.tl/t-yPf30kB9zM)
+    - [VMware Workstation para Linux](https://we.tl/t-xZYdNF5UwO)
+    - [VMware Fusion para Mac](https://we.tl/t-4LBS8cJEiu)
+    - [Ubuntu Server 24.04.2 LTS](https://we.tl/t-fnlMrN7yv1)
 
 <!--
+
+  - [30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um
+    HACKER](https://www.youtube.com/watch?v=QZ2nyxzZXPY)
 
   - [UNIX memoir, in first person - Ken
     Thompson](https://www.youtube.com/watch?v=xKNaCzdn6sY)
