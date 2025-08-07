@@ -42,7 +42,13 @@ last_modified_date: 2025-07-06 14:44 -0300
     ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
 - **Exercícios:**
   - [1ª Lista de Exercício:
-    Arduino](/assets/disciplinas/arqcomp1/20252/arduino01.pdf)
+    Arduino](/assets/disciplinas/arqcomp1/20252/arduino01.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. A data de
+    entrega será a seguinte:
+    - Turma CC4N: 20/08
+    - Turma CC4M: 21/08
+    - Turma CC4Mb: 21/08
 - **Outras atividades:**
   - (nada no momento)
 
