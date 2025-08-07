@@ -41,7 +41,8 @@ last_modified_date: 2025-07-06 14:44 -0300
   - [Qual a diferença entre volt, watt e
     ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
 - **Exercícios:**
-  - (nada no momento)
+  - [1ª Lista de Exercício:
+    Arduino](/assets/disciplinas/arqcomp1/20252/arduino01.pdf)
 - **Outras atividades:**
   - (nada no momento)
 
