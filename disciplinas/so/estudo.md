@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-08-03 11:35 -0300
+last_modified_date: 2025-08-10 23:33 -0300
 ---
 
 # Roteiro de estudo
@@ -22,6 +22,33 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
 - IA = *Inteligência Artificial* (recurso gerado por inteligência artificial)
 - NOT = *Notas de Aula* (material preparado pelo professor)
 - WEB = *Internet* (material obtido na Internet)
+
+**Estudo da 3ª Semana**<a id="re03sem"></a> (11/08 - 17/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [NOT] [3. Uso básico do console e do
+    shell](/assets/disciplinas/so/2025_2/03_uso_basico_console_shell.pdf)
+  - [NOT] [4. Navegação
+    básica](/assets/disciplinas/so/2025_2/04_navegacao_basica.pdf)
+  - [TLCL] 1. What is The Shell?
+  - [TLCL] 2. Navigation
+- **Vídeos obrigatórios:**
+  - [What is a Shell?](https://www.youtube.com/watch?v=-qLrgCFynzE)
+  - [Unlock the Secrets of the Console, Terminal, and Shell: A Beginner's
+    Guide](https://www.youtube.com/watch?v=LdJkq8D11fU)
+  - [What is Shell? (Software)](https://www.youtube.com/watch?v=zskFbzsZu8s)
+- **Leituras recomendadas:**
+  - [HLW] 2. Basic Commands and Directory Hierarchy
+- **Vídeos recomendados:**
+  - [30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um
+    HACKER](https://www.youtube.com/watch?v=QZ2nyxzZXPY)
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
 
 **Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
 {: .label .label-reading }
@@ -103,8 +130,7 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
 
 <!--
 
-  - [30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um
-    HACKER](https://www.youtube.com/watch?v=QZ2nyxzZXPY)
+  
 
   - [UNIX memoir, in first person - Ken
     Thompson](https://www.youtube.com/watch?v=xKNaCzdn6sY)

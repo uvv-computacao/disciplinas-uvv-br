@@ -18,4 +18,3 @@ através de conexões SSH.
    24.04.2 LTS conforme as instruções no "Roteiro de Estudo da 1ª semana" (se
    você tiver dúvidas ou não estiver seguro, aguarde a demonstração que o
    professor fará).
-1. 
