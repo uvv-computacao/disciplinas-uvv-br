@@ -7,10 +7,50 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-07-06 14:44 -0300
+last_modified_date: 2025-07-12 16:24 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 3ª Semana**<a id="re03sem"></a> (11/08 - 17/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Para o laboratório desta semana você deve ler os livros e capítulos
+    indicados a seguir (o material está na [página de recursos](../recursos)):
+    - Do livro "**Official Arduino Projects Book**":
+      - Capítulo 2 (páginas 32-41): programação básica do Arduino, configuração
+        básica com a função `setup()`, execução do programa com a função
+        `loop()`, funções de escrita digital nos pinos de I/O, operações
+        condicionais, leitura de código de cores de resistores.
+      - Capítulo 3 (páginas 42-51): uso de sensor de temperatura, monitor serial
+        do Arduino, estrutura de repetição, variáveis, operadores lógicos.
+    - Do livro "**Curso Básico de Arduino**":
+      - Capítulo 5 (páginas 21-37): estrutura de um programa em Arduino,
+        variáveis, entrada e saída de dados, monitor serial, expressões,
+        operadores lógicos e relacionais, condições, repetições, funções,
+        funções built-in do Arduino, bibliotecas.
+- **Vídeos obrigatórios:**
+  - [Conheça os sensores do
+    Arduino](https://www.youtube.com/watch?v=vEdYjAbzrAE)
+  - [TMP36 Temperature Sensor with
+    Arduino](https://www.youtube.com/watch?v=2918sSKOghc)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - [How to Use an Arduino](https://www.youtube.com/watch?v=cd04o5yqSAU)
+  - [How to Blink an LED with
+    Arduino](https://www.youtube.com/watch?v=FKekzzj5844)
+  - [Sensor de temperatura de alta precisão e baixo custo
+    (LM35)](https://www.youtube.com/watch?v=VjHfjkd5KuE)
+  - [How to Use a TMP36 Temperature Sensor with
+    Arduino](https://www.youtube.com/watch?v=5nF5R4CGZG4)
+- **Exercícios:**
+  - (será disponibilizado em breve)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
 
 **Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
 {: .label .label-reading }
@@ -40,6 +80,8 @@ last_modified_date: 2025-07-06 14:44 -0300
     saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
   - [Qual a diferença entre volt, watt e
     ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
+  - [How to Use a Button with an
+    Arduino](https://www.youtube.com/watch?v=yBgMJssXqHY)
 - **Exercícios:**
   - [1ª Lista de Exercício:
     Arduino](/assets/disciplinas/arqcomp1/20252/arduino01.pdf). Esta lista deve
