@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-07-12 16:24 -0300
+last_modified_date: 2025-07-15 14:41 -0300
 ---
 
 # Roteiro de estudo
@@ -46,7 +46,14 @@ last_modified_date: 2025-07-12 16:24 -0300
   - [How to Use a TMP36 Temperature Sensor with
     Arduino](https://www.youtube.com/watch?v=5nF5R4CGZG4)
 - **Exercícios:**
-  - (será disponibilizado em breve)
+  - [2ª Lista de Exercício:
+    Arduino](/assets/disciplinas/arqcomp1/20252/arduino02.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. A data de
+    entrega será a seguinte:
+    - Turma CC4N: 03/09
+    - Turma CC4M: 04/09
+    - Turma CC4Mb: 04/09
 - **Outras atividades:**
   - (nada no momento)
 
