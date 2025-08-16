@@ -36,7 +36,7 @@ last_modified_date: 2025-07-15 14:41 -0300
   - [TMP36 Temperature Sensor with
     Arduino](https://www.youtube.com/watch?v=2918sSKOghc)
 - **Leituras recomendadas:**
-  - (nada no momento)
+  - [Serial communication](/assets/arduino/serial_communication.pdf)
 - **Vídeos recomendados:**
   - [How to Use an Arduino](https://www.youtube.com/watch?v=cd04o5yqSAU)
   - [How to Blink an LED with
@@ -81,7 +81,7 @@ last_modified_date: 2025-07-15 14:41 -0300
   - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
   - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
 - **Leituras recomendadas:**
-  - (nada no momento)
+  - [Arduino Uno Rev. 3 Datasheet](/assets/arduino/arduino_uno_r3_datasheet.pdf)
 - **Vídeos recomendados:**
   - [Ferramentas: tudo o que você queria
     saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
