@@ -7,10 +7,52 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-07-15 14:41 -0300
+last_modified_date: 2025-07-18 19:15 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 4ª Semana**<a id="re04sem"></a> (18/08 - 24/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Para o laboratório desta semana você deve ler os livros e capítulos
+    indicados a seguir (o material está na [página de recursos](../recursos)):
+    - Do livro "**Official Arduino Projects Book**":
+      - Capítulo 4 (páginas 52-61): uso de LED RGB e fotoresistores; modulação
+        por largura de pulso (*pulse width modulation*) e ciclo de trabalho
+        (*duty cycle*); função `analogRead()` e `analogWrite()`;
+      - Capítulo 5 (páginas 62-69): uso de servo motores; capacitores
+        eletrolíticos; potenciômetros; função `map()`; capacitor de
+        desacoplamento; uso de bibliotecas na programação do Arduino; criação de
+        instâncias da classe `Servo` e métodos `Servo.attach()` e
+        `Servo.write()`;
+    - Do livro "**Curso Básico de Arduino**":
+      - Capítulo 6 (páginas 39-50): uso de diversos componentes eletrônicos e
+        programação do Arduino.
+- **Vídeos obrigatórios:**
+  - [LED RGB cátodo comum](https://www.youtube.com/watch?v=hx_v4w7Dx_o)
+  - [LED RGB ânodo comum](https://www.youtube.com/watch?v=ExS9Tvh5imI)
+  - [Sensor LDR](https://www.youtube.com/watch?v=Rn4AXmvs4NI)
+  - [Como usar um servo motor](https://www.youtube.com/watch?v=VitG0Sq6kNY)
+  - [Servo motor explicado](https://www.youtube.com/watch?v=SJ3V8ydx3C8)
+  - [Potenciômetro](https://www.youtube.com/watch?v=skValm-uozU)
+  - [Explicando capacitores](https://www.youtube.com/watch?v=7JDmvDzb5L8)
+  - [Capacitor eletrolítico: informações para
+    iniciantes](https://www.youtube.com/watch?v=_zFophBwL80)
+- **Leituras recomendadas:**
+  - [Capacitor eletrolítico: descubra como ele
+    funciona](https://www.megadef.com.br/blog/capacitadores/capacitor-eletrolitico-descubra-como-ele-funciona/)
+- **Vídeos recomendados:**
+  - [Como funciona um LED RGB](https://www.youtube.com/watch?v=0pinlGflz9c)
+  - [¿Cómo saber si un LED RGB es de cátodo común o ánodo
+    común?](https://www.youtube.com/watch?v=eVmfnjFOnG8)
+- **Exercícios:**
+  - (será divulgado em breve)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
 
 **Estudo da 3ª Semana**<a id="re03sem"></a> (11/08 - 17/08)
 {: .label .label-reading }
