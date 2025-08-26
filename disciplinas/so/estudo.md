@@ -23,6 +23,48 @@ Nas atividades listadas abaixo, as seguintes abreviaturas são utilizadas:
 - NOT = *Notas de Aula* (material preparado pelo professor)
 - WEB = *Internet* (material obtido na Internet)
 
+**Estudo da 5ª Semana**<a id="re05sem"></a> (25/08 - 31/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [NOT] [6. Manipulação de arquivos e
+    diretórios; hard links e symbolic
+    links](/assets/disciplinas/so/2025_2/06_manipulando_arquivos_diretorios.pdf)
+  - [TLCL] 4. Manipulating Files and Directories
+- **Vídeos obrigatórios:**
+  - (nada no momento)
+- **Leituras recomendadas:**
+  - [HLW] 2. Basic Commands and Directory Hierarchy
+- **Vídeos recomendados:**
+  - (nada no momento)
+- **Exercícios:**
+  - (será divulgado em breve)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
+
+**Estudo da 4ª Semana**<a id="re04sem"></a> (18/08 - 24/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [NOT] [5. Explorando o
+    sistema](/assets/disciplinas/so/2025_2/05_explorando_o_sistema.pdf)
+  - [TLCL] 3. Exploring the System
+- **Vídeos obrigatórios:**
+  - (nada no momento)
+- **Leituras recomendadas:**
+  - [HLW] 2. Basic Commands and Directory Hierarchy
+- **Vídeos recomendados:**
+  - (nada no momento)
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - [Prova surpresa: introdução e
+    shell](/assets/disciplinas/so/2025_2/prova_shell.pdf)
+
+---
+
 **Estudo da 3ª Semana**<a id="re03sem"></a> (11/08 - 17/08)
 {: .label .label-reading }
 
