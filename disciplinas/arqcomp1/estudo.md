@@ -7,10 +7,21 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-07-18 19:15 -0300
+last_modified_date: 2025-07-25 17:33 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 5ª Semana**<a id="re05sem"></a> (25/08 - 31/08)
+{: .label .label-reading }
+
+Esta semana está reservada para que todos os grupos de alunos terminem os
+projetos dos capítulos 0 a 5 do "**Official Arduino Projects Book**". Todos os
+grupos devem terminar os projetos e **fazer todas as anotações no caderno de
+engenharia** conforme as normas estabelecidas na página de recursos da
+disciplina.
+
+---
 
 **Estudo da 4ª Semana**<a id="re04sem"></a> (18/08 - 24/08)
 {: .label .label-reading }

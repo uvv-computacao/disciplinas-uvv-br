@@ -12,6 +12,30 @@ last_modified_date: 2025-08-08 18:46 -0300
 
 # Roteiro de estudo
 
+**Estudo da 5ª Semana**<a id="re05sem"></a> (25/08 - 31/08)
+{: .label .label-reading }
+
+Semana reservada para acompanhamento e monitoramento dos projetos com
+microcontroladores de cada grupo de alunos.
+
+---
+
+**Estudo da 4ª Semana**<a id="re04sem"></a> (18/08 - 24/08)
+{: .label .label-reading }
+
+Semana reservada para acompanhamento e monitoramento dos projetos com
+microcontroladores de cada grupo de alunos.
+
+---
+
+**Estudo da 3ª Semana**<a id="re03sem"></a> (11/08 - 17/08)
+{: .label .label-reading }
+
+Semana reservada para acompanhamento e monitoramento dos projetos com
+microcontroladores de cada grupo de alunos.
+
+---
+
 **Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
 {: .label .label-reading }
 
