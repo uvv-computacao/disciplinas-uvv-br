@@ -3,11 +3,11 @@ layout: page
 title: Internet das Coisas
 grand_parent:
 parent:
-nav_exclude: true
+nav_exclude: false
 nav_order: 170
 has_toc: false
 has_children: true
-last_modified_date: 2025-02-05 07:37 -0300
+last_modified_date: 2026-02-01 11:26 -0300
 ---
 
 # Internet das Coisas

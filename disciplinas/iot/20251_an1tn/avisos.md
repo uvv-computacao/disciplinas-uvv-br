@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Avisos
-nav_exclude: false
+nav_exclude: true
 nav_order: 9
 grand_parent: Internet das Coisas
 parent: 2025/1 - Turma AN1tN

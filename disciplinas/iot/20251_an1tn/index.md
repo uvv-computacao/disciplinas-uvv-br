@@ -3,7 +3,7 @@ layout: default
 title: 2025/1 - Turma AN1tN
 grand_parent: 
 parent: Internet das Coisas
-nav_exclude: false
+nav_exclude: true
 nav_order: 50
 has_toc: false
 has_children: true

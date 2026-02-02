@@ -3,7 +3,7 @@ Instruções e lembretes úteis
 
 Instalar/atualizar novos pré-requisitos:
   bundle install
-  bundle update
+  bundle update --all
   bundle update --bundler
 
 

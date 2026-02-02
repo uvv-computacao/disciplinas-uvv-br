@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sistemas Operacionais
-nav_exclude: false
+nav_exclude: true
 nav_order: 250
 has_children: true
 has_toc: false

@@ -60,10 +60,10 @@ aux_links:
     - 'https://aluno.uvv.br'
   Professor:
     - 'https://professor.uvv.br'
-  Pesquisas:
-    - 'https://disciplinas.uvv.br/pesquisas'
   Autolab:
     - 'https://autolab.computacaoraiz.com.br'
+#  Pesquisas:
+#    - 'https://disciplinas.uvv.br/pesquisas'
 aux_links_new_tab: true
 
 # Links externos adicionais na barra lateral de navegação
@@ -76,10 +76,10 @@ nav_external_links:
     url: https://aluno.uvv.br/
     hide_icon: false
     opens_in_new_tab: true
-  - title: Pesquisas
-    url: https://disciplinas.uvv.br/pesquisas/
-    hide_icon: true
-    opens_in_new_tab: true
+#  - title: Pesquisas
+#    url: https://disciplinas.uvv.br/pesquisas/
+#    hide_icon: true
+#    opens_in_new_tab: true
 
 # Configurações para o rodapé:
 last_edit_timestamp: true

@@ -5,11 +5,12 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2025-03-11 17:58 -0300
+last_modified_date: 2026-02-01 91:27 -0300
 ---
 
 # Roteiro de estudo
 
+<!--
 **Estudo da 6ª Semana**<a id="re6sem"></a> (10/03 - 16/03)
 {: .label .label-reading }
 
@@ -132,8 +133,9 @@ IP, TCP, UDP, DHCP e DNS.
     informações reais de sua rede. Vamos lá!
 
 ---
+-->
 
-**Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
+**Estudo da 1ª Semana**<a id="re1sem"></a> (02/02 - 08/02)
 {: .label .label-reading }
 
 Nesta semana faremos a prova diagnóstica inicial, a aula inaugural e o primeiro
@@ -154,19 +156,21 @@ si na Internet e em outras redes. Estude e faça os exercícios listados abaixo.
     Coisas**" e estude o *Capítulo 1: Para entender a Internet das Coisas*
     (páginas 19 a 28)
 - **Exercícios:**
-  - [Exercício 0](/assets/disciplinas/iot/2025_1/exercicio00.pdf): este é o
+  - [Exercício 0](/assets/disciplinas/iot/20261/exercicio00.pdf): este é o
     exercício que foi distribuído para todos os alunos que participaram da
     recepção dos calouros, no anfiteatro da UVV. Você deve ler o exercício,
     seguir as instruções e entregar as respostas em um papel almaço, de forma
-    manuscrita, na aula de 10/02/2025.
-  - [Exercício 1](/assets/disciplinas/iot/2025_1/exercicio01.pdf): verifique
+    manuscrita, na aula de 05/02/2026.
+
+
+<!--
+---
+
+[Exercício 1](/assets/disciplinas/iot/2025_1/exercicio01.pdf): verifique
     o que você entendeu dos vídeos e leituras obrigatórias desta semana! Você
     deve assistir aos vídeos e fazer as leituras dessa semana e, depois,
     responder este exercício. Verifique a data de entrega no calendário de sua
     turma.
-
-<!--
----
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }

@@ -19,6 +19,28 @@ last_modified_date: 2025-08-08 18:52 -0300
 * TOC
 {:toc}
 
+## Livro texto de referência
+Esta disciplina utilizará o seguinte livro texto como a base principal de estudo
+e referência:
+
+<table>
+  <tr>
+    <td>
+      <p><img src="/assets/disciplinas/arqcomp2/livros/stallings10.jpg"
+             alt="Introduction to the Theory of Computation"
+             style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+             Livro texto de referência: <b>Arquitetura e Organização de
+             Computadores</b>, de William Stallings. Usaremos a 10ª edição
+             traduzida do livro, publicada em 2017, pela editora Pearson.
+             Existe uma edição mais nova (a 11ª edição) mas neste semestre ainda
+             usaremos a 10ª edição.
+             A aquisição do livro não é obrigatória mas, se quiser, pode comprar
+             na <a href="https://www.amazon.com.br/dp/8543020530/">Amazon 
+             Brasileira</a>. Também é encontrado em sebos.</p>
+    </td>
+  </tr>
+</table>
+
 ## Apostilas sobre Arduino
 * [Official Arduino Projects Book](/assets/arduino/arduino_projects_book.pdf)
 * [Curso básico de
@@ -69,6 +91,10 @@ last_modified_date: 2025-08-08 18:52 -0300
   aprender como criar placas controladoras mais avançadas, com múltiplas camadas
   de circuito (4 camadas), então esse é um ótimo curso para você ter em mente no
   futuro.
+* [High-Speed design with
+  KiCad](https://www.udemy.com/course/high-speed-pcb-design-with-kicad/): este
+  curso **não é necessário** para nossa disciplina. Se você tiver interesse em
+  aprender a criar placas mais avançadas, esse é um bom curso para o futuro.
 
 ## Caderno de engenharia
 * [Instruções para o Caderno de
@@ -90,7 +116,7 @@ last_modified_date: 2025-08-08 18:52 -0300
     engenheiro da Atari)
 
 ## Calendário acadêmico
-* [Calendário acadêmico oficial 2025](/assets/docs/calendario_oficial_2025.pdf)
+* [Calendário acadêmico oficial 2026](/assets/docs/calendario_oficial_2026.pdf)
 
 ## Componentes eletrônicos
 * [Tabela de cores de

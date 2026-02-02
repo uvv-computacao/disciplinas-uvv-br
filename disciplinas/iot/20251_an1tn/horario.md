@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Horário semanal
-nav_exclude: false
+nav_exclude: true
 nav_order: 8
 grand_parent: Internet das Coisas
 parent: 2025/1 - Turma AN1tN

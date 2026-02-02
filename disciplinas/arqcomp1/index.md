@@ -3,7 +3,7 @@ layout: page
 title: Arq. de Computadores I
 grand_parent:
 parent:
-nav_exclude: false
+nav_exclude: true
 nav_order: 50
 has_toc: false
 has_children: true

@@ -13,8 +13,8 @@
 #include <time.h>
 
 /* DEFINIÇÕES E VARIÁVEIS GLOBAIS */
-#define INICIO "2025-02-02 00:00:00"    /* Início em um DOMINGO */
-#define FIM    "2025-07-05 00:00:00"    /* Final em um SÁBADO */
+#define INICIO "2026-02-01 00:00:00"    /* Início em um DOMINGO */
+#define FIM    "2026-07-04 00:00:00"    /* Final em um SÁBADO */
 char diames[6];                         /* Armazenará string com dd/mm */
 
 /* PROTÓTIPOS DOS SUBPROGRAMAS */
@@ -78,8 +78,8 @@ int main(void)
     printf("      <th>Estudo</th>\n");
     if (autolab)
         printf("      <th>Autolab</th>\n");
-    printf("      <th><i>Hand out</i></th>\n");
-    printf("      <th><i>Hand in</i></th>\n");
+    printf("      <th>Seminário</th>\n");
+    printf("      <th>Exercício</th>\n");
     printf("    </tr>\n");
     printf("  </thead>\n");
     printf("  <tbody class=\"js-scheduleContent\">\n");
@@ -101,8 +101,8 @@ int main(void)
 		printf("      <td></td> <!-- Estudo -->\n");
                 if (autolab)
 		    printf("      <td></td> <!-- Autolab -->\n");
-		printf("      <td></td> <!-- Hand out -->\n");
-		printf("      <td></td> <!-- Hand in -->\n");
+		printf("      <td></td> <!-- Seminário -->\n");
+		printf("      <td></td> <!-- Exercício -->\n");
 		printf("    </tr>\n");
 	    }
 	    else if (ds >= 2 && ds <= 5)
@@ -113,8 +113,8 @@ int main(void)
                 printf("      <td></td> <!-- Estudo -->\n");
                 if (autolab)
                     printf("      <td></td> <!-- Autolab -->\n");
-                printf("      <td></td> <!-- Hand out -->\n");
-                printf("      <td></td> <!-- Hand in -->\n");
+                printf("      <td></td> <!-- Seminário -->\n");
+                printf("      <td></td> <!-- Exercício -->\n");
                 printf("    </tr>\n");
 	    }
 	data1 += soma_dias(1);
