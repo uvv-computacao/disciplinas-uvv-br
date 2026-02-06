@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 30
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-01 11:33 -0300
+last_modified_date: 2026-02-05 14:37 -0300
 ---
 
 # Recursos diversos
@@ -157,3 +157,6 @@ do padrão da UVV. As notas seguirão o seguinte critério:
 
 ## Papel almaço
 * [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
+
+## Material extra
+* [Material extra](/assets/disciplinas/arqcomp2/material.rar)

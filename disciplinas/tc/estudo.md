@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-01 11:31 -0300
+last_modified_date: 2026-02-05 14:37 -0300
 ---
 
 # Roteiro de estudo
@@ -16,7 +16,7 @@ last_modified_date: 2026-02-01 11:31 -0300
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
-  - Livro texto: **Capítulo 0: Introduction**
+  - Livro texto: **Capítulo 0: Introduction** (seções: 0.1, 0.2, 0.3)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 1: **Column 1: Cracking the Oyster**
   - Grupo 2: **Column 2: Aha! Algorithms**
