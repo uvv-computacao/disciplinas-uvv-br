@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-02-01 91:27 -0300
+last_modified_date: 2026-02-08 13:40 -0300
 ---
 
 # Roteiro de estudo
@@ -92,13 +92,23 @@ cabeadas e WiFi.
 
 ---
 
-**Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
+[Lista de Exercícios N.º 2](/assets/disciplinas/iot/2025_1/exercicio02.pdf):
+    verifique o que você entendeu sobre os conceitos básicos de rede e Internet:
+    IP, TCP, UDP, DNS, DHCP, gateway, roteador, rede, sub-rede, pacotes e
+    outros. Nesta lista de exercícios, além das questões teóricas você precisará
+    fazer uma análise prática da rede de sua casa e identificar diversas
+    informações reais de sua rede. Vamos lá!
+
+---
+-->
+
+**Estudo da 2ª Semana**<a id="re2sem"></a> (09/02 - 15/02)
 {: .label .label-reading }
 
-Nesta semana começaremos nosso estudo introdutório sobre redes de computadores e
-Internet. Você conhecerá coisas como: redes, subredes, endereços IP (públicos e
-privados), roteadores, gateways e diversos protocolos de comunicação, tais como:
-IP, TCP, UDP, DHCP e DNS.
+Nesta semana continuaremos nosso estudo introdutório sobre redes de computadores
+e a Internet. Estudaremos com certo grau de profundidade conceitos como
+endereços IP (públicos e privados), roteadores, gateways, redes e subredes e
+diversos protocolos de comunicação tais como: TCP/IP, UDP, DHCP e DNS.
 
 - **Vídeos obrigatórios:**
   - Sobre endereços IP:
@@ -125,15 +135,14 @@ IP, TCP, UDP, DHCP e DNS.
   - Sobre os Gateways:
     - [Gateway](https://www.youtube.com/watch?v=F3ziubke1_w)
 - **Exercícios:**
-  - [Lista de Exercícios N.º 2](/assets/disciplinas/iot/2025_1/exercicio02.pdf):
-    verifique o que você entendeu sobre os conceitos básicos de rede e Internet:
-    IP, TCP, UDP, DNS, DHCP, gateway, roteador, rede, sub-rede, pacotes e
-    outros. Nesta lista de exercícios, além das questões teóricas você precisará
-    fazer uma análise prática da rede de sua casa e identificar diversas
-    informações reais de sua rede. Vamos lá!
+  - [Exercício 1](/assets/disciplinas/iot/20261/exercicio01.pdf): verifique
+    o que você entendeu dos vídeos e leituras obrigatórias da 1ª semana de
+    estudo, referente a temos como a história da Internet, como a Internet
+    funciona e uma introdução à Internet das Coisas. **CUIDADO:** exercícios
+    entregues após a data definida não serão aceitos. O exercício deve ser feito
+    de forma manuscrita, em papel almaço.
 
 ---
--->
 
 **Estudo da 1ª Semana**<a id="re1sem"></a> (02/02 - 08/02)
 {: .label .label-reading }
@@ -166,11 +175,7 @@ si na Internet e em outras redes. Estude e faça os exercícios listados abaixo.
 <!--
 ---
 
-[Exercício 1](/assets/disciplinas/iot/2025_1/exercicio01.pdf): verifique
-    o que você entendeu dos vídeos e leituras obrigatórias desta semana! Você
-    deve assistir aos vídeos e fazer as leituras dessa semana e, depois,
-    responder este exercício. Verifique a data de entrega no calendário de sua
-    turma.
+
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (05/08 - 11/08)
 {: .label .label-reading }

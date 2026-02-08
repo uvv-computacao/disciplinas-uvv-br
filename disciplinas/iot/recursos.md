@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 30
 has_children: false
-last_modified_date: 2025-02-05 07:39 -0300
+last_modified_date: 2025-02-08 13:39 -0300
 ---
 
 # Recursos diversos
@@ -18,6 +18,7 @@ last_modified_date: 2025-02-05 07:39 -0300
 {:toc}
 
 ## Apostilas sobre Arduino
+* [Official Arduino Projects Book](/assets/arduino/arduino_projects_book.pdf)
 * [Curso básico de
   Arduino](/assets/arduino/apostila_curso_basico_de_arduino.pdf)
 * [Eletrogate: Arduino

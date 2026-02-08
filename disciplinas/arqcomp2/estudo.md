@@ -7,7 +7,7 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-02-01 20:29 -0300
+last_modified_date: 2026-02-08 13:56 -0300
 ---
 
 # Roteiro de estudo
@@ -43,6 +43,11 @@ last_modified_date: 2026-02-01 20:29 -0300
 
 ---
 
+
+
+---
+-->
+
 **Estudo da 2ª Semana**<a id="re02sem"></a> (09/02 - 15/02)
 {: .label .label-reading }
 
@@ -77,7 +82,6 @@ last_modified_date: 2026-02-01 20:29 -0300
     obrigatórios](../recursos/#cursos-obrigatrios). Comece a assistir o curso.
 
 ---
--->
 
 **Estudo da 1ª Semana**<a id="re01sem"></a> (02/02 - 08/02)
 {: .label .label-reading }
