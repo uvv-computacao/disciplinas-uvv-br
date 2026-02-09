@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-02-08 13:40 -0300
+last_modified_date: 2026-02-09 12:25 -0300
 ---
 
 # Roteiro de estudo
@@ -110,6 +110,9 @@ e a Internet. Estudaremos com certo grau de profundidade conceitos como
 endereços IP (públicos e privados), roteadores, gateways, redes e subredes e
 diversos protocolos de comunicação tais como: TCP/IP, UDP, DHCP e DNS.
 
+- **Leituras obrigatórias:**
+  - [IPv4 Classes: What are They & How are They
+    Used](https://www.hostwinds.com/blog/ipv4-classes-what-are-they-and-how-are-they-used)
 - **Vídeos obrigatórios:**
   - Sobre endereços IP:
     - [Entenda o que é endereço IP](https://www.youtube.com/watch?v=JAD4M7j_tQg)
