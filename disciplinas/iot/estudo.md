@@ -113,6 +113,8 @@ diversos protocolos de comunicação tais como: TCP/IP, UDP, DHCP e DNS.
 - **Leituras obrigatórias:**
   - [IPv4 Classes: What are They & How are They
     Used](https://www.hostwinds.com/blog/ipv4-classes-what-are-they-and-how-are-they-used)
+  - [The Five IPv4 Classes: Quick
+    Reference](https://www.meridianoutpost.com/resources/articles/IP-classes.php)
 - **Vídeos obrigatórios:**
   - Sobre endereços IP:
     - [Entenda o que é endereço IP](https://www.youtube.com/watch?v=JAD4M7j_tQg)
