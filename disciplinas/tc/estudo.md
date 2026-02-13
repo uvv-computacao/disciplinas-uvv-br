@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-05 14:37 -0300
+last_modified_date: 2026-02-13 18:49 -0300
 ---
 
 # Roteiro de estudo
@@ -20,11 +20,12 @@ last_modified_date: 2026-02-05 14:37 -0300
   - Notas de aula: [Capítulo 0](/assets/disciplinas/tc/20261/capitulo00.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 1: **Column 1: Cracking the Oyster**
-    - [Artigo]() e [Slides]().
+    - [Artigo](/assets/disciplinas/tc/20261/artigo01.pdf);
+      [Slides](/assets/disciplinas/tc/20261/slides01.pdf).
   - Grupo 2: **Column 2: Aha! Algorithms**
-    - [Artigo]() e [Slides]().
+    - [Artigo](/assets/disciplinas/tc/20261/artigo02.pdf); (não tem slides).
   - Grupo 3: **Column 3: Data Structures Programs**
-    - [Artigo]() e [Slides]().
+    - [Artigo](/assets/disciplinas/tc/20261/artigo03.pdf); (aguardando slides).
 
 ---
 
