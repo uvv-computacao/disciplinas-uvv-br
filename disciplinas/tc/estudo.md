@@ -17,10 +17,14 @@ last_modified_date: 2026-02-05 14:37 -0300
 
 - **Leituras obrigatórias:**
   - Livro texto: **Capítulo 0: Introduction** (seções: 0.1, 0.2, 0.3)
+  - Notas de aula: [Capítulo 0](/assets/disciplinas/tc/20261/capitulo00.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 1: **Column 1: Cracking the Oyster**
+    - [Artigo]() e [Slides]().
   - Grupo 2: **Column 2: Aha! Algorithms**
+    - [Artigo]() e [Slides]().
   - Grupo 3: **Column 3: Data Structures Programs**
+    - [Artigo]() e [Slides]().
 
 ---
 

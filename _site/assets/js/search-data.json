@@ -1821,7 +1821,7 @@
   },"260": {
     "doc": "Roteiro de estudo",
     "title": "Roteiro de estudo",
-    "content": "Estudo da 2ª Semana (09/02 - 15/02) . | Leituras obrigatórias: . | Livro texto: Capítulo 0: Introduction (seções: 0.1, 0.2, 0.3) | . | Seminários (Livro: Programming Pearls): . | Grupo 1: Column 1: Cracking the Oyster | Grupo 2: Column 2: Aha! Algorithms | Grupo 3: Column 3: Data Structures Programs | . | . Estudo da 1ª Semana (02/02 - 08/02) . | Leituras obrigatórias: . | Livro texto: prefácios da 1ª, 2ª e 3ª edições (páginas xi até xxii) | . | Outras atividades: . | Divisão de grupos e criação do calendário de apresentação dos seminários sobre computação, programação e teoria da computação. | . | . ",
+    "content": "Estudo da 2ª Semana (09/02 - 15/02) . | Leituras obrigatórias: . | Livro texto: Capítulo 0: Introduction (seções: 0.1, 0.2, 0.3) | Notas de aula: Capítulo 0 | . | Seminários (Livro: Programming Pearls): . | Grupo 1: Column 1: Cracking the Oyster . | Artigo e Slides. | . | Grupo 2: Column 2: Aha! Algorithms . | Artigo e Slides. | . | Grupo 3: Column 3: Data Structures Programs . | Artigo e Slides. | . | . | . Estudo da 1ª Semana (02/02 - 08/02) . | Leituras obrigatórias: . | Livro texto: prefácios da 1ª, 2ª e 3ª edições (páginas xi até xxii) | . | Outras atividades: . | Divisão de grupos e criação do calendário de apresentação dos seminários sobre computação, programação e teoria da computação. | . | . ",
     "url": "/disciplinas/tc/estudo/",
     
     "relUrl": "/disciplinas/tc/estudo/"
