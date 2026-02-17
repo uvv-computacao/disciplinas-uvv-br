@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-02-09 12:25 -0300
+last_modified_date: 2026-02-16 08:09 -0300
 ---
 
 # Roteiro de estudo
@@ -101,6 +101,34 @@ cabeadas e WiFi.
 
 ---
 -->
+
+**Estudo da 3ª Semana**<a id="re3sem"></a> (16/02 - 22/02)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo introdutório sobre redes de computadores
+e a Internet. Estudaremos com certo grau de profundidade conceitos como
+endereços IP (públicos e privados), roteadores, gateways, redes e subredes e
+diversos protocolos de comunicação tais como: TCP/IP, UDP, DHCP e DNS.
+
+- **Vídeos obrigatórios:**
+  - Sobre DHCP:
+    - [DHCP](https://www.youtube.com/watch?v=D2tlmxb8lW0)
+    - [Como funciona o DHCP](https://www.youtube.com/watch?v=9286Z3dwcdU)
+    - [DHCP explicado](https://www.youtube.com/watch?v=SOsrw2uMLeY)
+  - Sobre DNS:
+    - [Como funciona a Internet? Parte 3:
+      DNS](https://www.youtube.com/watch?v=ACGuo26MswI)
+    - [DNS](https://www.youtube.com/watch?v=XJ1YjZbdz_s)
+    - [O que é DNS?](https://www.youtube.com/watch?v=YMmIRoJjICw)
+  - Sobre o TCP e o UDP:
+    - [Protocolos TCP e UDP](https://www.youtube.com/watch?v=uRvjPlbJ_98)
+    - [TCP e UDP](https://www.youtube.com/watch?v=Wo7GOmuN-og)
+  - Sobre os Gateways:
+    - [Gateway](https://www.youtube.com/watch?v=F3ziubke1_w)
+- **Exercícios:**
+  - Sem exercícios nesta semana.
+
+---
 
 **Estudo da 2ª Semana**<a id="re2sem"></a> (09/02 - 15/02)
 {: .label .label-reading }

@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-08 14:01 -0300
+last_modified_date: 2026-02-16 08:13 -0300
 ---
 
 # Roteiro de estudo
@@ -128,6 +128,13 @@ Para o laboratório, você deve ler os seguintes capítulos do livro "Official
 
 ---
 -->
+
+**Estudo da 3ª Semana**<a id="re3sem"></a> (16/02 - 22/02)
+{: .label .label-reading }
+
+FERIADO DE CARNAVAL.
+
+---
 
 **Estudo da 2ª Semana**<a id="re02sem"></a> (09/02 - 15/02)
 {: .label .label-reading }
