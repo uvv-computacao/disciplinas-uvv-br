@@ -7,25 +7,10 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-02-08 13:56 -0300
+last_modified_date: 2026-02-16 20:58 -0300
 ---
 
 # Roteiro de estudo
-
-<!--
-**Estudo da 4ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
-{: .label .label-reading }
-
-- **Leituras obrigatórias:**
-  - Notas de aula: [Processamento Paralelo:
-    4](/assets/disciplinas/arqcomp2/20261/paralelo4.pdf)
-  - Livro texto de referência: **Capítulo 18** (seções: 18.1, 18.3 e 18.4)
-- **Outras atividades:**
-  - Continue a fazer o curso do KiCad.
-  - Continue discutindo com seu grupo as idéias para o projeto prática da
-    disciplina. Discuta as idéias com o professor.
-
----
 
 **Estudo da 3ª Semana**<a id="re03sem"></a> (16/02 - 22/02)
 {: .label .label-reading }
@@ -33,7 +18,15 @@ last_modified_date: 2026-02-08 13:56 -0300
 - **Leituras obrigatórias:**
   - Notas de aula: [Processamento Paralelo:
     3](/assets/disciplinas/arqcomp2/20261/paralelo3.pdf)
-  - Livro texto de referência: **Capítulo 17** (seções: 17.6 e 17.7)
+  - Livro texto de referência: **Capítulo 17** (seções: 17.4 e 17.7)
+- **Leituras recomendadas:** (para o projeto prático)
+  - Para as atividades no laboratório de hardware, se você ainda não tem
+    familiaridade com o Arduino, você deve ler os seguintes capítulos do livro
+    "Official Arduino Projects Book" (o PDF do livro está na [página de
+    recursos](../recursos))
+    - Capítulo 2 do "Official Arduino Projects Book"
+    - Capítulo 3 do "Official Arduino Projects Book"
+    - Capítulo 4 do "Official Arduino Projects Book"
 - **Outras atividades:**
   - Continue a fazer o curso do KiCad.
   - Comece a procurar, na Internet, projetos com Arduino e/ou com
@@ -42,11 +35,6 @@ last_modified_date: 2026-02-08 13:56 -0300
     grupo com o professor.
 
 ---
-
-
-
----
--->
 
 **Estudo da 2ª Semana**<a id="re02sem"></a> (09/02 - 15/02)
 {: .label .label-reading }
