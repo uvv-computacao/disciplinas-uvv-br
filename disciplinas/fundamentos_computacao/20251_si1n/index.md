@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2025/1 - Turma SI1N
-nav_exclude: false
+nav_exclude: true
 nav_order: 50
 parent: Fundamentos da Computação
 has_children: true

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Fundamentos da Computação
-nav_exclude: true
+nav_exclude: false
 nav_order: 150
 has_children: true
 has_toc: false
-last_modified_date: 2025-02-07 10:12 -0300
+last_modified_date: 2026-02-25 12:36 -0300
 ---
 
 # Fundamentos da Computação

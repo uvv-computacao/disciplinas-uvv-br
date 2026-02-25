@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Atividades no Autolab
-nav_exclude: false
+nav_exclude: true
 parent: Fundamentos da Computação
 nav_order: 25
 has_children: true

@@ -4,7 +4,7 @@ title: Monitoria e Laboratórios
 parent: Fundamentos da Computação
 has_children: false
 has_toc: false
-nav_exclude: false
+nav_exclude: true
 nav_order: 27
 last_modified_date: 2025-03-13 18:46-0300
 ---

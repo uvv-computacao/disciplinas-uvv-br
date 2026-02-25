@@ -5,24 +5,24 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 10
 has_children: false
-last_modified_date: 2025-02-07 10:14 -0300
+last_modified_date: 2026-02-25 12:34 -0300
 ---
 
 # Syllabus
 {:.no_toc}
 
 [(clique aqui para a versão PDF deste
-documento)](/assets/disciplinas/fundcomp/2025_1/syllabus_2025_1.pdf)
+documento)](/assets/disciplinas/fundcomp/2026_1/syllabus_2026_1.pdf)
 
 Além do material oficial que está disponível no Portal do Aluno da UVV
 (Universidade de Vila Velha), este documento contém mais detalhes sobre a
 dinâmica da disciplina **Fundamentos de Tecnologia da Computação** (Fundamentos
-da Computação) para as turmas deste semestre (2025/1). Leia-o com atenção e
+da Computação) para as turmas deste semestre (2026/1). Leia-o com atenção e
 procure o professor para esclarecer qualquer dúvida. O *syllabus*[^1] funcionará
 como a nossa "constituição", ou seja, será a base para todas as regras,
 políticas e funcionamento de nosso curso. Além do *syllabus* a ementa oficial da
 disciplina está [disponível para
-download](/assets/disciplinas/fundcomp/2025_1/ementa_2025_1.pdf).
+download](/assets/disciplinas/fundcomp/2026_1/ementa_2026_1.pdf).
 
 [^1]: Ementa, plano detalhado de estudo, programa de estudos.
 
@@ -54,7 +54,7 @@ atividades cotidianas, como mandar um e-mail, escrever um documento ou navegar
 por sites na Internet, já tem condições para fazer a disciplina.
 
 {: .note }
-Neste semestre de 2025/1 a disciplina está sendo ofertada para os cursos de
+Neste semestre de 2026/1 a disciplina está sendo ofertada para os cursos de
 [Ciência da
 Computação](https://uvv.br/ensino-presencial/graduacao/ciencia-da-computacao/) e
 [Sistemas de
@@ -273,7 +273,8 @@ sua turma. Algumas informações sobre mim:
 - Sou graduado em **medicina** pela [UFES](https://ufes.br/) (1999), mestre em
   **epidemiologia e métodos quantitativos em saúde** pela
   [FIOCRUZ](https://portal.fiocruz.br/) (2002) e graduado em **ciência da
-  computação** pela [FAESA](https://www.faesa.br/) (2021).
+  computação** pela [FAESA](https://www.faesa.br/) (2021). Atualmente faço
+  bacharelado em matemática, na Uninter (modalidade EAD).
 - Meus principais sites:
   - [www.linkedin.com/in/abrantes-filho](https://www.linkedin.com/in/abrantes-filho/)
   - [github.com/abrantesasf](https://github.com/abrantesasf) e também
@@ -511,7 +512,7 @@ aprendizagem** e atividades no Autolab (includindo **exercícios**,
 **laboratórios** e **PSETs**).
 
 ### 5.1. Aulas
-Cada turma terá 1 (uma) aula presencial por semana, com 1:40h de duração,
+Cada turma terá 1 (uma) aula presencial por semana, com 1:40 h de duração,
 conforme o calendário da UVV (consulte a seção específica de sua turma para
 ver os dias/horários de sua turma). A presença nas aulas é obrigatória e terá
 peso na nota da disciplina. 

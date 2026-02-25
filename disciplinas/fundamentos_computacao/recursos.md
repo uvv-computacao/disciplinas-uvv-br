@@ -16,19 +16,11 @@ has_children: false
 * TOC
 {:toc}
 
-## Almaço, papel
-* [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
+## Arredondamento de notas
+* [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)
 
 ## Calendário acadêmico
-* [Calendário acadêmico oficial 2025](/assets/docs/calendario_oficial_2025.pdf)
-
-## Livros
-* [Blown to Bits](/assets/docs/blown_to_bits_2e.pdf) (original em inglês)
-* [Blown to Bits: pt-BR](/assets/docs/blown_to_bits_2e_pt-BR.pdf) (tradução do
-  livro que está sendo feita pelo professor e alunos voluntários)
-
-## Notas
-* [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)  
+* [Calendário acadêmico oficial 2026](/assets/docs/calendario_oficial_2026.pdf)
 
 ## PSETs
 * [Harbinger of Doom, Despair, and Knowledge: PSETS](https://cmprz.me/pset1)
@@ -38,4 +30,5 @@ has_children: false
 * [The Process of Psetting](https://cmprz.me/pset3)
   (versão [em pdf](/assets/docs/pset/psetting.pdf))
 
-
+## Uso do papal almaço
+* [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)

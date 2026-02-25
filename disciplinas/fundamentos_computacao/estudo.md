@@ -5,10 +5,115 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2025-03-13 09:34 -0300
+last_modified_date: 2026-02-25 12:48 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 04ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
+{: .label .label-reading }
+
+Como estamos com o cronograma atrasado, pois a turma ainda não existia até a
+semana passada, nesta semana teremos que correr com o conteúdo e você precisará
+se esforçar muito para estudar e colocar a matéria e os exercícios em dia. Em
+especial, nesta semana, teremos que estudar 3 coisas: A) o conteúdo da
+**apresentação da disciplina**; B) o conteúdo da **Unidade 0: Introdução**; e C)
+a parte inicial da **Unidade 1: Fundamentos da Computação**. Você precisa
+estudar e colocar a matéria em dia seguindo tudo o que listado abaixo.
+
+**A) Conteúdo da Apresentação da Disciplina:** este conteúdo *não foi
+apresentado* na aula do dia 24/02/2026, para não atrasarmos ainda mais a
+matéria. Você tem a **obrigação** de estudar tudo o que está listado abaixo,
+principalmente o *Syllabus*: a leitura integral do *Syllabus* é obrigatória e,
+por incrível que pareça, eu tenho um mecanismo de saber quem leu e quem não leu
+o *Syllabus* integralmente, da primeira até a última página!
+
+{: .danger }
+A leitura **integral do _Syllabus_ é obrigatória**, da primeira à última
+página. Isso é muito importante para o sucesso na disciplina. Leia totalmente o
+*Syllabus* o mais rápido possível (você também precisará ter feito a leitura
+para responder o Diário de Aprendizagem -1).
+
+- **Vídeos obrigatórios:**
+  - [Apresentação da disciplina
+    CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/introducao_cr6100b.pdf)
+    do vídeo)
+  - [Apresentação da CS50 de
+    Harvard](https://www.youtube.com/watch?v=3oFAJtFE8YU)
+  - [Diferenças entre a nossa disciplina CR6.100B e a disciplina CS50 de
+    Harvard](https://www.youtube.com/watch?v=d7uDtdECwGg) (se quiser, pode fazer
+    o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/motivacao_diferencas.pdf)
+    do vídeo)
+  - [Sugestões de como fazer este
+    disciplina](https://www.youtube.com/watch?v=an7aEc5du0o) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/como_fazer.pdf) do vídeo)
+- **Leituras obrigatórias:**
+  - [Home da disciplina](/disciplinas/fundamentos_computacao/)
+  - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
+  - [CR6.100B: Home](http://cmprz.me/cr6100bhome)
+- **Atividades obrigatórias:**
+  - Imprima e responda o **[Diário de Aprendizagem -1:
+    Apresentação](/assets/disciplinas/fundcomp/2026_1/diario_-1.pdf)**. Atenção:
+    você precisa ter visto os vídeos e feito as leituras indicadas acima para
+    poder responder este diário, principalmente o *Syllabus*. Data de entrega
+    deste diário: 03/03/2026 (não serão aceitas entregas em atraso).
+- **Outras atividades:**
+  - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
+
+**B) Conteúdo da Unidade 0: Introdução:** este conteúdo *foi apresentado* na
+aula do dia 24/02/2026, e é um "passeio geral" pelas áreas da computação. Você
+entenderá o que estudaremos nesta disciplina, incluindo: fundamentos da
+computação, fundamentos da programação, visão atual e futura. Você conhecerá
+rapidamente algumas outras disciplinas da computação. Assista aos vídeos, faça
+as leituras e as atividades listadas abaixo:
+
+- **Vídeos obrigatórios:**
+  - [CR6.100B, vídeo da Unidade 0](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+- **Leituras obrigatórias:**
+  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0): estude o material
+    disponível na página dessa unidade, na Internet. Em especial, estude em
+    detalhes a explicação do motivo dos cientistas da computação começarem a
+    contar a partir do número 0 e não a partir do número 1.
+  - [PDF dos slides da Unidade 0](https://cmprz.me/slides-unid-0): faça o
+    download dos slides e use como referência de estudo
+- **Atividades obrigatórias:**
+  - Imprima e responda o **[Diário de Aprendizagem 0:
+    Introdução](/assets/disciplinas/fundcomp/2026_1/diario_0.pdf)**. Atenção:
+    você precisa ter feito as leituras e ter visto o vídeo listado acima para
+    responder com segurança esse diário. Data de entrega deste diário:
+    10/03/2026 (não serão aceitas entregas em atraso).
+
+**C) Conteúdo da Unidade 1: Fundamentos da Computação:** começamos a estudar
+esse conteúdo na aula do dia 24/02/2026 mas, como você já tem muitas tarefas a
+fazer e muita coisa para estudar (nos itens "A" e "B", acima), você não precisa
+fazer nada da Unidade 1 ainda.
+
+---
+
+**Estudo da 3ª Semana**<a id="re03sem"></a> (16/02 - 22/03)
+{: .label .label-reading }
+
+TURMA NÃO EXISTIA.
+
+---
+
+**Estudo da 2ª Semana**<a id="re02sem"></a> (09/02 - 15/02)
+{: .label .label-reading }
+
+TURMA NÃO EXISTIA.
+
+---
+
+**Estudo da 1ª Semana**<a id="re01sem"></a> (02/02 - 08/02)
+{: .label .label-reading }
+
+TURMA NÃO EXISTIA.
+
+<!--
 
 **Estudo da 7ª Semana**<a id="re7sem"></a> (17/03 - 23/03)
 {: .label .label-reading }
@@ -146,52 +251,9 @@ aprender como os diversos dados e informações são representados no computador
 **Estudo da 2ª Semana**<a id="re2sem"></a> (10/02 - 16/02)
 {: .label .label-reading }
 
-Na aula desta semana faremos um "passeio geral" pelas áreas da computação. Você
-entenderá o que estudaremos nesta disciplina, incluindo: fundamentos da
-computação, fundamentos da programação, visão atual e futura. Você conhecerá
-rapidamente algumas outras disciplinas da computação. Você também começará a
-leitura do livro *Blown to Bits*. Assista aos vídeos, faça as leituras e as
-atividades listadas abaixo:
 
-- **Vídeos obrigatórios:**
-  - [CR6.100B, vídeo da Unidade 0](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
-- **Leituras obrigatórias:**
-  - [CR6.100B: Unidade 0](http://cmprz.me/cr6100bu0): estude o material
-    disponível na página dessa unidade, na Internet
-  - [PDF dos slides da Unidade 0](https://cmprz.me/slides-unid-0): faça o
-    download dos slides e use como referência de estudo
-  - Leitura do livro [*Blown to Bits*](/assets/docs/blown_to_bits_2e_pt-BR.pdf):
-    - Prefácio: leia as páginas vii-viii
-    - Introdução do capítulo 1: leia as páginas 1-4
-- **Atividades obrigatórias:**
-  - Imprima e responda o **[Diário de Aprendizagem 0:
-    Introdução](/assets/disciplinas/fundcomp/2025_1/diario_0.pdf)**. Atenção:
-    você precisa ter feito as leituras e ter visto o vídeo listado acima para
-    responder com segurança esse diário. Verifique a data de entrega no
-    calendário de sua turma.
 
 ---
-
-**Estudo da 1ª Semana**<a id="re1sem"></a> (03/02 - 09/02)
-{: .label .label-reading }
-
-Na aula desta semana faremos uma apresentação da disciplina para detalhar os
-objetivos, dinâmica, grau de dificuldade, critérios de avaliação e notas, método
-de estudo, atividades no Autolab e muito mais. Estude e faça o que se pede
-abaixo:
-
-- **Leituras obrigatórias:**
-  - [Home da disciplina](/disciplinas/fundamentos_computacao/)
-  - [Syllabus](/disciplinas/fundamentos_computacao/syllabus/)
-  - [CR6.100B: Home](http://cmprz.me/cr6100bhome)
-- **Atividades obrigatórias:**
-  - Imprima e responda o **[Diário de Aprendizagem -1:
-    Apresentação](/assets/disciplinas/fundcomp/2025_1/diario_-1.pdf)**
-    (verifique a data de entrega no calendário de sua turma)
-- **Outras atividades:**
-  - Conheça o [pessoal](/disciplinas/fundamentos_computacao/pessoal/)
-
-<!--
 
 **Estudo da 4ª Semana**<a id="re4sem"></a> (19/08 - 25/08)
 {: .label .label-reading }
@@ -561,15 +623,6 @@ abaixo:
 [^2]: Disponível publicamente na página de [Michel Resnick](https://web.media.mit.edu/~mres/papers.html)
 [^3]: Disponível publicamente na página do [CS10](http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub)
 
-**Leituras da 3ª Semana**<a id="l3sem"></a>
-{: .label .label-reading }
-
-(sem leituras, curso não iniciado)
-
-**Leituras da 2ª Semana**<a id="l2sem"></a>
-{: .label .label-reading }
-
-(sem leituras, curso não iniciado)
 
 -->
 
