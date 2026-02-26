@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-02-16 08:09 -0300
+last_modified_date: 2026-02-26 14:54 -0300
 ---
 
 # Roteiro de estudo
@@ -101,6 +101,32 @@ cabeadas e WiFi.
 
 ---
 -->
+
+**Estudo da 4ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
+{: .label .label-reading }
+
+Nessa semana começaremos nosso estudo de eletrônica básica, como preparação para
+as atividades no laboratório de hardware.
+
+- **Leituras obrigatórias:**
+  - [Fundamentos físicos da
+    computação](/assets/disciplinas/iot/20261/circuitos_eletricos.pdf)
+- **Vídeos obrigatórios:**
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+  - [Qual a diferença entre volt, watt e
+    ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
+  - [Ferramentas: tudo o que você queria
+    saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
+- **Leituras recomendadas:**
+  - [Arduino Uno Rev. 3 Datasheet](/assets/arduino/arduino_uno_r3_datasheet.pdf)
+- **Vídeos recomendados:**
+  - [O que é Arduino, afinal de
+    contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g)
+
+---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (16/02 - 22/02)
 {: .label .label-reading }
