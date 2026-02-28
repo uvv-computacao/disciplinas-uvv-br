@@ -22,11 +22,14 @@ last_modified_date: 2026-02-23 11:03 -0300
     1.1](/assets/disciplinas/tc/20261/capitulo01_11.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 7: **Column 7: Back of Envelope**
-    - Artigo e Slides (aguardando o envio pelos alunos)
+    - [Artigo](/assets/disciplinas/tc/20261/artigo07.pdf);
+      [Slides](/assets/disciplinas/tc/20261/slides07.pdf).
   - Grupo 8: **Column 8: Algorithm Design**
-    - Artigo e Slides (aguardando o envio pelos alunos)
+    - Artigo (aguardando o envio);
+      [Slides](/assets/disciplinas/tc/20261/slides08.pdf).
   - Grupo 1: **Column 9: Code Tuning**
-    - Artigo e Slides (aguardando o envio pelos alunos)
+    - [Artigo](/assets/disciplinas/tc/20261/artigo09.pdf);
+      [Slides](/assets/disciplinas/tc/20261/slides09.pdf).
 - **Vídeo recomendado:**
   - [MIT 18.404J - Theory of Computation - Aula
     1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória

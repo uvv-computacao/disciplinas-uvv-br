@@ -7,10 +7,34 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-02-16 20:58 -0300
+last_modified_date: 2026-02-24 20:58 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 4ª Semana**<a id="re03sem"></a> (23/02 - 01/03)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Notas de aula: [Processamento Paralelo:
+    4](/assets/disciplinas/arqcomp2/20261/paralelo4.pdf)
+  - Livro texto de referência: **Capítulo 18** (seções: 18.1, 18.3 e 18.4)
+- **Leituras recomendadas:** (para o projeto prático)
+  - Para as atividades no laboratório de hardware, se você ainda não tem
+    familiaridade com o Arduino, você deve ler os seguintes capítulos do livro
+    "Official Arduino Projects Book" (o PDF do livro está na [página de
+    recursos](../recursos))
+    - Capítulo 5 do "Official Arduino Projects Book"
+    - Capítulo 6 do "Official Arduino Projects Book"
+    - Capítulo 7 do "Official Arduino Projects Book"
+- **Outras atividades:**
+  - Continue a fazer o curso do KiCad.
+  - Continue a procurar, na Internet, projetos com Arduino e/ou com
+    microcontroladores AVR de 8 bits (por exemplo, o ATmega328P) pelos quais o
+    seu grupo tenha interesse. Comece a discutir idéias para o projeto de seu
+    grupo com o professor.
+
+---
 
 **Estudo da 3ª Semana**<a id="re03sem"></a> (16/02 - 22/02)
 {: .label .label-reading }

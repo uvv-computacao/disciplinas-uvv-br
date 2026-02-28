@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-16 08:13 -0300
+last_modified_date: 2026-02-24 08:13 -0300
 ---
 
 # Roteiro de estudo
@@ -128,6 +128,32 @@ Para o laboratório, você deve ler os seguintes capítulos do livro "Official
 
 ---
 -->
+
+**Estudo da 4ª Semana**<a id="re3sem"></a> (23/02 - 01/03)
+{: .label .label-reading }
+
+Nesta semana faremos nossa primeira aula no laboratório de hardware. Por favor,
+lembre-se de que a turma foi dividida em 2 grupos práticos: o G1 estará no
+laboratório no horário de 07:15h até 08:55h; o G2 estará no laboratório no
+horário de 9:15h até 10:55h. Verifique no Portal do Aluno da UVV qual o seu
+grupo prático e compareça no horário correto.
+
+- **Vídeos obrigatórios:**
+  - [O que é Arduino, afinal de
+    contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g)
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+- **Leituras recomendadas:**
+  - [Arduino Uno Rev. 3 Datasheet](/assets/arduino/arduino_uno_r3_datasheet.pdf)
+- **Vídeos recomendados:**
+  - [Ferramentas: tudo o que você queria
+    saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
+  - [Qual a diferença entre volt, watt e
+    ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
+
+---
 
 **Estudo da 3ª Semana**<a id="re3sem"></a> (16/02 - 22/02)
 {: .label .label-reading }
