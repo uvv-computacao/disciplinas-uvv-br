@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 30
 has_toc: true
 has_children: false
-last_modified_date: 2026-02-01 11:20 -0300
+last_modified_date: 2026-03-03 11:20 -0300
 ---
 
 # Recursos diversos
@@ -54,6 +54,8 @@ last_modified_date: 2026-02-01 11:20 -0300
   Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)
 * [Capa para o Caderno de
   Engenharia](/assets/docs/caderno_engenharia/capa_caderno_engenharia.pdf)
+* [Sumário para o Caderno de
+  Engenharia](/assets/docs/caderno_engenharia/sumario_caderno_engenharia.pdf)
 * [Algarismos
   Significativos](/assets/docs/caderno_engenharia/algarismos_significativos.pdf)
 * Exemplos de Cadernos de Engenharia:

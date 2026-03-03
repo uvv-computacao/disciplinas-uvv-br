@@ -110,7 +110,11 @@ do Arduino Uno, para aprendermos a identificar os componentes eletrônicos mais
 comuns, suas características e aplicações. Também começaremos a criar alguns
 circuitos elétricos simples.
 
-- **Leituras obrigatórias:**
+- **Leituras obrigatórias:** (documentos na página de Recursos da disciplina)
+  - **Instruções para o Caderno de Engenharia**: estude esse documento em
+    detalhes para saber o que é, qual a importância e como preencher um caderno
+    de engenharia. Você utilizará um caderno de engenharia durante todo o
+    semestre durante as atividades de laboratório.
   - **Capítulo 0** do "Official Arduino Projects Book" (páginas 1-19):
     informações básicas sobre o que é o Arduino, aprender os principais
     componentes eletrônicos, circuitos, protoboard e instalação do software;

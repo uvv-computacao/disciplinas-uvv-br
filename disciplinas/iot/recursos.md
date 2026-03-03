@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 30
 has_children: false
-last_modified_date: 2025-02-08 13:39 -0300
+last_modified_date: 2025-03-03 13:39 -0300
 ---
 
 # Recursos diversos
@@ -60,6 +60,8 @@ last_modified_date: 2025-02-08 13:39 -0300
   Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)
 * [Capa para o Caderno de
   Engenharia](/assets/docs/caderno_engenharia/capa_caderno_engenharia.pdf)
+* [Sumário para o Caderno de
+  Engenharia](/assets/docs/caderno_engenharia/sumario_caderno_engenharia.pdf)
 * [Algarismos
   Significativos](/assets/docs/caderno_engenharia/algarismos_significativos.pdf)
 * Exemplos de Cadernos de Engenharia:
