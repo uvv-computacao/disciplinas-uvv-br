@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-24 08:13 -0300
+last_modified_date: 2026-03-02 23:19 -0300
 ---
 
 # Roteiro de estudo
@@ -101,35 +101,84 @@ disciplina.
   - [How to Use a TMP36 Temperature Sensor with
     Arduino](https://www.youtube.com/watch?v=5nF5R4CGZG4)
 - **Exercícios:**
-  - [2ª Lista de Exercício:
-    Arduino](/assets/disciplinas/arqcomp1/20252/arduino02.pdf). Esta lista deve
-    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
-    responder diretamente os espaços reservados para as respostas. A data de
-    entrega será a seguinte:
-    - Turma CC4N: 03/09
-    - Turma CC4M: 04/09
-    - Turma CC4Mb: 04/09
+  
 - **Outras atividades:**
   - (nada no momento)
 
----
-
-Para o laboratório, você deve ler os seguintes capítulos do livro "Official
-    Arduino Projects Book" (o PDF do livro está na [página de
-    recursos](../recursos))
-    - Capítulo 0 do "Official Arduino Projects Book" (páginas 1-19): informações
-      básicas sobre o que é o Arduino, aprender os principais componentes
-      eletrônicos, circuitos, protoboard e instalação do software;
-    - Capítulo 1 do "Official Arduino Projects Book" (páginas 20-31): seu
-      primeiro projeto com o Arduino, um LED controlado por botão
-
-[How to Use a Button with an
-    Arduino](https://www.youtube.com/watch?v=yBgMJssXqHY)
-
----
 -->
 
-**Estudo da 4ª Semana**<a id="re3sem"></a> (23/02 - 01/03)
+**Estudo da 5ª Semana**<a id="re05sem"></a> (01/03 - 08/03)
+{: .label .label-reading }
+
+Começaremos nosso estudo de eletrônica utilizando a apostila oficial de projetos
+do Arduino Uno, para aprendermos a identificar os componentes eletrônicos mais
+comuns, suas características e aplicações. Também começaremos a criar alguns
+circuitos elétricos simples.
+
+- **Leituras obrigatórias:**
+  - **Capítulo 0** do "Official Arduino Projects Book" (páginas 1-19):
+    informações básicas sobre o que é o Arduino, aprender os principais
+    componentes eletrônicos, circuitos, protoboard e instalação do software;
+  - **Capítulo 1** do "Official Arduino Projects Book" (páginas 20-31): seu
+    primeiro projeto com o Arduino, um LED controlado por botão
+- **Vídeos obrigatórios:**
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+- **Atividades no laboratório:**
+  - **1º Circuito**:
+    - Crie o circuito ilustrado pelas figuras 5 e 6, um simples projeto para
+      ligar um LED;
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+  - **2º Circuito**:
+    - Crie o circuito ilustrado pelas figuras 7, 8 e 9, um LED controlado por um
+      pushbutton. Tenha certeza de que você entendeu o funcionamento do
+      pushbutton.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+  - **3º Circuito**:
+    - Crie o circuito em série ilustrado pelas figuras 10 e 11.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+  - **4º Circuito**:
+    - Crie o circuito em paralelo ilustrado pelas figuras 12 e 13.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+- **Exercícios:**
+  - [Lista de Exercícios sobre o Caderno de
+    Engenharia](/assets/disciplinas/robotica/20261/caderno_engenharia.pdf). Esta
+    lista deve ser feita individualmente, de forma manuscrita. Você deve
+    imprimir a lista e responder diretamente nos espaços reservados para as
+    respostas. **ATENÇÃO:** a data de entrega é no dia 10/03/2026 (cuidado com o
+    prazo pois não serão aceitas entregas em atraso).
+  - [1ª Lista de Exercícios sobre o
+    Arduino](/assets/disciplinas/robotica/20261/arduino01.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. **ATENÇÃO:**
+    a data de entrega é no dia 10/03/2026 (cuidado com o prazo pois não serão
+    aceitas entregas em atraso).
+
+---
+
+**Estudo da 4ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
 {: .label .label-reading }
 
 Nesta semana faremos nossa primeira aula no laboratório de hardware. Por favor,
@@ -155,7 +204,7 @@ grupo prático e compareça no horário correto.
 
 ---
 
-**Estudo da 3ª Semana**<a id="re3sem"></a> (16/02 - 22/02)
+**Estudo da 3ª Semana**<a id="re03sem"></a> (16/02 - 22/02)
 {: .label .label-reading }
 
 FERIADO DE CARNAVAL.
