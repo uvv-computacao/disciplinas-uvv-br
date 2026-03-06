@@ -7,10 +7,54 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-23 11:03 -0300
+last_modified_date: 2026-03-06 09:10 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 5ª Semana**<a id="re05sem"></a> (02/03 - 08/03)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Módulo de estudo do JFLAP: [Deterministic Finite Automata
+    (DFA)](/assets/disciplinas/tc/jflap/01_dfa.pdf)
+  - Livro texto: **Capítulo 1: Linguagens Regulares** (Seção 1.1: Autômatos
+    Finitos)
+  - Notas de aula: [Capítulo 1, Seção
+    1.1](/assets/disciplinas/tc/20261/capitulo01_11.pdf)
+- **Vídeos obrigatórios**:
+  - [JFLAP 01 Starting up and first
+    DFA](https://www.youtube.com/watch?v=3SX43rZaBa4)
+  - [JFLAP 02 Automated Processing - Stepping Through a
+    DFA](https://www.youtube.com/watch?v=iu4o5-zCDpQ)
+  - [JFLAP 03 - WARNING!!! Do NOT use
+    commas!!!](https://www.youtube.com/watch?v=iS5nbjVxSbE)
+  - [JFLAP 04 test DFA on multiple
+    strings](https://www.youtube.com/watch?v=f54ISUVE0p0)
+  - [JFLAP 05 add trash (trap) state to make
+    DFA](https://www.youtube.com/watch?v=0pNpL8XHBks)
+- **Exercícios**
+  - Cada grupo deve fazer/reproduzir os 3 exercícios sobre Autômatos Finitos
+    do módulo de aprendizagem do JFLAP. Esses exercícios serão entregues via
+    Portal do aluno, até o dia 13/03/2026 23:59h. Aqui estão os exercícios:
+    - [Exercício 1](/assets/disciplinas/tc/jflap/01_dfa_exercicio1.pdf)
+    - [Exercício 2](/assets/disciplinas/tc/jflap/01_dfa_exercicio2.pdf)
+    - [Exercício 3](/assets/disciplinas/tc/jflap/01_dfa_exercicio3.pdf)
+- **Seminários** (Livro: _Programming Pearls_)**:**
+  - Grupo 2: **Squeezing Space**
+    - Artigo e Slides (aguardando)
+  - Grupo 3: **Sorting**
+    - Artigo e Slides (aguardando)
+  - Grupo 4: **Sample Problem**
+    - Artigo e Slides (aguardando)
+- **Vídeo recomendado:**
+  - [MIT 18.404J - Theory of Computation - Aula
+    1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória
+    da disciplina de Teoria da Computação do MIT, ministrada pelo prof. Michael
+    Sipser (autor do livro da disciplina); assista a parte sobre autômatos
+    finitos.
+
+---
 
 **Estudo da 4ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
 {: .label .label-reading }

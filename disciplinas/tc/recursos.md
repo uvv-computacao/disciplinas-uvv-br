@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 30
 has_toc: false
 has_children: false
-last_modified_date: 2026-02-05 14:37 -0300
+last_modified_date: 2026-03-06 09:10 -0300
 ---
 
 # Recursos diversos
@@ -126,6 +126,10 @@ apresentação de seminários pelos alunos:
 
 ## Calendário acadêmico
 * [Calendário acadêmico oficial 2026](/assets/docs/calendario_oficial_2026.pdf)
+
+## Software JFLAP
+* [JFLAP v8 (beta)](/assets/disciplinas/tc/jflap/jflap8beta.jar)
+* [JFLAP v7.1](/assets/disciplinas/tc/jflap/jflap71.jar)
 
 ## Notas
 Esta disciplina é extremamente teórica e, além das aulas regulares, conta com
