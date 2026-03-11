@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-03-03 16:11 -0300
+last_modified_date: 2026-03-11 14:22 -0300
 ---
 
 # Roteiro de estudo
@@ -101,6 +101,86 @@ cabeadas e WiFi.
 
 ---
 -->
+
+**Estudo da 6ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
+{: .label .label-reading }
+
+Como nem todos os grupos tiveram a oportunidade de terminar todos os circuitos e
+estudos dos Capítulos 0 e 1 do livro de projetos oficial do Arduino, neste
+semana continuaremos com essa atividade, ou seja, as atividades desta semana são
+exatamente as mesmas da semana passada para dar oportunidade para todos os
+alunos terminarem.
+
+- **Leituras obrigatórias:** (documentos na página de Recursos da disciplina)
+  - **Instruções para o Caderno de Engenharia**: estude esse documento em
+    detalhes para saber o que é, qual a importância e como preencher um caderno
+    de engenharia. Você utilizará um caderno de engenharia durante todo o
+    semestre durante as atividades de laboratório.
+  - **Capítulo 0** do "Official Arduino Projects Book" (páginas 1-19):
+    informações básicas sobre o que é o Arduino, aprender os principais
+    componentes eletrônicos, circuitos, protoboard e instalação do software;
+  - **Capítulo 1** do "Official Arduino Projects Book" (páginas 20-31): seu
+    primeiro projeto com o Arduino, um LED controlado por botão
+- **Vídeos obrigatórios:**
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+- **Atividades no laboratório:**
+  - **1º Circuito**:
+    - Crie o circuito ilustrado pelas figuras 5 e 6, um simples projeto para
+      ligar um LED;
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+  - **2º Circuito**:
+    - Crie o circuito ilustrado pelas figuras 7, 8 e 9, um LED controlado por um
+      pushbutton. Tenha certeza de que você entendeu o funcionamento do
+      pushbutton.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+  - **3º Circuito**:
+    - Crie o circuito em série ilustrado pelas figuras 10 e 11.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+  - **4º Circuito**:
+    - Crie o circuito em paralelo ilustrado pelas figuras 12 e 13.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+- **Exercícios:**
+  - [Lista de Exercícios sobre o Caderno de
+    Engenharia](/assets/disciplinas/iot/20261/caderno_engenharia.pdf). Esta
+    lista deve ser feita individualmente, de forma manuscrita. Você deve
+    imprimir a lista e responder diretamente nos espaços reservados para as
+    respostas. **ATENÇÃO:** para a data de entrega (cuidado com o
+    prazo pois não serão aceitas entregas em atraso):
+    - Turma AN1tNb: 11/03/2026 
+    - Turma AN1tN: 12/03/2026
+  - [1ª Lista de Exercícios sobre o
+    Arduino](/assets/disciplinas/iot/20261/arduino01.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. **ATENÇÃO:**
+    para a data de entrega (cuidado com o prazo pois não serão aceitas entregas
+    em atraso):
+    - Turma AN1tNb: 11/03/2026 
+    - Turma AN1tN: 12/03/2026
+
+---
 
 **Estudo da 5ª Semana**<a id="re05sem"></a> (02/03 - 08/03)
 {: .label .label-reading }
