@@ -5,10 +5,148 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2026-02-25 12:48 -0300
+last_modified_date: 2026-03-11 00:05 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 06ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre a **Unidade 1: Fundamentos da
+Computação**. Por favor, estude o seguinte:
+
+- **Vídeos obrigatórios:**
+  - [Parte 2: representação de
+    dados](https://www.youtube.com/watch?v=8T_hJhYg4R0) (se quiser, pode fazer o
+    download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2.pdf)
+    do vídeo).
+
+{: .attention }
+> Na aula desta semana nós terminamos a formalização do sistema octal e
+> hexadecimal. Também aprendemos sobre unidades de medida decimal, unidades de
+> medida binária, o conceito de bit, nibble e byte, prefixos do sistema de
+> unidades para números decimais e números binários. Com isso nós encerramos
+> assim a parte _inicial_ sobre a representação de dados numéricos,
+> correspondendo até o slide 73 e até o tempo de 1:59:10h no vídeo.
+>
+> * Obs.: Note que, por limitações em nossa carga horária, a **maior parte do 
+> conteúdo sobre representação numérica** não será vista na sala de aula: você
+> tem a **obrigação de assistir aos vídeos de anexos numéricos indicados
+> abaixo** (no quadro vermelho escrito "Perigo") para aprender a matéria e fazer
+> os exercícios do Diário de Aprendizagem 1.
+>
+> Nesta aula nós também aprendemos sobre a representação de textos usando o
+> ASCII e o Unicode. Aprendemos o que é Encoding e vimos os principais encodings
+> para Unicode (UTF-8, UTF-16, UTF-32). A representação de textos vai do slide
+> 74 até o 90, e do tempo 1:59:10h até o 2:43:01h.
+>
+> Também vimos a representação de cores no computador usando o padrão RGB, e
+> diferenciamos o padrão RGB (para cores em monitores) do padrão CMYK (para
+> cores impressas). Esse conteúdo vai do slide 91 até o slide 94, e do tempo
+> 2:43:01h até o tempo 2:53:49h.
+>
+> Por fim nós começamos a matéria de representação de fotos e imagens, e falamos
+> sobre o que é um pixel, sobre como representar as cores de pixels em bitmaps e
+> sobre o tamanho de cada imagem. Esse conteúdo vai do slide 95 até o slide 100,
+> e do tempo 2:53:50h até o tempo 3:10:44h. Continuaremos essa matéria na aula
+> da próxima semana.
+
+{: .danger }
+> Os vídeos dos "Anexos Numéricos" são obrigatórios para que você entenda, em
+> profundidade, como os números binários funcionam, como os números são
+> representados no computador, como as operações aritméticas binárias são
+> realizadas, como representamos números binários negativos, fracionários e com
+> casas decimais. Esse material deve ser estudado **POR CONTA PRÓPRIA**, através
+> dos vídeos. Assista aos vídeos, faça os exercícios do Diário de Aprendizagem 1
+> e tire as dúvidas com o professor. **Atenção**: os vídeos dos anexos numéricos
+> totalizam 14 horas de aula: faça um cronograma para assistir aos vídeos e
+> fazer os exercícios do Diário de Aprendizagem 1. Não deixe acumular esta
+> matéria!!! Procure o professor para tirar dúvidas.
+>
+> - [Anexo numérico 1: conversão entre bases
+>   numéricas](https://www.youtube.com/watch?v=7u4lJQE2xOk) (se quiser, pode
+>   fazer o download dos
+>   [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2_anexo1.pdf)
+>   do vídeo).
+> - [Anexo numérico 2: outros conceitos fundamentos sobre o sistema
+>   binário](https://www.youtube.com/watch?v=MxdbxybOlmE) (se quiser, pode fazer
+>   o download dos
+>   [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2_anexo2.pdf)
+>   do vídeo).
+> - [Anexo numérico 3: representação de números negativos em
+>   binário](https://www.youtube.com/watch?v=gLBV2iU_EbM) (se quiser, pode fazer
+>   o download dos
+>   [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2_anexo3.pdf)
+>   do vídeo).
+> - [Anexo numérico 4: números binários
+>   fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8) (se quiser, pode
+>   fazer o download dos
+>   [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2_anexo4.pdf)
+>   do vídeo).
+> - [Anexo numérico 5: BCD e expansão do
+>   sinal](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2_anexo5.pdf)
+>   (se quiser, pode fazer o download dos
+>   [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2_anexo5.pdf)
+>   do vídeo).
+
+- **Atividades obrigatórias:**
+  - Imprima e comece a responder o **[Diário de Aprendizagem 1:
+    Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2026_1/diario_1.pdf)**. Esse diário
+    tem 39 páginas e 225 questões discursivas, e é o **maior diário** de nossa
+    disciplina. Você terá entre 3 ou 4 semanas para fazer o diário (é tempo de
+    sobra), mas você precisa estudar e responder as perguntas **toda semana**;
+    não deixe acumular o estudo e mantenha este diário em dia: isso garantirá a
+    maior eficiência no aprendizado! Quando a data de entrega estiver definida,
+    o professor avisará a data para a turma. Para esta semana você deve imprimir
+    o diário e responder as perguntas indicadas abaixo:
+    - Seção 1: Visão geral da unidade (todas as perguntas)
+    - Seção 2: O que é Ciência da Computação (todas as perguntas)
+    - Seção 3: Representação de dados (somente as perguntas 13 até 59)
+    - Seção 4: Anexos numéricos (todas as perguntas: 81 até 160)
+
+---
+
+**Estudo da 05ª Semana**<a id="re05sem"></a> (02/03 - 08/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre a **Unidade 1: Fundamentos da
+Computação**. Por favor, estude o seguinte:
+
+- **Vídeos obrigatórios:**
+  - [Parte 0: visão geral da
+    unidade](https://www.youtube.com/watch?v=XbuHXSoKZOM) (se quiser, pode fazer
+    o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte0.pdf)
+    do vídeo)
+  - [Parte 1: o que é Ciência da
+    Computação?](https://www.youtube.com/watch?v=qzxw-Tm8UgI) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte1.pdf)
+    do vídeo)
+  - [Parte 2: representação de
+    dados](https://www.youtube.com/watch?v=8T_hJhYg4R0) (se quiser, pode fazer o
+    download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2.pdf)
+    do vídeo).
+
+{: .attention }
+> Na aula nós vimos integralmente a Parte 0 e a Parte 1, e começamos a
+> Parte 2. Assim, você deve estudar integralmente as Partes 0 e 1. Em relação à
+> Parte 2, nós vimos até a formalização do sistema binário e, assim, você deve
+> estudar o seguinte:
+>
+> * Até o slide 61; e
+> * Até o tempo de 1:28:45h no vídeo da Parte 2.
+
+- **Leituras obrigatórias:**
+  - (nada nesta semana)
+- **Atividades obrigatórias:**
+  - (nada nesta semana)
+
+---
 
 **Estudo da 04ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
 {: .label .label-reading }

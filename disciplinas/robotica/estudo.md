@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-03-02 23:19 -0300
+last_modified_date: 2026-03-11 01:24 -0300
 ---
 
 # Roteiro de estudo
@@ -106,6 +106,42 @@ disciplina.
   - (nada no momento)
 
 -->
+
+**Estudo da 6ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
+{: .label .label-reading }
+
+Continuaremos nosso estudo de eletrônica com o Arduino, aprendendo a criar um
+circuito um pouco mais complexo. Também começaremos a aprender a programar o
+Arduino, com um programa para fazer o controle de LEDs!
+
+- **Leituras obrigatórias:** (documentos na página de Recursos da disciplina)
+  - **Capítulo 2** do "Official Arduino Projects Book" (páginas 32-41):
+    este será seu primeiro projeto que utiliza a programação do Arduino para
+    controlar LEDs em um circuito um pouco mais complexo; você aprenderá sobre a
+    IDE do Arduino, como compilar programas, como enviar programas para o
+    Arduino, como a linguagem do Arduino funciona e como usar programação para
+    ligar e desligar LEDs.
+- **Atividades no laboratório:**
+  - **Circuito "Spaceship Interface"**:
+    - Crie o circuito ilustrado pelas figuras 1 e 2 deste capítulo. Estude
+      atentamente o código do programa demonstrado no livro, e reproduza esse
+      código na IDE do Arduino. Teste o circuito.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Faça prints do seu código e documento no caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+- **Exercícios:**
+  - [2ª Lista de Exercícios sobre o
+    Arduino](/assets/disciplinas/robotica/20261/arduino02.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. **ATENÇÃO:**
+    a data de entrega é no dia 17/03/2026 (cuidado com o prazo pois não serão
+    aceitas entregas em atraso).
+
+---
 
 **Estudo da 5ª Semana**<a id="re05sem"></a> (01/03 - 08/03)
 {: .label .label-reading }
