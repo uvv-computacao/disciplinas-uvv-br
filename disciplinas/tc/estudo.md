@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-03-13 10:25 -0300
+last_modified_date: 2026-03-13 13:18 -0300
 ---
 
 # Roteiro de estudo
@@ -25,7 +25,8 @@ normalmente.
       [[Artigo](/assets/disciplinas/tc/20261/artigo13.pdf) e
       [Slides](/assets/disciplinas/tc/20261/slides13.pdf)]
   - Grupo 6: **Column 14: Heaps**
-    [[Artigo](/assets/disciplinas/tc/20261/artigo14.pdf)]
+    [[Artigo](/assets/disciplinas/tc/20261/artigo14.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides14.pdf)]
   - Grupo 7: **Column 15: Strings**
       [[Artigo](/assets/disciplinas/tc/20261/artigo15.pdf) e
       [Slides](/assets/disciplinas/tc/20261/slides15.pdf)]
@@ -96,7 +97,8 @@ normalmente.
   - Grupo 7: **Column 7: Back of Envelope**
       [[Artigo](/assets/disciplinas/tc/20261/artigo07.pdf) e
       [Slides](/assets/disciplinas/tc/20261/slides07.pdf)]
-  - Grupo 8: **Column 8: Algorithm Design** [Artigo (aguardando o envio) e
+  - Grupo 8: **Column 8: Algorithm Design** 
+    [[Artigo](/assets/disciplinas/tc/20261/artigo08.pdf) e
       [Slides](/assets/disciplinas/tc/20261/slides08.pdf)]
   - Grupo 1: **Column 9: Code Tuning**
       [[Artigo](/assets/disciplinas/tc/20261/artigo09.pdf) e
@@ -120,12 +122,14 @@ normalmente.
     1.1](/assets/disciplinas/tc/20261/capitulo01_11.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 4: **Column 4: Correct Programs**
-      [[Artigo](/assets/disciplinas/tc/20261/artigo04.pdf) e
-      [Slides](/assets/disciplinas/tc/20261/slides04.pdf)]
-  - Grupo 5: **Column 5: Small Matter** [Artigo e Slides (aguardando o envio)]
+    [[Artigo](/assets/disciplinas/tc/20261/artigo04.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides04.pdf)]
+  - Grupo 5: **Column 5: Small Matter**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo05.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides05.pdf)]
   - Grupo 6: **Column 6: Performance**
-      [[Artigo](/assets/disciplinas/tc/20261/artigo06.pdf) e
-      [Slides](/assets/disciplinas/tc/20261/slides06.pdf)]
+    [[Artigo](/assets/disciplinas/tc/20261/artigo06.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides06.pdf)]
 - **Vídeo recomendado:**
   - [MIT 18.404J - Theory of Computation - Aula
     1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória
