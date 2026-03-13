@@ -7,10 +7,36 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-03-06 09:10 -0300
+last_modified_date: 2026-03-13 10:25 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 6ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
+{: .label .label-reading }
+
+Como nesta semana faremos apenas um exercício avaliativo de revisão do conteúdo
+e dos seminários, não haverá nenhuma leitura, vídeo ou outra atividade
+obrigatória além do exercício avaliativo. Os seminários serão realizados
+normalmente.
+
+- **Seminários** (Livro: _Programming Pearls_)**:**
+  - Grupo 5: **Column 13: Searching**
+      [[Artigo](/assets/disciplinas/tc/20261/artigo13.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides13.pdf)]
+  - Grupo 6: **Column 14: Heaps**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo14.pdf)]
+  - Grupo 7: **Column 15: Strings**
+      [[Artigo](/assets/disciplinas/tc/20261/artigo15.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides15.pdf)]
+- **Vídeo recomendado:**
+  - [MIT 18.404J - Theory of Computation - Aula
+    1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória
+    da disciplina de Teoria da Computação do MIT, ministrada pelo prof. Michael
+    Sipser (autor do livro da disciplina); assista a parte sobre autômatos
+    finitos.
+
+---
 
 **Estudo da 5ª Semana**<a id="re05sem"></a> (02/03 - 08/03)
 {: .label .label-reading }
@@ -41,12 +67,14 @@ last_modified_date: 2026-03-06 09:10 -0300
     - [Exercício 2](/assets/disciplinas/tc/jflap/01_dfa_exercicio2.pdf)
     - [Exercício 3](/assets/disciplinas/tc/jflap/01_dfa_exercicio3.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
-  - Grupo 2: **Squeezing Space**
-    - Artigo e Slides (aguardando)
-  - Grupo 3: **Sorting**
-    - Artigo e Slides (aguardando)
-  - Grupo 4: **Sample Problem**
-    - Artigo e Slides (aguardando)
+  - Grupo 2: **Column 10: Squeezing Space**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo10.pdf)]
+  - Grupo 3: **Column 11: Sorting**
+      [[Artigo](/assets/disciplinas/tc/20261/artigo11.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides11.pdf)]
+  - Grupo 4: **Column 12: Sample Problem**
+      [[Artigo](/assets/disciplinas/tc/20261/artigo12.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides12.pdf)]
 - **Vídeo recomendado:**
   - [MIT 18.404J - Theory of Computation - Aula
     1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória
@@ -66,14 +94,13 @@ last_modified_date: 2026-03-06 09:10 -0300
     1.1](/assets/disciplinas/tc/20261/capitulo01_11.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 7: **Column 7: Back of Envelope**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo07.pdf);
-      [Slides](/assets/disciplinas/tc/20261/slides07.pdf).
-  - Grupo 8: **Column 8: Algorithm Design**
-    - Artigo (aguardando o envio);
-      [Slides](/assets/disciplinas/tc/20261/slides08.pdf).
+      [[Artigo](/assets/disciplinas/tc/20261/artigo07.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides07.pdf)]
+  - Grupo 8: **Column 8: Algorithm Design** [Artigo (aguardando o envio) e
+      [Slides](/assets/disciplinas/tc/20261/slides08.pdf)]
   - Grupo 1: **Column 9: Code Tuning**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo09.pdf);
-      [Slides](/assets/disciplinas/tc/20261/slides09.pdf).
+      [[Artigo](/assets/disciplinas/tc/20261/artigo09.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides09.pdf)]
 - **Vídeo recomendado:**
   - [MIT 18.404J - Theory of Computation - Aula
     1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória
@@ -93,13 +120,12 @@ last_modified_date: 2026-03-06 09:10 -0300
     1.1](/assets/disciplinas/tc/20261/capitulo01_11.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 4: **Column 4: Correct Programs**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo04.pdf);
-      [Slides](/assets/disciplinas/tc/20261/slides04.pdf).
-  - Grupo 5: **Column 5: Small Matter**
-    - Artigo e Slides (aguardando o envio pelos alunos)
+      [[Artigo](/assets/disciplinas/tc/20261/artigo04.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides04.pdf)]
+  - Grupo 5: **Column 5: Small Matter** [Artigo e Slides (aguardando o envio)]
   - Grupo 6: **Column 6: Performance**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo06.pdf);
-      [Slides](/assets/disciplinas/tc/20261/slides06.pdf).
+      [[Artigo](/assets/disciplinas/tc/20261/artigo06.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides06.pdf)]
 - **Vídeo recomendado:**
   - [MIT 18.404J - Theory of Computation - Aula
     1](https://www.youtube.com/watch?v=9syvZr-9xwk): esta é a aula introdutória
@@ -117,12 +143,12 @@ last_modified_date: 2026-03-06 09:10 -0300
   - Notas de aula: [Capítulo 0](/assets/disciplinas/tc/20261/capitulo00.pdf)
 - **Seminários** (Livro: _Programming Pearls_)**:**
   - Grupo 1: **Column 1: Cracking the Oyster**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo01.pdf);
-      [Slides](/assets/disciplinas/tc/20261/slides01.pdf).
+      [[Artigo](/assets/disciplinas/tc/20261/artigo01.pdf) e
+      [Slides](/assets/disciplinas/tc/20261/slides01.pdf)]
   - Grupo 2: **Column 2: Aha! Algorithms**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo02.pdf); (não tem slides).
+    [[Artigo](/assets/disciplinas/tc/20261/artigo02.pdf)]
   - Grupo 3: **Column 3: Data Structures Programs**
-    - [Artigo](/assets/disciplinas/tc/20261/artigo03.pdf); (aguardando slides).
+    [[Artigo](/assets/disciplinas/tc/20261/artigo03.pdf)]
 
 ---
 
