@@ -7,7 +7,7 @@ has_children: false
 nav_exclude: false
 nav_order: 30
 has_toc: true
-last_modified_date: 2025-08-08 18:52 -0300
+last_modified_date: 2026-03-15 12:13 -0300
 ---
 
 # Recursos diversos
@@ -41,6 +41,64 @@ e referência:
   </tr>
 </table>
 
+
+## Livros para os seminários
+Esta disciplina utilizará os seguintes livros como fonte de estudo para a
+apresentação de seminários pelos alunos:
+
+<table>
+  <tr>
+    <td>
+      <p><img src="/assets/games/gebbwolf3d.png"
+             alt="Game Engine Black Book: Wolfenstein 3D"
+             style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+             Livro para os seminários de hardware e software: <b>Game Engine
+             Black Book: Wolfenstein 3D</b>, de Fabien Sanglard. Usaremos a
+             versão 2.2 do livro, publicada em 2022, pelo próprio autor. Este
+             livro explora em detalhes a engine do jogo Wolfenstein 3D e mostra
+             como os programadores conseguiram usar o hardware disponível à
+             época (IBM PC com processador Intel 386 e placa gráfica VGA) para
+             consolidar o gênero "First Person Shooter" e transformar um
+             hardware projetado para exibir imagens estáticas para processadores
+             e textos e planilhas em uma plataforma de jogos. A aquisição do
+             livro não é obrigatória mas, se quiser, pode comprar na <a
+             href="https://www.amazon.com.br/dp/B0BMSKYV5R/">Amazon
+             Brasileira</a>. O autor também distribui, gratuitamente, em seu
+             próprio site, a <a
+             href="https://fabiensanglard.net/three_books_update/">versão PDF
+             do livro</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><img src="/assets/games/gebbdoom.png"
+             alt="Game Engine Black Book: DOOM"
+             style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+             Livro para os seminários de hardware e software: <b>Game Engine
+             Black Book: DOOM</b>, de Fabien Sanglard. Usaremos a
+             versão 1.2 do livro, publicada em 2022, pelo próprio autor. Este
+             livro explora em detalhes como o DOOM foi criado do zero, para
+             aproveitar os avanços do hardware disponível à época e o novo
+             processador da Intel, o 486. Entenda como os programadores fizeram
+             o software e o hardware trabalharem em conjunto para criar um dos
+             maiores e melhores jogos de todos os tempos. A aquisição do
+             livro não é obrigatória mas, se quiser, pode comprar na <a
+             href="https://www.amazon.com.br/dp/B0BMSP3GSS/">Amazon
+             Brasileira</a>. O autor também distribui, gratuitamente, em seu
+             próprio site, a <a
+             href="https://fabiensanglard.net/three_books_update/">versão PDF
+             do livro</a>.</p>
+    </td>
+  </tr>
+</table>
+
+
+## Game Engine series
+* [Game Engine Black Book: Wolfenstein 3D](/assets/games/gebbwolf3d.pdf)
+* [Game Engine Black Book: DOOM](/assets/games/gebbdoom.pdf)
+* [The Book of CP-System](/assets/games/cpsb.pdf)
+
+
 ## Apostilas sobre Arduino
 * [Official Arduino Projects Book](/assets/arduino/arduino_projects_book.pdf)
 * [Curso básico de
@@ -71,6 +129,7 @@ e referência:
   Iniciante](/assets/arduino/arduino_guia_iniciante_multilogica_Shop.pdf)
 * [Hack.ATOMIC: Arduino](/assets/arduino/hack_atomic_arduino.pdf)
 
+
 ## Cursos obrigatórios
 * [PCB design with KiCad (updated for KiCad
   9)](https://www.udemy.com/course/kicad-like-a-pro-3e): este curso é
@@ -84,6 +143,7 @@ e referência:
   compre o curso no valor máximo, acompanhe o valor do curso na Udemy e **compre
   quando houver promoção**.
 
+
 ## Cursos para o futuro
 * [Advanced PCB Design with KiCad
   9](https://www.udemy.com/course/advanced-pcb-design-with-kicad/): este curso
@@ -95,6 +155,7 @@ e referência:
   KiCad](https://www.udemy.com/course/high-speed-pcb-design-with-kicad/): este
   curso **não é necessário** para nossa disciplina. Se você tiver interesse em
   aprender a criar placas mais avançadas, esse é um bom curso para o futuro.
+
 
 ## Caderno de engenharia
 * [Instruções para o Caderno de
@@ -115,15 +176,19 @@ e referência:
   * [Dan Dramer](/assets/docs/caderno_engenharia/dan_dramer_atari.pdf) (um
     engenheiro da Atari)
 
+
 ## Calendário acadêmico
 * [Calendário acadêmico oficial 2026](/assets/docs/calendario_oficial_2026.pdf)
+
 
 ## Componentes eletrônicos
 * [Tabela de cores de
   resistores](/assets/disciplinas/arqcomp2/tabela_resistores.pdf)
 
+
 ## Notas
 * [Critérios de Arredondamento de Notas](/assets/docs/arredondamento.pdf)
+
 
 ## Papel almaço
 * [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
