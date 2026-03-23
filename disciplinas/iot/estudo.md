@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-03-15 13:32 -0300
+last_modified_date: 2026-03-23 10:41 -0300
 ---
 
 # Roteiro de estudo
@@ -101,6 +101,39 @@ cabeadas e WiFi.
 
 ---
 -->
+
+**Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
+{: .label .label-red }
+
+- **Avaliação Bimestral AV1:** esta semana é dedicada à realização da 1ª
+  avaliação bimestral, a AV1, e, portanto, não há conteúdo novo a ser 
+  estudado. O conteúdo da AV1 corresponde a toda a matéria vista nas semanas
+  anteriores, incluindo o conteúdo das notas de aula, material visto em sala de
+  aula, leituras obrigatórias e tudo o que foi feito no laboratório de hardware,
+  incluindo todos os exercícios. Observações:
+  - A prova é individual.
+  - Venha bem preparado! A prova é **extensa** e não é fácil!
+  - Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
+    flagrados com qualquer tipo de cola terão a AV1 zerada imediatamente e serão
+    encaminhados para a coordenação para as medidas disciplinares conforme o
+    regimento da UVV.
+  - O professor determinará o assento de cada aluno.
+
+{: .vermelho-title }
+> Os celulares serão recolhidos pelo professor!
+>
+> Antes do início da prova o professor **recolherá todos os celulares** de todos
+> os alunos, **sem exceções**. O aluno só receberá a prova mediante a entrega do
+> celular, desligado. Os celulares serão identificados e ficarão sob a posse do
+> professor durante a prova. Ao terminar e entregar a prova, o professor
+> devolverá o celular.
+> O aluno que não entregar o celular e for flagrado utilizando o aparelho
+> para colar na prova, terá a **NOTA ZERADA** e, no limite, pode até ser
+> **REPROVADO IMEDIATA E AUTOMATICAMENTE** na disciplina, sem chance de
+> discussão. Evite problemas: **entregue seu celular desligado** no início da
+> prova.
+
+---
 
 **Estudo da 7ª Semana**<a id="re07sem"></a> (16/03 - 22/03)
 {: .label .label-reading }

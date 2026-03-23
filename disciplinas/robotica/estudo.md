@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-03-11 01:24 -0300
+last_modified_date: 2026-03-23 10:47 -0300
 ---
 
 # Roteiro de estudo
@@ -106,6 +106,74 @@ disciplina.
   - (nada no momento)
 
 -->
+
+**Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
+{: .label .label-red }
+
+- **Avaliação Bimestral AV1:** esta semana é dedicada à realização da 1ª
+  avaliação bimestral, a AV1, e, portanto, não há conteúdo novo a ser 
+  estudado. O conteúdo da AV1 corresponde a toda a matéria vista nas semanas
+  anteriores, incluindo o conteúdo das notas de aula, material visto em sala de
+  aula, leituras obrigatórias e tudo o que foi feito no laboratório de hardware,
+  incluindo todos os exercícios. Observações:
+  - A prova é individual.
+  - Venha bem preparado! A prova é **extensa** e não é fácil!
+  - Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
+    flagrados com qualquer tipo de cola terão a AV1 zerada imediatamente e serão
+    encaminhados para a coordenação para as medidas disciplinares conforme o
+    regimento da UVV.
+  - O professor determinará o assento de cada aluno.
+
+{: .vermelho-title }
+> Os celulares serão recolhidos pelo professor!
+>
+> Antes do início da prova o professor **recolherá todos os celulares** de todos
+> os alunos, **sem exceções**. O aluno só receberá a prova mediante a entrega do
+> celular, desligado. Os celulares serão identificados e ficarão sob a posse do
+> professor durante a prova. Ao terminar e entregar a prova, o professor
+> devolverá o celular.
+> O aluno que não entregar o celular e for flagrado utilizando o aparelho
+> para colar na prova, terá a **NOTA ZERADA** e, no limite, pode até ser
+> **REPROVADO IMEDIATA E AUTOMATICAMENTE** na disciplina, sem chance de
+> discussão. Evite problemas: **entregue seu celular desligado** no início da
+> prova.
+
+---
+
+**Estudo da 7ª Semana**<a id="re07sem"></a> (16/03 - 22/03)
+{: .label .label-reading }
+
+Continuaremos nosso estudo de eletrônica com o Arduino, aprendendo a criar um
+circuito que usa um sensor de temperatura. Também aprenderemos sobre comunicação
+serial entre o Arduino e o computador, e usaremos o monitor serial para ver as
+leituras de temperatura do ambiente.
+
+- **Leituras obrigatórias:** (documentos na página de Recursos da disciplina)
+  - **Capítulo 3** do "Official Arduino Projects Book" (páginas 42-51):
+    este será seu primeiro projeto que utiliza um sensor: usaremos um sensor de
+    temperatura para medir a temperatura ambiente e, a partir dessa temperatura,
+    faremos o controle de LEDs.
+- **Atividades no laboratório:**
+  - **Circuito "Love-O-Meter"**:
+    - Crie o circuito ilustrado pelas figuras 2 e 3 deste capítulo. Estude
+      atentamente o código do programa demonstrado no livro, e reproduza esse
+      código na IDE do Arduino. Teste o circuito.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Faça prints do seu código e documento no caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+- **Exercícios:**
+  - [3ª Lista de Exercícios sobre o
+    Arduino](/assets/disciplinas/robotica/20261/arduino03.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. **ATENÇÃO:**
+    a data de entrega é no dia 31/03/2026 (cuidado com o prazo pois não serão
+    aceitas entregas em atraso).
+
+---
 
 **Estudo da 6ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
 {: .label .label-reading }
