@@ -5,10 +5,85 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2026-03-11 00:05 -0300
+last_modified_date: 2026-03-23 11:21 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
+{: .label .label-red }
+
+- **Avaliação Bimestral AV1:** esta semana é dedicada à realização da 1ª
+  avaliação bimestral, a AV1, e, portanto, não há conteúdo novo a ser 
+  estudado. O conteúdo da AV1 corresponde a toda a matéria vista nas semanas
+  anteriores, incluindo o conteúdo das notas de aula, material visto em sala de
+  aula, leituras obrigatórias, vídeos obrigatórios e recomendados, exercícios e
+  Diários de Aprendizagem e tudo o mais. Observações:
+  - A prova é individual.
+  - Venha bem preparado! A prova é **extensa** e não é fácil!
+  - Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
+    flagrados com qualquer tipo de cola terão a AV1 zerada imediatamente e serão
+    encaminhados para a coordenação para as medidas disciplinares conforme o
+    regimento da UVV.
+  - O professor determinará o assento de cada aluno.
+
+{: .vermelho-title }
+> Os celulares serão recolhidos pelo professor!
+>
+> Antes do início da prova o professor **recolherá todos os celulares** de todos
+> os alunos, **sem exceções**. O aluno só receberá a prova mediante a entrega do
+> celular, desligado. Os celulares serão identificados e ficarão sob a posse do
+> professor durante a prova. Ao terminar e entregar a prova, o professor
+> devolverá o celular. O aluno que não entregar o celular e for flagrado
+> utilizando o aparelho para colar na prova, terá a **NOTA ZERADA** e, no
+> limite, pode até ser **REPROVADO IMEDIATA E AUTOMATICAMENTE** na disciplina,
+> sem chance de discussão. Evite problemas: **entregue seu celular desligado**
+> no início da prova.
+
+---
+
+**Estudo da 07ª Semana**<a id="re06sem"></a> (16/03 - 22/03)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre a **Unidade 1: Fundamentos da
+Computação**. Por favor, estude o seguinte:
+
+- **Vídeos obrigatórios:**
+  - [Parte 2: representação de
+    dados](https://www.youtube.com/watch?v=8T_hJhYg4R0) (se quiser, pode fazer o
+    download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2.pdf)
+    do vídeo).
+  - [Parte 3: algoritmos](https://www.youtube.com/watch?v=8T_hJhYg4R0) (se
+    quiser, pode fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte3.pdf)
+    do vídeo, e também o download dos [símbolos em
+    fluxogramas](https://www.computacaoraiz.com.br/cr6100b/unidades/1/simbolos_fluxogramas_guia_simplificado.pdf) apresentados no livro).
+
+{: .attention }
+> Na aula desta semana nós terminamos a representação de imagens e discutimos os
+> formatos de arquivos, inclusive imagens com compressão e sem
+> compressão. Aprendemos como os computadores representam arquivos de áudio e
+> discutimos sobre vários formatos de arquivos de som. Juntando a representação
+> de imagens com sons, aprendemos como um computador armazena e representa
+> vídeos, e vimos como é feita a compressão de vídeos. Também vimos que, como
+> tudo é binário, o computador depende do contexto para saber como interpretar
+> um determinado padrão de bits.
+
+> Por fim nós começamos a Parte 3 dos Fundamentos da Computação, o estudo sobre
+> algoritmos (mas não terminamos). A parte que foi vista em sala de aula vai do
+> slide 1 até o slide 16 o material, e do tempo 0:00:00h até o tempo
+> 1:17:08h. Continuaremos essa matéria na próxima aula.
+
+- **Atividades obrigatórias:**
+  - Continue a fazer o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2026_1/diario_1.pdf)**, que você
+    começou a fazer na semana passada. Para esta semana você deve responder
+    (além do que você já respondeu na semana passada):
+    - Seção 3: Representação de dados (perguntas: 60 até 80)
+    - Seção 5: Algoritmos (perguntas: 161 até 186)
+
+---
 
 **Estudo da 06ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
 {: .label .label-reading }
