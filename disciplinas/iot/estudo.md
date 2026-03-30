@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-03-23 10:41 -0300
+last_modified_date: 2026-03-30 19:09 -0300
 ---
 
 # Roteiro de estudo
@@ -101,6 +101,47 @@ cabeadas e WiFi.
 
 ---
 -->
+
+**Estudo da 9ª Semana**<a id="re07sem"></a> (30/03 - 05/04)
+{: .label .label-reading }
+
+Continuaremos nosso estudo de eletrônica com o Arduino, aprendendo a criar um
+circuito que usa um sensor de temperatura. Também aprenderemos sobre comunicação
+serial entre o Arduino e o computador, e usaremos o monitor serial para ver as
+leituras de temperatura do ambiente.
+
+- **Leituras obrigatórias:** (documentos na página de Recursos da disciplina)
+  - **Capítulo 3** do "Official Arduino Projects Book" (páginas 42-51):
+    este será seu primeiro projeto que utiliza um sensor: usaremos um sensor de
+    temperatura para medir a temperatura ambiente e, a partir dessa temperatura,
+    faremos o controle de LEDs.
+- **Atividades no laboratório:**
+  - **Circuito "Love-O-Meter"**:
+    - Crie o circuito ilustrado pelas figuras 2 e 3 deste capítulo. Estude
+      atentamente o código do programa demonstrado no livro, e reproduza esse
+      código na IDE do Arduino. Teste o circuito.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Faça prints do seu código e documento no caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+- **Exercícios:**
+  - [3ª Lista de Exercícios sobre o
+    Arduino](/assets/disciplinas/iot/20261/arduino03.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. **ATENÇÃO:**
+    a data de entrega para as turmas e grupos práticos é a seguinte (cuidado com
+    o prazo pois não serão aceitas entregas em atraso):
+    - Turma AN1tN:
+      - Grupo Prático 1: 06/04/2026
+      - Grupo Prático 2: 08/04/2026
+    - Turma AN1tNb:
+      - Grupo Prático 1: 06/04/2026
+      - Grupo Prático 2: 09/04/2026
+
+---
 
 **Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
 {: .label .label-red }
