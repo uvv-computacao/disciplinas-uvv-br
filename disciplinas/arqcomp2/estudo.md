@@ -7,10 +7,56 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-03-14 11:51 -0300
+last_modified_date: 2026-03-31 22:12 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
+{: .label .label-reading }
+
+- **Seminários** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 1: Capítulo 1: Introdução (páginas 21-26)
+    - Artigo e Slides
+  - Grupo 1: Capítulo 2: Hardware (páginas 27-39, excluindo seção 2.2 em diante)
+    - Artigo e Slides
+  - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
+    - Artigo e Slides
+  - Grupo 3: Capítulo 2: Hardware (páginas 61-70)
+    - Artigo e Slides
+  - Grupo 3: Capítulo 3: Team (páginas 71-78, excluindo seção 3.2 em diante)
+    - Artigo e Slides
+
+---
+
+**Estudo da 9ª Semana**<a id="re09sem"></a> (30/03 - 05/04)
+{: .label .label-reading }
+
+FERIADO DA SEMANA SANTA.
+
+---
+
+**Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
+{: .label .label-reading }
+
+- **Divisão de grupos:**
+  - Nesta semana faremos a divisão dos grupos de alunos para as apresentações
+    dos seminários avançados em arquitetura de computadores utilizando como
+    estudo de caso a criação e programação dos jogos Wolfenstein 3D e DOOM.
+    O calendário de apresentações será divulgado posteriormente aqui neste
+    site. Fique atento!
+- **Exercício em grupo:**
+  - Após a divisão dos grupos, cada grupo deve responder, em uma folha de papel
+    almaço a ser devolvida para o professor, um [exercício sobre
+    **toolchains**](/assets/disciplinas/arqcomp2/20261/exercicios_toolchain.pdf).
+    O objetivo desse exercício é fazer com que vocês aprendam, por conta
+    própria, o que é uma toolchain de compilação C/C++, quais os componentes de
+    uma toolchain, como usar uma toolchain nativa e uma toolchain cruzada e
+    muitas outras coisas avançadas sobre programação C/C++. Esse conhecimento
+    será importante para a apresentação dos seminários e para o entendimento da
+    arquitetura dos computadores.
+
+---
 
 **Estudo da 7ª Semana**<a id="re07sem"></a> (16/03 - 22/03)
 {: .label .label-red }
@@ -49,7 +95,11 @@ last_modified_date: 2026-03-14 11:51 -0300
 {: .label .label-reading }
 
 - **Atividade em sala:**
-  - Exercício de revisão de conteúdo.
+  - [Exercício de
+    revisão](/assets/disciplinas/arqcomp2/20261/exercicios_revisao.pdf) de
+    conteúdo para a prova. Com a proximidade da AV1 (que será totalmente
+    discursiva) você deve ter certeza de que está preparado. Faça esse exercício
+    de revisão e identifique os pontos da matéria que você ainda tem dúvidas!
 
 ---
 
