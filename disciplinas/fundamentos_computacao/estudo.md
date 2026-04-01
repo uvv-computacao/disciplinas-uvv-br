@@ -5,10 +5,55 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2026-03-23 11:21 -0300
+last_modified_date: 2026-04-01 11:02 -0300
 ---
 
 # Roteiro de estudo
+
+---
+
+**Estudo da 09ª Semana**<a id="re09sem"></a> (30/03 - 05/04)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre a **Unidade 1: Fundamentos da
+Computação** (estamos quase finalizando esta unidade). Nesta semana estudamos
+coisas extremamente importantes como o conceito formal de algoritmo, corretude e
+eficiência dos algoritmos (notação Big-O, complexidade linear, complexidade
+logarítmica, complexidade fatorial, etc.). Também aprendemos os métodos de
+expressão de algoritmos e o tema de pensamento computacional. Completamos nosso
+estudo com o estudo mais profundo sobre abstrações e interfaces.
+
+- **Vídeos obrigatórios:**
+  - [Parte 3: algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570) (se
+    quiser, pode fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte3.pdf)
+    do vídeo, e também o download dos [símbolos em
+    fluxogramas](https://www.computacaoraiz.com.br/cr6100b/unidades/1/simbolos_fluxogramas_guia_simplificado.pdf) apresentados no livro). 
+  - [Parte 4: pensamento
+    computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte4.pdf)
+    do vídeo)
+  - [Parte 5: abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE) (se quiser,
+    pode fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte5.pdf)
+    do vídeo)
+
+{: .attention }
+> Na aula desta semana nós terminamos todo o conteúdo sobre algoritmos, todo o
+> conteúdo sobre pensamento computacional e praticamente terminamos todo o
+> conteúdo sobre abstração. Você deve assistir integralmente os vídeos
+> obrigatórios, estudar o material e terminar o Diário de Aprendizagem.
+
+- **Atividades obrigatórias:**
+  - Termine o **[Diário de Aprendizagem 1: Fundamentos da
+    Computação](/assets/disciplinas/fundcomp/2026_1/diario_1.pdf)**! Agora que
+    terminamos todo o conteúdo dessa unidade, você deve terminar o resto das
+    perguntas que ainda faltam, ou seja, você deve terminar TOTALMENTE o diário.
+    **A data de entrega é dia 14/04/2026!** Não perca esse prazo pois não serão
+    aceitos trabalhos em atraso.
+
+---
 
 **Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
 {: .label .label-red }
@@ -42,7 +87,7 @@ last_modified_date: 2026-03-23 11:21 -0300
 
 ---
 
-**Estudo da 07ª Semana**<a id="re06sem"></a> (16/03 - 22/03)
+**Estudo da 07ª Semana**<a id="re07sem"></a> (16/03 - 22/03)
 {: .label .label-reading }
 
 Nesta semana continuaremos nosso estudo sobre a **Unidade 1: Fundamentos da
@@ -54,7 +99,7 @@ Computação**. Por favor, estude o seguinte:
     download dos
     [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte2.pdf)
     do vídeo).
-  - [Parte 3: algoritmos](https://www.youtube.com/watch?v=8T_hJhYg4R0) (se
+  - [Parte 3: algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570) (se
     quiser, pode fazer o download dos
     [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/1/unidade1_parte3.pdf)
     do vídeo, e também o download dos [símbolos em
