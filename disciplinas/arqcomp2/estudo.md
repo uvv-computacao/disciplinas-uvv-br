@@ -19,15 +19,15 @@ last_modified_date: 2026-04-08 15:41 -0300
   - Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
     - CC5M: grupo 4
     - CC5Mb: grupo 4
-    - CC6M: grupo 4
+    - CC6M: (não haverá apresentação devido ao feriado)
   - Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
     - CC5M: grupo 5
     - CC5Mb: grupo 5
-    - CC6M: grupo 5
+    - CC6M: (não haverá apresentação devido ao feriado)
   - Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
     - CC5M: grupo 1
     - CC5Mb: grupo 1
-    - CC6M: grupo 6
+    - CC6M: (não haverá apresentação devido ao feriado)
 
 ---
 
