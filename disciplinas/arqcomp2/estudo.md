@@ -7,10 +7,29 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-03-31 22:12 -0300
+last_modified_date: 2026-04-08 15:41 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (13/04 - 19/04)
+{: .label .label-reading }
+
+- **Seminários** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
+    - CC5M: grupo 4
+    - CC5Mb: grupo 4
+    - CC6M: grupo 4
+  - Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
+    - CC5M: grupo 5
+    - CC5Mb: grupo 5
+    - CC6M: grupo 5
+  - Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
+    - CC5M: grupo 1
+    - CC5Mb: grupo 1
+    - CC6M: grupo 6
+
+---
 
 **Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
 {: .label .label-reading }
