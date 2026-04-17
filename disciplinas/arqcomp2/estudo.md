@@ -7,44 +7,123 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-04-08 15:41 -0300
+last_modified_date: 2026-04-17 15:41 -0300
 ---
 
 # Roteiro de estudo
 
+**Estudo da 12ª Semana**<a id="re11sem"></a> (20/04 - 26/04)
+{: .label .label-reading }
+
+- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 2: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
+    - Artigo e Slides
+  - Grupo 3: Capítulo 4: Seção 4.4 (páginas 110-120)
+    - Artigo e Slides
+  - Grupo 4: Capítulo 4: Seção 4.5 (páginas 120-131)
+    - Artigo e Slides
+
+<br />
+
+- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 2: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
+    - Artigo e Slides
+  - Grupo 3: Capítulo 4: Seção 4.4 (páginas 110-120)
+    - Artigo e Slides
+  - Grupo 4: Capítulo 4: Seção 4.5 (páginas 120-131)
+    - Artigo e Slides
+
+<br />
+
+- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
+    - Artigo e Slides
+  - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
+    - Artigo e Slides
+  - Grupo 6: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
+    - Artigo e Slides
+
+---
+
 **Estudo da 11ª Semana**<a id="re11sem"></a> (13/04 - 19/04)
 {: .label .label-reading }
 
-- **Seminários** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
-    - CC5M: grupo 4
-    - CC5Mb: grupo 4
-    - CC6M: (não haverá apresentação devido ao feriado)
-  - Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
-    - CC5M: grupo 5
-    - CC5Mb: grupo 5
-    - CC6M: (não haverá apresentação devido ao feriado)
-  - Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - CC5M: grupo 1
-    - CC5Mb: grupo 1
-    - CC6M: (não haverá apresentação devido ao feriado)
+- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo4a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo4a.pdf)
+  - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo5a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo5a.pdf)
+  - Grupo 1: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
+    - (NÃO PREPARARAM O SEMINÁRIO!)
+
+<br />
+
+- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo4a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo4a.pdf)
+  - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo5a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo5a.pdf)
+  - Grupo 1: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
+    - (NÃO PREPARARAM O SEMINÁRIO!)
+
+<br />
+
+- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 4: (não haverá apresentação devido ao feriado)
+  - Grupo 5: (não haverá apresentação devido ao feriado)
+  - Grupo 6: (não haverá apresentação devido ao feriado)
 
 ---
 
 **Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
 {: .label .label-reading }
 
-- **Seminários** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 1: Capítulo 1: Introdução (páginas 21-26)
-    - Artigo e Slides
-  - Grupo 1: Capítulo 2: Hardware (páginas 27-39, excluindo seção 2.2 em diante)
-    - Artigo e Slides
+- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 1: Capítulo 1: Introdução (páginas 21-26) e Capítulo 2: Hardware
+    (páginas 27-39, excluindo seção 2.2 em diante) 
+      - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo1a.pdf) e
+        [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo1a.pdf)
   - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
-    - Artigo e Slides
-  - Grupo 3: Capítulo 2: Hardware (páginas 61-70)
-    - Artigo e Slides
-  - Grupo 3: Capítulo 3: Team (páginas 71-78, excluindo seção 3.2 em diante)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo2a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo2a.pdf)
+  - Grupo 3: Capítulo 2: Hardware (páginas 61-70) e Capítulo 3: Team (páginas
+    71-78, excluindo seção 3.2 em diante)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo3a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo3a.pdf)
+
+<br />
+
+- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 1: Capítulo 1: Introdução (páginas 21-26) e Capítulo 2: Hardware
+    (páginas 27-39, excluindo seção 2.2 em diante) 
+      - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo1a.pdf) e
+        [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo1a.pdf)
+  - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2a.pdf)
+  - Grupo 3: Capítulo 2: Hardware (páginas 61-70) e Capítulo 3: Team (páginas
+    71-78, excluindo seção 3.2 em diante)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo3a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo3a.pdf)
+
+<br />
+
+- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 1: Capítulo 1: Introdução (páginas 21-26) e Capítulo 2: Hardware
+    (páginas 27-39, excluindo seção 2.2 em diante) 
+      - Artigo e
+        [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo1a.pdf)
+  - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo2a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo2a.pdf)
+  - Grupo 3: Capítulo 2: Hardware (páginas 61-70) e Capítulo 3: Team (páginas
+    71-78, excluindo seção 3.2 em diante)
+    - Artigo e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo3a.pdf)
 
 ---
 
