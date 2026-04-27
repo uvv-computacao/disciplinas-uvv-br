@@ -7,10 +7,78 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-03-18 17:41 -0300
+last_modified_date: 2026-04-26 08:26 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 12ª Semana**<a id="re12sem"></a> (20/04 - 26/04)
+{: .label .label-reading }
+
+Devolução da prova bimestral AV1. Correção em sala de aula. Postagem do
+gabarito e discussão de dúvidas. Apresentação de seminários.
+
+- **Seminários** (Livro: _More Programming Pearls_)**:**
+  - Grupo 6: **Column 7: The Envelope is Back**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo22.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides22.pdf)]
+  - Grupo 7: **Column 8: The Furbelow Memorandum**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo23.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides23.pdf)]
+  - Grupo 8: **Column 9: Little Languages**
+    [grupo não fez o seminário!]
+
+---
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (13/04 - 19/04)
+{: .label .label-reading }
+
+Semana dedicada à apresentação de seminários.
+
+- **Seminários** (Livro: _More Programming Pearls_)**:**
+  - Grupo 3: **Column 4: Self-Describing Data**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo19.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides19.pdf)]
+  - Grupo 4: **Column 5: Cutting the Gordian Knot**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo20.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides20.pdf)]
+  - Grupo 5: **Column 6: Bumper-Sticker Computer Science**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo21.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides21.pdf)]
+
+---
+
+**Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
+{: .label .label-reading }
+
+AULA CANCELADA POR MOTIVO DE FORÇA MAIOR.
+
+---
+
+**Estudo da 9ª Semana**<a id="re09sem"></a> (30/03 - 05/04)
+{: .label .label-reading }
+
+FERIADO
+
+---
+
+**Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
+{: .label .label-reading }
+
+Semana dedicada à apresentação de seminários.
+
+- **Seminários** (Livro: _More Programming Pearls_)**:**
+  - Grupo 8: **Column 1: Profilers**
+      [[Artigo](/assets/disciplinas/tc/20261/artigo16.pdf) e
+      Slides]
+  - Grupo 1: **Column 2: Associative Arrays**
+    [[Artigo](/assets/disciplinas/tc/20261/artigo17.pdf) e
+    [Slides](/assets/disciplinas/tc/20261/slides17.pdf)]
+  - Grupo 2: **Column 3: Confessions**
+      [[Artigo](/assets/disciplinas/tc/20261/artigo18.pdf) e
+      Slides]
+
+---
 
 **Estudo da 7ª Semana**<a id="re07sem"></a> (16/03 - 22/03)
 {: .label .label-red }

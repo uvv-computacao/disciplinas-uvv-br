@@ -5,7 +5,7 @@ nav_exclude: false
 parent: Internet das Coisas
 nav_order: 20
 has_children: false
-last_modified_date: 2026-03-30 19:09 -0300
+last_modified_date: 2026-04-26 08:19 -0300
 ---
 
 # Roteiro de estudo
@@ -102,7 +102,90 @@ cabeadas e WiFi.
 ---
 -->
 
-**Estudo da 9ª Semana**<a id="re07sem"></a> (30/03 - 05/04)
+**Estudo da 13ª Semana**<a id="re13sem"></a> (27/04 - 03/05)
+{: .label .label-reading }
+
+Começaremos a partir de hoje a preparação do Robô Sumô de seu grupo. O professor
+discutirá com cada grupo inscrito no Sumô Tech Fight as tarefas a serem
+executadas.
+
+---
+
+**Estudo da 12ª Semana**<a id="re12sem"></a> (20/04 - 26/04)
+{: .label .label-reading }
+
+Nesta semana você aprenderá a soldar componentes eletrônicos utilizando um ferro
+de solda, estanho, suporte para PCB, óculos de proteção e outros equipamentos. O
+objetivo é que você consiga terminar a PCB que você começou a fazer na semana
+passada, soldando todos os componentes necessários.
+
+{: .vermelho-title }
+> Cuidado com a solda!
+>
+> Nesta semana você trabalhará com um equipamento de soldagem eletrônica que
+> alcança 450 ºC e que pode respingar solda derretida em você (nas mãos, olhos
+> ou outros locais) causando lesões. Por favor, **siga todas as instruções de
+> segurança** que o professor indicar. É obrigatório o uso de sapato fechado,
+> óculos de proteção, calça comprida e demais acessórios.
+
+---
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (13/04 - 19/04)
+{: .label .label-reading }
+
+Nesta semana você aprenderá a criar um projeto de uma Placa de Circuito Impresso
+(PCB, do inglês *Printed Circuit Board*) simples, com dois botões, dois LEDs,
+dois resistores e uma bateria. Você aprenderá a testar sua idéia no SimuIDE,
+para simular o funcionamento eletrônico de seu dispositivo. Depois aprenderá a
+criar o projeto esquemático e o projeto da PCB no KiCAD. Por último, aprenderá a
+criar uma PCB de modo artesanal, usando uma PCB, caneta de retroprojetor, um
+furador de PCB e percloreto de ferro. O objetivo nesta semana é que você consiga
+projetar e criar uma PCB que estará pronta para a soldagem dos componentes em
+aulas posteriores.
+
+{: .vermelho-title }
+> Cuidado com o percloreto de ferro!
+>
+> Para a criação da PCB você trabalhará com um produto químico chamado de
+> **percloreto de ferro**. Se não for ingerido esse produto tem baixa toxicidade
+> mas ele causa **manchas** de remoção quase impossível se cair em roupas. Se
+> você entrar em contato superficial com o produto não há problemas por exemplo,
+> você sujou a mão ou dedos, exceto ficar alguns dias com a mão amarelada. Para
+> evitar quaisquer problemas, **siga todas as normas de segurança** que serão
+> indicadas pelo professor.
+
+---
+
+**Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
+{: .label .label-reading }
+
+Nesta semana você aprenderá a usar um LED RGB de cátodo comum e outro tipo de
+sensor: um fotorresistor (LDR: Light Dependent Resistor). Você usará 3 entradas
+analógicas do Arduino ao mesmo tempo e controlará o LED RGB de acordo com a
+luminosidade captada pelos LDRs.
+
+- **Leituras obrigatórias:** (documentos na página de Recursos da disciplina)
+  - **Capítulo 4** do "Official Arduino Projects Book" (páginas 52-61):
+    neste projeto você usará sensores de luminosidade e, a partir da
+    luminosidade ambiente, controlará um LED RGB.
+- **Atividades no laboratório:**
+  - **Circuito "Color Mixing Lamp"**:
+    - Crie o circuito ilustrado pelas figuras 1, 2 e 3 deste capítulo. Estude
+      atentamente o código do programa demonstrado no livro, e reproduza esse
+      código na IDE do Arduino. Teste o circuito.
+    - Reproduza o diagrama da protoboard no software Fritzing; faça prints e
+      documente para o caderno de engenharia;
+    - Reproduza o diagrama esquemática no software Kicad ou SimulIDE; faça
+      prints e documente para o caderno de engenharia;
+    - Faça fotos do projeto final e documente o caderno de engenharia;
+    - Faça prints do seu código e documento no caderno de engenharia;
+    - Escreva e documente o caderno de engenharia.
+- **Exercícios:**
+  - Nada para esta semana.
+
+---
+
+**Estudo da 9ª Semana**<a id="re09sem"></a> (30/03 - 05/04)
 {: .label .label-reading }
 
 Continuaremos nosso estudo de eletrônica com o Arduino, aprendendo a criar um

@@ -7,10 +7,18 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-04-17 15:41 -0300
+last_modified_date: 2026-04-26 07:53 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 13ª Semana**<a id="re13sem"></a> (27/04 - 03/05)
+{: .label .label-reading }
+
+Nesta semana não haverá apresentação de seminários pois faremos um exercício
+avaliativo sobre os seminários já apresentados.
+
+---
 
 **Estudo da 12ª Semana**<a id="re11sem"></a> (20/04 - 26/04)
 {: .label .label-reading }
