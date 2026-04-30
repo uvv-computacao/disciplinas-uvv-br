@@ -7,10 +7,43 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-04-26 07:53 -0300
+last_modified_date: 2026-04-30 09:27 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 14ª Semana**<a id="re14sem"></a> (04/05 - 10/05)
+{: .label .label-reading }
+
+- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 5: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
+    - Artigo e Slides
+  - Grupo 1: Capítulo 4: Seção 4.7.5 (páginas 154-178)
+    - Artigo e Slides
+  - Grupo 2: Capítulo 4: Seções 4.7.6 e 4.7.7 (páginas 178-199)
+    - Artigo e Slides
+
+<br />
+
+- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 5: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
+    - Artigo e Slides
+  - Grupo 1: Capítulo 4: Seção 4.7.5 (páginas 154-178)
+    - Artigo e Slides
+  - Grupo 2: Capítulo 4: Seções 4.7.6 e 4.7.7 (páginas 178-199)
+    - Artigo e Slides
+
+<br />
+
+- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
+  - Grupo 1: Capítulo 4: Seção 4.4 (páginas 110-120)
+    - Artigo e Slides
+  - Grupo 2: Capítulo 4: Seção 4.5 (páginas 120-131)
+    - Artigo e Slides
+  - Grupo 3: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
+    - Artigo e Slides
+
+---
 
 **Estudo da 13ª Semana**<a id="re13sem"></a> (27/04 - 03/05)
 {: .label .label-reading }
@@ -20,36 +53,45 @@ avaliativo sobre os seminários já apresentados.
 
 ---
 
-**Estudo da 12ª Semana**<a id="re11sem"></a> (20/04 - 26/04)
+**Estudo da 12ª Semana**<a id="re12sem"></a> (20/04 - 26/04)
 {: .label .label-reading }
 
 - **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
   - Grupo 2: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo2b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo2b.pdf)
   - Grupo 3: Capítulo 4: Seção 4.4 (páginas 110-120)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo3b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo3b.pdf)
   - Grupo 4: Capítulo 4: Seção 4.5 (páginas 120-131)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo4b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo4b.pdf)
 
 <br />
 
 - **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
   - Grupo 2: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2b.pdf)
   - Grupo 3: Capítulo 4: Seção 4.4 (páginas 110-120)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2b.pdf)
   - Grupo 4: Capítulo 4: Seção 4.5 (páginas 120-131)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2b.pdf)
 
 <br />
 
 - **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
   - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo4a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo4a.pdf)
   - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo5a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo5a.pdf)
   - Grupo 6: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo6a.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo6a.pdf)
 
 ---
 

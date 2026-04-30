@@ -397,11 +397,9 @@
     </tr>
     <tr>
       <th>Sex<br />10/4</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td>AULA CANCELADA</td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G3: <i>Self-Describing</i><br />
-          G4: <i>Gordian Knot</i><br />
-          G5: <i>Bumper-Sticker</i></td> <!-- Seminário -->
+      <td></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -439,9 +437,9 @@
       <th>Sex<br />17/4</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G6: <i>Envolepe is Back</i><br />
-          G7: <i>Furbelow Memorandum</i><br />
-          G8: <i>Little Languages</i></td> <!-- Seminário -->
+      <td>G3: <i>Self-Describing</i><br />
+          G4: <i>Gordian Knot</i><br />
+          G5: <i>Bumper-Sticker</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -479,9 +477,9 @@
       <th>Sex<br />24/4</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G1: <i>Document Design</i><br />
-          G2: <i>Graphic Output</i><br />
-          G3: <i>Survey of Surveys</i></td> <!-- Seminário -->
+      <td>G6: <i>Envolepe is Back</i><br />
+          G7: <i>Furbelow Memorandum</i><br />
+          G8: <i>Little Languages</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -557,9 +555,9 @@
       <th>Sex<br />8/5</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G4: <i>Sample of Brilliance</i><br />
-          G5: <i>Birth of a Cruncher</i><br />
-          G6: <i>Selection</i></td> <!-- Seminário -->
+      <td>G1: <i>Document Design</i><br />
+          G2: <i>Graphic Output</i><br />
+          G3: <i>Survey of Surveys</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -597,9 +595,9 @@
       <th>Sex<br />15/5</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G7: <i>Gödel's Theorem</i><br />
-          G8: <i>Game Trees</i><br />
-          G1: <i>Chomsky Hierarchy</i></td> <!-- Seminário -->
+      <td>G4: <i>Sample of Brilliance</i><br />
+          G5: <i>Birth of a Cruncher</i><br />
+          G6: <i>Selection</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -637,9 +635,9 @@
       <th>Sex<br />22/5</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G2: <i>Mathematical Research</i><br />
-          G3: <i>Error-Correcting Codes</i><br />
-          G4: <i>Spline Curves</i></td> <!-- Seminário -->
+      <td>G7: <i>Gödel's Theorem</i><br />
+          G8: <i>Game Trees</i><br />
+          G1: <i>Chomsky Hierarchy</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -677,9 +675,9 @@
       <th>Sex<br />29/5</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G5: <i>Newton-Raphson</i><br />
-          G6: <i>Recursion</i><br />
-          G7: <i>Fast Fourier Transform</i></td> <!-- Seminário -->
+      <td>G2: <i>Mathematical Research</i><br />
+          G3: <i>Error-Correcting Codes</i><br />
+          G4: <i>Spline Curves</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
@@ -755,9 +753,9 @@
       <th>Sex<br />12/6</th> <!-- Dia e Data -->
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
-      <td>G8: <i>Noncomputable Functions</i><br />
-          G1: <i>Text Compression</i><br />
-          G2: <i>Church's Thesis</i></td> <!-- Seminário -->
+      <td>G5: <i>Newton-Raphson</i><br />
+          G6: <i>Recursion</i><br />
+          G7: <i>Fast Fourier Transform</i></td> <!-- Seminário -->
       <td></td> <!-- Exercício -->
     </tr>
 
