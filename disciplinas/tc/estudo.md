@@ -7,10 +7,17 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-04-26 08:26 -0300
+last_modified_date: 2026-04-27 08:58 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 13ª Semana**<a id="re13sem"></a> (27/04 - 03/05)
+{: .label .label-reading }
+
+FERIADO!
+
+---
 
 **Estudo da 12ª Semana**<a id="re12sem"></a> (20/04 - 26/04)
 {: .label .label-reading }
