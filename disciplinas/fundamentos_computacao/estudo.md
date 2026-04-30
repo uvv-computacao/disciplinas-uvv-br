@@ -5,10 +5,100 @@ nav_exclude: false
 parent: Fundamentos da Computação
 nav_order: 20
 has_children: false
-last_modified_date: 2026-04-01 11:02 -0300
+last_modified_date: 2026-04-29 08:19 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 13ª Semana**<a id="re13sem"></a> (27/04 - 03/05)
+{: .label .label-reading }
+
+Nesta semana começaremos nosso estudo sobre a **Unidade 3: Linguagem de
+Programação C**! Nesta unidade começaremos a aplicar tudo o que aprendemos sobre
+os fundamentos da programação, em Scratch, em uma linguagem de programação
+textual muito importante, a Linguagem C.
+
+- **Vídeos obrigatórios:**
+  - [Parte 1: Olá,
+    mundo!](https://www.youtube.com/watch?v=feoEexna01E) (se quiser, pode fazer
+    o download dos 
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/3/unidade3_parte1.pdf)
+    do vídeo)
+- **Atividades**:
+  - Continue fazendo o **PSET 0: Scratch** (a data de entrega é até o dia
+    15/05/2026).
+
+---
+
+**Estudo da 12ª Semana**<a id="re12sem"></a> (20/04 - 26/04)
+{: .label .label-reading }
+
+FERIADO. Aproveite para continuar estudando e fazendo o **PSET 0: Scratch** (a
+data de entrega desse PSET é até o dia 15/05/2026).
+
+---
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (13/04 - 19/04)
+{: .label .label-reading }
+
+Nesta semana continuaremos nosso estudo sobre a **Unidade 2: Fundamentos da
+Programação**, e aprenderemos coisas mais avançadas como o uso de funções e
+variáveis, e veremos conceitos ainda mais avançados, como funções de primeira
+ordem, recursividade e outros.
+
+- **Vídeos obrigatórios:**
+  - [Parte 3: Funções e
+    variáveis](https://www.youtube.com/watch?v=jeFJuow44kI) (se quiser, pode fazer
+    o download dos 
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/2/unidade2_parte3.pdf)
+    do vídeo)
+  - [Parte 4: Conceitos
+    Avançados](https://www.youtube.com/watch?v=dWMx4503llQ) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/2/unidade2_parte4.pdf)
+    do vídeo)
+- **PSET 0: Scratch**
+  - Faça o [Cadastro no
+    Autolab](https://disciplinas.uvv.br/disciplinas/fundamentos_computacao/autolab/cadastro/)
+    conforme as instruções no site Disciplinas UVV. Leia as instruções com
+    atenção, principalmente se você usar seu e-mail do Gmail, para saber como
+    corrigir um possível problema de erro de configuração de nome/sobrenome no
+    Gmail. Depois de se cadastrar, acesse o Portal do Aluno para obter o código
+    de acesso à nossa disciplina no Autolab.
+  - Assista ao vídeo do [PSET 0:
+    Scratch](https://www.youtube.com/watch?v=21Vknz2W9FA) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/2/unidade2_parte5.pdf)
+    do vídeo)
+  - Verifique as instruções na página [Atividades no
+    Autolab](https://disciplinas.uvv.br/disciplinas/fundamentos_computacao/autolab/)
+  - Leia as [Instruções para o PSET
+    0](https://disciplinas.uvv.br/disciplinas/fundamentos_computacao/autolab/unidade2/)
+  - **A data final de envio do PSET 0 no Autolab é dia 15/05/2026!** Não perca
+    esse prazo pois não serão aceitos trabalhos em atraso (o Autolab fecha o
+    envio automaticamente).
+
+---
+
+**Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
+{: .label .label-reading }
+
+Nesta semana começaremos nosso estudo sobre a **Unidade 2: Fundamentos da
+Programação**! Nesta unidades estudaremos as bases fundamentais da programação,
+um conhecimento essencial que servirá para todas as outras disciplinas futuras
+de programação na universidade e em sua vida profissional.
+
+- **Vídeos obrigatórios:**
+  - [Parte 1: Scratch: fundamentos da
+    programação](https://www.youtube.com/watch?v=jaxotbKfnWA) (se quiser, pode fazer
+    o download dos 
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/2/unidade2_parte1.pdf)
+    do vídeo)
+  - [Parte 2: exemplos em
+    Scratch](https://www.youtube.com/watch?v=YWIVJrV-EYs) (se quiser, pode
+    fazer o download dos
+    [slides](https://www.computacaoraiz.com.br/cr6100b/unidades/2/unidade2_parte2.pdf)
+    do vídeo)
 
 ---
 

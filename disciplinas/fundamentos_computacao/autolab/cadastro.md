@@ -7,7 +7,7 @@ has_children: false
 has_toc: true
 nav_exclude: false
 nav_order: 10
-last_modified_date: 2025-05-05 14:38 -0300
+last_modified_date: 2026-04-29 08:04 -0300
 ---
 
 # Cadastro no Autolab
@@ -71,6 +71,20 @@ inicial do Autolab, conforme a imagem abaixo:
 
 Nesse momento você já tem cadastro no Autolab, mas ainda não pode acessar nenhum
 curso disponível. Para isso, siga para a [seção 2](#acesso-aos-cursos).
+
+Se você receber uma mensagem de erro com uma imagem de um macaquinho conforme a
+imagem abaixo, isso é um sinal de que as configurações de **nome** e
+**sobrenome** do seu Gmail estão cadastradas de modo errado (continue a ler após
+a figura):
+
+![Tela de erro do Autolab](/assets/images/autolab/email5b.png)
+
+Assista ao vídeo "[Cadastro e Uso do
+Autolab](https://www.youtube.com/watch?v=xqarhSguQNE&t=670s)" para saber como
+corrigir esse problema (esse é um vídeo de explicações que eu gravei para a
+disciplina "Linguagens de Programação EAD", mas você pode assistir para saber
+como corrigir o problema de erro do cadastro do Gmail; o link vai abrir o vídeo
+no momento exato da explicação).
 
 ### 1.2. Cadastro manual (e-mail que não é do Gmail)
 
