@@ -7,41 +7,115 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-04-30 09:27 -0300
+last_modified_date: 2026-05-25 12:29 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 17ª Semana**<a id="re17sem"></a> (25/05 - 31/05)
+{: .label .label-red }
+
+- **Arduino Standalone para a turma CC6M:**
+  - Nesta semana continuaremos a montagem de um "Arduino Standalone", ou seja,
+    de um Arduino montado diretamente na protoboard. Hoje faremos a compilação
+    cruzada de um programa simples e a gravação do firmware no microcontrolador.
+
+- **Avaliação Bimestral AV2 para as turmas CC5M e CC5Mb:** esta semana é
+  dedicada à realização da 2ª avaliação bimestral, a AV2, para as turmas CC5M e
+  CC5Mb. O conteúdo da AV2 corresponde ao conteúdo do exercício/estudo
+  individual sobre toolchains e toolchains cruzadas, todo o conteúdo visto nos
+  seminários sobre a arquitetura de computadores para o jogo Wolfstein 3D e todo
+  o conteúdo sobre Arduino Standalone visto no laboratório. Observações:
+  - A prova é individual.
+  - Venha bem preparado! A prova é **extensa** e não é fácil!
+  - Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
+    flagrados com qualquer tipo de cola terão a AV2 zerada imediatamente e serão
+    encaminhados para a coordenação para as medidas disciplinares conforme o
+    regimento da UVV.
+  - O professor determinará o assento de cada aluno.
+
+{: .vermelho-title }
+> Os celulares serão recolhidos pelo professor!
+>
+> Antes do início da prova o professor **recolherá todos os celulares** de todos
+> os alunos, **sem exceções**. O aluno só receberá a prova mediante a entrega do
+> celular, desligado. Os celulares serão identificados e ficarão sob a posse do
+> professor durante a prova. Ao terminar e entregar a prova, o professor
+> devolverá o celular.
+>
+> O aluno que não entregar o celular e for flagrado utilizando o aparelho
+> para colar na prova, terá a **NOTA ZERADA** e, no limite, pode até ser
+> **REPROVADOS IMEDIATA E AUTOMATICAMENTE** na disciplina, sem chance de
+> discussão. Evite problemas: **entregue seu celular desligado** no início da
+> prova.
+
+---
+
+**Estudo da 16ª Semana**<a id="re16sem"></a> (18/05 - 24/05)
+{: .label .label-reading }
+
+Nesta semana continuaremos a montagem de um "Arduino Standalone", ou seja, de um
+Arduino montado diretamente na protoboard. Hoje montaremos o microcontrolador
+ATmega328P com seu circuito de clock. Iniciaremos programação em AVR-C.
+
+- **Leituras obrigatórias:**
+  - [Apostila de Arduino
+    Standalone](/assets/disciplinas/arqcomp2/20261/standalone1.pdf)
+
+---
+
+**Estudo da 15ª Semana**<a id="re15sem"></a> (11/05 - 17/05)
+{: .label .label-reading }
+
+Nesta semana iniciaremos a montagem de um "Arduino Standalone", ou seja, de um
+Arduino montado diretamente na protoboard. Hoje montaremos o circuito regulador
+de tensão.
+
+- **Leituras obrigatórias:**
+  - [Apostila de Arduino
+    Standalone](/assets/disciplinas/arqcomp2/20261/standalone1.pdf)
+
+---
 
 **Estudo da 14ª Semana**<a id="re14sem"></a> (04/05 - 10/05)
 {: .label .label-reading }
 
 - **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
   - Grupo 5: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo5b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo5b.pdf)
   - Grupo 1: Capítulo 4: Seção 4.7.5 (páginas 154-178)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo1b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo1b.pdf)
   - Grupo 2: Capítulo 4: Seções 4.7.6 e 4.7.7 (páginas 178-199)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo2c.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo2c.pdf)
 
 <br />
 
 - **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
   - Grupo 5: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo5b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo5b.pdf)
   - Grupo 1: Capítulo 4: Seção 4.7.5 (páginas 154-178)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo1b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo1b.pdf)
   - Grupo 2: Capítulo 4: Seções 4.7.6 e 4.7.7 (páginas 178-199)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2c.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2c.pdf)
 
 <br />
 
 - **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
   - Grupo 1: Capítulo 4: Seção 4.4 (páginas 110-120)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo1b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo1b.pdf)
   - Grupo 2: Capítulo 4: Seção 4.5 (páginas 120-131)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo2b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo2b.pdf)
   - Grupo 3: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
-    - Artigo e Slides
+    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo3b.pdf) e
+      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo3b.pdf)
 
 ---
 
