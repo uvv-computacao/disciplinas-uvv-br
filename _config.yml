@@ -202,3 +202,4 @@ exclude:
   - INSTRUCOES
   - modelos
   - mapa.emmx
+  - remove_polyfill.sh
