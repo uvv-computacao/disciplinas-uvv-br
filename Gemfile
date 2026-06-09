@@ -43,3 +43,4 @@ gem "kramdown-syntax-coderay", "~> 1.0"
 # Outras gems:
 gem "csv"
 gem "base64"
+gem "addressable", ">= 2.9.0"
