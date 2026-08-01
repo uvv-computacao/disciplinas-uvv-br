@@ -87,6 +87,21 @@ Esta disciplina utilizará os seguintes livros:
          soquetes. Um ótimo livro de consulta.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><img src="/assets/disciplinas/arqcomp1/livros/stallings10.jpg"
+             alt="Introduction to the Theory of Computation"
+             style="float:left;height:200px;clear:both;margin: 10px 10px 10px 10px;" />
+             Livro de consulta: <b>Arquitetura e Organização de
+             Computadores</b>, de William Stallings. Usaremos a 10ª edição
+             traduzida do livro, publicada em 2017, pela editora Pearson.
+             Existe uma edição mais nova (a 11ª edição) mas neste semestre ainda
+             usaremos a 10ª edição.
+             A aquisição do livro não é obrigatória mas, se quiser, pode comprar
+             na <a href="https://www.amazon.com.br/dp/8543020530/">Amazon 
+             Brasileira</a>. Também é encontrado em sebos.</p>
+    </td>
+  </tr>
 </table>
 
 ## Apostilas sobre Arduino
@@ -124,6 +139,8 @@ Esta disciplina utilizará os seguintes livros:
   Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)
 * [Capa para o Caderno de
   Engenharia](/assets/docs/caderno_engenharia/capa_caderno_engenharia.pdf)
+* [Sumário para o Caderno de
+  Engenharia](/assets/docs/caderno_engenharia/sumario_caderno_engenharia.pdf)
 * [Algarismos
   Significativos](/assets/docs/caderno_engenharia/algarismos_significativos.pdf)
 * Exemplos de Cadernos de Engenharia:
@@ -137,9 +154,6 @@ Esta disciplina utilizará os seguintes livros:
     engenheiro da Atari)
   * [Dan Dramer](/assets/docs/caderno_engenharia/dan_dramer_atari.pdf) (um
     engenheiro da Atari)
-
-## Calendário acadêmico
-* [Calendário acadêmico oficial 2025](/assets/docs/calendario_oficial_2025.pdf)
 
 ## Componentes eletrônicos
 * [Tabela de cores de
@@ -166,3 +180,6 @@ Esta disciplina utilizará os seguintes livros:
 
 ## Papel almaço
 * [Uso correto do papel almaço](/assets/docs/uso_papel_almaco.pdf)
+
+## Calendário acadêmico
+* [Calendário acadêmico oficial 2026](/assets/docs/calendario_oficial_2026.pdf)

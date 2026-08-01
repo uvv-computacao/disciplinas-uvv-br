@@ -7,11 +7,96 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2025-07-25 17:33 -0300
+last_modified_date: 2026-08-01 20:29 -0300
 ---
 
 # Roteiro de estudo
 
+**Estudo da 2ª Semana**<a id="re02sem"></a> (03/08 - 09/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de aula: fundamentos físicos da
+    computação](/assets/disciplinas/arqcomp1/20262/fund_fisicos.pdf)
+  - Para o laboratório, você deve ler os seguintes capítulos do livro "Official
+    Arduino Projects Book" (o PDF do livro está na [página de
+    recursos](../recursos))
+    - Capítulo 1 do "Official Arduino Projects Book" (páginas 20-31): seu
+      primeiro projeto com o Arduino, um LED controlado por botão
+- **Vídeos obrigatórios:**
+  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
+  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - (nada no momento)
+- **Registro do estudo semanal no seu caderno:**
+  - Enquanto você está estudando o conteúdo desta semana, registre em seu
+    caderno de estudos tudo o que você está aprendendo. Você pode fazer um
+    resumo, um mapa mental, um diagrama... você deve registrar a data do estudo
+    e o que foi estudado, o que foi aprendido e quais são as dúvidas para
+    perguntar ao professor. Lembre-se de que o professor irá vistoriar
+    semanalmente seu caderno para verificar se você está mantendo o caderno de
+    estudos em dia (isso vale 40% de sua nota).
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - (nada no momento)
+
+---
+
+**Estudo da 1ª Semana**<a id="re01sem"></a> (27/07 - 02/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de aula: fundamentos físicos da
+    computação](/assets/disciplinas/arqcomp1/20262/fund_fisicos.pdf)
+  - Para o laboratório, você deve ler os seguintes capítulos do livro "Official
+    Arduino Projects Book" (o PDF do livro está na [página de
+    recursos](../recursos))
+    - Capítulo 0 do "Official Arduino Projects Book" (páginas 1-19): informações
+      básicas sobre o que é o Arduino, aprender os principais componentes
+      eletrônicos, circuitos, protoboard e instalação do software;
+- **Vídeos obrigatórios:**
+  - [O que é Arduino, afinal de
+    contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g)
+  - [Para que servem os componentes
+    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
+- **Leituras recomendadas:**
+  - [Arduino Uno Rev. 3 Datasheet](/assets/arduino/arduino_uno_r3_datasheet.pdf)
+- **Vídeos recomendados:**
+  - [Ferramentas: tudo o que você queria
+    saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
+- **Registro do estudo semanal no seu caderno:**
+  - Enquanto você está estudando o conteúdo desta semana, registre em seu
+    caderno de estudos tudo o que você está aprendendo. Você pode fazer um
+    resumo, um mapa mental, um diagrama... você deve registrar a data do estudo
+    e o que foi estudado, o que foi aprendido e quais são as dúvidas para
+    perguntar ao professor. Lembre-se de que o professor irá vistoriar
+    semanalmente seu caderno para verificar se você está mantendo o caderno de
+    estudos em dia (isso vale 40% de sua nota).
+- **Exercícios:**
+  - (nada no momento)
+- **Outras atividades:**
+  - (nada no momento)
+
+<!-- 
+
+<!--
+  - [Qual a diferença entre volt, watt e
+    ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
+  - [How to Use a Button with an
+    Arduino](https://www.youtube.com/watch?v=yBgMJssXqHY)
+
+  - [1ª Lista de Exercício:
+    Arduino](/assets/disciplinas/arqcomp1/20252/arduino01.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente os espaços reservados para as respostas. A data de
+    entrega será a seguinte:
+    - Turma CC4N: 20/08
+    - Turma CC4M: 21/08
+    - Turma CC4Mb: 21/08
+    
 **Estudo da 5ª Semana**<a id="re05sem"></a> (25/08 - 31/08)
 {: .label .label-reading }
 
@@ -112,47 +197,7 @@ disciplina.
 
 ---
 
-**Estudo da 2ª Semana**<a id="re02sem"></a> (04/08 - 10/08)
-{: .label .label-reading }
 
-- **Leituras obrigatórias:**
-  - [Notas de aula: fundamentos físicos da
-    computação](/assets/disciplinas/arqcomp1/20252/fund_fisicos.pdf)
-  - Para o laboratório, você deve ler os seguintes capítulos do livro "Official
-    Arduino Projects Book" (o PDF do livro está na [página de
-    recursos](../recursos))
-    - Capítulo 0 do "Official Arduino Projects Book" (páginas 1-19): informações
-      básicas sobre o que é o Arduino, aprender os principais componentes
-      eletrônicos, circuitos, protoboard e instalação do software;
-    - Capítulo 1 do "Official Arduino Projects Book" (páginas 20-31): seu
-      primeiro projeto com o Arduino, um LED controlado por botão
-- **Vídeos obrigatórios:**
-  - [O que é Arduino, afinal de
-    contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g)
-  - [Para que servem os componentes
-    eletrônicos?](https://www.youtube.com/watch?v=C54Cp819Ebc)
-  - [Como funciona uma protoboard](https://www.youtube.com/watch?v=DfU6llvIMcM)
-  - [Como funciona um multímetro](https://www.youtube.com/watch?v=1WIWrmc-rBk)
-- **Leituras recomendadas:**
-  - [Arduino Uno Rev. 3 Datasheet](/assets/arduino/arduino_uno_r3_datasheet.pdf)
-- **Vídeos recomendados:**
-  - [Ferramentas: tudo o que você queria
-    saber](https://www.youtube.com/watch?v=5JxN3ELqo9I)
-  - [Qual a diferença entre volt, watt e
-    ampere?](https://www.youtube.com/watch?v=JtttnL28m3Q)
-  - [How to Use a Button with an
-    Arduino](https://www.youtube.com/watch?v=yBgMJssXqHY)
-- **Exercícios:**
-  - [1ª Lista de Exercício:
-    Arduino](/assets/disciplinas/arqcomp1/20252/arduino01.pdf). Esta lista deve
-    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
-    responder diretamente os espaços reservados para as respostas. A data de
-    entrega será a seguinte:
-    - Turma CC4N: 20/08
-    - Turma CC4M: 21/08
-    - Turma CC4Mb: 21/08
-- **Outras atividades:**
-  - (nada no momento)
 
 ---
 
@@ -727,8 +772,6 @@ representar dados no computador (números, texto, sons, imagens, vídeos, etc).
       Maker](/assets/arduino/apostila_eletrogate_05_arduino_maker.pdf):
       exercício 8.
 
-
-<!--
 
 -->
 

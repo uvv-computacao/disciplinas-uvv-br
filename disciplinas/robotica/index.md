@@ -3,7 +3,7 @@ layout: page
 title: Robótica e Dispositivos Inteligentes
 grand_parent:
 parent:
-nav_exclude: false
+nav_exclude: true
 nav_order: 200
 has_toc: false
 has_children: true

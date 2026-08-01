@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fundamentos da Computação
-nav_exclude: false
+nav_exclude: true
 nav_order: 150
 has_children: true
 has_toc: false

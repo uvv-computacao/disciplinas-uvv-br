@@ -13,9 +13,9 @@
 #include <time.h>
 
 /* DEFINIÇÕES E VARIÁVEIS GLOBAIS */
-#define INICIO "2026-02-01 00:00:00"    /* Início em um DOMINGO */
-#define FIM    "2026-07-04 00:00:00"    /* Final em um SÁBADO */
-char diames[6];                         /* Armazenará string com dd/mm */
+#define INICIO "2026-07-26 00:00:00"    /* Início em um DOMINGO */
+#define FIM    "2026-12-12 00:00:00"    /* Final em um SÁBADO */
+char diames[32];                        /* Armazenará string com dd/mm */
 
 /* PROTÓTIPOS DOS SUBPROGRAMAS */
 long soma_dias(int dias);
@@ -34,7 +34,7 @@ int main(void)
     do
     {
         c_autolab = get_char("Usará o Autolab (s/n)? ");
-        c_autolab = tolower(c_autolab);
+        c_autolab = (char) tolower((unsigned char) c_autolab);
     }
     while (c_autolab != 's' && c_autolab != 'n');
     autolab = (c_autolab == 's') ? true : false;
@@ -78,8 +78,8 @@ int main(void)
     printf("      <th>Estudo</th>\n");
     if (autolab)
         printf("      <th>Autolab</th>\n");
-    printf("      <th>Seminário</th>\n");
-    printf("      <th>Exercício</th>\n");
+    printf("      <th>Hand-out</th>\n");
+    printf("      <th>Hand-in</th>\n");
     printf("    </tr>\n");
     printf("  </thead>\n");
     printf("  <tbody class=\"js-scheduleContent\">\n");
@@ -90,7 +90,7 @@ int main(void)
 	printf("\n    <!-- %iª SEMANA -->\n", i);
 	for (int ds = 0; ds <= 6; ds++)
 	{
-	    atual = gmtime(&data1);
+	    atual = localtime(&data1);
 	    set_diames(atual);
 	    if (ds == 1)
 	    {
@@ -101,8 +101,8 @@ int main(void)
 		printf("      <td></td> <!-- Estudo -->\n");
                 if (autolab)
 		    printf("      <td></td> <!-- Autolab -->\n");
-		printf("      <td></td> <!-- Seminário -->\n");
-		printf("      <td></td> <!-- Exercício -->\n");
+		printf("      <td></td> <!-- Hand-out -->\n");
+		printf("      <td></td> <!-- Hand-in -->\n");
 		printf("    </tr>\n");
 	    }
 	    else if (ds >= 2 && ds <= 5)
@@ -113,8 +113,8 @@ int main(void)
                 printf("      <td></td> <!-- Estudo -->\n");
                 if (autolab)
                     printf("      <td></td> <!-- Autolab -->\n");
-                printf("      <td></td> <!-- Seminário -->\n");
-                printf("      <td></td> <!-- Exercício -->\n");
+                printf("      <td></td> <!-- Hand-out -->\n");
+                printf("      <td></td> <!-- Hand-in -->\n");
                 printf("    </tr>\n");
 	    }
 	data1 += soma_dias(1);
@@ -166,5 +166,5 @@ char *dia_da_semana (struct tm *data)
 
 void set_diames (struct tm *data)
 {
-    sprintf(diames, "%i/%i", data->tm_mday, data->tm_mon + 1);
+    sprintf(diames, "%02d/%02d", data->tm_mday, data->tm_mon + 1);
 }
