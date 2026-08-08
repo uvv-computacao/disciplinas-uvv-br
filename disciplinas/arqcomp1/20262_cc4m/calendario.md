@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <th>Sex<br />07/08</th> <!-- Dia e Data -->
-      <td><b>Sumô de robôs</b></td> <!-- Aula -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
@@ -105,7 +105,8 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand-out -->
+      <td><a href="/assets/disciplinas/arqcomp1/20262/arduino01.pdf">Exercício
+          1</a></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
     </tr>
     <tr>
@@ -118,8 +119,8 @@
     </tr>
     <tr>
       <th>Qua<br />12/08</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re03sem">3ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -134,11 +135,11 @@
     </tr>
     <tr>
       <th>Sex<br />14/08</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re03sem">3ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
-      <td></td> <!-- Hand-in -->
+      <td>Exercício 1</td> <!-- Hand-in -->
     </tr>
 
     <!-- 4ª SEMANA -->

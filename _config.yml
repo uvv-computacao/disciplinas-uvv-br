@@ -203,3 +203,4 @@ exclude:
   - modelos
   - mapa.emmx
   - remove_polyfill.sh
+  - roteiros/
