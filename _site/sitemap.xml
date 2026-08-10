@@ -1283,6 +1283,10 @@
 <lastmod>2026-06-09T10:04:27-03:00</lastmod>
 </url>
 <url>
+<loc>https://disciplinas.uvv.br/assets/arduino/tabela_resistores.pdf</loc>
+<lastmod>2026-08-01T20:22:49-03:00</lastmod>
+</url>
+<url>
 <loc>https://disciplinas.uvv.br/assets/disciplinas/arqcomp1/2023_1/basico_c.pdf</loc>
 <lastmod>2025-03-20T14:29:01-03:00</lastmod>
 </url>
@@ -2781,5 +2785,9 @@
 <url>
 <loc>https://disciplinas.uvv.br/assets/raspberry/guia_raspberry_iniciantes.pdf</loc>
 <lastmod>2026-06-09T10:04:29-03:00</lastmod>
+</url>
+<url>
+<loc>https://disciplinas.uvv.br/assets/robo_sumo/dica_01_visao_geral_da_eletronica.pdf</loc>
+<lastmod>2026-08-09T23:02:31-03:00</lastmod>
 </url>
 </urlset>

@@ -134,6 +134,10 @@ Esta disciplina utilizará os seguintes livros:
   Iniciante](/assets/arduino/arduino_guia_iniciante_multilogica_Shop.pdf)
 * [Hack.ATOMIC: Arduino](/assets/arduino/hack_atomic_arduino.pdf)
 
+## Dicas para a construção do mini robô sumô
+* [Parte 1: visão geral da eletrônica do robô
+  sumô](/assets/robo_sumo/dica_01_visao_geral_da_eletronica.pdf)
+
 ## Caderno de engenharia
 * [Instruções para o Caderno de
   Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)

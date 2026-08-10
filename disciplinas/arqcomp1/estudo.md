@@ -34,9 +34,11 @@ last_modified_date: 2026-08-08 15:39 -0300
       condicionais, leitura de código de cores de resistores.
     - Capítulo 3 (páginas 42-51): uso de sensor de temperatura, monitor serial
       do Arduino, estrutura de repetição, variáveis, operadores lógicos.
-  - Para a construção do **Robô Sumô**: ler o material sobre componentes
-    eletrônicos que serão necessários para o robô. OBSERVAÇÃO: o material será
-    postado em breve!
+  - Para a construção do **Robô Sumô**: ler as seguintes "_Dicas para a
+    construção do robô sumô_" (que estão disponíveis na [página de
+    recursos](../recursos)):
+    - [Dica 01: visão geral da
+      eletrônica](/assets/robo_sumo/dica_01_visao_geral_da_eletronica.pdf)
 - **Vídeos obrigatórios:**
   - [Conheça os sensores do
     Arduino](https://www.youtube.com/watch?v=vEdYjAbzrAE)
