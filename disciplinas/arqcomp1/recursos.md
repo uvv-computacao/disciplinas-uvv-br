@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 30
 has_toc: true
 has_children: false
-last_modified_date: 2024-07-06 15:07 -0300
+last_modified_date: 2024-08-15 18:59 -0300
 ---
 
 # Recursos diversos
@@ -137,6 +137,8 @@ Esta disciplina utilizará os seguintes livros:
 ## Dicas para a construção do mini robô sumô
 * [Parte 1: visão geral da eletrônica do robô
   sumô](/assets/robo_sumo/dica_01_visao_geral_da_eletronica.pdf)
+* [Parte 2: lista de compra de
+  componentes](/assets/robo_sumo/dica_02_lista_de_compras.pdf)
 
 ## Caderno de engenharia
 * [Instruções para o Caderno de
