@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>Disciplinas UVV</title>
+</head>
+<body>
+  <h1>Disciplinas UVV</h1>
+  <p>Mockup da página inicial — sem layout ainda.</p>
+
+  <h2>Disciplinas</h2>
+  <ul>
+    {% for disciplina in disciplinas %}
+    <li>
+      {{ disciplina.nome }} ({{ disciplina.apelido }}) [{{ disciplina.slug }}]
+      <ul>
+        {% for turma in disciplina.turmas %}
+        <li>{{ turma.apelido }} ({{ turma.codigo }}) - {{ turma.ano }}/{{ turma.semestre }}</li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
