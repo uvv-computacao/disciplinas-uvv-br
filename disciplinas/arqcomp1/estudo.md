@@ -7,10 +7,62 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-08-08 15:39 -0300
+last_modified_date: 2026-08-17 14:46 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 4ª Semana**<a id="re04sem"></a> (17/08 - 23/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Para a construção do **Robô Sumô**: ler as seguintes "_Dicas para a
+    construção do robô sumô_" (que estão disponíveis na [página de
+    recursos](../recursos)):
+    - [Dica 01: visão geral da
+      eletrônica](/assets/robo_sumo/dica_01_visao_geral_da_eletronica.pdf)
+    - [Dica 02: lista de compra de
+      componentes](/assets/robo_sumo/dica_02_lista_de_compras.pdf)
+  - Para aprender a usar os sensores de ultrassom que o seu robô sumô usará
+    para detectar o adversário, leia a "Apostila Eletrogate: Intermediate",
+    Exemplo 10. A apostila está na [página de recursos](../recursos).
+  - Para aprender a usar os sensores infravermelhos que o seu robô sumô usará
+    para detectar a borda branca da arena, leia a "Apostila Eletrogate:
+    Advanced", Exemplo 8. A apostila está na [página de recursos](../recursos).
+- **Vídeos obrigatórios:**
+  - [O que é um sensor ultrassônico
+    (HC-SR04)](https://www.youtube.com/watch?v=QmyByyhiiwk)
+  - [HC-SR04 ULTRASONIC SENSOR - WHAT it is and HOW to use
+    it](https://www.youtube.com/watch?v=1E4TDZC-xaY)
+  - [Arduino ROBOT Mini SUMO - SENSOR
+    IR](https://www.youtube.com/watch?v=o0FMSIltwu4)
+  - [Sensor Ótico Reflexivo
+    TCRT5000](https://www.youtube.com/watch?v=_EpC9TYzIuM)
+- **Leituras recomendadas:**
+  - (nada no momento)
+- **Vídeos recomendados:**
+  - [Sensor de Distância (HC-SR04) no
+    Arduino](https://www.youtube.com/watch?v=l-jlKjbfDsQ)
+  - [Sensor reflexivo infravermelho
+    TCRT5000](https://www.youtube.com/watch?v=LuX_ZGIRCzo)
+- **Exercícios:**
+  - [2ª Lista de Exercício:
+    Arduino](/assets/disciplinas/arqcomp1/20262/arduino02.pdf). Esta lista deve
+    ser feita individualmente, de forma manuscrita. Você deve imprimir a lista e
+    responder diretamente nos espaços reservados para as respostas. Você deve
+    entregar essa lista até o dia 21/08/2026, 12:00h, no Laboratório de
+    Hardware. Coloque seu nome completo e sua turma de forma legível na primeira
+    página da lista. Não serão aceitas entregas posteriores, sob hipótese
+    nenhuma. Lembre-se de que este exercício substituirá o visto/carimbo nos
+    cadernos individuais de estudo enquanto estivermos construindo o robô sumô
+    e, assim, fará parte de 40% de sua nota semestral.
+- **Outras atividades:**
+  - A partir da lista de compra de componentes, você e o seu time de robô sumô
+    devem escolher as peças do robô e discutir com o professor, DURANTE ESTA
+    SEMANA, a lista de compras. Depois da aprovação do professor sua equipe deve
+    comprar o mais rápido possível os componentes.
+
+---
 
 **Estudo da 3ª Semana**<a id="re03sem"></a> (10/08 - 16/08)
 {: .label .label-reading }

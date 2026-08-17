@@ -149,21 +149,22 @@
       <td></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand-out -->
+      <td><a href="/assets/disciplinas/arqcomp1/20262/arduino02.pdf">Exercício
+          2</a></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
     </tr>
     <tr>
       <th>Ter<br />18/08</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re04sem">4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
     </tr>
     <tr>
       <th>Qua<br />19/08</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re04sem">4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -182,7 +183,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
-      <td></td> <!-- Hand-in -->
+      <td>Exercício 2</td> <!-- Hand-in -->
     </tr>
 
     <!-- 5ª SEMANA -->
