@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% from "_macros.html" import breadcrumbs %}
+
+{% set cor, cor_soft = course_color(disciplina.slug) %}
+
+{% block body_attrs %} style="--course-color: {{ cor }}; --course-color-soft: {{ cor_soft }};"{% endblock %}
+
+{% block course_header %}
+<div class="container">
+  {{ breadcrumbs(breadcrumb_items) }}
+</div>
+
+{% if compact_header %}
+<section class="course-header course-header-compact">
+  <div class="container course-header-compact-row">
+    <h1>{{ disciplina.nome }}</h1>
+    <span class="course-header-compact-meta">{{ turma.ano }}/{{ turma.semestre }} · {{ turma.apelido }}</span>
+  </div>
+</section>
+{% else %}
+<section class="course-header">
+  <div class="container">
+    <div class="course-header-label">{{ turma.ano }}/{{ turma.semestre }} · {{ turma.apelido }}</div>
+    <h1>{{ disciplina.nome }}</h1>
+    <div class="course-header-meta">
+      {% for regencia in oferta.regencias|sort(attribute='principal', reverse=True) %}
+      <span>Prof. {{ regencia.professor.apelido }}{% if not regencia.principal %} (auxiliar){% endif %}</span>
+      {% else %}
+      <span>Professor a definir</span>
+      {% endfor %}
+      {% for horario in oferta.horarios %}
+      <span>{{ dia_semana_label(horario.dia_semana) }} · {{ horario.hora_inicio.strftime('%H:%M') }}–{{ horario.hora_fim.strftime('%H:%M') }}{% if horario.local %} · {{ horario.local }}{% endif %}</span>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<nav class="course-nav">
+  <div class="container course-nav-inner">
+    <a href="{{ url_for('main.oferta_dashboard', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}"{% if course_nav_active == 'inicio' %} aria-current="page"{% endif %}>Início</a>
+    <a href="{{ url_for('main.oferta_cronograma', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}"{% if course_nav_active == 'cronograma' %} aria-current="page"{% endif %}>Cronograma</a>
+    <a href="{{ url_for('main.oferta_atividades', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}"{% if course_nav_active == 'atividades' %} aria-current="page"{% endif %}>Atividades</a>
+    <a href="{{ url_for('main.oferta_avisos', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}"{% if course_nav_active == 'avisos' %} aria-current="page"{% endif %}>Avisos</a>
+    <a href="{{ url_for('main.oferta_recursos', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}"{% if course_nav_active == 'recursos' %} aria-current="page"{% endif %}>Recursos</a>
+  </div>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="container section">
+  {% block course_content %}{% endblock %}
+</div>
+{% endblock %}

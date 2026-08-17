@@ -1,0 +1,26 @@
+{% extends "course_base.html" %}
+
+{% block title %}Avisos — {{ disciplina.nome }}{% endblock %}
+
+{% block course_content %}
+<h1>Avisos</h1>
+
+{% if avisos %}
+<ul class="deadline-list">
+  {% for aviso in avisos %}
+  <li class="deadline">
+    <div class="deadline-date">{{ data_curta(aviso.data_publicacao) }}</div>
+    <div>
+      <div class="deadline-title">
+        {{ aviso.titulo }}
+        {% if aviso.turma_id %}<span class="badge">{{ turma.apelido }}</span>{% else %}<span class="badge">Todas as turmas</span>{% endif %}
+      </div>
+      <p class="course-meta">{{ aviso.conteudo }}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>Nenhum aviso publicado ainda.</p>
+{% endif %}
+{% endblock %}

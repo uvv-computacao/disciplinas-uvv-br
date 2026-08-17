@@ -1,0 +1,8 @@
+{% macro breadcrumbs(items) %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('main.index') }}">Início</a>
+  {%- for label, url in items %}
+  {% if url %}<a href="{{ url }}">{{ label }}</a>{% else %}<span>{{ label }}</span>{% endif %}
+  {%- endfor %}
+</nav>
+{% endmacro %}

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% from "_macros.html" import breadcrumbs %}
+
+{% block title %}{{ disciplina.nome }} — Disciplinas UVV{% endblock %}
+
+{% block content %}
+<div class="container section">
+  {{ breadcrumbs([("Disciplinas", url_for('main.disciplinas')), (disciplina.nome, none)]) }}
+
+  <div class="section-header">
+    <h2>{{ disciplina.nome }}</h2>
+  </div>
+
+  {% set cor, cor_soft = course_color(disciplina.slug) %}
+
+  <h3>{% if ofertas_atuais|length > 1 %}Turmas atuais{% else %}Oferta atual{% endif %}</h3>
+
+  {% if ofertas_atuais %}
+  <div class="course-grid">
+    {% for vinculo in ofertas_atuais %}
+    {% set professor = professor_responsavel(vinculo) %}
+    <article class="course-card" style="--course-color: {{ cor }}; --course-color-soft: {{ cor_soft }};">
+      <div class="course-code">{{ vinculo.turma.ano }}/{{ vinculo.turma.semestre }}</div>
+      <h3><a href="{{ url_for('main.oferta_dashboard', disciplina_slug=disciplina.slug, turma_slug=vinculo.turma.slug) }}">{{ vinculo.turma.apelido }}</a></h3>
+      <p class="course-meta">{% if professor %}Prof. {{ professor.apelido }}{% else %}Professor a definir{% endif %}</p>
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p>Nenhuma turma cadastrada no momento.</p>
+  {% endif %}
+
+  {% if ofertas_anteriores %}
+  <div class="section-header" style="margin-top: var(--space-7);">
+    <h2>Ofertas anteriores</h2>
+  </div>
+  <div class="course-grid">
+    {% for vinculo in ofertas_anteriores %}
+    <article class="course-card" style="--course-color: {{ cor }}; --course-color-soft: {{ cor_soft }};">
+      <div class="course-code">{{ vinculo.turma.ano }}/{{ vinculo.turma.semestre }}</div>
+      <h3><a href="{{ url_for('main.oferta_dashboard', disciplina_slug=disciplina.slug, turma_slug=vinculo.turma.slug) }}">{{ vinculo.turma.apelido }}</a></h3>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

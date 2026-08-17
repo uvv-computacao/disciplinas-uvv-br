@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% from "_macros.html" import breadcrumbs %}
+
+{% block title %}Disciplinas — Disciplinas UVV{% endblock %}
+
+{% block content %}
+<div class="container section">
+  {{ breadcrumbs([("Disciplinas", none)]) }}
+
+  <div class="section-header">
+    <h2>Disciplinas</h2>
+  </div>
+
+  {% if disciplinas %}
+  <div class="course-grid">
+    {% for disciplina in disciplinas %}
+    {% set cor, cor_soft = course_color(disciplina.slug) %}
+    <article class="course-card" style="--course-color: {{ cor }}; --course-color-soft: {{ cor_soft }};">
+      <div class="course-code">{{ disciplina.apelido }}{% if not disciplina.ativa %} · inativa{% endif %}</div>
+      <h3><a href="{{ url_for('main.disciplina_detail', disciplina_slug=disciplina.slug) }}">{{ disciplina.nome }}</a></h3>
+      {% if disciplina.turma_vinculos %}
+      <p class="course-meta">{{ disciplina.turma_vinculos|map(attribute='turma')|map(attribute='apelido')|join(', ') }}</p>
+      {% else %}
+      <p class="course-meta">Nenhuma turma cadastrada.</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p>Nenhuma disciplina cadastrada.</p>
+  {% endif %}
+</div>
+{% endblock %}

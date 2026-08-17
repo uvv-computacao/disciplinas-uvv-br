@@ -1,25 +1,90 @@
-<!doctype html>
-<html lang="pt-br">
-<head>
-  <meta charset="utf-8">
-  <title>Disciplinas UVV</title>
-</head>
-<body>
-  <h1>Disciplinas UVV</h1>
-  <p>Mockup da página inicial — sem layout ainda.</p>
+{% extends "base.html" %}
 
-  <h2>Disciplinas</h2>
-  <ul>
-    {% for disciplina in disciplinas %}
-    <li>
-      {{ disciplina.nome }} ({{ disciplina.apelido }}) [{{ disciplina.slug }}]
-      <ul>
-        {% for turma in disciplina.turmas %}
-        <li>{{ turma.apelido }} ({{ turma.codigo }}) - {{ turma.ano }}/{{ turma.semestre }}</li>
-        {% endfor %}
-      </ul>
-    </li>
-    {% endfor %}
-  </ul>
-</body>
-</html>
+{% block title %}Disciplinas UVV{% endblock %}
+
+{% block content %}
+<section class="portal-hero">
+  <div class="container">
+    <h1>Disciplinas e materiais de ensino</h1>
+    <p>Aulas, atividades, avisos, horários e recursos das disciplinas em andamento.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Disciplinas em andamento</h2>
+      <a href="{{ url_for('main.disciplinas') }}">Ver todas</a>
+    </div>
+
+    {% if disciplinas %}
+    <div class="course-grid">
+      {% for disciplina in disciplinas %}
+      {% set cor, cor_soft = course_color(disciplina.slug) %}
+      {% set ofertas = disciplina.turma_vinculos %}
+      <article class="course-card" style="--course-color: {{ cor }}; --course-color-soft: {{ cor_soft }};">
+        <div class="course-code">{{ disciplina.apelido }}</div>
+        <h3><a href="{{ url_for('main.disciplina_detail', disciplina_slug=disciplina.slug) }}">{{ disciplina.nome }}</a></h3>
+        {% if ofertas %}
+        <p class="course-meta">{{ ofertas|map(attribute='turma')|map(attribute='apelido')|join(', ') }}</p>
+        {% else %}
+        <p class="course-meta">Nenhuma turma cadastrada.</p>
+        {% endif %}
+      </article>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p>Nenhuma disciplina ativa no momento.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Próximas datas</h2>
+    </div>
+    {% if proximos_prazos %}
+    <ul class="deadline-list">
+      {% for atividade in proximos_prazos %}
+      {% set oferta = atividade.disciplina_turma %}
+      <li class="deadline">
+        <div class="deadline-date">{{ data_curta(atividade.prazo) }}</div>
+        <div>
+          <div class="deadline-title">
+            <a href="{{ url_for('main.oferta_atividades', disciplina_slug=oferta.disciplina.slug, turma_slug=oferta.turma.slug) }}">{{ oferta.disciplina.apelido }} · {{ categoria_label(atividade.categoria) }} {{ numero_padded(atividade.numero) }}</a>
+          </div>
+          <p class="course-meta">{{ oferta.turma.apelido }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>Nenhum prazo em aberto no momento.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Avisos recentes</h2>
+    </div>
+    {% if avisos_recentes %}
+    <ul class="deadline-list">
+      {% for aviso in avisos_recentes %}
+      <li class="deadline">
+        <div class="deadline-date">{{ data_curta(aviso.data_publicacao) }}</div>
+        <div>
+          <div class="deadline-title">{{ aviso.disciplina.apelido }} — {{ aviso.titulo }}</div>
+          <p class="course-meta">{{ aviso.conteudo }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>Nenhum aviso recente.</p>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}

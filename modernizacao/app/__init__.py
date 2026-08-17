@@ -19,4 +19,20 @@ def create_app(config_class=Config):
     from app.cli import seed_command
     app.cli.add_command(seed_command)
 
+    from app.main.course_colors import course_color
+    app.jinja_env.globals["course_color"] = course_color
+
+    from app.main.display import (
+        categoria_label,
+        data_curta,
+        dia_semana_label,
+        numero_padded,
+        professor_responsavel,
+    )
+    app.jinja_env.globals["dia_semana_label"] = dia_semana_label
+    app.jinja_env.globals["data_curta"] = data_curta
+    app.jinja_env.globals["categoria_label"] = categoria_label
+    app.jinja_env.globals["numero_padded"] = numero_padded
+    app.jinja_env.globals["professor_responsavel"] = professor_responsavel
+
     return app

@@ -1,0 +1,46 @@
+{% extends "course_base.html" %}
+
+{% block title %}Cronograma — {{ disciplina.nome }}{% endblock %}
+
+{% block course_content %}
+<h1>Cronograma</h1>
+
+{% if semanas %}
+<div class="schedule-wrapper">
+  <table class="schedule">
+    <thead>
+      <tr>
+        <th>Semana</th>
+        <th>Aula</th>
+        <th>Data</th>
+        <th>Preparação</th>
+        <th>Atividades</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for semana in semanas %}
+        {% set semana_href = url_for('main.oferta_semana', disciplina_slug=disciplina.slug, turma_slug=turma.slug, numero=semana.numero) %}
+        {% for aula in semana.aulas %}
+        <tr>
+          <td class="week"><a href="{{ semana_href }}">{{ semana.numero }}</a></td>
+          <td>Aula {{ numero_padded(aula.numero) }} — {{ aula.titulo }}</td>
+          <td>{{ aula.data.strftime('%d/%m') if aula.data else '—' }}</td>
+          <td>{{ aula.preparacao or '—' }}</td>
+          <td>
+            {% for atividade in aula.atividades %}<a href="{{ url_for('main.oferta_atividades', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}">{{ categoria_label(atividade.categoria) }} {{ numero_padded(atividade.numero) }}</a>{% if not loop.last %}, {% endif %}{% else %}—{% endfor %}
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td class="week"><a href="{{ semana_href }}">{{ semana.numero }}</a></td>
+          <td colspan="4">{{ semana.titulo }} — nenhuma aula cadastrada ainda.</td>
+        </tr>
+        {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% else %}
+<p>Nenhuma semana cadastrada ainda.</p>
+{% endif %}
+{% endblock %}

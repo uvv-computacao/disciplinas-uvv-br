@@ -102,6 +102,15 @@ class DisciplinaTurma(db.Model):
     horarios = db.relationship(
         "Horario", back_populates="disciplina_turma", cascade="all, delete-orphan"
     )
+    semanas = db.relationship(
+        "Semana", back_populates="disciplina_turma", cascade="all, delete-orphan"
+    )
+    aulas = db.relationship(
+        "Aula", back_populates="disciplina_turma", cascade="all, delete-orphan"
+    )
+    atividades = db.relationship(
+        "Atividade", back_populates="disciplina_turma", cascade="all, delete-orphan"
+    )
 
     def __repr__(self):
         return f"<DisciplinaTurma disciplina_id={self.disciplina_id} turma_id={self.turma_id}>"
@@ -328,7 +337,14 @@ class Recurso(db.Model):
     professor. Pode ser vinculado a nenhuma, uma ou várias combinações de
     disciplina (todas as turmas) e/ou disciplina+turma específica — ver
     RecursoVinculo. Arquivos ficam no sistema de arquivos do servidor;
-    `caminho_arquivo` guarda apenas o caminho relativo."""
+    `caminho_arquivo` guarda apenas o caminho relativo.
+
+    `geral` e os vínculos são independentes um do outro, de propósito: um
+    recurso pode ser geral sem nenhum vínculo (ex.: calendário acadêmico da
+    universidade, que não pertence a nenhuma disciplina específica), e um
+    recurso pode ter vários vínculos sem ser geral (ex.: um tutorial de GDB
+    vinculado a várias disciplinas de C, mas que o professor não quer expor
+    no catálogo geral do site para quem não cursa nenhuma delas)."""
 
     __tablename__ = "recursos"
     __table_args__ = (
@@ -344,12 +360,14 @@ class Recurso(db.Model):
     professor_id = db.Column(
         db.Integer, db.ForeignKey("professores.id"), nullable=False
     )
+    slug = db.Column(db.String(80), unique=True, nullable=False)
     titulo = db.Column(db.String(200), nullable=False)
     descricao = db.Column(db.Text, nullable=True)
     tipo = db.Column(db.String(10), nullable=False)
     caminho_arquivo = db.Column(db.String(500), nullable=True)
     nome_arquivo = db.Column(db.String(255), nullable=True)
     url = db.Column(db.String(500), nullable=True)
+    geral = db.Column(db.Boolean, nullable=False, default=False, server_default="false")
 
     professor = db.relationship("Professor", back_populates="recursos")
     vinculos = db.relationship(
@@ -396,3 +414,168 @@ class RecursoVinculo(db.Model):
     def __repr__(self):
         alvo = self.turma.codigo if self.turma_id else "todas as turmas"
         return f"<RecursoVinculo recurso_id={self.recurso_id} disciplina_id={self.disciplina_id} ({alvo})>"
+
+
+class Semana(db.Model):
+    """Unidade pedagógica semanal de uma DisciplinaTurma (oferta).
+
+    `UniqueConstraint("id", "disciplina_turma_id")` existe só para servir de
+    alvo da ForeignKeyConstraint composta em Aula — não representa uma regra
+    de negócio própria, já que `id` sozinho já é único."""
+
+    __tablename__ = "semanas"
+    __table_args__ = (
+        db.UniqueConstraint("disciplina_turma_id", "numero"),
+        db.UniqueConstraint("id", "disciplina_turma_id"),
+    )
+
+    id = db.Column(db.Integer, primary_key=True)
+    disciplina_turma_id = db.Column(
+        db.Integer, db.ForeignKey("disciplina_turma.id"), nullable=False
+    )
+    numero = db.Column(db.Integer, nullable=False)
+    titulo = db.Column(db.String(200), nullable=False)
+    objetivos = db.Column(db.Text, nullable=True)
+    antes_das_aulas = db.Column(db.Text, nullable=True)
+    depois_da_semana = db.Column(db.Text, nullable=True)
+
+    disciplina_turma = db.relationship("DisciplinaTurma", back_populates="semanas")
+    aulas = db.relationship(
+        "Aula",
+        back_populates="semana",
+        cascade="all, delete-orphan",
+        foreign_keys="Aula.semana_id",
+        order_by="Aula.numero",
+    )
+
+    def __repr__(self):
+        return f"<Semana {self.numero} {self.titulo!r}>"
+
+
+class Aula(db.Model):
+    """Aula individual dentro de uma Semana.
+
+    `disciplina_turma_id` é redundante com o da Semana por design: a
+    ForeignKeyConstraint composta abaixo garante, a nível de banco, que a
+    aula não pode apontar para uma semana de uma oferta diferente da sua —
+    o mesmo truque usado em Aviso/RecursoVinculo, mas aqui sem exploração de
+    NULL: ambas as colunas são obrigatórias."""
+
+    __tablename__ = "aulas"
+    __table_args__ = (
+        db.ForeignKeyConstraint(
+            ["semana_id", "disciplina_turma_id"],
+            ["semanas.id", "semanas.disciplina_turma_id"],
+        ),
+        db.UniqueConstraint("disciplina_turma_id", "numero"),
+    )
+
+    id = db.Column(db.Integer, primary_key=True)
+    semana_id = db.Column(db.Integer, db.ForeignKey("semanas.id"), nullable=False)
+    disciplina_turma_id = db.Column(
+        db.Integer, db.ForeignKey("disciplina_turma.id"), nullable=False
+    )
+    numero = db.Column(db.Integer, nullable=False)
+    titulo = db.Column(db.String(200), nullable=False)
+    data = db.Column(db.Date, nullable=True)
+    objetivos = db.Column(db.Text, nullable=True)
+    conteudo = db.Column(db.Text, nullable=True)
+    preparacao = db.Column(db.Text, nullable=True)
+    material = db.Column(db.Text, nullable=True)
+    exercicios = db.Column(db.Text, nullable=True)
+
+    semana = db.relationship(
+        "Semana", back_populates="aulas", foreign_keys=[semana_id]
+    )
+    disciplina_turma = db.relationship("DisciplinaTurma", back_populates="aulas")
+    atividades = db.relationship("Atividade", back_populates="aula")
+
+    def __repr__(self):
+        return f"<Aula {self.numero} {self.titulo!r}>"
+
+
+class Atividade(db.Model):
+    """Atividade avaliativa ou de prática (exercício, lista, PSET, projeto,
+    trabalho ou laboratório) de uma DisciplinaTurma.
+
+    Pode estar ancorada a uma Aula específica (`aula_id`), mas isso é
+    opcional. `prazo` nulo significa atividade sem data de entrega
+    definida; quando presente, é o que determina se a atividade está
+    "aberta" ou "encerrada" — esse estado é calculado em tempo de exibição,
+    não armazenado."""
+
+    __tablename__ = "atividades"
+    __table_args__ = (
+        db.CheckConstraint(
+            "categoria IN ('exercicio', 'lista', 'pset', 'projeto', 'trabalho', 'lab')",
+            name="ck_atividade_categoria",
+        ),
+        db.CheckConstraint(
+            "prazo IS NULL OR prazo > data_publicacao",
+            name="ck_atividade_prazo_apos_publicacao",
+        ),
+        db.UniqueConstraint("disciplina_turma_id", "categoria", "numero"),
+    )
+
+    id = db.Column(db.Integer, primary_key=True)
+    disciplina_turma_id = db.Column(
+        db.Integer, db.ForeignKey("disciplina_turma.id"), nullable=False
+    )
+    aula_id = db.Column(db.Integer, db.ForeignKey("aulas.id"), nullable=True)
+    categoria = db.Column(db.String(20), nullable=False)
+    numero = db.Column(db.Integer, nullable=True)
+    titulo = db.Column(db.String(200), nullable=False)
+    data_publicacao = db.Column(
+        db.DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(timezone.utc),
+        server_default=db.func.now(),
+    )
+    prazo = db.Column(db.DateTime(timezone=True), nullable=True)
+    objetivos = db.Column(db.Text, nullable=True)
+    pre_requisitos = db.Column(db.Text, nullable=True)
+    especificacao = db.Column(db.Text, nullable=True)
+    arquivos_fornecidos = db.Column(db.Text, nullable=True)
+    como_executar = db.Column(db.Text, nullable=True)
+    como_testar = db.Column(db.Text, nullable=True)
+    o_que_entregar = db.Column(db.Text, nullable=True)
+    como_entregar = db.Column(db.Text, nullable=True)
+    criterios_avaliacao = db.Column(db.Text, nullable=True)
+    duvidas_frequentes = db.Column(db.Text, nullable=True)
+
+    disciplina_turma = db.relationship("DisciplinaTurma", back_populates="atividades")
+    aula = db.relationship("Aula", back_populates="atividades")
+    historico = db.relationship(
+        "AtividadeHistorico",
+        back_populates="atividade",
+        cascade="all, delete-orphan",
+        order_by="AtividadeHistorico.data",
+    )
+
+    def __repr__(self):
+        return f"<Atividade {self.categoria} {self.numero} {self.titulo!r}>"
+
+
+class AtividadeHistorico(db.Model):
+    """Registro de mudanças na especificação de uma Atividade após
+    publicada — evita alterar silenciosamente o enunciado depois que os
+    alunos já começaram a trabalhar nele."""
+
+    __tablename__ = "atividade_historico"
+
+    id = db.Column(db.Integer, primary_key=True)
+    atividade_id = db.Column(
+        db.Integer, db.ForeignKey("atividades.id"), nullable=False
+    )
+    data = db.Column(
+        db.DateTime(timezone=True),
+        nullable=False,
+        default=lambda: datetime.now(timezone.utc),
+        server_default=db.func.now(),
+    )
+    descricao = db.Column(db.String(500), nullable=False)
+
+    atividade = db.relationship("Atividade", back_populates="historico")
+
+    def __repr__(self):
+        return f"<AtividadeHistorico atividade_id={self.atividade_id} {self.descricao!r}>"

@@ -1,0 +1,62 @@
+{% extends "course_base.html" %}
+
+{% block title %}Semana {{ semana.numero }} — {{ disciplina.nome }}{% endblock %}
+
+{% block course_content %}
+<div class="week-header">
+  <div class="week-number">Semana {{ semana.numero }}</div>
+  <h1>{{ semana.titulo }}</h1>
+</div>
+
+{% if semana.objetivos %}
+<div class="prose">
+  <h3>Objetivos</h3>
+  <p>{{ semana.objetivos }}</p>
+</div>
+{% endif %}
+
+{% if semana.antes_das_aulas %}
+<div class="callout">
+  <div class="callout-title">Antes das aulas</div>
+  <p>{{ semana.antes_das_aulas }}</p>
+</div>
+{% endif %}
+
+<h3>Aulas</h3>
+{% if semana.aulas %}
+<div class="activity-list">
+  {% for aula in semana.aulas %}
+  <article class="activity-card">
+    <div>
+      <p class="activity-eyebrow">AULA {{ numero_padded(aula.numero) }}</p>
+      <h3>{{ aula.titulo }}</h3>
+      {% if aula.data %}<p class="activity-meta">{{ aula.data.strftime('%d/%m/%Y') }}</p>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+<p>Nenhuma aula cadastrada ainda.</p>
+{% endif %}
+
+{% if atividades %}
+<h3>Atividades</h3>
+<div class="activity-list">
+  {% for atividade in atividades %}
+  <article class="activity-card">
+    <div>
+      <p class="activity-eyebrow">{{ categoria_label(atividade.categoria)|upper }} {{ numero_padded(atividade.numero) }}</p>
+      <h3><a href="{{ url_for('main.oferta_atividades', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}">{{ atividade.titulo }}</a></h3>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if semana.depois_da_semana %}
+<div class="callout callout-success">
+  <div class="callout-title">Depois desta semana</div>
+  <p>{{ semana.depois_da_semana }}</p>
+</div>
+{% endif %}
+{% endblock %}

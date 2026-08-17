@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% from "_macros.html" import breadcrumbs %}
+
+{% block title %}{{ recurso.titulo }} — Disciplinas UVV{% endblock %}
+
+{% block content %}
+<div class="container section">
+  {{ breadcrumbs([("Recursos", url_for('main.recursos_globais')), (recurso.titulo, none)]) }}
+
+  <div class="article">
+    {% if recurso.geral %}<p class="activity-eyebrow">RECURSO GERAL</p>{% endif %}
+    <h1>{{ recurso.titulo }}</h1>
+    {% if recurso.descricao %}<p>{{ recurso.descricao }}</p>{% endif %}
+
+    <p>
+      {% if recurso.tipo == 'link' %}
+      <a class="button" href="{{ recurso.url }}" target="_blank" rel="noopener">Abrir link</a>
+      {% else %}
+      <span class="badge">{{ recurso.nome_arquivo }}</span>
+      {% endif %}
+    </p>
+  </div>
+
+  {% if recurso.vinculos %}
+  <h3>Usado em</h3>
+  <div class="activity-list">
+    {% for vinculo in recurso.vinculos %}
+    <article class="activity-card">
+      <div>
+        {% if vinculo.turma_id %}
+        <h3><a href="{{ url_for('main.oferta_recursos', disciplina_slug=vinculo.disciplina.slug, turma_slug=vinculo.turma.slug) }}">{{ vinculo.disciplina.nome }} — {{ vinculo.turma.apelido }}</a></h3>
+        {% else %}
+        <h3><a href="{{ url_for('main.disciplina_detail', disciplina_slug=vinculo.disciplina.slug) }}">{{ vinculo.disciplina.nome }}</a></h3>
+        <p class="activity-meta">Todas as turmas</p>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% elif not recurso.geral %}
+  <p>Este recurso ainda não está vinculado a nenhuma disciplina.</p>
+  {% endif %}
+</div>
+{% endblock %}

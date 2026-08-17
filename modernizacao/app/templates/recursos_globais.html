@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% from "_macros.html" import breadcrumbs %}
+
+{% block title %}Recursos — Disciplinas UVV{% endblock %}
+
+{% block content %}
+<div class="container section">
+  {{ breadcrumbs([("Recursos", none)]) }}
+
+  <div class="section-header">
+    <h2>Recursos</h2>
+  </div>
+  <p class="course-meta">Material de uso geral, independente de disciplina.</p>
+
+  {% if recursos %}
+  <div class="resource-grid">
+    {% for recurso in recursos %}
+    <article class="resource-card">
+      <h3><a href="{{ url_for('main.recurso_detail', slug=recurso.slug) }}">{{ recurso.titulo }}</a></h3>
+      {% if recurso.descricao %}<p>{{ recurso.descricao }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p>Nenhum recurso geral cadastrado ainda.</p>
+  {% endif %}
+</div>
+{% endblock %}

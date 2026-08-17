@@ -1,0 +1,1310 @@
+/* ============================================================
+   DISCIPLINAS UVV
+   Design system base
+   ============================================================ */
+
+
+/* ------------------------------------------------------------
+   1. Variáveis
+   ------------------------------------------------------------ */
+
+:root {
+    /* Cores globais */
+    --color-bg: #f7f8fa;
+    --color-surface: #ffffff;
+    --color-surface-soft: #f1f4f8;
+
+    --color-text: #172033;
+    --color-text-secondary: #667085;
+    --color-text-soft: #8992a3;
+
+    --color-border: #e1e5ea;
+    --color-border-strong: #cbd2da;
+
+    /* Identidade global */
+    --brand: #234b8f;
+    --brand-dark: #173664;
+    --brand-soft: #edf3fc;
+
+    /* Cor da disciplina (sobrescrita inline por página — ver
+       app/main/course_colors.py) */
+    --course-color: var(--brand);
+    --course-color-soft: #edf3fc;
+
+    /* Estados */
+    --success: #207a4a;
+    --success-bg: #edf8f2;
+
+    --warning: #9a5b00;
+    --warning-bg: #fff7e6;
+
+    --danger: #b42318;
+    --danger-bg: #fff0ee;
+
+    --info: #2457a6;
+    --info-bg: #edf4ff;
+
+    /* Layout */
+    --page-width: 1200px;
+    --article-width: 760px;
+
+    /* Tipografia */
+    --font-sans:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    --font-mono:
+        "SFMono-Regular",
+        Consolas,
+        "Liberation Mono",
+        Menlo,
+        monospace;
+
+    /* Raios */
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 14px;
+
+    /* Sombras */
+    --shadow-sm:
+        0 1px 2px rgb(16 24 40 / 5%);
+
+    --shadow-md:
+        0 4px 14px rgb(16 24 40 / 7%);
+
+    /* Espaçamento */
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.5rem;
+    --space-6: 2rem;
+    --space-7: 3rem;
+    --space-8: 4rem;
+}
+
+
+/* ------------------------------------------------------------
+   2. Reset básico
+   ------------------------------------------------------------ */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+
+    background: var(--color-bg);
+    color: var(--color-text);
+
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.6;
+
+    -webkit-font-smoothing: antialiased;
+}
+
+img,
+svg {
+    max-width: 100%;
+}
+
+a {
+    color: var(--brand);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+}
+
+a:hover {
+    color: var(--brand-dark);
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit;
+}
+
+
+/* ------------------------------------------------------------
+   3. Containers
+   ------------------------------------------------------------ */
+
+.container {
+    width: min(
+        calc(100% - 2rem),
+        var(--page-width)
+    );
+
+    margin-inline: auto;
+}
+
+.article {
+    width: min(
+        100%,
+        var(--article-width)
+    );
+}
+
+
+/* ------------------------------------------------------------
+   4. Cabeçalho global
+   ------------------------------------------------------------ */
+
+.site-header {
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+}
+
+.site-header-inner {
+    min-height: 68px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: var(--space-6);
+}
+
+.site-brand {
+    color: var(--color-text);
+
+    font-size: 1.05rem;
+    font-weight: 700;
+
+    text-decoration: none;
+}
+
+.site-brand:hover {
+    color: var(--brand);
+}
+
+.site-nav {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.site-nav a {
+    padding: 0.45rem 0.7rem;
+
+    color: var(--color-text-secondary);
+
+    border-radius: var(--radius-sm);
+
+    font-size: 0.94rem;
+    font-weight: 550;
+
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+    background: var(--color-surface-soft);
+    color: var(--color-text);
+}
+
+.site-nav a[aria-current="page"] {
+    background: var(--brand-soft);
+    color: var(--brand);
+}
+
+
+/* ------------------------------------------------------------
+   5. Hero do portal
+   ------------------------------------------------------------ */
+
+.portal-hero {
+    padding-block: var(--space-8) var(--space-7);
+}
+
+.portal-hero h1 {
+    max-width: 780px;
+
+    margin: 0;
+
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    line-height: 1.08;
+    letter-spacing: -0.035em;
+}
+
+.portal-hero p {
+    max-width: 700px;
+
+    margin:
+        var(--space-4)
+        0
+        0;
+
+    color: var(--color-text-secondary);
+
+    font-size: 1.15rem;
+}
+
+
+/* ------------------------------------------------------------
+   6. Seções
+   ------------------------------------------------------------ */
+
+.section {
+    padding-block: var(--space-6);
+}
+
+.section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+    gap: var(--space-4);
+
+    margin-bottom: var(--space-5);
+}
+
+.section-header h2 {
+    margin: 0;
+
+    font-size: 1.35rem;
+    letter-spacing: -0.015em;
+}
+
+.section-header a {
+    font-size: 0.9rem;
+}
+
+
+/* ------------------------------------------------------------
+   7. Grid de disciplinas
+   ------------------------------------------------------------ */
+
+.course-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(270px, 1fr));
+
+    gap: var(--space-4);
+}
+
+.course-card {
+    position: relative;
+
+    padding: var(--space-5);
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+
+    box-shadow: var(--shadow-sm);
+
+    overflow: hidden;
+}
+
+.course-card::before {
+    content: "";
+
+    position: absolute;
+
+    inset:
+        0
+        auto
+        0
+        0;
+
+    width: 5px;
+
+    background: var(--course-color);
+}
+
+.course-card {
+    cursor: pointer;
+}
+
+.course-card:hover {
+    border-color: var(--color-border-strong);
+    box-shadow: var(--shadow-md);
+}
+
+/* Área de clique estendida: o link do título fica visualmente restrito ao
+   texto, mas um ::after seu cobre o card inteiro ("stretched link"), sem
+   precisar envolver o card inteiro numa <a> (o que quebraria o link do
+   selo `.course-code` etc. se algum dia virar clicável separadamente). */
+.course-card h3 a::after {
+    content: "";
+
+    position: absolute;
+    inset: 0;
+}
+
+.course-card h3 a:focus-visible {
+    outline: none;
+}
+
+.course-card h3 a:focus-visible::after {
+    outline: 2px solid var(--course-color);
+    outline-offset: -2px;
+
+    border-radius: var(--radius-lg);
+}
+
+.course-code {
+    color: var(--course-color);
+
+    font-size: 0.78rem;
+    font-weight: 700;
+
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+}
+
+.course-card h3 {
+    margin:
+        var(--space-2)
+        0
+        var(--space-4);
+
+    font-size: 1.2rem;
+    line-height: 1.3;
+}
+
+.course-card h3 a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.course-meta {
+    margin: 0;
+
+    color: var(--color-text-secondary);
+
+    font-size: 0.9rem;
+}
+
+
+/* ------------------------------------------------------------
+   8. Cards e painéis genéricos
+   ------------------------------------------------------------ */
+
+.card,
+.panel {
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+
+    box-shadow: var(--shadow-sm);
+}
+
+.card {
+    padding: var(--space-5);
+}
+
+.panel-header {
+    padding:
+        var(--space-4)
+        var(--space-5);
+
+    border-bottom: 1px solid var(--color-border);
+}
+
+.panel-header h2,
+.panel-header h3 {
+    margin: 0;
+}
+
+.panel-body {
+    padding: var(--space-5);
+}
+
+
+/* ------------------------------------------------------------
+   9. Breadcrumbs
+   ------------------------------------------------------------ */
+
+.breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: var(--space-2);
+
+    margin:
+        var(--space-5)
+        0;
+
+    color: var(--color-text-secondary);
+
+    font-size: 0.86rem;
+}
+
+.breadcrumbs a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+    color: var(--brand);
+}
+
+.breadcrumbs span + span::before,
+.breadcrumbs a + span::before,
+.breadcrumbs a + a::before {
+    content: "›";
+
+    margin-right: var(--space-2);
+
+    color: var(--color-text-soft);
+}
+
+
+/* ------------------------------------------------------------
+   10. Cabeçalho da disciplina
+   ------------------------------------------------------------ */
+
+.course-header {
+    padding:
+        var(--space-7)
+        0
+        var(--space-6);
+
+    border-top: 5px solid var(--course-color);
+}
+
+.course-header-label {
+    margin-bottom: var(--space-2);
+
+    color: var(--course-color);
+
+    font-size: 0.8rem;
+    font-weight: 750;
+
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.course-header h1 {
+    max-width: 850px;
+
+    margin: 0;
+
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.1;
+
+    letter-spacing: -0.035em;
+}
+
+.course-header-meta {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap:
+        var(--space-2)
+        var(--space-5);
+
+    margin-top: var(--space-4);
+
+    color: var(--color-text-secondary);
+
+    font-size: 0.93rem;
+}
+
+/* Variante compacta: usada nas páginas internas da oferta (cronograma,
+   atividades, avisos, recursos), onde o cabeçalho grande da homepage da
+   disciplina ocuparia espaço vertical demais antes do conteúdo. */
+.course-header-compact {
+    padding: var(--space-4) 0;
+}
+
+.course-header-compact-row {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+
+    gap: var(--space-2) var(--space-3);
+}
+
+.course-header-compact-row h1 {
+    margin: 0;
+
+    font-size: 1.25rem;
+    letter-spacing: -0.02em;
+}
+
+.course-header-compact-meta {
+    color: var(--color-text-secondary);
+
+    font-size: 0.85rem;
+}
+
+
+/* ------------------------------------------------------------
+   11. Navegação da disciplina
+   ------------------------------------------------------------ */
+
+.course-nav {
+    background: var(--color-surface);
+
+    border-top: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-border);
+}
+
+.course-nav-inner {
+    display: flex;
+
+    gap: var(--space-1);
+
+    overflow-x: auto;
+}
+
+.course-nav a {
+    flex: 0 0 auto;
+
+    padding:
+        0.85rem
+        0.7rem;
+
+    color: var(--color-text-secondary);
+
+    border-bottom: 3px solid transparent;
+
+    font-size: 0.9rem;
+    font-weight: 550;
+
+    text-decoration: none;
+}
+
+.course-nav a:hover {
+    color: var(--course-color);
+}
+
+.course-nav a[aria-current="page"] {
+    color: var(--course-color);
+    border-bottom-color: var(--course-color);
+}
+
+
+/* ------------------------------------------------------------
+   12. Dashboard da disciplina
+   ------------------------------------------------------------ */
+
+.dashboard-grid {
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 2fr)
+        minmax(260px, 1fr);
+
+    gap: var(--space-5);
+}
+
+
+/* ------------------------------------------------------------
+   13. Bloco "Agora"
+   ------------------------------------------------------------ */
+
+.now-card {
+    padding: var(--space-6);
+
+    background: var(--color-surface);
+
+    border:
+        1px solid
+        var(--color-border);
+
+    border-left:
+        5px solid
+        var(--course-color);
+
+    border-radius: var(--radius-lg);
+}
+
+.now-label {
+    color: var(--course-color);
+
+    font-size: 0.8rem;
+    font-weight: 800;
+
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+}
+
+.now-card h2 {
+    margin:
+        var(--space-2)
+        0
+        var(--space-2);
+
+    font-size: 1.6rem;
+}
+
+.now-card p {
+    margin-bottom: 0;
+}
+
+
+/* ------------------------------------------------------------
+   14. Lista de prazos
+   ------------------------------------------------------------ */
+
+.deadline-list {
+    display: grid;
+    gap: var(--space-3);
+
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.deadline {
+    display: grid;
+
+    grid-template-columns:
+        72px
+        1fr;
+
+    gap: var(--space-3);
+
+    padding-bottom: var(--space-3);
+
+    border-bottom: 1px solid var(--color-border);
+}
+
+.deadline:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.deadline-date {
+    color: var(--color-text-secondary);
+
+    font-size: 0.8rem;
+    font-weight: 650;
+
+    text-transform: uppercase;
+}
+
+.deadline-title {
+    font-size: 0.92rem;
+    font-weight: 650;
+}
+
+
+/* ------------------------------------------------------------
+   15. Badges
+   ------------------------------------------------------------ */
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+
+    min-height: 1.6rem;
+
+    padding:
+        0.12rem
+        0.5rem;
+
+    border-radius: 999px;
+
+    background: var(--color-surface-soft);
+    color: var(--color-text-secondary);
+
+    font-size: 0.76rem;
+    font-weight: 650;
+}
+
+.badge-open {
+    background: var(--success-bg);
+    color: var(--success);
+}
+
+.badge-warning {
+    background: var(--warning-bg);
+    color: var(--warning);
+}
+
+.badge-closed {
+    background: var(--color-surface-soft);
+    color: var(--color-text-secondary);
+}
+
+.badge-critical {
+    background: var(--danger-bg);
+    color: var(--danger);
+}
+
+
+/* ------------------------------------------------------------
+   16. Cronograma
+   ------------------------------------------------------------ */
+
+.schedule-wrapper {
+    width: 100%;
+
+    overflow-x: auto;
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+}
+
+.schedule {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    font-size: 0.9rem;
+}
+
+.schedule th {
+    padding:
+        var(--space-3)
+        var(--space-4);
+
+    background: var(--color-surface-soft);
+    color: var(--color-text-secondary);
+
+    border-bottom:
+        1px solid
+        var(--color-border);
+
+    font-size: 0.75rem;
+    font-weight: 750;
+
+    letter-spacing: 0.04em;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.schedule td {
+    padding:
+        var(--space-4)
+        var(--space-4);
+
+    border-bottom:
+        1px solid
+        var(--color-border);
+
+    vertical-align: top;
+}
+
+.schedule tbody tr:last-child td {
+    border-bottom: 0;
+}
+
+.schedule tbody tr:hover {
+    background: #fafbfd;
+}
+
+.schedule .today {
+    background: var(--course-color-soft);
+}
+
+.schedule .week {
+    color: var(--color-text-secondary);
+
+    font-size: 0.78rem;
+    font-weight: 700;
+}
+
+
+/* ------------------------------------------------------------
+   17. Página da semana
+   ------------------------------------------------------------ */
+
+.week-header {
+    margin-bottom: var(--space-6);
+
+    padding:
+        var(--space-6);
+
+    background: var(--course-color-soft);
+
+    border-radius: var(--radius-lg);
+}
+
+.week-number {
+    color: var(--course-color);
+
+    font-size: 0.8rem;
+    font-weight: 800;
+
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.week-header h1 {
+    margin:
+        var(--space-2)
+        0
+        var(--space-3);
+
+    font-size: clamp(1.8rem, 5vw, 2.6rem);
+
+    line-height: 1.15;
+}
+
+
+/* ------------------------------------------------------------
+   18. Atividades
+   ------------------------------------------------------------ */
+
+.activity-list {
+    display: grid;
+    gap: var(--space-3);
+}
+
+.activity-card {
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr)
+        auto;
+    align-items: start;
+
+    gap: var(--space-4);
+
+    padding: var(--space-4);
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+}
+
+.activity-card:hover {
+    border-color: var(--color-border-strong);
+}
+
+.activity-eyebrow {
+    margin: 0;
+
+    color: var(--course-color);
+
+    font-size: 0.75rem;
+    font-weight: 750;
+
+    letter-spacing: 0.07em;
+}
+
+.activity-card h3 {
+    margin:
+        0
+        0
+        var(--space-1);
+
+    font-size: 1rem;
+}
+
+.activity-meta {
+    color: var(--color-text-secondary);
+    font-size: 0.84rem;
+}
+
+
+/* ------------------------------------------------------------
+   19. Recursos
+   ------------------------------------------------------------ */
+
+.resource-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(220px, 1fr));
+
+    gap: var(--space-4);
+}
+
+.resource-card {
+    padding: var(--space-4);
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+}
+
+.resource-card h3 {
+    margin:
+        0
+        0
+        var(--space-2);
+
+    font-size: 1rem;
+}
+
+.resource-card p {
+    margin: 0;
+
+    color: var(--color-text-secondary);
+
+    font-size: 0.88rem;
+}
+
+
+/* ------------------------------------------------------------
+   20. Callouts
+   ------------------------------------------------------------ */
+
+.callout {
+    margin-block: var(--space-5);
+
+    padding:
+        var(--space-4)
+        var(--space-5);
+
+    border-left: 4px solid var(--info);
+
+    background: var(--info-bg);
+
+    border-radius:
+        0
+        var(--radius-md)
+        var(--radius-md)
+        0;
+}
+
+.callout-title {
+    margin-bottom: var(--space-1);
+
+    font-weight: 750;
+}
+
+.callout-warning {
+    border-left-color: var(--warning);
+    background: var(--warning-bg);
+}
+
+.callout-danger {
+    border-left-color: var(--danger);
+    background: var(--danger-bg);
+}
+
+.callout-success {
+    border-left-color: var(--success);
+    background: var(--success-bg);
+}
+
+
+/* ------------------------------------------------------------
+   21. Conteúdo textual / notas de aula
+   ------------------------------------------------------------ */
+
+.prose {
+    max-width: var(--article-width);
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+    color: var(--color-text);
+
+    line-height: 1.25;
+
+    letter-spacing: -0.015em;
+}
+
+.prose h2 {
+    margin-top: var(--space-7);
+}
+
+.prose h3 {
+    margin-top: var(--space-6);
+}
+
+.prose p {
+    margin:
+        0
+        0
+        1.2rem;
+}
+
+.prose ul,
+.prose ol {
+    padding-left: 1.4rem;
+}
+
+.prose li + li {
+    margin-top: 0.3rem;
+}
+
+.prose blockquote {
+    margin:
+        var(--space-5)
+        0;
+
+    padding:
+        var(--space-3)
+        var(--space-5);
+
+    border-left:
+        4px solid
+        var(--course-color);
+
+    color: var(--color-text-secondary);
+}
+
+.prose code {
+    padding:
+        0.12em
+        0.32em;
+
+    background: var(--color-surface-soft);
+
+    border-radius: 4px;
+
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+}
+
+.prose pre {
+    overflow-x: auto;
+
+    padding: var(--space-4);
+
+    background: #172033;
+    color: #eef2f7;
+
+    border-radius: var(--radius-md);
+}
+
+.prose pre code {
+    padding: 0;
+
+    background: transparent;
+    color: inherit;
+}
+
+
+/* ------------------------------------------------------------
+   22. Botões
+   ------------------------------------------------------------ */
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: var(--space-2);
+
+    padding:
+        0.6rem
+        0.9rem;
+
+    border: 1px solid transparent;
+    border-radius: var(--radius-sm);
+
+    background: var(--brand);
+    color: #ffffff;
+
+    font-size: 0.9rem;
+    font-weight: 650;
+
+    text-decoration: none;
+}
+
+.button:hover {
+    background: var(--brand-dark);
+    color: #ffffff;
+}
+
+.button-secondary {
+    background: var(--color-surface);
+    color: var(--color-text);
+
+    border-color: var(--color-border-strong);
+}
+
+.button-secondary:hover {
+    background: var(--color-surface-soft);
+    color: var(--color-text);
+}
+
+
+/* ------------------------------------------------------------
+   23. Navegação anterior / próxima
+   ------------------------------------------------------------ */
+
+.page-navigation {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+    gap: var(--space-4);
+
+    margin-top: var(--space-8);
+
+    padding-top: var(--space-5);
+
+    border-top: 1px solid var(--color-border);
+}
+
+.page-navigation a {
+    padding: var(--space-4);
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+
+    text-decoration: none;
+}
+
+.page-navigation a:last-child {
+    text-align: right;
+}
+
+.page-navigation small {
+    display: block;
+
+    margin-bottom: var(--space-1);
+
+    color: var(--color-text-secondary);
+}
+
+
+/* ------------------------------------------------------------
+   24. Rodapé
+   ------------------------------------------------------------ */
+
+.site-footer {
+    margin-top: var(--space-8);
+
+    padding:
+        var(--space-6)
+        0;
+
+    border-top: 1px solid var(--color-border);
+
+    color: var(--color-text-secondary);
+
+    font-size: 0.86rem;
+}
+
+
+/* ------------------------------------------------------------
+   25. Cor de destaque por disciplina
+   ------------------------------------------------------------
+
+   Diferente da proposta original (uma classe .course-<slug> fixa por
+   disciplina), --course-color/--course-color-soft são definidas inline,
+   por página, a partir de uma paleta rotativa (ver
+   app/main/course_colors.py) — assim uma disciplina nova não exige editar
+   este arquivo. */
+
+
+/* ------------------------------------------------------------
+   26. Responsividade
+   ------------------------------------------------------------ */
+
+@media (max-width: 850px) {
+
+    .site-header-inner {
+        align-items: flex-start;
+        flex-direction: column;
+
+        padding-block: var(--space-3);
+    }
+
+    .site-nav {
+        width: 100%;
+
+        overflow-x: auto;
+    }
+
+    .dashboard-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .portal-hero {
+        padding-top: var(--space-7);
+    }
+}
+
+
+@media (max-width: 600px) {
+
+    :root {
+        --space-8: 3rem;
+    }
+
+    .container {
+        width: min(
+            calc(100% - 1.25rem),
+            var(--page-width)
+        );
+    }
+
+    .course-card,
+    .card,
+    .now-card {
+        padding: var(--space-4);
+    }
+
+    .activity-card {
+        grid-template-columns: 1fr;
+    }
+
+    .page-navigation {
+        grid-template-columns: 1fr;
+    }
+
+    .page-navigation a:last-child {
+        text-align: left;
+    }
+}
+
+
+/* ------------------------------------------------------------
+   27. Impressão
+   ------------------------------------------------------------ */
+
+@media print {
+
+    body {
+        background: #ffffff;
+        color: #000000;
+
+        font-size: 11pt;
+    }
+
+    .site-header,
+    .course-nav,
+    .site-footer,
+    .button,
+    .page-navigation {
+        display: none;
+    }
+
+    .container,
+    .article,
+    .prose {
+        width: 100%;
+        max-width: none;
+    }
+
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .card,
+    .panel,
+    .schedule-wrapper {
+        box-shadow: none;
+    }
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Disciplinas UVV{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body{% block body_attrs %}{% endblock %}>
+  <header class="site-header">
+    <div class="container site-header-inner">
+      <a href="{{ url_for('main.index') }}" class="site-brand">Disciplinas UVV</a>
+      <nav class="site-nav">
+        <a href="{{ url_for('main.index') }}"{% if nav_active == 'inicio' %} aria-current="page"{% endif %}>Início</a>
+        <a href="{{ url_for('main.disciplinas') }}"{% if nav_active == 'disciplinas' %} aria-current="page"{% endif %}>Disciplinas</a>
+        <a href="{{ url_for('main.calendario') }}"{% if nav_active == 'calendario' %} aria-current="page"{% endif %}>Calendário</a>
+        <a href="{{ url_for('main.recursos_globais') }}"{% if nav_active == 'recursos' %} aria-current="page"{% endif %}>Recursos</a>
+        <a href="{{ url_for('main.arquivo') }}"{% if nav_active == 'arquivo' %} aria-current="page"{% endif %}>Arquivo</a>
+        <a href="{{ url_for('main.sobre') }}"{% if nav_active == 'sobre' %} aria-current="page"{% endif %}>Sobre</a>
+      </nav>
+    </div>
+  </header>
+
+  {% block course_header %}{% endblock %}
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      Disciplinas UVV — Universidade Vila Velha (UVV)
+    </div>
+  </footer>
+</body>
+</html>

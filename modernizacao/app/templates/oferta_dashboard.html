@@ -1,0 +1,66 @@
+{% extends "course_base.html" %}
+
+{% block title %}{{ disciplina.nome }} — {{ turma.apelido }}{% endblock %}
+
+{% block course_content %}
+<div class="dashboard-grid">
+  <div>
+    {% if semana_atual %}
+    <section class="now-card">
+      <div class="now-label">Agora</div>
+      <h2>Semana {{ semana_atual.numero }} — {{ semana_atual.titulo }}</h2>
+      {% if semana_atual.objetivos %}<p>{{ semana_atual.objetivos }}</p>{% endif %}
+      <p>
+        <a class="button" href="{{ url_for('main.oferta_semana', disciplina_slug=disciplina.slug, turma_slug=turma.slug, numero=semana_atual.numero) }}">Ver a Semana {{ semana_atual.numero }}</a>
+        <a class="button button-secondary" href="{{ url_for('main.oferta_cronograma', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}">Cronograma completo</a>
+      </p>
+    </section>
+    {% else %}
+    <section class="now-card">
+      <div class="now-label">Agora</div>
+      <h2>Nenhuma semana cadastrada ainda</h2>
+    </section>
+    {% endif %}
+
+    {% if avisos %}
+    <section class="card" style="margin-top: var(--space-4);">
+      <h3>Avisos recentes</h3>
+      <ul class="deadline-list">
+        {% for aviso in avisos %}
+        <li class="deadline">
+          <div class="deadline-date">{{ data_curta(aviso.data_publicacao) }}</div>
+          <div>
+            <div class="deadline-title">{{ aviso.titulo }}</div>
+            <p class="course-meta">{{ aviso.conteudo }}</p>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+      <p><a href="{{ url_for('main.oferta_avisos', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}">Ver todos os avisos</a></p>
+    </section>
+    {% endif %}
+  </div>
+
+  <aside class="panel">
+    <header class="panel-header"><h3>Próximos prazos</h3></header>
+    <div class="panel-body">
+      {% if proximos_prazos %}
+      <ul class="deadline-list">
+        {% for atividade in proximos_prazos %}
+        <li class="deadline">
+          <div class="deadline-date">{{ data_curta(atividade.prazo) }}</div>
+          <div>
+            <div class="deadline-title">{{ categoria_label(atividade.categoria) }} {{ numero_padded(atividade.numero) }}</div>
+            <span class="badge badge-open">aberto</span>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p class="course-meta">Nenhum prazo em aberto.</p>
+      {% endif %}
+      <p><a href="{{ url_for('main.oferta_atividades', disciplina_slug=disciplina.slug, turma_slug=turma.slug) }}">Ver todas as atividades</a></p>
+    </div>
+  </aside>
+</div>
+{% endblock %}

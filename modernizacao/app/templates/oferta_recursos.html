@@ -1,0 +1,41 @@
+{% extends "course_base.html" %}
+
+{% block title %}Recursos — {{ disciplina.nome }}{% endblock %}
+
+{% block course_content %}
+<h1>Recursos</h1>
+
+<h3>Recursos desta disciplina</h3>
+{% if vinculos_especificos %}
+<div class="resource-grid">
+  {% for vinculo in vinculos_especificos %}
+  {% set recurso = vinculo.recurso %}
+  <article class="resource-card">
+    <h3>
+      {% if recurso.tipo == 'link' %}
+      <a href="{{ recurso.url }}" target="_blank" rel="noopener">{{ recurso.titulo }}</a>
+      {% else %}
+      {{ recurso.titulo }} <span class="badge">{{ recurso.nome_arquivo }}</span>
+      {% endif %}
+    </h3>
+    {% if recurso.descricao %}<p>{{ recurso.descricao }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+<p>Nenhum recurso específico desta disciplina ainda.</p>
+{% endif %}
+
+{% if vinculos_gerais %}
+<h3 style="margin-top: var(--space-7);">Recursos gerais</h3>
+<div class="resource-grid">
+  {% for vinculo in vinculos_gerais %}
+  {% set recurso = vinculo.recurso %}
+  <article class="resource-card">
+    <h3><a href="{{ url_for('main.recurso_detail', slug=recurso.slug) }}">{{ recurso.titulo }}</a></h3>
+    {% if recurso.descricao %}<p>{{ recurso.descricao }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</div>
+{% endif %}
+{% endblock %}

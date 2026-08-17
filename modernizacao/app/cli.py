@@ -5,6 +5,9 @@ from flask.cli import with_appcontext
 
 from app.extensions import db
 from app.models import (
+    Atividade,
+    AtividadeHistorico,
+    Aula,
     Aviso,
     Disciplina,
     DisciplinaTurma,
@@ -17,6 +20,7 @@ from app.models import (
     Recurso,
     RecursoVinculo,
     Regencia,
+    Semana,
     Turma,
 )
 
@@ -253,44 +257,78 @@ def seed_command():
 
     recursos_exemplo = [
         dict(
+            slug="slides-aula1-ed2-cc6m",
             titulo="Slides da Aula 1 - CC6M",
             descricao="Slides usados na aula introdutória, específicos da turma CC6M.",
             tipo="arquivo",
             caminho_arquivo="recursos/ed2/slides-aula1-cc6m.pdf",
             nome_arquivo="slides-aula1-cc6m.pdf",
             professor_slug="abrantes",
+            geral=False,
             vinculos=[("ed2", "20251-cc6m")],
         ),
         dict(
+            slug="livro-texto-bd1",
             titulo="Livro-texto (referência) - BD1",
             descricao="Livro-texto adotado, vale para todas as turmas de BD1.",
             tipo="link",
             url="https://example.org/livro-bd1",
             professor_slug="julio",
+            geral=False,
             vinculos=[("bd1", None)],
         ),
+        # Geral E vinculado: aparece tanto no catálogo /recursos/ quanto nas
+        # páginas das disciplinas onde foi destacado.
         dict(
+            slug="tutorial-git",
             titulo="Tutorial de Git",
             descricao="Tutorial geral, usado em várias disciplinas e turmas.",
             tipo="link",
             url="https://example.org/tutorial-git",
             professor_slug="abrantes",
+            geral=True,
             vinculos=[("ed2", None), ("arqcomp1", None), ("bd2", "20251-cc6m")],
+        ),
+        # Geral SEM nenhum vínculo: não pertence a nenhuma disciplina
+        # específica, só aparece no catálogo geral do site.
+        dict(
+            slug="calendario-academico-uvv",
+            titulo="Calendário Acadêmico UVV",
+            descricao="Calendário oficial da universidade, com feriados e datas de matrícula.",
+            tipo="link",
+            url="https://example.org/calendario-academico",
+            professor_slug="abrantes",
+            geral=True,
+            vinculos=[],
+        ),
+        # Vinculado a várias disciplinas mas explicitamente NÃO geral: só
+        # quem cursa essas disciplinas específicas precisa dele.
+        dict(
+            slug="tutorial-gdb-valgrind",
+            titulo="Tutorial de GDB e Valgrind",
+            descricao="Como depurar e detectar vazamentos de memória em programas C.",
+            tipo="link",
+            url="https://example.org/tutorial-gdb-valgrind",
+            professor_slug="abrantes",
+            geral=False,
+            vinculos=[("ed2", None), ("arqcomp1", None)],
         ),
     ]
 
     for dados in recursos_exemplo:
         professor = professores_por_slug[dados["professor_slug"]]
-        recurso = Recurso.query.filter_by(titulo=dados["titulo"]).first()
+        recurso = Recurso.query.filter_by(slug=dados["slug"]).first()
         if recurso is None:
             recurso = Recurso(
                 professor_id=professor.id,
+                slug=dados["slug"],
                 titulo=dados["titulo"],
                 descricao=dados["descricao"],
                 tipo=dados["tipo"],
                 caminho_arquivo=dados.get("caminho_arquivo"),
                 nome_arquivo=dados.get("nome_arquivo"),
                 url=dados.get("url"),
+                geral=dados["geral"],
             )
             db.session.add(recurso)
             db.session.flush()
@@ -305,6 +343,105 @@ def seed_command():
                         turma_id=turma.id if turma else None,
                     )
                 )
+
+    arqcomp1_cc6m = oferta("arqcomp1", "20251-cc6m")
+
+    semana1 = Semana.query.filter_by(
+        disciplina_turma_id=arqcomp1_cc6m.id, numero=3
+    ).first()
+    if semana1 is None:
+        semana1 = Semana(
+            disciplina_turma_id=arqcomp1_cc6m.id,
+            numero=3,
+            titulo="Álgebra Booleana",
+            objetivos="Ao final desta semana o estudante deverá ser capaz de simplificar "
+            "expressões booleanas e projetar circuitos combinacionais simples.",
+            antes_das_aulas="- Leitura 3.1\n- Vídeo 3.1\n- Exercício preparatório",
+            depois_da_semana="Você deverá estar preparado para: portas → expressões → "
+            "simplificação → circuitos combinacionais.",
+        )
+        db.session.add(semana1)
+        db.session.flush()
+
+    aula5 = Aula.query.filter_by(
+        disciplina_turma_id=arqcomp1_cc6m.id, numero=5
+    ).first()
+    if aula5 is None:
+        aula5 = Aula(
+            semana_id=semana1.id,
+            disciplina_turma_id=arqcomp1_cc6m.id,
+            numero=5,
+            titulo="Álgebra Booleana",
+            objetivos="Operadores lógicos, propriedades e tabelas-verdade.",
+            conteudo="Introdução às operações AND, OR, NOT e suas propriedades algébricas.",
+            material="- Notas\n- Slides\n- Exemplos\n- Código",
+        )
+        db.session.add(aula5)
+
+    aula6 = Aula.query.filter_by(
+        disciplina_turma_id=arqcomp1_cc6m.id, numero=6
+    ).first()
+    if aula6 is None:
+        aula6 = Aula(
+            semana_id=semana1.id,
+            disciplina_turma_id=arqcomp1_cc6m.id,
+            numero=6,
+            titulo="Simplificação de Expressões",
+            objetivos="Aplicar as propriedades booleanas para simplificar expressões.",
+            conteudo="Mapas de Karnaugh e simplificação algébrica.",
+            material="- Notas\n- Slides\n- Exercícios",
+        )
+        db.session.add(aula6)
+
+    db.session.flush()
+
+    pset02 = Atividade.query.filter_by(
+        disciplina_turma_id=arqcomp1_cc6m.id, categoria="pset", numero=2
+    ).first()
+    if pset02 is None:
+        pset02 = Atividade(
+            disciplina_turma_id=arqcomp1_cc6m.id,
+            aula_id=aula6.id,
+            categoria="pset",
+            numero=2,
+            titulo="Representação da Informação",
+            data_publicacao=agora,
+            prazo=agora + timedelta(days=10),
+            objetivos="Praticar simplificação de expressões booleanas e projeto de "
+            "circuitos combinacionais.",
+            pre_requisitos="- Aula 05\n- Aula 06\n- seção 2.1 do livro",
+            especificacao="Simplifique as expressões booleanas fornecidas e projete o "
+            "circuito combinacional correspondente para cada uma.",
+            o_que_entregar="Relatório em PDF com as simplificações e os diagramas de circuito.",
+            como_entregar="Envio pelo formulário da disciplina.",
+            criterios_avaliacao="Correção das simplificações (60%) e clareza dos "
+            "diagramas (40%).",
+        )
+        db.session.add(pset02)
+        db.session.flush()
+        db.session.add(
+            AtividadeHistorico(atividade_id=pset02.id, descricao="Publicado")
+        )
+
+    laboratorio04 = Atividade.query.filter_by(
+        disciplina_turma_id=arqcomp1_cc6m.id, categoria="lab", numero=4
+    ).first()
+    if laboratorio04 is None:
+        laboratorio04 = Atividade(
+            disciplina_turma_id=arqcomp1_cc6m.id,
+            aula_id=aula6.id,
+            categoria="lab",
+            numero=4,
+            titulo="Circuitos Combinacionais",
+            data_publicacao=agora,
+            prazo=agora + timedelta(days=14),
+            objetivos="Montar e testar um circuito combinacional simples em protoboard.",
+            especificacao="Antes do laboratório: leitura da seção de portas lógicas TTL.\n"
+            "Materiais: 74HC00, 74HC04, protoboard, fonte, multímetro.",
+            como_executar="Siga o roteiro de montagem entregue em aula.",
+            o_que_entregar="Relatório com os resultados esperados e obtidos.",
+        )
+        db.session.add(laboratorio04)
 
     db.session.commit()
     click.echo("Banco populado com dados de exemplo.")
