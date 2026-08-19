@@ -179,7 +179,7 @@
     </tr>
     <tr>
       <th>Sex<br />21/08</th> <!-- Dia e Data -->
-      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
       <td><a href="../estudo/#re04sem">4ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
