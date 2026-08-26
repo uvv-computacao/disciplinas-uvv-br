@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 30
 has_toc: true
 has_children: false
-last_modified_date: 2024-08-15 18:59 -0300
+last_modified_date: 2026-08-26 12:26 -0300
 ---
 
 # Recursos diversos
@@ -134,7 +134,9 @@ Esta disciplina utilizará os seguintes livros:
   Iniciante](/assets/arduino/arduino_guia_iniciante_multilogica_Shop.pdf)
 * [Hack.ATOMIC: Arduino](/assets/arduino/hack_atomic_arduino.pdf)
 
-## Dicas para a construção do mini robô sumô
+## Dicas para a competição e construção do mini robô sumô
+* [Regras do Sumô _Tech Fight_, InovaWeek
+  2026](/assets/robo_sumo/regras_2026.pdf)
 * [Parte 1: visão geral da eletrônica do robô
   sumô](/assets/robo_sumo/dica_01_visao_geral_da_eletronica.pdf)
 * [Parte 2: lista de compra de

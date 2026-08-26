@@ -5349,7 +5349,7 @@
   },"764": {
     "doc": "Recursos",
     "title": "Sumário",
-    "content": ". | Livros de estudo e de referência | Apostilas sobre Arduino | Dicas para a construção do mini robô sumô | Caderno de engenharia | Componentes eletrônicos | Material sobre RISC-V | Notas | Papel almaço | Calendário acadêmico | . ",
+    "content": ". | Livros de estudo e de referência | Apostilas sobre Arduino | Dicas para a competição e construção do mini robô sumô | Caderno de engenharia | Componentes eletrônicos | Material sobre RISC-V | Notas | Papel almaço | Calendário acadêmico | . ",
     "url": "/disciplinas/arqcomp1/recursos/#sumrio",
     
     "relUrl": "/disciplinas/arqcomp1/recursos/#sumrio"
@@ -5369,11 +5369,11 @@
     "relUrl": "/disciplinas/arqcomp1/recursos/#apostilas-sobre-arduino"
   },"767": {
     "doc": "Recursos",
-    "title": "Dicas para a construção do mini robô sumô",
-    "content": ". | Parte 1: visão geral da eletrônica do robô sumô | Parte 2: lista de compra de componentes | . ",
-    "url": "/disciplinas/arqcomp1/recursos/#dicas-para-a-construo-do-mini-rob-sum",
+    "title": "Dicas para a competição e construção do mini robô sumô",
+    "content": ". | Regras do Sumô Tech Fight, InovaWeek 2026 | Parte 1: visão geral da eletrônica do robô sumô | Parte 2: lista de compra de componentes | . ",
+    "url": "/disciplinas/arqcomp1/recursos/#dicas-para-a-competio-e-construo-do-mini-rob-sum",
     
-    "relUrl": "/disciplinas/arqcomp1/recursos/#dicas-para-a-construo-do-mini-rob-sum"
+    "relUrl": "/disciplinas/arqcomp1/recursos/#dicas-para-a-competio-e-construo-do-mini-rob-sum"
   },"768": {
     "doc": "Recursos",
     "title": "Caderno de engenharia",
