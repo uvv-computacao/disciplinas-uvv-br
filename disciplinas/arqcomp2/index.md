@@ -3,11 +3,11 @@ layout: page
 title: Arq. de Computadores II
 grand_parent:
 parent:
-nav_exclude: true
+nav_exclude: false
 nav_order: 75
 has_toc: false
 has_children: true
-last_modified_date: 2026-02-01 20:14 -0300
+last_modified_date: 2026-08-30 20:14 -0300
 ---
 
 # Arquitetura e Organização de Computadores II

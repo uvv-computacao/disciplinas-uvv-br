@@ -7,7 +7,7 @@ has_children: false
 nav_exclude: false
 nav_order: 30
 has_toc: true
-last_modified_date: 2026-03-15 12:13 -0300
+last_modified_date: 2026-08-30 21:13 -0300
 ---
 
 # Recursos diversos
@@ -162,6 +162,8 @@ apresentação de seminários pelos alunos:
   Engenharia](/assets/docs/caderno_engenharia/engineering_notebook.pdf)
 * [Capa para o Caderno de
   Engenharia](/assets/docs/caderno_engenharia/capa_caderno_engenharia.pdf)
+* [Sumário para o Caderno de
+  Engenharia](/assets/docs/caderno_engenharia/sumario_caderno_engenharia.pdf)
 * [Algarismos
   Significativos](/assets/docs/caderno_engenharia/algarismos_significativos.pdf)
 * Exemplos de Cadernos de Engenharia:
@@ -183,7 +185,7 @@ apresentação de seminários pelos alunos:
 
 ## Componentes eletrônicos
 * [Tabela de cores de
-  resistores](/assets/disciplinas/arqcomp2/tabela_resistores.pdf)
+  resistores](/assets/arduino/tabela_resistores.pdf)
 
 
 ## Notas

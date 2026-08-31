@@ -7,281 +7,13 @@ has_children: false
 nav_exclude: false
 nav_order: 20
 has_toc: false
-last_modified_date: 2026-05-25 12:29 -0300
+last_modified_date: 2026-08-30 20:49 -0300
 ---
 
 # Roteiro de estudo
 
-**Estudo da 17ª Semana**<a id="re17sem"></a> (25/05 - 31/05)
-{: .label .label-red }
-
-- **Arduino Standalone para a turma CC6M:**
-  - Nesta semana continuaremos a montagem de um "Arduino Standalone", ou seja,
-    de um Arduino montado diretamente na protoboard. Hoje faremos a compilação
-    cruzada de um programa simples e a gravação do firmware no microcontrolador.
-
-- **Avaliação Bimestral AV2 para as turmas CC5M e CC5Mb:** esta semana é
-  dedicada à realização da 2ª avaliação bimestral, a AV2, para as turmas CC5M e
-  CC5Mb. O conteúdo da AV2 corresponde ao conteúdo do exercício/estudo
-  individual sobre toolchains e toolchains cruzadas, todo o conteúdo visto nos
-  seminários sobre a arquitetura de computadores para o jogo Wolfstein 3D e todo
-  o conteúdo sobre Arduino Standalone visto no laboratório. Observações:
-  - A prova é individual.
-  - Venha bem preparado! A prova é **extensa** e não é fácil!
-  - Siga todas as normas de **integridade acadêmica** da disciplina pois alunos
-    flagrados com qualquer tipo de cola terão a AV2 zerada imediatamente e serão
-    encaminhados para a coordenação para as medidas disciplinares conforme o
-    regimento da UVV.
-  - O professor determinará o assento de cada aluno.
-
-{: .vermelho-title }
-> Os celulares serão recolhidos pelo professor!
->
-> Antes do início da prova o professor **recolherá todos os celulares** de todos
-> os alunos, **sem exceções**. O aluno só receberá a prova mediante a entrega do
-> celular, desligado. Os celulares serão identificados e ficarão sob a posse do
-> professor durante a prova. Ao terminar e entregar a prova, o professor
-> devolverá o celular.
->
-> O aluno que não entregar o celular e for flagrado utilizando o aparelho
-> para colar na prova, terá a **NOTA ZERADA** e, no limite, pode até ser
-> **REPROVADOS IMEDIATA E AUTOMATICAMENTE** na disciplina, sem chance de
-> discussão. Evite problemas: **entregue seu celular desligado** no início da
-> prova.
-
----
-
-**Estudo da 16ª Semana**<a id="re16sem"></a> (18/05 - 24/05)
+**Estudo da 8ª Semana**<a id="re07sem"></a> (14/09 - 20/09)
 {: .label .label-reading }
-
-Nesta semana continuaremos a montagem de um "Arduino Standalone", ou seja, de um
-Arduino montado diretamente na protoboard. Hoje montaremos o microcontrolador
-ATmega328P com seu circuito de clock. Iniciaremos programação em AVR-C.
-
-- **Leituras obrigatórias:**
-  - [Apostila de Arduino
-    Standalone](/assets/disciplinas/arqcomp2/20261/standalone1.pdf)
-
----
-
-**Estudo da 15ª Semana**<a id="re15sem"></a> (11/05 - 17/05)
-{: .label .label-reading }
-
-Nesta semana iniciaremos a montagem de um "Arduino Standalone", ou seja, de um
-Arduino montado diretamente na protoboard. Hoje montaremos o circuito regulador
-de tensão.
-
-- **Leituras obrigatórias:**
-  - [Apostila de Arduino
-    Standalone](/assets/disciplinas/arqcomp2/20261/standalone1.pdf)
-
----
-
-**Estudo da 14ª Semana**<a id="re14sem"></a> (04/05 - 10/05)
-{: .label .label-reading }
-
-- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 5: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo5b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo5b.pdf)
-  - Grupo 1: Capítulo 4: Seção 4.7.5 (páginas 154-178)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo1b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo1b.pdf)
-  - Grupo 2: Capítulo 4: Seções 4.7.6 e 4.7.7 (páginas 178-199)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo2c.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo2c.pdf)
-
-<br />
-
-- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 5: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo5b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo5b.pdf)
-  - Grupo 1: Capítulo 4: Seção 4.7.5 (páginas 154-178)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo1b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo1b.pdf)
-  - Grupo 2: Capítulo 4: Seções 4.7.6 e 4.7.7 (páginas 178-199)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2c.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2c.pdf)
-
-<br />
-
-- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 1: Capítulo 4: Seção 4.4 (páginas 110-120)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo1b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo1b.pdf)
-  - Grupo 2: Capítulo 4: Seção 4.5 (páginas 120-131)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo2b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo2b.pdf)
-  - Grupo 3: Capitulo 4: Seções 4.6 até 4.7.4 (páginas 132-154)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo3b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo3b.pdf)
-
----
-
-**Estudo da 13ª Semana**<a id="re13sem"></a> (27/04 - 03/05)
-{: .label .label-reading }
-
-Nesta semana não haverá apresentação de seminários pois faremos um exercício
-avaliativo sobre os seminários já apresentados.
-
----
-
-**Estudo da 12ª Semana**<a id="re12sem"></a> (20/04 - 26/04)
-{: .label .label-reading }
-
-- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 2: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo2b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo2b.pdf)
-  - Grupo 3: Capítulo 4: Seção 4.4 (páginas 110-120)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo3b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo3b.pdf)
-  - Grupo 4: Capítulo 4: Seção 4.5 (páginas 120-131)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo4b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo4b.pdf)
-
-<br />
-
-- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 2: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2b.pdf)
-  - Grupo 3: Capítulo 4: Seção 4.4 (páginas 110-120)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2b.pdf)
-  - Grupo 4: Capítulo 4: Seção 4.5 (páginas 120-131)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2b.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2b.pdf)
-
-<br />
-
-- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo4a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo4a.pdf)
-  - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo5a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo5a.pdf)
-  - Grupo 6: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo6a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo6a.pdf)
-
----
-
-**Estudo da 11ª Semana**<a id="re11sem"></a> (13/04 - 19/04)
-{: .label .label-reading }
-
-- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo4a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo4a.pdf)
-  - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo5a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo5a.pdf)
-  - Grupo 1: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - (NÃO PREPARARAM O SEMINÁRIO!)
-
-<br />
-
-- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 4: Capítulo 3: Seção 3.2, 3.3 e 3.4 (páginas 78-90)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo4a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo4a.pdf)
-  - Grupo 5: Capítulo 3: Seção 3.5, 3.6 e 3.7 (páginas 90-102)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo5a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo5a.pdf)
-  - Grupo 1: Capítulo 4: Seção 4.1, 4.2 e 4.3 (páginas 103-109)
-    - (NÃO PREPARARAM O SEMINÁRIO!)
-
-<br />
-
-- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 4: (não haverá apresentação devido ao feriado)
-  - Grupo 5: (não haverá apresentação devido ao feriado)
-  - Grupo 6: (não haverá apresentação devido ao feriado)
-
----
-
-**Estudo da 10ª Semana**<a id="re10sem"></a> (06/04 - 12/04)
-{: .label .label-reading }
-
-- **Seminários Turma CC5M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 1: Capítulo 1: Introdução (páginas 21-26) e Capítulo 2: Hardware
-    (páginas 27-39, excluindo seção 2.2 em diante) 
-      - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo1a.pdf) e
-        [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo1a.pdf)
-  - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo2a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo2a.pdf)
-  - Grupo 3: Capítulo 2: Hardware (páginas 61-70) e Capítulo 3: Team (páginas
-    71-78, excluindo seção 3.2 em diante)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5m_artigo_grupo3a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5m_slides_grupo3a.pdf)
-
-<br />
-
-- **Seminários Turma CC5Mb** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 1: Capítulo 1: Introdução (páginas 21-26) e Capítulo 2: Hardware
-    (páginas 27-39, excluindo seção 2.2 em diante) 
-      - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo1a.pdf) e
-        [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo1a.pdf)
-  - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo2a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo2a.pdf)
-  - Grupo 3: Capítulo 2: Hardware (páginas 61-70) e Capítulo 3: Team (páginas
-    71-78, excluindo seção 3.2 em diante)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc5mb_artigo_grupo3a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc5mb_slides_grupo3a.pdf)
-
-<br />
-
-- **Seminários Turma CC6M** (Livro: _Game Engine Black Book: Wolfenstein 3D_):
-  - Grupo 1: Capítulo 1: Introdução (páginas 21-26) e Capítulo 2: Hardware
-    (páginas 27-39, excluindo seção 2.2 em diante) 
-      - Artigo e
-        [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo1a.pdf)
-  - Grupo 2: Capítulo 2: Hardware (páginas 39-61, excluindo seção 2.4 em diante)
-    - [Artigo](/assets/disciplinas/arqcomp2/20261/cc6m_artigo_grupo2a.pdf) e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo2a.pdf)
-  - Grupo 3: Capítulo 2: Hardware (páginas 61-70) e Capítulo 3: Team (páginas
-    71-78, excluindo seção 3.2 em diante)
-    - Artigo e
-      [Slides](/assets/disciplinas/arqcomp2/20261/cc6m_slides_grupo3a.pdf)
-
----
-
-**Estudo da 9ª Semana**<a id="re09sem"></a> (30/03 - 05/04)
-{: .label .label-reading }
-
-FERIADO DA SEMANA SANTA.
-
----
-
-**Estudo da 8ª Semana**<a id="re08sem"></a> (23/03 - 29/03)
-{: .label .label-reading }
-
-- **Divisão de grupos:**
-  - Nesta semana faremos a divisão dos grupos de alunos para as apresentações
-    dos seminários avançados em arquitetura de computadores utilizando como
-    estudo de caso a criação e programação dos jogos Wolfenstein 3D e DOOM.
-    O calendário de apresentações será divulgado posteriormente aqui neste
-    site. Fique atento!
-- **Exercício em grupo:**
-  - Após a divisão dos grupos, cada grupo deve responder, em uma folha de papel
-    almaço a ser devolvida para o professor, um [exercício sobre
-    **toolchains**](/assets/disciplinas/arqcomp2/20261/exercicios_toolchain.pdf).
-    O objetivo desse exercício é fazer com que vocês aprendam, por conta
-    própria, o que é uma toolchain de compilação C/C++, quais os componentes de
-    uma toolchain, como usar uma toolchain nativa e uma toolchain cruzada e
-    muitas outras coisas avançadas sobre programação C/C++. Esse conhecimento
-    será importante para a apresentação dos seminários e para o entendimento da
-    arquitetura dos computadores.
-
----
-
-**Estudo da 7ª Semana**<a id="re07sem"></a> (16/03 - 22/03)
-{: .label .label-red }
 
 - **Avaliação Bimestral AV1:** esta semana é dedicada à realização da 1ª
   avaliação bimestral, a AV1, e, portanto, não há conteúdo novo a ser
@@ -313,34 +45,38 @@ FERIADO DA SEMANA SANTA.
 
 ---
 
-**Estudo da 6ª Semana**<a id="re06sem"></a> (09/03 - 15/03)
+**Estudo da 7ª Semana**<a id="re07sem"></a> (07/09 - 13/09)
 {: .label .label-reading }
 
-- **Atividade em sala:**
-  - [Exercício de
-    revisão](/assets/disciplinas/arqcomp2/20261/exercicios_revisao.pdf) de
-    conteúdo para a prova. Com a proximidade da AV1 (que será totalmente
-    discursiva) você deve ter certeza de que está preparado. Faça esse exercício
-    de revisão e identifique os pontos da matéria que você ainda tem dúvidas!
+Sem aula nessa semana (feriado).
 
 ---
 
-**Estudo da 5ª Semana**<a id="re05sem"></a> (02/03 - 08/03)
-{: .label .label-reading }
-
-- **Leituras obrigatórias:**
-  - Seção de Livro: [Pipeline de
-    instruções](/assets/games/gebbdoom.pdf): ler a Seção 2.1 e a Seção 2.1.1, da
-    página 39 até a página 43.
-
----
-
-**Estudo da 4ª Semana**<a id="re04sem"></a> (23/02 - 01/03)
+**Estudo da 6ª Semana**<a id="re06sem"></a> (31/08 - 06/09)
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
   - Notas de aula: [Processamento Paralelo:
-    4](/assets/disciplinas/arqcomp2/20261/paralelo4.pdf)
+    4](/assets/disciplinas/arqcomp2/20262/paralelo4.pdf)
+  - Livro texto de referência: **Capítulo 18** (seções: 18.1, 18.3 e 18.4)
+  - Seção de Livro: [Pipeline de
+    instruções](/assets/games/gebbdoom.pdf): ler a Seção 2.1 e a Seção 2.1.1, da
+    página 39 até a página 43.
+- **Outras atividades:**
+  - Continue a fazer o curso do KiCad.
+  - Continue a procurar, na Internet, projetos com Arduino e/ou com
+    microcontroladores AVR de 8 bits (por exemplo, o ATmega328P) pelos quais o
+    seu grupo tenha interesse. Comece a discutir idéias para o projeto de seu
+    grupo com o professor.
+
+---
+
+**Estudo da 5ª Semana**<a id="re05sem"></a> (24/08 - 30/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - Notas de aula: [Processamento Paralelo:
+    3](/assets/disciplinas/arqcomp2/20262/paralelo3.pdf)
   - Livro texto de referência: **Capítulo 18** (seções: 18.1, 18.3 e 18.4)
 - **Leituras recomendadas:** (para o projeto prático)
   - Para as atividades no laboratório de hardware, se você ainda não tem
@@ -359,13 +95,13 @@ FERIADO DA SEMANA SANTA.
 
 ---
 
-**Estudo da 3ª Semana**<a id="re03sem"></a> (16/02 - 22/02)
+**Estudo da 4ª Semana**<a id="re04sem"></a> (17/08 - 23/08)
 {: .label .label-reading }
 
 - **Leituras obrigatórias:**
   - Notas de aula: [Processamento Paralelo:
-    3](/assets/disciplinas/arqcomp2/20261/paralelo3.pdf)
-  - Livro texto de referência: **Capítulo 17** (seções: 17.4 e 17.7)
+    2](/assets/disciplinas/arqcomp2/20262/paralelo2.pdf)
+  - Livro texto de referência: **Capítulo 17** (seções: 17.4 e 17.5)
 - **Leituras recomendadas:** (para o projeto prático)
   - Para as atividades no laboratório de hardware, se você ainda não tem
     familiaridade com o Arduino, você deve ler os seguintes capítulos do livro
@@ -383,13 +119,15 @@ FERIADO DA SEMANA SANTA.
 
 ---
 
-**Estudo da 2ª Semana**<a id="re02sem"></a> (09/02 - 15/02)
+**Estudo da 3ª Semana**<a id="re03sem"></a> (10/08 - 16/08)
 {: .label .label-reading }
+
+Nossa disciplina começa com o estudo das arquiteturas de computação paralela.
 
 - **Leituras obrigatórias:**
   - Notas de aula: [Processamento Paralelo:
-    2](/assets/disciplinas/arqcomp2/20261/paralelo2.pdf)
-  - Livro texto de referência: **Capítulo 17** (seções: 17.4 e 17.5)
+    1](/assets/disciplinas/arqcomp2/20262/paralelo1.pdf)
+  - Livro texto de referência: **Capítulo 17** (seções: 17.1, 17.2 e 17.3)
 - **Leituras recomendadas:** (para o projeto prático)
   - Para as atividades no laboratório de hardware, se você ainda não tem
     familiaridade com o Arduino, você deve ler os seguintes capítulos do livro
@@ -418,15 +156,13 @@ FERIADO DA SEMANA SANTA.
 
 ---
 
-**Estudo da 1ª Semana**<a id="re01sem"></a> (02/02 - 08/02)
+**Estudo da 2ª Semana**<a id="re02sem"></a> (03/08 - 09/08)
 {: .label .label-reading }
 
-Nossa disciplina começa com o estudo das arquiteturas de computação paralela.
+Aula inaugural. Explicação do projeto prático da disciplina.
 
 - **Leituras obrigatórias:**
-  - Notas de aula: [Processamento Paralelo:
-    1](/assets/disciplinas/arqcomp2/20261/paralelo1.pdf)
-  - Livro texto de referência: **Capítulo 17** (seções: 17.1, 17.2 e 17.3)
+  - Nada no momento.
 - **Leituras recomendadas:** (para o projeto prático)
   - [C Programming](/assets/disciplinas/arqcomp2/c_programming.pdf) (PDF): se
     você não tem uma boa base na linguagem C ou se precisa de uma revisão
@@ -443,6 +179,13 @@ Nossa disciplina começa com o estudo das arquiteturas de computação paralela.
   - [C Reference](https://en.cppreference.com/w/c)
   - [C Programming
     Tutorial](http://www.cprogramming.com/tutorial/c-tutorial.html)
+
+---
+
+**Estudo da 1ª Semana**<a id="re01sem"></a> (27/07 - 02/08)
+{: .label .label-reading }
+
+Sem aula nesta semana (recepção de calouros).
 
 ---
 
