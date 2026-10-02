@@ -12,6 +12,127 @@ last_modified_date: 2026-08-17 14:46 -0300
 
 # Roteiro de estudo
 
+**Estudo da 10ª Semana**<a id="re10sem"></a> (28/09 - 04/10)
+{: .label .label-reading }
+
+Após dois meses intensos de atividades práticas no Laboratório de Hardware,
+faremos um bloco de aulas teóricas sobre Arquitetura de Computadores. Nesta
+semana temos um conteúdo um pouco mais simples, com os conceitos iniciais da
+disciplina.
+
+{: .important }
+> Além da matéria de **Arquitetura de Computadores I** por si mesma, você tem a
+> **obrigação** de assistir a diversos vídeos que eu gravei para a disciplina
+> **CR6.100B: Introdução à Ciência da Computação**, que é uma disciplina
+> específica para os **Fundamentos da Computação**. Esses vídeos são
+> absolutamente essenciais para que você aprenda a representar diversos tipos de
+> dados em binário e comece a entender de fato as bases da computação que são
+> importantes para o entendimento da arquitetura dos computadores. Não importa
+> se você está no curso de Ciência da Computação, Engenharia da Computação,
+> Engenharia de Software, Sistemas de Informação, Análise e Desenvolvimento de
+> Sistemas ou outro qualquer: se você é da área da computação, esses vídeos
+> serão absolutamente essenciais para você.
+
+{: .danger }
+> A partir desta semana você fará **MUITOS EXERCÍCIOS** a respeitos dos vídeos
+> gravados. Os exercícios são **gigantescos** e têm prazo de entrega rígido. Não
+> deixe acumular os exercícios pois eles farão parte razoável da nota bimestral,
+> juntamente com o caderno de estudo individual.
+
+- **Leituras obrigatórias:**
+  - [Notas de Aula - Motivação 1: Computador é magia ou
+    servo?](/assets/disciplinas/arqcomp1/20262/1_motivacao.pdf)
+  - [Notas de Aula - Motivação 2: int não é
+    Z](/assets/disciplinas/arqcomp1/20262/2_int_nao_e_z.pdf)
+  - [Notas de Aula - Motivação 3: Olá,
+    mundo!](/assets/disciplinas/arqcomp1/20262/3_ola_mundo.pdf)
+  - [Notas de Aula - Motivação 4:
+    Memória](/assets/disciplinas/arqcomp1/20262/4_memoria.pdf)
+  - [Notas de Aula - Motivação 5:
+    I/O](/assets/disciplinas/arqcomp1/20262/5_entrada_saida_rede.pdf)
+  - [Notas de Aula: Introdução, Grandes Idéias da Computação, Abaixo dos
+    Programas](/assets/disciplinas/arqcomp1/20262/cap01a.pdf)
+- **Vídeos obrigatórios:**
+  - [Apresentação da CR6.100B](https://www.youtube.com/watch?v=eyph1kcLnVw)
+  - [Motivação e diferenças com a
+    CS50](https://www.youtube.com/watch?v=d7uDtdECwGg)
+  - [Como fazer a CR6.100B](https://www.youtube.com/watch?v=an7aEc5du0o)
+  - [Unidade 0: Introdução à
+    CR6.100B](https://www.youtube.com/watch?v=-aY8U8s5Kv4)
+- **Leituras recomendadas:**
+  - [Edsger Wybe Dijkstra: _Why numbering should start at
+    zero?_](https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF)
+- **Exercícios:**
+  - [Diário de Aprendizagem n.º
+    0](/assets/disciplinas/arqcomp1/20262/diario_0.pdf). Por favor, preste muita
+    atenção às seguintes instruções referentes a esses exercícios:
+    - Esses exercícios eram originalmente da disciplina "Fundamentos da
+      Computação", do 1º período. Estou exigindo que vocês façam esses
+      exercícios (baseados principalmente nos vídeos que apontei acima) pois
+      vocês precisam dominar esse conteúdo. Por favor, ignorem as referências à
+      essa disciplina.
+    - Algumas questões são específicas da matéria de Fundamentos da Computação e
+      não precisam ser feitas. As questões que não precisam ser respondidas são
+      as questões: 6, 13, 20, 21, 22 e 27.
+    - Você deve **imprimir** as questões e responder de forma **manuscrita**.
+    - **PRAZO DE ENTREGA: até 09/10/2026, 12:00h.** Você pode me entregar o
+      Diário de Aprendizagem em qualquer dia da semana. O local mais provável de
+      você me encontrar é na sala de aula (nos dias/horários de sua aula), ou no
+      laboratório de hardware.
+
+---
+
+**Estudo da 9ª Semana**<a id="re09sem"></a> (21/09 - 27/09)
+{: .label .label-reading }
+
+- **Sumô Tech Fight InovaWeek 2026!**
+  - Após o trabalho árduo de construção, programação e teste de seu robô, agora
+    é hora de colocá-lo à prova no Sumô Tech Fight 2026! Participe das
+    competições nos dias 23 e 24 de setembro (verifique a planilha com das
+    datas, chaves, horários e dojôs).
+
+---
+
+**Estudo da 8ª Semana**<a id="re08sem"></a> (14/09 - 20/09)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Regras para o Sumô Tech Fight 2026](/assets/robo_sumo/regras_2026.pdf)
+- **Outras atividades:**
+  - Construção do robô de sua equipe.
+
+---
+
+**Estudo da 7ª Semana**<a id="re07sem"></a> (07/09 - 13/09)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Regras para o Sumô Tech Fight 2026](/assets/robo_sumo/regras_2026.pdf)
+- **Outras atividades:**
+  - Construção do robô de sua equipe.
+
+---
+
+**Estudo da 6ª Semana**<a id="re06sem"></a> (31/08 - 06/09)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Regras para o Sumô Tech Fight 2026](/assets/robo_sumo/regras_2026.pdf)
+- **Outras atividades:**
+  - Construção do robô de sua equipe.
+
+---
+
+**Estudo da 5ª Semana**<a id="re05sem"></a> (24/08 - 30/08)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Regras para o Sumô Tech Fight 2026](/assets/robo_sumo/regras_2026.pdf)
+- **Outras atividades:**
+  - Construção do robô de sua equipe.
+
+---
+
 **Estudo da 4ª Semana**<a id="re04sem"></a> (17/08 - 23/08)
 {: .label .label-reading }
 

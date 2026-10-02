@@ -206,8 +206,8 @@
     </tr>
     <tr>
       <th>Qua<br />26/08</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re05sem">5ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -222,8 +222,8 @@
     </tr>
     <tr>
       <th>Sex<br />28/08</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re05sem">5ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -249,8 +249,8 @@
     </tr>
     <tr>
       <th>Qua<br />02/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re06sem">6ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -265,8 +265,8 @@
     </tr>
     <tr>
       <th>Sex<br />04/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re06sem">6ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -292,8 +292,8 @@
     </tr>
     <tr>
       <th>Qua<br />09/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re07sem">7ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -308,8 +308,8 @@
     </tr>
     <tr>
       <th>Sex<br />11/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re07sem">7ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -335,8 +335,8 @@
     </tr>
     <tr>
       <th>Qua<br />16/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 2)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re08sem">8ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -351,8 +351,8 @@
     </tr>
     <tr>
       <th>Sex<br />18/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Lab.: robô sumô (grupo 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re08sem">8ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -394,7 +394,7 @@
     </tr>
     <tr>
       <th>Sex<br />25/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>INOVAWEEK</b></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
@@ -421,8 +421,8 @@
     </tr>
     <tr>
       <th>Qua<br />30/09</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Motivação para Arq. Comp.</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re10sem">10ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -437,10 +437,12 @@
     </tr>
     <tr>
       <th>Sex<br />02/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Introdução; Grandes Idéias;<br />
+          Abaixo dos Programas.</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re10sem">10ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand-out -->
+      <td><a href="/assets/disciplinas/arqcomp1/20262/diario_0.pdf">Diário
+          0</a></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
     </tr>
 
@@ -484,7 +486,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
-      <td></td> <!-- Hand-in -->
+      <td>Diário 0</td> <!-- Hand-in -->
     </tr>
 
     <!-- 12ª SEMANA -->
