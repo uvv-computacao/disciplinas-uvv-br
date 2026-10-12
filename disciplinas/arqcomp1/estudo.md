@@ -7,10 +7,89 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-08-17 14:46 -0300
+last_modified_date: 2026-10-10 23:46 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 12ª Semana**<a id="re12sem"></a> (12/10 - 18/10)
+{: .label .label-reading }
+
+Esta será uma semana atípica pois três dias serão feriados e atrapalharão nosso
+cronograma. Para que o conteúdo da disciplina não fique muito fora de sintonia
+entre as diversas turmas, não haverá aula de conteúdo e também não será feita a
+lista de presença: ao invés disso você deve, durante o horário da aula,
+continuar fazendo o **Diário de Aprendizagem n.º 1** (lembre-se de que a data
+máxima de entrega é dia 30/10/2026 12:00h). O professor estará em sala de aula,
+na terça e na quarta, para tirar dúvidas a respeito desse conteúdo.
+
+- **Exercícios:**
+  - Continuar o [Diário de Aprendizagem n.º
+    1](/assets/disciplinas/arqcomp1/20262/diario_1.pdf).
+    - **PRAZO DE ENTREGA: até 30/10/2026, 12:00h.** Você pode me entregar o
+      Diário de Aprendizagem em qualquer dia da semana. O local mais provável de
+      você me encontrar é na sala de aula (nos dias/horários de sua aula), ou no
+      laboratório de hardware.Diário de Aprendizagem n.º 1.
+
+---
+
+**Estudo da 11ª Semana**<a id="re11sem"></a> (05/10 - 11/10)
+{: .label .label-reading }
+
+Nesta semana aprenderemos sobre como algumas tecnologias de input e output de
+dados são fabricadas, e também sobre o processo de fabricação de CPUs e
+memória. Além disso começaremos a aprender como a performance dos computadores é
+calculada e entenderemos alguns conceitos básicos como o clock dos
+processadores.
+
+{: .danger }
+> A partir dessa semana você deverá assistir à inúmeros vídeos de conteúdo e
+> fazer um exercício **GIGANTE** sobre computação (o exercício tem quase 40
+> páginas de perguntas discursivas). O prazo de entrega rígido mas você terá
+> bastante tempo para isso (3 semanas). Não deixe acumular os exercícios pois
+> eles farão parte razoável da nota bimestral, juntamente com o caderno de
+> estudo individual.
+
+- **Leituras obrigatórias:**
+  - [Notas de Aula: Dentro dos computadores; Tecnologias para a construção de
+    CPU e memória](/assets/disciplinas/arqcomp1/20262/cap01b.pdf)
+  - [Notas de Aula: Performance](/assets/disciplinas/arqcomp1/20262/cap01c.pdf)
+- **Vídeos obrigatórios:**
+  - [Parte 0: Visão Geral](https://www.youtube.com/watch?v=XbuHXSoKZOM)
+  - [Parte 1: O que é ciência da
+    computação](https://www.youtube.com/watch?v=qzxw-Tm8UgI) 
+  - [Parte 2: Representação de
+    dados](https://www.youtube.com/watch?v=8T_hJhYg4R0) 
+    - [Parte 2, Anexo 1: Conversão entre
+      bases](https://www.youtube.com/watch?v=7u4lJQE2xOk) 
+    - [Parte 2, Anexo 2: Outros
+      conceitos](https://www.youtube.com/watch?v=MxdbxybOlmE) 
+    - [Parte 2, Anexo 3: Binários
+       negativos](https://www.youtube.com/watch?v=gLBV2iU_EbM) 
+    - [Parte 2, Anexo 4: Binários
+      fracionários](https://www.youtube.com/watch?v=QdOMYMvn2h8) 
+    - [Parte 2, Anexo 5: BCD](https://www.youtube.com/watch?v=8Tl0I2Ihc0w)
+  - [Parte 3, Algoritmos](https://www.youtube.com/watch?v=NIy_YxAS570)
+  - [Parte 4, Pensamento
+    Computacional](https://www.youtube.com/watch?v=w4XK1nY-pMc)
+  - [Parte 5, Abstração](https://www.youtube.com/watch?v=pPNKC6ii8cE)
+- **Exercícios:**
+  - [Diário de Aprendizagem n.º
+    1](/assets/disciplinas/arqcomp1/20262/diario_1.pdf). Por favor, preste muita
+    atenção às seguintes instruções referentes a esses exercícios:
+    - Esses exercícios eram originalmente da disciplina "Fundamentos da
+      Computação", do 1º período. Estou exigindo que vocês façam esses
+      exercícios (baseados principalmente nos vídeos que apontei acima) pois
+      vocês precisam dominar esse conteúdo. Por favor, ignorem as referências à
+      essa disciplina.
+    - Todas as perguntas precisam ser respondidas.
+    - Você deve **imprimir** as questões e responder de forma **manuscrita**.
+    - **PRAZO DE ENTREGA: até 30/10/2026, 12:00h.** Você pode me entregar o
+      Diário de Aprendizagem em qualquer dia da semana. O local mais provável de
+      você me encontrar é na sala de aula (nos dias/horários de sua aula), ou no
+      laboratório de hardware.
+
+---
 
 **Estudo da 10ª Semana**<a id="re10sem"></a> (28/09 - 04/10)
 {: .label .label-reading }

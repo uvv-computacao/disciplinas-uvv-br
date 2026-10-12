@@ -1,1 +1,1 @@
-Sitemap: https://disciplinas.uvv.br/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml

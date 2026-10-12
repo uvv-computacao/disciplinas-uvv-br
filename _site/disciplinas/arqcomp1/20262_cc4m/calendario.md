@@ -466,8 +466,9 @@
     </tr>
     <tr>
       <th>Qua<br />07/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Dentro do computador;</b><br />
+          <b>Tecnologias CPU/Memória</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re11sem">11ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -482,10 +483,11 @@
     </tr>
     <tr>
       <th>Sex<br />09/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Performance (parte 1)</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re11sem">11ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
-      <td></td> <!-- Hand-out -->
+      <td><a href="/assets/disciplinas/arqcomp1/20262/diario_1.pdf">Diário
+          1</a></td> <!-- Hand-out -->
       <td>Diário 0</td> <!-- Hand-in -->
     </tr>
 
@@ -493,7 +495,7 @@
     <tr>
       <td rowspan=5>12</td> <!-- Número da semana-->
       <th>Seg<br />12/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>FERIADO</b></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
@@ -509,15 +511,16 @@
     </tr>
     <tr>
       <th>Qua<br />14/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>Dúvidas sobre o Diário 1</b><br />
+          (não haverá aula de conteúdo)</td> <!-- Aula -->
+      <td><a href="../estudo/#re12sem">12ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
     </tr>
     <tr>
       <th>Qui<br />15/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
+      <td><b>FERIADO</b></td> <!-- Aula -->
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
@@ -525,8 +528,8 @@
     </tr>
     <tr>
       <th>Sex<br />16/10</th> <!-- Dia e Data -->
-      <td></td> <!-- Aula -->
-      <td></td> <!-- Estudo -->
+      <td><b>FERIADO</b></td> <!-- Aula -->
+      <td><a href="../estudo/#re12sem">12ª semana</a></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
       <td></td> <!-- Hand-in -->
@@ -615,7 +618,7 @@
       <td></td> <!-- Estudo -->
       <td></td> <!-- Autolab -->
       <td></td> <!-- Hand-out -->
-      <td></td> <!-- Hand-in -->
+      <td>Diário 1</td> <!-- Hand-in -->
     </tr>
 
     <!-- 15ª SEMANA -->
