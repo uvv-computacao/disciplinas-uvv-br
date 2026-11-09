@@ -7,10 +7,52 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-10-10 23:46 -0300
+last_modified_date: 2026-11-09 20:51 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 16ª Semana**<a id="re16sem"></a> (09/11 - 15/11)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de Aula: Arquitetura da
+    Memória](/assets/disciplinas/arqcomp1/20262/memoria.pdf)
+
+---
+
+**Estudo da 15ª Semana**<a id="re15sem"></a> (02/11 - 08/11)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de Aula: Processo de compilação e linguagem de
+    máquina](/assets/disciplinas/arqcomp1/20262/cap02c.pdf)
+
+---
+
+**Estudo da 14ª Semana**<a id="re14sem"></a> (26/10 - 01/11)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de Aula: Números _signed_ e
+    _unsigned_](/assets/disciplinas/arqcomp1/20262/cap02b.pdf)
+- **Outras atividades:**
+  - Entregue o **Diário de Aprendizagem n.º 1** até o dia 30/10/2026, 12:00h.
+
+---
+
+**Estudo da 13ª Semana**<a id="re13sem"></a> (19/10 - 25/10)
+{: .label .label-reading }
+
+- **Leituras obrigatórias:**
+  - [Notas de Aula: Performance](/assets/disciplinas/arqcomp1/20262/cap01c.pdf)
+  - [Notas de Aula: Conjunto de
+    Instruções](/assets/disciplinas/arqcomp1/20262/cap02a.pdf)
+- **Outras atividades:**
+  - Continue fazendo o **Diário de Aprendizagem n.º 1**. Lembre-se de que a data
+    de entrega é até o dia 30/10/2026, 12:00h.
+
+---
 
 **Estudo da 12ª Semana**<a id="re12sem"></a> (12/10 - 18/10)
 {: .label .label-reading }
