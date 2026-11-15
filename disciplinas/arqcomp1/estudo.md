@@ -7,10 +7,57 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-11-09 20:51 -0300
+last_modified_date: 2026-11-15 10:40 -0300
 ---
 
 # Roteiro de estudo
+
+**Estudo da 16ª Semana**<a id="re16sem"></a> (16/11 - 22/11)
+{: .label .label-reading }
+
+Esta é nossa **última semana** de aula antes das provas AV2 e, portanto, você
+deve se dedicar a fazer uma grande revisão do conteúdo do segundo bimestre e se
+preparar para a prova. Conforme já avisado inúmeras vezes, a AV2 é **difícil**,
+na verdade é **muito difícil**, e você deve vir muito bem preparado para a
+avaliação. Também conforme já avisado, são 60 questões objetivas, de todo o
+conteúdo do segundo bimestre, e a correção será feita imediatamente no momento
+em que você entregar a prova (você sai da prova já sabendo sua nota).
+
+Aqui estão dois **EXERCÍCIOS DE REVISÃO** para você verificar o nível de
+dificuldade da prova e você saber se está bem preparado para a prova (pelo menos
+o conteúdo cobrado nesses exercícios de revisão). Minha sugestão é a seguinte:
+tente fazer esses exercícios de revisão sozinho, em um primeiro momento, e
+depois em um pequeno grupo com seus colegas. Discuta cada questão, anote as
+dúvidas e me procure nessa semana para esclarecer qualquer dúvida.
+
+* [**Revisão de Arquitetura da
+  CPU**](/assets/disciplinas/arqcomp1/20262/revisao1.pdf) (2 páginas e 5
+  perguntas discursivas)
+  * **Turmas CC4M, CC4Mb, EW2M e EW2Mb:** esse exercício aborda arquitetura da
+    CPU, combinado com representação de dados binários inteiros signed, ponto
+    flutuante, notação enviesada, IEEE-754 e instruções em assembly e binário
+    RISC-V. Com tudo o que vocês estudaram durante o segundo bimestre vocês têm
+    condições de responder com segurança. Use calculadora.
+  
+* [**Revisão de Arquitetura da
+  Memória**](/assets/disciplinas/arqcomp1/20262/revisao2.pdf) (12 páginas e 18
+  perguntas discursivas)
+  * **Turmas CC4M e CC4Mb:** como vocês já estudaram sobre linguagem C (na
+    disciplina "Laboratório de Programação") vocês têm a obrigação de entender
+    todo o programa mostrado nesse documento e, de fato, saber exatamente o que
+    está ocorrendo em qualquer parte do programa. Durante a AV2 eu posso fazer
+    perguntas sobre a programação C em si.
+  * **Turmas EW2M e EW2Mb:** como vocês ainda não estudaram sobre linguagem C,
+    se vocês não entenderem algumas partes da linguagem C, tentem se focar mais
+    nas declarações e inicializações das variáveis e entender em que trechos do
+    código essas declarações estão, para entender quais segmentos da memória
+    estão envolvidos.
+  * **Todas as turmas:** muitas perguntas abordam o mesmo assunto e podem ser
+    consideradas "repetitivas". Se vocês quiserem priorizar a ordem de
+    resolução, podem deixar as questões 6, 10, 13, 15, 17 e 18 como opcionais
+    ou, no mínimo, para responder após as outras.
+    
+---
 
 **Estudo da 16ª Semana**<a id="re16sem"></a> (09/11 - 15/11)
 {: .label .label-reading }

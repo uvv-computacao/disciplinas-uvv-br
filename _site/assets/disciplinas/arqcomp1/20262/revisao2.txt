@@ -1,0 +1,452 @@
+Uma empresa de logística é responsável pelo transporte e armazenamento de
+produtos alimentícios que precisam permanecer refrigerados. Para garantir a
+qualidade desses produtos, a empresa utiliza sensores eletrônicos que registram
+periodicamente a temperatura no interior dos compartimentos de armazenamento.
+
+Para determinada categoria de produtos, a temperatura deve permanecer entre 2,0
+°C e 8,0 °C, inclusive. Temperaturas inferiores ou superiores a esses limites
+representam condições inadequadas de armazenamento e devem ser sinalizadas.
+
+Os sensores utilizados pela empresa possuem um pequeno erro sistemático de
+calibração. Para compensar esse erro, o sistema deve adicionar um valor de
+correção às temperaturas informadas pelos sensores.
+
+Como o número de medições pode variar a cada execução, o programa deve reservar
+memória suficiente para armazenar exatamente a quantidade de medições solicitada
+pelo operador.
+
+Além disso, como o sistema poderá analisar diferentes lotes de medições durante
+uma mesma execução, a empresa deseja contabilizar quantas análises foram
+realizadas desde a inicialização do programa.
+
+Você foi contratado para desenvolver um programa em C23, executado em ambiente
+Linux, para registrar e analisar essas medições.
+
+Requisitos funcionais
+
+O programa deverá:
+
+1) Permitir que o operador realize sucessivas análises de lotes de medições. Ao
+   final de cada análise, o programa deverá perguntar se o operador deseja
+   analisar outro lote.
+
+2) Para cada lote, solicitar a quantidade de medições que serão realizadas,
+   aceitando valores inteiros entre 1 e 1.000.
+
+3) Solicitar ao operador um valor de correção para a calibração dos sensores, em
+   graus Celsius.
+
+4) Ler as temperaturas registradas pelos sensores, aplicar a correção informada
+   e armazenar os valores corrigidos em memória.
+
+5) Para cada temperatura corrigida, verificar se ela está dentro do intervalo
+   permitido de 2,0 °C a 8,0 °C, inclusive.
+
+6) Contabilizar quantas medições apresentaram temperaturas fora do intervalo
+   permitido.
+
+7) Calcular a temperatura média das medições corrigidas.
+
+8) Ao final de cada análise, apresentar um relatório contendo:
+      - Quantidade total de medições realizadas no lote.
+      - Temperatura mínima permitida.
+      - Temperatura máxima permitida.
+      - Valor de correção utilizado.
+      - Temperatura média das medições corrigidas.
+      - Quantidade de medições fora do intervalo permitido.
+      - Percentual de medições fora do intervalo permitido.
+      - Quantidade total de análises realizadas desde a inicialização do
+        programa.
+
+9) Liberar os recursos de memória alocados dinamicamente para cada lote antes de
+   iniciar a análise do lote seguinte.
+
+Requisitos técnicos obrigatórios
+
+RT01) Parâmetros constantes:
+      Os limites mínimo e máximo de temperatura deverão ser armazenados em um
+      vetor global denominado limites_temperatura, declarado com o qualificador
+      const e inicializado com os valores 2,0 e 8,0.
+
+      Esses valores não poderão ser modificados durante a execução do programa.
+
+RT02) Variável global inicializada:
+      O valor de correção dos sensores deverá ser armazenado em uma variável
+      global denominada correcao_sensor, inicialmente configurada com o valor
+      0,5.
+
+      Após receber o valor de correção informado pelo operador, o programa
+      deverá atualizar essa variável global.
+
+RT03) Variáveis globais não inicializadas explicitamente:
+      O programa deverá declarar duas variáveis globais, sem inicializadores
+      explícitos:
+
+      total_alertas: responsável por contabilizar as medições fora do intervalo
+      permitido no lote atual.
+
+      soma_temperaturas: responsável por acumular as temperaturas corrigidas no
+      lote atual.
+
+      Essas variáveis deverão ser utilizadas durante o processamento das
+      medições e reinicializadas adequadamente antes da análise de cada novo
+      lote.
+
+RT04) Armazenamento dinâmico:
+      As temperaturas corrigidas deverão ser armazenadas em um vetor alocado
+      dinamicamente, com capacidade suficiente para armazenar a quantidade de
+      medições informada pelo operador.
+
+      A alocação deverá ser realizada utilizando malloc().
+
+      O programa deverá verificar se a alocação foi realizada com sucesso e
+      liberar a memória utilizando free() quando ela não for mais necessária.
+
+      Não será permitido utilizar vetores globais ou vetores locais de tamanho
+      fixo para armazenar as medições.
+
+RT05) Variáveis locais automáticas:
+      O programa deverá utilizar variáveis locais automáticas para armazenar:
+
+      A quantidade de medições informada pelo operador.
+      O índice utilizado para percorrer o vetor de medições.
+      A temperatura lida em cada iteração.
+      A temperatura média calculada.
+
+      Essas variáveis deverão ser declaradas no interior das funções, sem a
+      utilização do especificador static.
+
+RT06) Variável local com duração de armazenamento estática:
+      A função analisar_temperaturas() deverá manter um contador denominado
+      total_analises, responsável por registrar quantas vezes essa função foi
+      executada com sucesso desde a inicialização do programa.
+
+      Esse contador deverá atender obrigatoriamente às seguintes condições:
+
+      Ser declarado no interior da função analisar_temperaturas().
+      Ser inicializado com o valor zero.
+      Preservar seu valor entre chamadas sucessivas da função.
+      Ser incrementado uma única vez a cada análise concluída com sucesso.
+      Não ser declarado como variável global.
+      Não ser acessado diretamente por outras funções.
+
+      A função deverá disponibilizar a quantidade de análises realizadas para
+      que essa informação possa aparecer no relatório final de cada lote.
+
+RT07) Organização em funções:
+      O programa deverá conter, no mínimo, as seguintes funções:
+
+      main(): responsável pelo controle geral do programa e pela repetição das
+      análises.
+
+      registrar_temperaturas(): responsável pela leitura das temperaturas,
+      aplicação da correção e armazenamento no vetor.
+
+      analisar_temperaturas(): responsável por verificar os limites,
+      contabilizar alertas, calcular a média e atualizar o contador de análises.
+
+      exibir_relatorio(): responsável pela apresentação dos resultados.
+
+      Os parâmetros e os tipos de retorno deverão ser definidos pelo aluno de
+      acordo com as necessidades da implementação.
+
+Exemplo de execução
+
+=== MONITORAMENTO DE TEMPERATURA ===
+
+Quantidade de medicoes: 3
+Correcao do sensor (C): 0.5
+
+Temperatura 1: 3.0
+Temperatura 2: 9.0
+Temperatura 3: 5.0
+
+=== RELATORIO ===
+
+Total de medicoes:       3
+Temperatura minima:      2.0 C
+Temperatura maxima:      8.0 C
+Correcao aplicada:       0.5 C
+
+Temperatura media:       6.2 C
+Medicoes fora da faixa:  1
+Percentual de alertas:  33.3%
+
+Total de analises:       1
+
+Deseja analisar outro lote (S/N)? S
+
+Quantidade de medicoes: 2
+Correcao do sensor (C): 0.0
+
+Temperatura 1: 4.0
+Temperatura 2: 7.0
+
+=== RELATORIO ===
+
+Total de medicoes:       2
+Temperatura minima:      2.0 C
+Temperatura maxima:      8.0 C
+Correcao aplicada:       0.0 C
+
+Temperatura media:       5.5 C
+Medicoes fora da faixa:  0
+Percentual de alertas:   0.0%
+
+Total de analises:       2
+
+Deseja analisar outro lote (S/N)? N
+
+Programa encerrado.
+
+O programa seja executado com pelo menos três lotes consecutivos, sem encerrar o
+processo entre eles.
+
+O aluno deverá entregar o arquivo-fonte do programa, escrito em C23, devidamente
+compilável e executável em ambiente Linux.
+
+O código deverá ser organizado em funções, utilizar nomes de variáveis
+significativos e respeitar todos os requisitos funcionais e técnicos
+apresentados.
+
+Após desenvolver o programa, o aluno deverá responder às questões discursivas da
+Parte II, utilizando exemplos específicos de sua própria implementação.
+
+PARTE II — Questões discursivas sobre a organização da memória
+
+As perguntas foram elaboradas para avaliar não apenas a memorização das
+características de cada região, mas a capacidade de relacionar a organização da
+memória com as declarações, instruções e operações efetivamente utilizadas no
+programa.
+
+1. Região TEXT — Código executável
+
+Questão 1.1
+
+Considere as funções main(), registrar_temperaturas(), analisar_temperaturas() e
+exibir_relatorio() implementadas em seu programa.
+
+Explique qual é a relação entre essas funções e a seção TEXT do
+executável. Identifique uma instrução do seu código-fonte que envolva um cálculo
+aritmético e explique como essa instrução se relaciona com as instruções de
+máquina executadas pelo processador.
+
+Questão 1.2
+
+Durante a execução do programa, a função main() chama a função
+analisar_temperaturas().
+
+Explique o que acontece com o fluxo de execução do processador durante essa
+chamada, considerando o endereço das instruções, o contador de programa (Program
+Counter) e o retorno à função main().
+
+As instruções de máquina correspondentes à função analisar_temperaturas()
+precisam ser copiadas para outra região de memória a cada chamada? Justifique.
+
+2. Região DATA RW — Dados inicializados e modificáveis
+
+Questão 2.1
+
+Identifique em seu código a variável global correcao_sensor.
+
+Explique por que essa variável normalmente pertence à seção DATA RW do
+executável e descreva como seu valor inicial é disponibilizado quando o programa
+começa a executar.
+
+Em seguida, explique o que acontece com o conteúdo dessa variável quando o
+operador informa um novo valor de correção.
+
+Questão 2.2
+
+Considere a variável global correcao_sensor e a variável local total_analises,
+declarada na função analisar_temperaturas().
+
+Embora ambas possuam duração de armazenamento estática, seus identificadores
+apresentam diferentes regras de visibilidade no código-fonte.
+
+Explique essas diferenças, considerando o escopo e a duração de armazenamento de
+cada objeto.
+
+Em seguida, responda: se a variável total_analises fosse inicializada
+explicitamente com um valor diferente de zero, em qual seção do executável ela
+normalmente seria armazenada? Justifique sua resposta.
+
+3. Região DATA RO — Dados constantes
+
+Questão 3.1
+
+Identifique em seu programa a declaração do vetor global limites_temperatura.
+
+Explique por que seus elementos não podem ser modificados por meio desse
+identificador e por que esse vetor normalmente pode ser armazenado na seção DATA
+RO do executável.
+
+O que aconteceria se o programa tentasse modificar diretamente um elemento desse
+vetor? Diferencie as verificações realizadas pelo compilador das possíveis
+proteções oferecidas pelo sistema operacional durante a execução.
+
+Questão 3.2
+
+Considere as seguintes declarações:
+
+const double limites_temperatura[2] = {2.0, 8.0};
+
+double correcao_sensor = 0.5;
+
+Explique as diferenças entre esses dois objetos quanto à possibilidade de
+modificação, à duração de armazenamento e à localização típica na imagem de
+memória do processo.
+
+Em seguida, explique por que o uso do qualificador const, isoladamente, não
+garante que todo objeto declarado com esse qualificador seja armazenado na
+região DATA RO.
+
+4. Região BSS — Dados não inicializados explicitamente
+
+Questão 4.1
+
+Identifique em seu código as variáveis globais total_alertas e
+soma_temperaturas.
+
+Explique por que essas variáveis normalmente pertencem à seção BSS do executável
+e quais valores possuem quando o programa inicia sua execução, mesmo não tendo
+recebido inicializadores explícitos.
+
+Compare esse comportamento com o de uma variável local automática declarada sem
+inicializador dentro de uma função.
+
+Questão 4.2
+
+Considere as seguintes declarações:
+
+int contadores_a[1000000];
+
+int contadores_b[1000000] = {0};
+
+Ambas foram realizadas no escopo de arquivo.
+
+Explique em quais seções do executável esses vetores normalmente seriam
+armazenados e discuta por que a seção BSS permite representar grandes
+quantidades de dados inicialmente zerados sem exigir que todos esses bytes sejam
+armazenados fisicamente no arquivo executável.
+
+Em seguida, considere a declaração utilizada em sua função
+analisar_temperaturas():
+
+static int total_analises = 0;
+
+Explique por que essa variável também pode ser armazenada na seção BSS, apesar
+de ter sido declarada no interior de uma função e possuir um inicializador
+explícito.
+
+5. Região HEAP — Alocação dinâmica
+
+Questão 5.1
+
+Identifique o trecho do seu programa responsável pela alocação dinâmica do vetor
+de temperaturas.
+
+Explique como a função malloc() permite reservar memória durante a execução e
+por que essa estratégia é apropriada para um programa em que a quantidade de
+medições somente será conhecida após a entrada de dados.
+
+Em sua resposta, diferencie o ponteiro utilizado para acessar o vetor da região
+de memória em que os elementos do vetor são efetivamente armazenados.
+
+Questão 5.2
+
+Considere que o operador solicite o registro de 1.000 medições e que o programa
+consiga alocar a memória necessária.
+
+Explique o que acontece com essa memória quando a função
+registrar_temperaturas() termina sua execução.
+
+A memória alocada é automaticamente liberada quando a função retorna? Qual é a
+função responsável por liberar essa memória e quais seriam as consequências de
+não realizar essa operação?
+
+6. Região STACK — Pilha de execução
+
+Questão 6.1
+
+Identifique pelo menos três variáveis locais automáticas declaradas nas funções
+do seu programa.
+
+Explique como essas variáveis se relacionam com os registros de ativação (stack
+frames) criados durante a execução das funções.
+
+Considere uma chamada de main() para registrar_temperaturas(). Descreva como a
+pilha de execução pode ser utilizada para armazenar informações necessárias à
+chamada e ao retorno da função.
+
+Questão 6.2
+
+Considere a seguinte implementação hipotética de uma função para registrar
+temperaturas:
+
+double *registrar_temperaturas(size_t n)
+{
+    double temperaturas[1000];
+
+    /* Leitura e armazenamento das temperaturas */
+
+    return temperaturas;
+}
+
+Explique por que essa implementação apresenta um problema relacionado ao tempo
+de vida dos objetos e à organização da memória.
+
+Compare essa implementação com a estratégia utilizada em seu programa, que
+emprega malloc().
+
+Em sua resposta, explique por que retornar o endereço de um objeto local
+automático é diferente de retornar um ponteiro para uma região alocada
+dinamicamente.
+
+7. Variáveis STATIC
+
+Questão 7.1 — Escopo e duração de armazenamento
+
+Considere a variável total_analises, declarada em sua implementação da função
+analisar_temperaturas().
+
+Explique por que essa variável preserva seu valor entre diferentes chamadas da
+função, mesmo sendo uma variável local.
+
+Em sua resposta, diferencie os conceitos de:
+
+    Escopo de uma variável.
+
+    Duração de armazenamento de um objeto.
+
+    Localização do objeto na memória.
+
+Explique também o que aconteceria com o comportamento do programa se o
+especificador static fosse removido dessa declaração.
+
+Questão 7.2 — Comparação entre variáveis locais automáticas e estáticas
+
+Considere as seguintes declarações hipotéticas, realizadas no interior da função
+analisar_temperaturas():
+
+int contador_a = 0;
+static int contador_b = 0;
+
+Suponha que a função seja executada cinco vezes e que, em cada execução, ambos
+os contadores sejam incrementados uma única vez.
+
+Responda:
+
+a) Quais serão os valores de contador_a e contador_b ao final da quinta execução
+da função?
+
+b) Explique por que os dois contadores apresentam comportamentos diferentes,
+mesmo sendo declarados no interior da mesma função e inicializados com o mesmo
+valor.
+
+c) Em quais regiões de memória esses objetos normalmente seriam armazenados em
+um programa compilado para Linux?
+
+d) O que aconteceria se outra função tentasse acessar diretamente qualquer um
+desses contadores pelo nome? Justifique.
+
