@@ -12,7 +12,7 @@ last_modified_date: 2026-11-15 10:40 -0300
 
 # Roteiro de estudo
 
-**Estudo da 16ª Semana**<a id="re16sem"></a> (16/11 - 22/11)
+**Estudo da 17ª Semana**<a id="re17sem"></a> (16/11 - 22/11)
 {: .label .label-reading }
 
 Esta é nossa **última semana** de aula antes das provas AV2 e, portanto, você
