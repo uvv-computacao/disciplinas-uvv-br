@@ -7,7 +7,7 @@ nav_exclude: false
 nav_order: 20
 has_toc: false
 has_children: false
-last_modified_date: 2026-11-15 10:40 -0300
+last_modified_date: 2026-11-19 13:42 -0300
 ---
 
 # Roteiro de estudo
@@ -56,6 +56,16 @@ dúvidas e me procure nessa semana para esclarecer qualquer dúvida.
     consideradas "repetitivas". Se vocês quiserem priorizar a ordem de
     resolução, podem deixar as questões 6, 10, 13, 15, 17 e 18 como opcionais
     ou, no mínimo, para responder após as outras.
+    
+Para ajudar você a entender melhor os segmentos de memória e a como escolher o
+segmento específico para colocar uma variável, aqui está um pequeno programa de
+demonstração (em C23) que utiliza todos os segmentos de memória, criando
+variáveis globais e locais. Tenha certeza de que você **sabe exatamente o
+motivo** para cada variável estar no segmento indicado. Você pode apenas ler o
+PDF ou usar um compilador C23 para rodar o programa por conta própria:
+
+* [memoria.c.pdf](/assets/disciplinas/arqcomp1/20262/memoria.c.pdf)
+* [memoria.c](/assets/disciplinas/arqcomp1/20262/memoria.c)
     
 ---
 
